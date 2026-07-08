@@ -1,0 +1,80 @@
+[
+  {
+    "key": "28f06657de4d6c9c7df5ea38afc1c0292e12f3391f6a3a7722013bfba8d02498",
+    "original": "%houndman%, you've dealt with hounds before, right?",
+    "translation": "",
+    "context": "Text = \"%houndman%, you've dealt with hounds before, right?\""
+  },
+  {
+    "key": "5e48796aa2bb84cdcd601fc9e68a94938227e196bf28ae7ad080cb941ce11eda",
+    "original": "%terrainImage%{%houndman% steps forward.%SPEECH_ON%I know this breed. It is of northern stock, a sturdy creature. There is one thing it shall respect in a man and it is strength.%SPEECH_OFF%The sellsword crouches before the dog and without pause puts its hands around the scuff of its neck and starts to scratch. Despite the sudden movements, the dog responds positively and when the man stops scratching the dog lifts up off the ground and lopes forward and follows the man. %houndman% stares back at you as he roughs the dog up with some heavy petting.%SPEECH_ON%Yeah he'll fight for us. Fightin' is what he's made for. He just needed someone to watch him rip and tear.%SPEECH_OFF%What a lovely creature this is. And the dog is fine, too.}",
+    "translation": "",
+    "context": "Text = \"%terrainImage%{%houndman% steps forward.%SPEECH_ON%I know this breed. It is of northern stock, a sturdy creature. There is one thing it shall respect in a man and it is strength.%SPEECH_OFF%The sellsword crouches before the dog and without pause puts its hands around the scuff of its neck and starts to scratch. Despite the sudden movements, the dog responds positively and when the man stops scratching the dog lifts up off the ground and lopes forward and follows the man. %houndman% stares back at you as he roughs the dog up with some heavy petting.%SPEECH_ON%Yeah he'll fight for us. Fightin' is what he's made for. He just needed someone to watch him rip and tear.%SPEECH_OFF%What a lovely creature this is. And the dog is fine, too.}\""
+  },
+  {
+    "key": "4749b623db697ec84a8b50e0ba57400f3519b0138cad680ffb785338a0e4566c",
+    "original": "%terrainImage%{You come across a caldera the bottom of which you find a few sheep nuzzling something. As you draw close, you see that there is an enormous hound there, its fur matted with blood, its collar shredded, and its paws wiry where the claws have come apart. It regards you with a growl, but can't maintain it for long as it simply puts its head down with an exhausted huff. The sheep depart and beyond them you find a man leaning against a rock. His chest has been ripped open and whatever killed him did it with such force as to spray his innards all along the rocks. Following the trail, you do find a monstrous Nachzehrer whose throat has been ripped out. %randombrother% nods.%SPEECH_ON%I think that pup might be worth having in the company.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"%terrainImage%{You come across a caldera the bottom of which you find a few sheep nuzzling something. As you draw close, you see that there is an enormous hound there, its fur matted with blood, its collar shredded, and its paws wiry where the claws have come apart. It regards you with a growl, but can't maintain it for long as it simply puts its head down with an exhausted huff. The sheep depart and beyond them you find a man leaning against a rock. His chest has been ripped open and whatever killed him did it with such force as to spray his innards all along the rocks. Following the trail, you do find a monstrous Nachzehrer whose throat has been ripped out. %randombrother% nods.%SPEECH_ON%I think that pup might be worth having in the company.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "2c26ba9c89d7a81e134a32f96ff952f1976ae14ea7bc95da0989fcd01a2d1eee",
+    "original": "%terrainImage%{You move to take the hound, but as you crouch down one of the sheep bays and charges, knocking you over. The men laugh and by the time you get to your knees another sheep crushes you from behind to many cheers. Drawing out your sword emits a sharp twang that sends the sheep scurrying. When you look back at the hound its nose is to the dirt and its eyes peerless. It has died and the sheep slowly collect around it bleating and crying out. You sheathe your sword and tell the company to move on.}",
+    "translation": "",
+    "context": "Text = \"%terrainImage%{You move to take the hound, but as you crouch down one of the sheep bays and charges, knocking you over. The men laugh and by the time you get to your knees another sheep crushes you from behind to many cheers. Drawing out your sword emits a sharp twang that sends the sheep scurrying. When you look back at the hound its nose is to the dirt and its eyes peerless. It has died and the sheep slowly collect around it bleating and crying out. You sheathe your sword and tell the company to move on.}\""
+  },
+  {
+    "key": "8a6d01b0abaed434b1668c80caa1f1b60f21f226b9be3cf523c122deeb0c06f6",
+    "original": "%terrainImage%{You reach out to the hound and it lifts it head to you as though you were another threat. Its eyes peer blackly from a long-matted mane that still drips with blood. The sheep, having seen what carnage this beast has already wrought, bay nervously as they watch you. But you won't be deterred. You put your hand forth, palm supinated, and the weary dog slowly lowers into it. You nod.%SPEECH_ON%There's more fight in you yet, friend.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"%terrainImage%{You reach out to the hound and it lifts it head to you as though you were another threat. Its eyes peer blackly from a long-matted mane that still drips with blood. The sheep, having seen what carnage this beast has already wrought, bay nervously as they watch you. But you won't be deterred. You put your hand forth, palm supinated, and the weary dog slowly lowers into it. You nod.%SPEECH_ON%There's more fight in you yet, friend.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "a92900cf29456f49e1f17eb82a40f9d67302bb9f67af79e60a1923fbd8db37bd",
+    "original": "Brave little guy.",
+    "translation": "",
+    "context": "Text = \"Brave little guy.\""
+  },
+  {
+    "key": "716bc58ddc431e0b34a259e1cc2056b6c6f8b90172ca160dfea6707ea39c306e",
+    "original": "He'll fit right in with us.",
+    "translation": "",
+    "context": "Text = \"He'll fit right in with us.\""
+  },
+  {
+    "key": "0eb883d28b67ceb6eae3a742a86c7a0ae02399eceb575e97f70c02cc8a6dd374",
+    "original": "I'll call you 'Warrior'.",
+    "translation": "",
+    "context": "Text = \"I'll call you 'Warrior'.\""
+  },
+  {
+    "key": "630611368b7fd5be8312adc2bc04c34d48ab9762c1bd8cbd547831d5aa439573",
+    "original": "Just put it out of its misery.",
+    "translation": "",
+    "context": "Text = \"Just put it out of its misery.\""
+  },
+  {
+    "key": "f94925257f2c3466dce5497220b72d89a9e735b60db73f449b81744616a96109",
+    "original": "Lets call him 'Warrior' then.",
+    "translation": "",
+    "context": "Text = \"Lets call him 'Warrior' then.\""
+  },
+  {
+    "key": "8cd4db9cf6c79f21fc7b272c985765e77e48c322ee0bc71edb42830f295c2c13",
+    "original": "Warrior the Warhound",
+    "translation": "",
+    "context": "item.m.Name = \"Warrior the Warhound\""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + item.getName()"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "key": "5d761fd9b5a65cd65d7c9aae052355f8a5f3b941c9786b0badbdb4178b3948ed",
+    "original": "As you approach...",
+    "translation": "",
+    "context": "this.m.Title = \"As you approach...\""
+  },
+  {
+    "key": "282d3093a6434fd8ee0a81c94c6a6371c0d4b435f77f513250397b906f0cd271",
+    "original": "Fall back for now.",
+    "translation": "",
+    "context": "Text = \"Fall back for now.\""
+  },
+  {
+    "key": "470d9a8709f8d432b64686204ca76bcb7a8f168b479c3c8ba0b1f451b2a579f1",
+    "original": "Let's leave for now.",
+    "translation": "",
+    "context": "Text = \"Let's leave for now.\""
+  },
+  {
+    "key": "0094192d0c88f370712c0ad7d30d2f2efea181603510eaf446529e060a0e0d21",
+    "original": "Prepare the attack.",
+    "translation": "",
+    "context": "Text = \"Prepare the attack.\""
+  },
+  {
+    "key": "16a35fce11c36a0cc7feb962ff643cf6ff5369a1918d62eb7b42c34ec3744054",
+    "original": "We'll return after %goblinkillcount% goblin parties have been destroyed.",
+    "translation": "",
+    "context": "Text = \"We'll return after %goblinkillcount% goblin parties have been destroyed.\""
+  },
+  {
+    "key": "3ae90c52bb17ef2068079bd291d804082d88c25129c8904228b5ca546d6626a9",
+    "original": "We'll return after %goblinpostcount% outposts have been razed.",
+    "translation": "",
+    "context": "Text = \"We'll return after %goblinpostcount% outposts have been razed.\""
+  },
+  {
+    "key": "9f431eba8b8231c7c96a8261ef6f1a6c7e6062735484a7bf8e2898ef69b3e411",
+    "original": "We'll return after five outposts have been razed.",
+    "translation": "",
+    "context": "Text = \"We'll return after five outposts have been razed.\""
+  },
+  {
+    "key": "6294c3d9942b6db5320b4f1207903d2f91f4e3f2e94472dedb3a5f9d920f1e7b",
+    "original": "We'll slaughter their scouts and raiding parties.",
+    "translation": "",
+    "context": "Text = \"We'll slaughter their scouts and raiding parties.\""
+  },
+  {
+    "key": "cefc1bbcf4f9fae377bdd258f2fc9f3db61d10d27c9a90b9d431c7b209382f77",
+    "original": "We'll take on the forward posts.",
+    "translation": "",
+    "context": "Text = \"We'll take on the forward posts.\""
+  },
+  {
+    "key": "d2eacf816b204f0c9ef1c597fd7346909e8d51efcfd59ccfb7fa7418498f8e27",
+    "original": "What's the plan?",
+    "translation": "",
+    "context": "Text = \"What's the plan?\""
+  },
+  {
+    "key": "bf331c2b6c69f5012bce937bc00bfced7c6ce239d4a3f4e6640a56b95c8218d3",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{%randombrother% shakes his head.%SPEECH_ON%May the old gods have mercy upon us for allowing such a sight.%SPEECH_OFF%The goblin city is sequestered between opposing mountains. Saying the goblins built their city around the mountains is like saying a soldier sheathed his sword in his enemy's chest. The gibbering greenskins didn't add to the terrain, they desecrated the place whole, putting mines where trees used to be, constructing a maze of rusted shanties and lean-tos, raising cultish totems and digging primitive sacrificial pits, piling unused timber as though the mutilation of the mountain was not truly finished without blatant waste.\n\n But beyond the goblin rubbish does stand a central core of the city, a number of towers unambiguously set apart from the riffraff. These are clearly ancient requisitions, the stonework being unlike anything you've ever seen and surely beyond the greenskin's scope of construct. The goblins walking amongst the walls are upright and boastful as though invigorated by being allowed to stride such hallowed grounds. Nestled inside the fortress seem to be of some sort of higher nobility, well dressed goblins with servants mucking about, which means the same thing it does when it comes to humans: there's good loot to be had.\n\n A rare sight are the little ones running about. Families, if that's what the greenskins truly have, will mean that a fight here will be a vicious one. The little maggots will have more to protect than just their savageness and greed, and that which must extend itself beyond its own vices is also that which has been weakened.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{%randombrother% shakes his head.%SPEECH_ON%May the old gods have mercy upon us for allowing such a sight.%SPEECH_OFF%The goblin city is sequestered between opposing mountains. Saying the goblins built their city around the mountains is like saying a soldier sheathed his sword in his enemy's chest. The gibbering greenskins didn't add to the terrain, they desecrated the place whole, putting mines where trees used to be, constructing a maze of rusted shanties and lean-tos, raising cultish totems and digging primitive sacrificial pits, piling unused timber as though the mutilation of the mountain was not truly finished without blatant waste.\\n\\n But beyond the goblin rubbish does stand a central core of the city, a number of towers unambiguously set apart from the riffraff. These are clearly ancient requisitions, the stonework being unlike anything you've ever seen and surely beyond the greenskin's scope of construct. The goblins walking amongst the walls are upright and boastful as though invigorated by being allowed to stride such hallowed grounds. Nestled inside the fortress seem to be of some sort of higher nobility, well dressed goblins with servants mucking about, which means the same thing it does when it comes to humans: there's good loot to be had.\\n\\n A rare sight are the little ones running about. Families, if that's what the greenskins truly have, will mean that a fight here will be a vicious one. The little maggots will have more to protect than just their savageness and greed, and that which must extend itself beyond its own vices is also that which has been weakened.}\""
+  },
+  {
+    "key": "a667e7bcb0e594e8cf7849a62f38065585ace43e935e77b2594e060332489c85",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{After observing the city for a time, you know that you can't simply assault it head on. There are far too many to take on and with the numbers already on their side it is even likely the families of the goblins will partake in your slaughter, and you will have only enshrined the city whole with further experience in slaughtering humans. So you wait. And think. And then the man approaches.\n\n He's bound in light armor with a leafy hood used to camouflage the metal beneath and a multitude of swords clank from his hip and a spear yokes across his back one way and an axe the other and bandolier of potions chime as he comes to a halt. You can't see his face, much less his eyes, and he's dripping with the blood of recent action.%SPEECH_ON%Despite their cruelties and cruel appearance, the goblins are in a way a civilized group. They will respond to violence that is at its base nothing more than senseless savagery. If you wish to draw them out, then you must do as the orcs do. My plan was to slaughter as many as I could find in the fields, raiding parties, scouts, the like, but it is just as well that their encampments are destroyed in great number. Together, the carnage will be a pincer upon their fears, for they fear reckless orcs more than anything and will seek to preemptively snuff them out.%SPEECH_OFF%The man nods as though you've already agreed to something.%SPEECH_ON%So choose, traveler, the manner in which you wish to have this city laid flat. Slaughter their raiding parties and scouts, or burn their forward posts? Whatever you do, I'll do the other, alone, and we shall meet here when the summary of our actions is obvious.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{After observing the city for a time, you know that you can't simply assault it head on. There are far too many to take on and with the numbers already on their side it is even likely the families of the goblins will partake in your slaughter, and you will have only enshrined the city whole with further experience in slaughtering humans. So you wait. And think. And then the man approaches.\\n\\n He's bound in light armor with a leafy hood used to camouflage the metal beneath and a multitude of swords clank from his hip and a spear yokes across his back one way and an axe the other and bandolier of potions chime as he comes to a halt. You can't see his face, much less his eyes, and he's dripping with the blood of recent action.%SPEECH_ON%Despite their cruelties and cruel appearance, the goblins are in a way a civilized group. They will respond to violence that is at its base nothing more than senseless savagery. If you wish to draw them out, then you must do as the orcs do. My plan was to slaughter as many as I could find in the fields, raiding parties, scouts, the like, but it is just as well that their encampments are destroyed in great number. Together, the carnage will be a pincer upon their fears, for they fear reckless orcs more than anything and will seek to preemptively snuff them out.%SPEECH_OFF%The man nods as though you've already agreed to something.%SPEECH_ON%So choose, traveler, the manner in which you wish to have this city laid flat. Slaughter their raiding parties and scouts, or burn their forward posts? Whatever you do, I'll do the other, alone, and we shall meet here when the summary of our actions is obvious.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "f9e29c6fd8c81f36682295765f059a6bad259d84bb8e7f3bf91379715c8b265f",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{The goblin city remains guarded by a horde of the little greenskins. You recall that the %companyname% will have to destroy a couple more of their encampments and forward posts to draw the army away from the city.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{The goblin city remains guarded by a horde of the little greenskins. You recall that the %companyname% will have to destroy a couple more of their encampments and forward posts to draw the army away from the city.}\""
+  },
+  {
+    "key": "a373b56a723e39306abf0826a2a35a5180d421ba0edf9bc967e9ad91225e8bc5",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{The goblin city remains guarded by a horde of the little greenskins. You recall that the %companyname% will have to destroy a couple more of their patrols and scouts to draw the army away from the city.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{The goblin city remains guarded by a horde of the little greenskins. You recall that the %companyname% will have to destroy a couple more of their patrols and scouts to draw the army away from the city.}\""
+  },
+  {
+    "key": "9dd9a5b5d4bc500873d9a15bc44806ba49dc8f5396c6209a6d582efac644cda8",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{You return to the city, but the stranger you met earlier is nowhere to be seen. However, what is seen is an enormous contingent of goblin forces marching out of their city. They're in lockstep and chittering loudly. Their leaders sit atop saddled wolves with their war banners tilting side to side as though it were a fleet set to sea. Goblin families stand perched at the gates. They're throwing handfuls of bones upon the marchers, and sometimes you see a dog or human limb get tossed down and whichever goblin catches it holds it up like a trophy and the surrounding troop cheers. It takes a full hour for the army to pass at which time the goblins at the gates recede back into the city and a few guards mill about.\n\nThere's still plenty yet to put up a good fight, but not enough to handle the %companyname%.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{You return to the city, but the stranger you met earlier is nowhere to be seen. However, what is seen is an enormous contingent of goblin forces marching out of their city. They're in lockstep and chittering loudly. Their leaders sit atop saddled wolves with their war banners tilting side to side as though it were a fleet set to sea. Goblin families stand perched at the gates. They're throwing handfuls of bones upon the marchers, and sometimes you see a dog or human limb get tossed down and whichever goblin catches it holds it up like a trophy and the surrounding troop cheers. It takes a full hour for the army to pass at which time the goblins at the gates recede back into the city and a few guards mill about.\\n\\nThere's still plenty yet to put up a good fight, but not enough to handle the %companyname%.}\""
+  },
+  {
+    "key": "48c7438814e75f67b40358e063b69a71fd08265532e066b3b76826ca1418d3f5",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{You tell him that the %companyname% will slaughter the goblins in the fields. The man nods.%SPEECH_ON%Ah, traveler, that is a good choice. The disappearances of these parties will put a strain upon the greenskins' beliefs. They're natural scouts and raiders, so when those in that ilk go missing it unnerves them to the core. The forward posts will retreat and spread rumors to this city and out shall come an expeditionary force. While you take them in the fields, I shall see to it that many of the encampments are destroyed. By my own experience, you need to destroy somewhere around %goblinkillcount% parties of them and that shall be sufficient.%SPEECH_OFF%He heads off, but you call out asking who he is, or if perhaps it would be a better idea to join together. He ignores you completely and walks away.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{You tell him that the %companyname% will slaughter the goblins in the fields. The man nods.%SPEECH_ON%Ah, traveler, that is a good choice. The disappearances of these parties will put a strain upon the greenskins' beliefs. They're natural scouts and raiders, so when those in that ilk go missing it unnerves them to the core. The forward posts will retreat and spread rumors to this city and out shall come an expeditionary force. While you take them in the fields, I shall see to it that many of the encampments are destroyed. By my own experience, you need to destroy somewhere around %goblinkillcount% parties of them and that shall be sufficient.%SPEECH_OFF%He heads off, but you call out asking who he is, or if perhaps it would be a better idea to join together. He ignores you completely and walks away.}\""
+  },
+  {
+    "key": "95bf5bceb64ef0a8a1aa8505f1e8c87e132afd59855ad0c9f313121101ef8021",
+    "original": "[img]gfx/ui/events/event_119.png[/img]{You tell the stranger that the %companyname% will pursue the destruction of the encampments. He nods.%SPEECH_ON%Excellent, traveler, excellent! The goblins send raiding parties frequently and when they come home to ashes they will return here, spread word of destruction, and be lead out. Very well. We have a plan and by my own experiences you need only march down around %goblinpostcount% encampments. You take their posts, I will take their parties.%SPEECH_OFF%He heads off, but you call out asking who he is, or if perhaps it would be a better idea to join together. He ignores you completely and walks away.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_119.png[/img]{You tell the stranger that the %companyname% will pursue the destruction of the encampments. He nods.%SPEECH_ON%Excellent, traveler, excellent! The goblins send raiding parties frequently and when they come home to ashes they will return here, spread word of destruction, and be lead out. Very well. We have a plan and by my own experiences you need only march down around %goblinpostcount% encampments. You take their posts, I will take their parties.%SPEECH_OFF%He heads off, but you call out asking who he is, or if perhaps it would be a better idea to join together. He ignores you completely and walks away.}\""
+  },
+  {
+    "key": "222b0bd51fcef7e65c2e62db2ed65457013bab56be6fafeb19ee11d453153c80",
+    "original": "five",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "e4432baa90819aaef51d2a7f8e148bf7e679610f3173752fabb4dcb2d0f418d3",
+    "original": "ten",
+    "translation": "",
+    "context": ""
+  }
+]

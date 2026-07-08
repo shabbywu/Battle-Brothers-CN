@@ -1,0 +1,86 @@
+[
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "e82754750a64e39ddcd4a52436f9b309de89de8a308ab42b48761e2c237e7006",
+    "original": "Approved of your decision to end the suffering of fellow Gilded",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b97fb99d6570b4b4529e77f5e91ea0463f39d35d92533a6c51de1833a1aaeacf",
+    "original": "Approved of your decision to leave southern invaders to die",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8edd5c515545d70d3de8fca982fb24fc41a44e44dd3943dfe795282adc5ca38f",
+    "original": "Better they don't suffer any longer.",
+    "translation": "",
+    "context": "Text = \"Better they don't suffer any longer.\""
+  },
+  {
+    "key": "4b772e452e0c8b01796ab9beb2a48203d3b914fac7b9442bfd786eb97b9b1a84",
+    "original": "Disliked that you ended the suffering of southern invaders",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "0a1f416b1df7d26f95463c6c126ca276136d56c5f43f69fc5d23b459dfc7c4f6",
+    "original": "Disliked that you left fellow Gilded to suffer a slow death",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2303b56466fffed8644f0f6c983de7c5e161a8596ff513db71705588ac2f4290",
+    "original": "Let us end them with dignity",
+    "translation": "",
+    "context": "Text = \"Let us end them with dignity\""
+  },
+  {
+    "key": "13e244eb98dd96895251648f5ec70fd92837b4570245a67abe52a651501ac07d",
+    "original": "May the flies feast upon your decrepit flesh.",
+    "translation": "",
+    "context": "Text = \"May the flies feast upon your decrepit flesh.\""
+  },
+  {
+    "key": "6ed1f24ee982d28a08e2dd33a8f15581faa712127710f8c51771fb364f477346",
+    "original": "They have no place invading the north.",
+    "translation": "",
+    "context": "Text = \"They have no place invading the north.\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + amount + \"[/color] Tools and Supplies.\""
+  },
+  {
+    "key": "4f6fdae815a1a55f343cb81c44a49a2f58d24813d9ddd4b53248ae1d052807b8",
+    "original": "[/color] Tools and Supplies.",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + amount + \"[/color] Tools and Supplies.\""
+  },
+  {
+    "key": "5d185d4bee252c0d1c5aac94b6506f71a80bd1247a964d2cad459e4497101d8a",
+    "original": "[img]gfx/ui/events/event_71.png[/img]{Some of the southerners' gear has been taken off and placed about the room. You have the sellswords take these and scrub them clean. Going to the front door, you light a torch and tell them the Gilder shall be seeing them in his true self real soon. The soldiers beg for mercy, a writhing mass of silhouettes crawling toward you, groaning in weakness and fear. You close the door and set the rooftop alight before pitching the torch through a window.\n\nYou've taught your men well to not take it personal on these sorts of decisions, but you suspect some in the %companyname% might not care for this one.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_71.png[/img]{Some of the southerners' gear has been taken off and placed about the room. You have the sellswords take these and scrub them clean. Going to the front door, you light a torch and tell them the Gilder shall be seeing them in his true self real soon. The soldiers beg for mercy, a writhing mass of silhouettes crawling toward you, groaning in weakness and fear. You close the door and set the rooftop alight before pitching the torch through a window.\\n\\nYou've taught your men well to not take it personal on these sorts of decisions, but you suspect some in the %companyname% might not care for this one.}\""
+  },
+  {
+    "key": "cad4a5ebc16dbd61c9b2c6d3d57087c2831372f7a692cdfc867578b45725c446",
+    "original": "[img]gfx/ui/events/event_71.png[/img]{The southerners are killed with dignity, or at least as much dignity a sword can afford. Of course, you kill them at length, not daring to lay a hand on their diseased bodies. After each is laid to rest, you take a look around the homestead. To your luck, and probably because the material was rubbing their skins raw, the sickly had lain some equipment off to the side. You have the brothers scrub it clean and take it with you onto the road. While leaving, there's some grousing about how maybe these men deserved worse, but others are quite fine with the mercy killings.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_71.png[/img]{The southerners are killed with dignity, or at least as much dignity a sword can afford. Of course, you kill them at length, not daring to lay a hand on their diseased bodies. After each is laid to rest, you take a look around the homestead. To your luck, and probably because the material was rubbing their skins raw, the sickly had lain some equipment off to the side. You have the brothers scrub it clean and take it with you onto the road. While leaving, there's some grousing about how maybe these men deserved worse, but others are quite fine with the mercy killings.}\""
+  },
+  {
+    "key": "6b21385b602612d4f9dad0c0bd4016cbb2d792d512db5407d1e0965b30094b4f",
+    "original": "[img]gfx/ui/events/event_71.png[/img]{You come across a homestead and think to pass it but all of a sudden the door swings open and a man falls out, legs scissoring across the porch until he falls flat in the front yard. Drawing your sword, you investigate him. Turning him over reveals a green and purple face, a mouth caked with vomit and dried blood, and hair falling out of his head. You leave the body and enter the homestead where you find more men like him. They're all southerners and seem to have come down with some northern illness that they are perhaps uninitiated to. Judging by the slovenly state of their equipment, they've been holed up here for quite some time.\n\n One of the southerners reaches out to you with a decrepit hand.%SPEECH_ON%Please, send us to the Gilder. The light of this world is no more.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_71.png[/img]{You come across a homestead and think to pass it but all of a sudden the door swings open and a man falls out, legs scissoring across the porch until he falls flat in the front yard. Drawing your sword, you investigate him. Turning him over reveals a green and purple face, a mouth caked with vomit and dried blood, and hair falling out of his head. You leave the body and enter the homestead where you find more men like him. They're all southerners and seem to have come down with some northern illness that they are perhaps uninitiated to. Judging by the slovenly state of their equipment, they've been holed up here for quite some time.\\n\\n One of the southerners reaches out to you with a decrepit hand.%SPEECH_ON%Please, send us to the Gilder. The light of this world is no more.%SPEECH_OFF%}\""
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "key": "2ff805b7158eaef90390043c9d657f0abd10f21f22c5de1a431084f5da9093a2",
+    "original": " Company",
+    "translation": "",
+    "context": "this.Contract.getHome().getName() + \" Company\""
+  },
+  {
+    "key": "2335958e82039e73b8eef19919dd1fad3da285aaf9e86013eb4d08fcd08fca71",
+    "original": "%objective% has fallen.",
+    "translation": "",
+    "context": "Text = \"%objective% has fallen.\""
+  },
+  {
+    "key": "49e69c1be5556cdad6212512272bb3d022acc2707c7bd1a54fc921be938e1260",
+    "original": "%objective% is saved.",
+    "translation": "",
+    "context": "Text = \"%objective% is saved.\""
+  },
+  {
+    "key": "2f320c4b72ddb70733b10a8df61c2bc885a0f7acb97a7829fd48c38305775efe",
+    "original": "A horde of greenskins and their siege engines.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f6dba0eb6b1e22a3624b5a3435dcc8896012c2dfcc3f2cbfa170784263fac2e1",
+    "original": "A horde of greenskins marching to war.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "09a363b50173e4453bea5208c00b83a1a7fffc1150bf767c845d128f0907fdb0",
+    "original": "After the battle...",
+    "translation": "",
+    "context": "Title = \"After the battle...\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "Title = \"Along the way...\""
+  },
+  {
+    "key": "ff23dfe1f3b541379052ed55092aad4e44e86d344888d17dcd78cf653dcf8887",
+    "original": "Around %objective%",
+    "translation": "",
+    "context": "Title = \"Around %objective%\""
+  },
+  {
+    "key": "5d761fd9b5a65cd65d7c9aae052355f8a5f3b941c9786b0badbdb4178b3948ed",
+    "original": "As you approach...",
+    "translation": "",
+    "context": "Title = \"As you approach...\""
+  },
+  {
+    "key": "684c6e7aea36be8c727ef981537a008fcff58f4e3fbbd41a74ef0ab46ca5f362",
+    "original": "At %townname%...",
+    "translation": "",
+    "context": "Title = \"At %townname%...\""
+  },
+  {
+    "key": "901848af1b8b4e775ba0970dfee22f7ae7a1763197bf3a3b754ffc4fff7ac565",
+    "original": "Break Siege",
+    "translation": "",
+    "context": "this.m.Name = \"Break Siege\""
+  },
+  {
+    "key": "d27ffe0cc9f98033d66ebfe51d1285814662e65bb7b7e0f9982c2b64a7336c94",
+    "original": "Break the greenskin siege",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8a0b4b8b8e44a80fcf528189e83ed314a34b57b595438c5eed61f49357dafd94",
+    "original": "Broke siege of ",
+    "translation": "",
+    "context": "\"Broke siege of \" + this.Flags.get(\"ObjectiveName\")"
+  },
+  {
+    "key": "3e70c79a5e83d989cc607cdd912d15f424498b3c5db4c5839401570f48022f07",
+    "original": "Company broke a contract",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df860e9d9ce1ef9823f909cc82ef0d45b10ca88ee3de50730bf12b8f1a8abc38",
+    "original": "Destroy any greenskin siege engines",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7525f3a6b0d2db8a7ea5459d0b1142fc248520e0397ea358fcd7bb7a1da0303b",
+    "original": "Destroy any greenskins around %objective%",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "98c96d9c8a3b6838bb42eea9eb62252d71920cb32e6f17cc1f60154f7b5cccd0",
+    "original": "Engage!",
+    "translation": "",
+    "context": "Text = \"Engage!\""
+  },
+  {
+    "key": "191b4c4390e46d4c3ba7a66531011803180ee41a8f50d8b332459a756a2e8a3d",
+    "original": "Failed to break the siege of ",
+    "translation": "",
+    "context": "\"Failed to break the siege of \" + this.Flags.get(\"ObjectiveName\")"
+  },
+  {
+    "key": "94ff23c072e7969f54a961496a8ff8814a7eb752d453382170ee63ebe4f784c8",
+    "original": "Greenskin Horde",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "655868b38aa1b0b216eb333ad4adaee8cac90d7c37c4b7af345149286652c688",
+    "original": "Make ready for battle!",
+    "translation": "",
+    "context": "Text = \"Make ready for battle!\""
+  },
+  {
+    "key": "5788f8eb9482c0de487c7ebaf047380df7b8af5b09c9eff939341af80c4eb7ef",
+    "original": "Near %objective%...",
+    "translation": "",
+    "context": "Title = \"Near %objective%...\""
+  },
+  {
+    "key": "e118b8b104814007c28f11cc75cf462591337e4686c50908a368b947d3fc29b0",
+    "original": "Negotiations",
+    "translation": "",
+    "context": "Title = \"Negotiations\""
+  },
+  {
+    "key": "45d3fca82dd9a08d6b3b4aa66c26b3e9b2b3a554cd29371330fbde70cfec2cef",
+    "original": "Off we go!",
+    "translation": "",
+    "context": "Text = \"Off we go!\""
+  },
+  {
+    "key": "1d522c1890fe9ed8d3774b7a34d7816ebe4ae08d9f56b28a59320a9f7562dbac",
+    "original": "On your return...",
+    "translation": "",
+    "context": "Title = \"On your return...\""
+  },
+  {
+    "key": "fd42b8a0256129ec3df173a9c577015547580f1c524d90a9d29ebb07bc779b05",
+    "original": "Professional soldiers in service to local lords.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "353f0e89403fe7497bd325b52b09dcff03cfd78d78704b4ae195ff9ee5b3a6f1",
+    "original": "Return to ",
+    "translation": "",
+    "context": "\"Return to \" + this.Contract.m.Home.getName()"
+  },
+  {
+    "key": "3a9658155b064a976d97ddded98bafb2e25d74f8a96d409a084596a8c2b7cdbe",
+    "original": "Siege Engines",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "74e60c4d5db7bd6fa998e304d75a04a934696821a877a62fe8c2f06e50a15ec2",
+    "original": "Travel to %objective%",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d32cecd931e0b8acbdc9d8ccc72eccfdb9363121481fa2a346785afa2137c5bb",
+    "original": "Victory!",
+    "translation": "",
+    "context": "Text = \"Victory!\""
+  },
+  {
+    "key": "e006d2605be420db70e204bbb6e348964695bf4dbb6fe8eb8691aec119e31475",
+    "original": "We must go on.",
+    "translation": "",
+    "context": "Text = \"We must go on.\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "adb5c5e5a361fba689b2472b46e9626da26d6b34bcc0158063bae54b96a80f52",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{You return to %employer% with a few of his lieutenants behind you. They report the news and your employer quickly nods and hands you a large satchel of crowns. His lieutenants give you a few jealous stares as you make your leave. | The siege was broken and you report as much to %employer%. He nods and gives you a satchel of crowns.%SPEECH_ON%They'll speak of you. Those not yet born, I mean.%SPEECH_OFF% | You give %employer% the news of the broken siege. He stands up and shakes your hands.%SPEECH_ON%By the old gods your service here today shan't ever be forgotten!%SPEECH_OFF%But in your head you wonder if that exact line has been said to a man who, now, is just bone and dust. You take the reward anyway, leaving heritage and history to the philosophers. | %employer% readily welcomes your return, quickly springing to his feet and almost tripping over one of his dogs.%SPEECH_ON%Mercenary, I've already heard the great news! The siege has been lifted and so you have earned a mighty reward indeed!%SPEECH_OFF%He heaves a heavy chest onto his desk. You take it, counting the crowns, then make your leave. | %employer%'s sitting behind his desk when you enter.%SPEECH_ON%Come on in, 'hero.' What shall they inscribe next to your name?%SPEECH_OFF%You ask what it is he is going on about.%SPEECH_ON%Sellsword, please. Don't be so modest, what you accomplished is worthy of being carried on the tongues of those not even born yet!%SPEECH_OFF%You nod.%SPEECH_ON%Yeah, sure. That's great and all. Where's my money?%SPEECH_OFF%Your employer's lips purse. He nods in return and hands the satchel over.%SPEECH_ON%A man of many tasks, I'm sure. This one is nothing to you, but it means a lot to us!%SPEECH_OFF% | %employer%'s looking down at his feet when you enter. There is someone under his desk and he makes no attempts to hide his mistress.%SPEECH_ON%Welcome back, sellsword! Your pay is in the corner. That corner, over there. Don't try and take a gander.%SPEECH_OFF%You get your reward and head for the door. %employer% calls out to you, a thumb firmly planted in the air.%SPEECH_ON%Good job, by the way.%SPEECH_OFF%You nod and leave. | You enter %employer%'s room with a few of his lieutenants right behind you. The man stands up at the sight of your lot, but quickly waves for his soldiers to get on out. They obey and sluggishly depart. You shake your head.%SPEECH_ON%They fought, too.%SPEECH_OFF%%employer% waves you off.%SPEECH_ON%Sure they did, and they're already on salary. You, however, are on contract and that contract has been fulfilled. By the way, it is probably for the best that those men do not see what I pay you anyway.%SPEECH_OFF%You take your reward. It is definitely a jealousy spurring amount and you hide it as you walk the halls on your way out.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]{You return to %employer% with a few of his lieutenants behind you. They report the news and your employer quickly nods and hands you a large satchel of crowns. His lieutenants give you a few jealous stares as you make your leave. | The siege was broken and you report as much to %employer%. He nods and gives you a satchel of crowns.%SPEECH_ON%They'll speak of you. Those not yet born, I mean.%SPEECH_OFF% | You give %employer% the news of the broken siege. He stands up and shakes your hands.%SPEECH_ON%By the old gods your service here today shan't ever be forgotten!%SPEECH_OFF%But in your head you wonder if that exact line has been said to a man who, now, is just bone and dust. You take the reward anyway, leaving heritage and history to the philosophers. | %employer% readily welcomes your return, quickly springing to his feet and almost tripping over one of his dogs.%SPEECH_ON%Mercenary, I've already heard the great news! The siege has been lifted and so you have earned a mighty reward indeed!%SPEECH_OFF%He heaves a heavy chest onto his desk. You take it, counting the crowns, then make your leave. | %employer%'s sitting behind his desk when you enter.%SPEECH_ON%Come on in, 'hero.' What shall they inscribe next to your name?%SPEECH_OFF%You ask what it is he is going on about.%SPEECH_ON%Sellsword, please. Don't be so modest, what you accomplished is worthy of being carried on the tongues of those not even born yet!%SPEECH_OFF%You nod.%SPEECH_ON%Yeah, sure. That's great and all. Where's my money?%SPEECH_OFF%Your employer's lips purse. He nods in return and hands the satchel over.%SPEECH_ON%A man of many tasks, I'm sure. This one is nothing to you, but it means a lot to us!%SPEECH_OFF% | %employer%'s looking down at his feet when you enter. There is someone under his desk and he makes no attempts to hide his mistress.%SPEECH_ON%Welcome back, sellsword! Your pay is in the corner. That corner, over there. Don't try and take a gander.%SPEECH_OFF%You get your reward and head for the door. %employer% calls out to you, a thumb firmly planted in the air.%SPEECH_ON%Good job, by the way.%SPEECH_OFF%You nod and leave. | You enter %employer%'s room with a few of his lieutenants right behind you. The man stands up at the sight of your lot, but quickly waves for his soldiers to get on out. They obey and sluggishly depart. You shake your head.%SPEECH_ON%They fought, too.%SPEECH_OFF%%employer% waves you off.%SPEECH_ON%Sure they did, and they're already on salary. You, however, are on contract and that contract has been fulfilled. By the way, it is probably for the best that those men do not see what I pay you anyway.%SPEECH_OFF%You take your reward. It is definitely a jealousy spurring amount and you hide it as you walk the halls on your way out.}\""
+  },
+  {
+    "key": "f757880ac47339afabad6032717a31c7003382bfdcd5cc2366e664d54c34d4f0",
+    "original": "[img]gfx/ui/events/event_22.png[/img]All the noble soldiers have died en route to the siege. Better them than you. The %companyname% presses on towards %objective%.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]All the noble soldiers have died en route to the siege. Better them than you. The %companyname% presses on towards %objective%.\""
+  },
+  {
+    "key": "0e7220ccc4bbdbfcbc97a9e219668bda6bf61a2a6d490b1072cff28eef97042e",
+    "original": "[img]gfx/ui/events/event_22.png[/img]{The battle's over, the greenskins routed from the field. %objective% is saved and %employer% will be most pleased. You step over the mounds of corpses, man and beast alike, collecting your men for the march back. | Bodies litter the field, clouds of flies already starting to gather and busy themselves. You gather your men and prepare a return to %employer% for your pay. | %objective% is saved! Well, what's left of it. Soldiers and greenskins, dead and dying, litter the ground as far as the eye wants to see. It's a cruel sight, so freshly produced. You order the %companyname% to prepare to return to %employer% for your pay. | Mounds of corpses stacked two, three, sometimes even four bodies high. Survivors are found buried beneath these dead, six-feet under despite being above ground. It is a horrific sight, and an even worse display of sound as the wounded and dying call out for help. Spotting them in the sea of body parts is like trying to find a sailor bobbing atop a dark ocean. You turn away from the scene and gather the men of the %companyname%. %employer% should be happily awaiting your return. | The battle won and over, you watch as pike-armed men carefully traipse the field. They use the weapon-given distance to safely dispatch any wounded greenskins still lying about. The rest of the noble soldiers sink to the ground, drinking water and washing the blood from their faces. You've no time for such rest and quickly gather your sellswords to return to %employer%. | Blood muddies the earth and your boots sink deep into the muck. Corpses lay about, bodies rendered unfamiliar, body parts detached and spread far from their owners. Decapitated heads here and there, eyes frozen in shock. Broken arrows, splintered spears, deserted swords. Parts of shattered armor crinkling underfoot. It was one hell of a battle and it has certainly left its mark for all to come and see.\n\n With %objective% saved, you slowly gather the %companyname% to return to %employer% for its big payday. | The battle over, the noble soldiers spare no time in decapitating every greenskin they can find. They stab the heads onto pikes and raise them high, mirroring the barbarity of the savages they'd just dispatched. You've no time for such theatrics. %objective% is saved and that is what you will be paid for. The %companyname% quickly gathers for a return trip to %employer%. | The battle over, you carefully step across the field. Each corpse tells a story of how it came to be. Some stabbed in the back, others without heads, their stories somewhere else, others yet have been gutted and are found clutching their innards with shocked expressions of having been witness to things not meant to be seen. Nothing new, all the same, just a different place. What matters most is that %objective% is still standing. You gather the %companyname% to return to %employer% and receive your pay. | %randombrother% comes to your side. He's holding the head of a greenskin, but quickly tosses it away as if whatever novelty there was to it had just faded. He puts his hands to his hips and nods at the battlefield.%SPEECH_ON%Well, that's something.%SPEECH_OFF%Corpses, sometimes stacked three or four high, litter the ground. Limbs twisting, faces strained, blood heard leaking. Men march through it, their legs retching great sprays of pooled blood as though they were marching through a creekbed. %objective%, burning it may be, still stands in the distance and that's all that matters to you. The %companyname% should now return to %employer% for its pay. | The siege has been lifted, though the greenskins did not give it up willingly. Dead men and beasts litter the land as far as you can see and no doubt accurately fulfill any imagination beyond. %randombrother% comes to your side. He lifts a strap of green flesh off his shoulder and whips it away like a wet rag.%SPEECH_ON%Hell of a fight, sir.%SPEECH_OFF%You nod and order him to prepare the men. %employer% should be most happy to hear that %objective% has been saved.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{The battle's over, the greenskins routed from the field. %objective% is saved and %employer% will be most pleased. You step over the mounds of corpses, man and beast alike, collecting your men for the march back. | Bodies litter the field, clouds of flies already starting to gather and busy themselves. You gather your men and prepare a return to %employer% for your pay. | %objective% is saved! Well, what's left of it. Soldiers and greenskins, dead and dying, litter the ground as far as the eye wants to see. It's a cruel sight, so freshly produced. You order the %companyname% to prepare to return to %employer% for your pay. | Mounds of corpses stacked two, three, sometimes even four bodies high. Survivors are found buried beneath these dead, six-feet under despite being above ground. It is a horrific sight, and an even worse display of sound as the wounded and dying call out for help. Spotting them in the sea of body parts is like trying to find a sailor bobbing atop a dark ocean. You turn away from the scene and gather the men of the %companyname%. %employer% should be happily awaiting your return. | The battle won and over, you watch as pike-armed men carefully traipse the field. They use the weapon-given distance to safely dispatch any wounded greenskins still lying about. The rest of the noble soldiers sink to the ground, drinking water and washing the blood from their faces. You've no time for such rest and quickly gather your sellswords to return to %employer%. | Blood muddies the earth and your boots sink deep into the muck. Corpses lay about, bodies rendered unfamiliar, body parts detached and spread far from their owners. Decapitated heads here and there, eyes frozen in shock. Broken arrows, splintered spears, deserted swords. Parts of shattered armor crinkling underfoot. It was one hell of a battle and it has certainly left its mark for all to come and see.\\n\\n With %objective% saved, you slowly gather the %companyname% to return to %employer% for its big payday. | The battle over, the noble soldiers spare no time in decapitating every greenskin they can find. They stab the heads onto pikes and raise them high, mirroring the barbarity of the savages they'd just dispatched. You've no time for such theatrics. %objective% is saved and that is what you will be paid for. The %companyname% quickly gathers for a return trip to %employer%. | The battle over, you carefully step across the field. Each corpse tells a story of how it came to be. Some stabbed in the back, others without heads, their stories somewhere else, others yet have been gutted and are found clutching their innards with shocked expressions of having been witness to things not meant to be seen. Nothing new, all the same, just a different place. What matters most is that %objective% is still standing. You gather the %companyname% to return to %employer% and receive your pay. | %randombrother% comes to your side. He's holding the head of a greenskin, but quickly tosses it away as if whatever novelty there was to it had just faded. He puts his hands to his hips and nods at the battlefield.%SPEECH_ON%Well, that's something.%SPEECH_OFF%Corpses, sometimes stacked three or four high, litter the ground. Limbs twisting, faces strained, blood heard leaking. Men march through it, their legs retching great sprays of pooled blood as though they were marching through a creekbed. %objective%, burning it may be, still stands in the distance and that's all that matters to you. The %companyname% should now return to %employer% for its pay. | The siege has been lifted, though the greenskins did not give it up willingly. Dead men and beasts litter the land as far as you can see and no doubt accurately fulfill any imagination beyond. %randombrother% comes to your side. He lifts a strap of green flesh off his shoulder and whips it away like a wet rag.%SPEECH_ON%Hell of a fight, sir.%SPEECH_OFF%You nod and order him to prepare the men. %employer% should be most happy to hear that %objective% has been saved.}\""
+  },
+  {
+    "key": "68c16e35fe0f9fb8bb59eb26d759d5dcdb47f34734de016a06fab398cd946e0f",
+    "original": "[img]gfx/ui/events/event_45.png[/img]{%employer% hands you a goblet of wine.%SPEECH_ON%Drink up.%SPEECH_OFF%You can almost taste the bad news on his breath. Downing the drink in one go, you nod at the man. He nods back.%SPEECH_ON%The greenskins are swarming through the region and it looks like they plan to take %objective%.%SPEECH_OFF%He pours another drink, downs it, then pours another.%SPEECH_ON%If it falls, then I think we can assume the rest of the region will go with it. I don't know how learned you are about what happened ten years ago the last time these brutes came through, but not many around here want to see it happen again. Now, my spies tell me the siege has just started and the greenskins are not at full strength, meaning we can attack now and break it before things get out of control. If you're interested, which by the old gods I surely hope you are, then I need you to go there and break that siege!%SPEECH_OFF% | The guards are around %employer%. They've got their helmets off, their heads laden with sweat, and some are shaking in their armor. %employer%, seeing you through the crowd of despair, waves you forward.%SPEECH_ON%Sellsword! I have some... particularly horrible news. Perhaps you've already heard, but I'll lay it out quick as time is running out: greenskins have possibly invaded the region and they are threatening to take %objective%. They're currently sieging it, but reports say the greenies aren't yet full strength. I need you to go there and break it before things get out of our control.%SPEECH_OFF% | %employer%'s got a few scribes standing at side. They take turns whispering, the nobleman simply nodding to everything they say. Eventually, %employer% turns his attention to you.%SPEECH_ON%Sellsword, you ever broken a siege before? %objective% in the region is currently besieged by greenskins. We've little time before they overrun the place, and then maybe take the whole damned region! After that... well, I'm sure you know what happened ten years ago.%SPEECH_OFF%The scribes nod in unison and bow their heads. %employer% continues.%SPEECH_ON%So what do you say, interested in a bit of military action?%SPEECH_OFF% | %employer% welcomes you with a concerned face.%SPEECH_ON%We're in a bit of a bind, sellsword, and we need your help! %objective% has been besieged by greenskins and I don't have enough troops to go break it just by myself. But I think you're up to the task. Are you? I'll pay handsomely.%SPEECH_OFF% | %employer%'s standing with arms tented on a table. His shoulders are hunched, like a crow staring down at a kill. He shakes his head.%SPEECH_ON%Sellsword, I need more bodies to help lift an army of greenskins besieging %objective%. Are you up to it? I need to know right now.%SPEECH_OFF% | %employer% stands upon your entering. There's sweat on his face and he gives a frantic, sideways smile.%SPEECH_ON%Sellsword! So, so glad you are here! News has come that greenskins have besieged %objective% and I need your help! Are you interested or not? I need a decision fast.%SPEECH_OFF% | You find %employer% buried deep into his chair, as though he wished the back of it would just close and shut him out of this world forever. He lazily gestures toward a map on a table.%SPEECH_ON%Well, the news is that greenskins are back and they're besieging %objective%. I need as many men as I can muster to go there and relieve it. The pay will be appropriate, are you in?%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_45.png[/img]{%employer% hands you a goblet of wine.%SPEECH_ON%Drink up.%SPEECH_OFF%You can almost taste the bad news on his breath. Downing the drink in one go, you nod at the man. He nods back.%SPEECH_ON%The greenskins are swarming through the region and it looks like they plan to take %objective%.%SPEECH_OFF%He pours another drink, downs it, then pours another.%SPEECH_ON%If it falls, then I think we can assume the rest of the region will go with it. I don't know how learned you are about what happened ten years ago the last time these brutes came through, but not many around here want to see it happen again. Now, my spies tell me the siege has just started and the greenskins are not at full strength, meaning we can attack now and break it before things get out of control. If you're interested, which by the old gods I surely hope you are, then I need you to go there and break that siege!%SPEECH_OFF% | The guards are around %employer%. They've got their helmets off, their heads laden with sweat, and some are shaking in their armor. %employer%, seeing you through the crowd of despair, waves you forward.%SPEECH_ON%Sellsword! I have some... particularly horrible news. Perhaps you've already heard, but I'll lay it out quick as time is running out: greenskins have possibly invaded the region and they are threatening to take %objective%. They're currently sieging it, but reports say the greenies aren't yet full strength. I need you to go there and break it before things get out of our control.%SPEECH_OFF% | %employer%'s got a few scribes standing at side. They take turns whispering, the nobleman simply nodding to everything they say. Eventually, %employer% turns his attention to you.%SPEECH_ON%Sellsword, you ever broken a siege before? %objective% in the region is currently besieged by greenskins. We've little time before they overrun the place, and then maybe take the whole damned region! After that... well, I'm sure you know what happened ten years ago.%SPEECH_OFF%The scribes nod in unison and bow their heads. %employer% continues.%SPEECH_ON%So what do you say, interested in a bit of military action?%SPEECH_OFF% | %employer% welcomes you with a concerned face.%SPEECH_ON%We're in a bit of a bind, sellsword, and we need your help! %objective% has been besieged by greenskins and I don't have enough troops to go break it just by myself. But I think you're up to the task. Are you? I'll pay handsomely.%SPEECH_OFF% | %employer%'s standing with arms tented on a table. His shoulders are hunched, like a crow staring down at a kill. He shakes his head.%SPEECH_ON%Sellsword, I need more bodies to help lift an army of greenskins besieging %objective%. Are you up to it? I need to know right now.%SPEECH_OFF% | %employer% stands upon your entering. There's sweat on his face and he gives a frantic, sideways smile.%SPEECH_ON%Sellsword! So, so glad you are here! News has come that greenskins have besieged %objective% and I need your help! Are you interested or not? I need a decision fast.%SPEECH_OFF% | You find %employer% buried deep into his chair, as though he wished the back of it would just close and shut him out of this world forever. He lazily gestures toward a map on a table.%SPEECH_ON%Well, the news is that greenskins are back and they're besieging %objective%. I need as many men as I can muster to go there and relieve it. The pay will be appropriate, are you in?%SPEECH_OFF%}\""
+  },
+  {
+    "key": "1111d831e3df9529afd8911be2bd1d794c59710a15e125d189c73bebd9da70c4",
+    "original": "[img]gfx/ui/events/event_48.png[/img]{As you approach the sieging goblins, you spot a rather unique silhouette standing amongst their ranks. It is that of a shaman. You tell your men to prepare themselves appropriately. | A rather unique profile stands tall amongst the goblins. You see it barking orders in that horrid tongue they think to be a language. The foul thing is wreathed in strange plants and what appears to be a necklace of animal bones.%SPEECH_ON%That's a shaman.%SPEECH_OFF%%randombrother% says as he joins our side.%SPEECH_ON%I'll alert the rest of the men.%SPEECH_OFF% | %randombrother% returns from scouting. He shares news that a goblin shaman is within the invading greenskins group. The man seems rather miffed.%SPEECH_ON%I love killing me some gobbos, but them pricks will give us a proper headache this time.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_48.png[/img]{As you approach the sieging goblins, you spot a rather unique silhouette standing amongst their ranks. It is that of a shaman. You tell your men to prepare themselves appropriately. | A rather unique profile stands tall amongst the goblins. You see it barking orders in that horrid tongue they think to be a language. The foul thing is wreathed in strange plants and what appears to be a necklace of animal bones.%SPEECH_ON%That's a shaman.%SPEECH_OFF%%randombrother% says as he joins our side.%SPEECH_ON%I'll alert the rest of the men.%SPEECH_OFF% | %randombrother% returns from scouting. He shares news that a goblin shaman is within the invading greenskins group. The man seems rather miffed.%SPEECH_ON%I love killing me some gobbos, but them pricks will give us a proper headache this time.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "790d036029d879e34ed02bb631afbe049acbe8df3c14c9fb29113f515a9b30df",
+    "original": "[img]gfx/ui/events/event_49.png[/img]{As you near the sieging greenskins, you identify something almost impossible to miss: the large and imposing figure of an orcish warlord. The foul thing's armor glints as it turns about to bark orders in its orcish tongue, spurring its fellow greenskins into a violent, frothing fervor. You tell %randombrother% to spread the news and prepare the men. | While approaching the sieging party, you recognize the tall, brutish silhouette of an orc warlord. Even at this distance you can hear him barking orders to his grunts. This fight just got a little more interesting. | You near the siege camp of greenskins only to hear the distinct growl of an orc warlord. He's belting out orders in their disgusting and quite loud language. His presence changes the task at hand just a little bit and you inform the men as much. | %randombrother% returns from scouting. He states that there is an orc warlord in the greenskins' encampment. Bad news, but better knowing now and preparing then going in and being taken by surprise.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_49.png[/img]{As you near the sieging greenskins, you identify something almost impossible to miss: the large and imposing figure of an orcish warlord. The foul thing's armor glints as it turns about to bark orders in its orcish tongue, spurring its fellow greenskins into a violent, frothing fervor. You tell %randombrother% to spread the news and prepare the men. | While approaching the sieging party, you recognize the tall, brutish silhouette of an orc warlord. Even at this distance you can hear him barking orders to his grunts. This fight just got a little more interesting. | You near the siege camp of greenskins only to hear the distinct growl of an orc warlord. He's belting out orders in their disgusting and quite loud language. His presence changes the task at hand just a little bit and you inform the men as much. | %randombrother% returns from scouting. He states that there is an orc warlord in the greenskins' encampment. Bad news, but better knowing now and preparing then going in and being taken by surprise.}\""
+  },
+  {
+    "key": "cb410ceebaa9063ddc4ee2b655e5d57bedc1576ebdf31d44d7e0c95dd2118960",
+    "original": "[img]gfx/ui/events/event_68.png[/img]{The greenskins have assembled some siege weaponry close by. You'll have to destroy them to help lift the siege! | Your men spot a few pieces of siege equipment nearby. The greenskins must have been preparing an assault! You will need to destroy them to help lift the siege!}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_68.png[/img]{The greenskins have assembled some siege weaponry close by. You'll have to destroy them to help lift the siege! | Your men spot a few pieces of siege equipment nearby. The greenskins must have been preparing an assault! You will need to destroy them to help lift the siege!}\""
+  },
+  {
+    "key": "8e7c954a8e299ab2a81d44d172fc9558e5d600d783657e4d1ffc502dfc7bb2af",
+    "original": "[img]gfx/ui/events/event_68.png[/img]{You finally arrive to the siege. Greenskins surround %objective% and you watch as their war engines send flaming stones through the air. Half the town seems to already be alight and you see tiny dots of men rushing to and fro to put fight the fires. The noble soldiers' lieutenant orders you to go and attack the siege engines. You are to then join back up and destroy any savages left. | %objective% better resembles an enormous bonfire than it does a town. You watch as the greenskins' siege engines launch a furious bombardment, the skies filled with black stones, dead cows, and burning timber. The noble soldiers' lieutenant orders you to destroy the siege engines. He and his men will attack the main core of the greenskins' army and then you the two of you will link back up to finish off any stragglers. | The siege is still alive and well as %objective% is seen still holding out. It seems you came just in time, because the greenskins are launching so much destruction from their siege engines there might not be even be a town at all in a couple of hours. Seeing this action, the noble soldiers' lieutenant orders you to flank and destroy the siege weapons. He and his men will attack the core of the savages' army and then together you'll link back up to slaughter any survivors. | You hear the bombardment before you see it. The whistling of siege shots travels the air like a furious wind, and the crashing of their descent is a most cruel coda. Eventually, you top a hill to get a good look at %objective%. It is surrounded by green savages whose siege engines are lurching and lunging with action, launching stones, dead cows, bundles of human corpses, whatever the bastards can get their hands on.\n\nThe noble soldiers' lieutenant comes to you with his plan. You are to flank and attack the siege engines. He and his men will attack the center of the greenskin army and, once successful, the two of you will link back up and annihilate whatever remains. | A young woman is found on the road with a pack of children huddling close like wolf pups in a brutal winter. Dried blood cakes the side of her head, though she hides it well with a clop of matted hair. She explains that if you're going to %objective% you must hurry. The greenskins have set up their siege weapons and are launching a furious bombardment. You and the noble soldiers press on, the woman left with a satchel of bread to feed the kids.\n\n Topping the next hill, you are given a sight that confirms the refugee's story. The noble soldiers' lieutenant quickly dishes out orders. You and the %companyname% will attack the siege engines while the soldiers attack the core of the greenskin army. Once these tasks are completed, you will link up and annihilate any stragglers. | You and the noble soldiers top the nearest hill to %objective%. The town is still there, but damn is it closer to being a pile of rubble than it is a village. The greenskins must have been bombarding it with their shanty siege engines for some time now and they don't seem to be stopping any time soon.\n\n The noble soldiers' lieutenant orders you to flank the savages and attack the siege weapons. Meanwhile, the soldiers will attack the core of the savage army. Once both tasks are completed, you'll link back up and destroy what few stragglers remain. | You find an old man pushing a cart down the road. In the bed, is a young man with crushed legs. He's passed out, his hands still clutching shattered knees. The old man says %objective% is just yonder over the nearest hill and being bombarded with siege weapons so if you're going to take action it'd be best to do it quick. The %companyname% and soldiers move on ahead, leaving the old man to trundle forth.\n\n The elder wasn't lying: %objective% is burning and is slowly being turned into rubble with a bevy of savage siege engines. Seeing it with his own eyes, the noble soldiers' lieutenant quickly concocts a plan of action: the %companyname% will flank and attack the siege weapons while the soldiers take on the bulk of the greenskin army. Once both tasks are done, you'll link back up and kill whatever's left alive. | You find a horde of wild dogs running down the road. They steer clear of your group, but you notice that their tails are tucked between their legs and their heads stooped low. There's no pause in their gait as they quickly pass you by.\n\n Topping the next hill over, you see the cause for chaos: the greenskins are relentlessly bombarding %objective% with rows of shanty siege engines. The noble soldiers' lieutenant nods at this and quickly barks out orders. The %companyname% will flank and attack the siege weapons directly. When you're done, you are to loop back around and link up with the soldiers and continue on from there.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_68.png[/img]{You finally arrive to the siege. Greenskins surround %objective% and you watch as their war engines send flaming stones through the air. Half the town seems to already be alight and you see tiny dots of men rushing to and fro to put fight the fires. The noble soldiers' lieutenant orders you to go and attack the siege engines. You are to then join back up and destroy any savages left. | %objective% better resembles an enormous bonfire than it does a town. You watch as the greenskins' siege engines launch a furious bombardment, the skies filled with black stones, dead cows, and burning timber. The noble soldiers' lieutenant orders you to destroy the siege engines. He and his men will attack the main core of the greenskins' army and then you the two of you will link back up to finish off any stragglers. | The siege is still alive and well as %objective% is seen still holding out. It seems you came just in time, because the greenskins are launching so much destruction from their siege engines there might not be even be a town at all in a couple of hours. Seeing this action, the noble soldiers' lieutenant orders you to flank and destroy the siege weapons. He and his men will attack the core of the savages' army and then together you'll link back up to slaughter any survivors. | You hear the bombardment before you see it. The whistling of siege shots travels the air like a furious wind, and the crashing of their descent is a most cruel coda. Eventually, you top a hill to get a good look at %objective%. It is surrounded by green savages whose siege engines are lurching and lunging with action, launching stones, dead cows, bundles of human corpses, whatever the bastards can get their hands on.\\n\\nThe noble soldiers' lieutenant comes to you with his plan. You are to flank and attack the siege engines. He and his men will attack the center of the greenskin army and, once successful, the two of you will link back up and annihilate whatever remains. | A young woman is found on the road with a pack of children huddling close like wolf pups in a brutal winter. Dried blood cakes the side of her head, though she hides it well with a clop of matted hair. She explains that if you're going to %objective% you must hurry. The greenskins have set up their siege weapons and are launching a furious bombardment. You and the noble soldiers press on, the woman left with a satchel of bread to feed the kids.\\n\\n Topping the next hill, you are given a sight that confirms the refugee's story. The noble soldiers' lieutenant quickly dishes out orders. You and the %companyname% will attack the siege engines while the soldiers attack the core of the greenskin army. Once these tasks are completed, you will link up and annihilate any stragglers. | You and the noble soldiers top the nearest hill to %objective%. The town is still there, but damn is it closer to being a pile of rubble than it is a village. The greenskins must have been bombarding it with their shanty siege engines for some time now and they don't seem to be stopping any time soon.\\n\\n The noble soldiers' lieutenant orders you to flank the savages and attack the siege weapons. Meanwhile, the soldiers will attack the core of the savage army. Once both tasks are completed, you'll link back up and destroy what few stragglers remain. | You find an old man pushing a cart down the road. In the bed, is a young man with crushed legs. He's passed out, his hands still clutching shattered knees. The old man says %objective% is just yonder over the nearest hill and being bombarded with siege weapons so if you're going to take action it'd be best to do it quick. The %companyname% and soldiers move on ahead, leaving the old man to trundle forth.\\n\\n The elder wasn't lying: %objective% is burning and is slowly being turned into rubble with a bevy of savage siege engines. Seeing it with his own eyes, the noble soldiers' lieutenant quickly concocts a plan of action: the %companyname% will flank and attack the siege weapons while the soldiers take on the bulk of the greenskin army. Once both tasks are done, you'll link back up and kill whatever's left alive. | You find a horde of wild dogs running down the road. They steer clear of your group, but you notice that their tails are tucked between their legs and their heads stooped low. There's no pause in their gait as they quickly pass you by.\\n\\n Topping the next hill over, you see the cause for chaos: the greenskins are relentlessly bombarding %objective% with rows of shanty siege engines. The noble soldiers' lieutenant nods at this and quickly barks out orders. The %companyname% will flank and attack the siege weapons directly. When you're done, you are to loop back around and link up with the soldiers and continue on from there.}\""
+  },
+  {
+    "key": "78e6ee064e156af25d1d677feb17c38585fd89fede30c0f281fe277c67ce5bc0",
+    "original": "[img]gfx/ui/events/event_68.png[/img]{You finally see %objective% and it is in dire straits. The town is being bombarded with a stream of greenskin siege engines. You order the %companyname% to prepare for action: you'll flank the army and attack the engines directly. | With all the noble soldiers dead, you arrive at %objective% alone. The greenskins are still at it, bombarding the poor town with shanty siege weapons. You decide the best plan of action is to flank the savages and attack their siege engines.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_68.png[/img]{You finally see %objective% and it is in dire straits. The town is being bombarded with a stream of greenskin siege engines. You order the %companyname% to prepare for action: you'll flank the army and attack the engines directly. | With all the noble soldiers dead, you arrive at %objective% alone. The greenskins are still at it, bombarding the poor town with shanty siege weapons. You decide the best plan of action is to flank the savages and attack their siege engines.}\""
+  },
+  {
+    "key": "45b17d3de8a331197dc964ca84f5d29e36f801efca49e1873df54a6de785b242",
+    "original": "[img]gfx/ui/events/event_68.png[/img]{You took too long and now %objective% lies in ruin. The greenskins overran the walls with shock and awe tactics. Given the smell drifting wind-wise, it doesn't take much to realize that everyone inside was slaughtered. | The %companyname% did not break the siege in time and now %objective% has paid for it. They thought you were going to save them, but instead you let them all down. If there is any good news, it's that nobody survived to whine about your failures. Your employer, %employer%, though, is a different matter. The nobleman will no doubt be furious with your inaction. | %objective% has been overrun! The orcs drove terrifying war machines to the walls and destroyed the defenses. Murderous greenskins flooded the town, killing everything in their path, or taking them prisoner to the gods know where. Your employer, %employer%, is furious with your failure to do your job! | You did not relieve %objective% in time! The greenskins smashed in the front gates and, well, the town has been wiped out. Considering %employer% is paying you for the exact opposite result, it is safe to assume he is not happy with this development. | With you mucking about not doing your job, %objective% fell to the greenskins! May the gods have mercy on its citizens, and do not expect %employer% to be happy with this result.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_68.png[/img]{You took too long and now %objective% lies in ruin. The greenskins overran the walls with shock and awe tactics. Given the smell drifting wind-wise, it doesn't take much to realize that everyone inside was slaughtered. | The %companyname% did not break the siege in time and now %objective% has paid for it. They thought you were going to save them, but instead you let them all down. If there is any good news, it's that nobody survived to whine about your failures. Your employer, %employer%, though, is a different matter. The nobleman will no doubt be furious with your inaction. | %objective% has been overrun! The orcs drove terrifying war machines to the walls and destroyed the defenses. Murderous greenskins flooded the town, killing everything in their path, or taking them prisoner to the gods know where. Your employer, %employer%, is furious with your failure to do your job! | You did not relieve %objective% in time! The greenskins smashed in the front gates and, well, the town has been wiped out. Considering %employer% is paying you for the exact opposite result, it is safe to assume he is not happy with this development. | With you mucking about not doing your job, %objective% fell to the greenskins! May the gods have mercy on its citizens, and do not expect %employer% to be happy with this result.}\""
+  },
+  {
+    "key": "855e2b109a56176521fe4f91c527cae0a538adc39900867933fd5dbab2979b84",
+    "original": "[img]gfx/ui/events/event_78.png[/img]{You walk out of %employer%'s place and prepare the company. All around you are knights and soldiers running about. A few of them are huddled around a holy man, silently preparing themselves for death.%SPEECH_ON%Gotta make reservations.%SPEECH_OFF%%randombrother% says as he joins your side. He gives you a good smirk.%SPEECH_ON%What, too dark?%SPEECH_OFF% | Outside %employer%'s domicile there are soldiers running all over. Some are heaving supplies into the back of wagons, others are sharpening their weapons, while a handful of squires run to and fro with great armfuls of armor. You go over to your men and order them to get ready. %randombrother% nods toward all the activity.%SPEECH_ON%I guess we'll be having friends with us this time?%SPEECH_OFF% | There are soldiers just outside %employer%'s room, and there are soldiers in the halls. You pass by rooms of scared women and children and blind old men that would rather be deaf. Outside, you have to fight through a busy crowd of squires swarming about with arms and armors. The %companyname% is waiting for you.%SPEECH_ON%Let's get going. These men here must prepare to fight, but we just come that way, don't we fellas?%SPEECH_OFF% | When you leave %employer%'s place you find %randombrother% waiting for you. He's watching the busy battle preparations all around: squires running about with arms and armor, men heaving supplies into wagons, and holy men momentarily quelling the fears of the young men. You tell your sellsword to get ready as you will be following these soldiers out to break the siege. | You step outside to find %employer%'s men getting ready. They're loading their equipment onto wagons while a holy man walks the lines. Women, children, and elders stand by the wayside. The %companyname% are standing dutifully. You head over and inform them of the task at hand. | Stepping outside, you find %employer%'s soldiers gearing up for war. Children run amok, playing war with each other, laughing in total ignorance of the real thing. Women, some of them having already lost a husband or two, are far more pensive. You walk past the procession and go to the %companyname% to fill them in on the details of the task at hand. | %employer%'s soldiers are getting ready for war. The young are nervous, masking their fear with faux courage and reluctant laughs. The veterans go about their tasks, their faces showing men who know of old friends who never made it back. And the crazy, the wide-eyed and bloodlusting, they are almost unnervingly giddy at the prospect of war that is afoot. You pass them all up to go and inform the %companyname% of what it must do. | As you step outside you find the soldiers of %employer%'s army getting ready to march. Weapons are in a big pile from which the men are picking and choosing. It's an odd sight and shows a lack of organization. Probably not the best of signs, but you put it behind you to go and inform the %companyname% of its new contract.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_78.png[/img]{You walk out of %employer%'s place and prepare the company. All around you are knights and soldiers running about. A few of them are huddled around a holy man, silently preparing themselves for death.%SPEECH_ON%Gotta make reservations.%SPEECH_OFF%%randombrother% says as he joins your side. He gives you a good smirk.%SPEECH_ON%What, too dark?%SPEECH_OFF% | Outside %employer%'s domicile there are soldiers running all over. Some are heaving supplies into the back of wagons, others are sharpening their weapons, while a handful of squires run to and fro with great armfuls of armor. You go over to your men and order them to get ready. %randombrother% nods toward all the activity.%SPEECH_ON%I guess we'll be having friends with us this time?%SPEECH_OFF% | There are soldiers just outside %employer%'s room, and there are soldiers in the halls. You pass by rooms of scared women and children and blind old men that would rather be deaf. Outside, you have to fight through a busy crowd of squires swarming about with arms and armors. The %companyname% is waiting for you.%SPEECH_ON%Let's get going. These men here must prepare to fight, but we just come that way, don't we fellas?%SPEECH_OFF% | When you leave %employer%'s place you find %randombrother% waiting for you. He's watching the busy battle preparations all around: squires running about with arms and armor, men heaving supplies into wagons, and holy men momentarily quelling the fears of the young men. You tell your sellsword to get ready as you will be following these soldiers out to break the siege. | You step outside to find %employer%'s men getting ready. They're loading their equipment onto wagons while a holy man walks the lines. Women, children, and elders stand by the wayside. The %companyname% are standing dutifully. You head over and inform them of the task at hand. | Stepping outside, you find %employer%'s soldiers gearing up for war. Children run amok, playing war with each other, laughing in total ignorance of the real thing. Women, some of them having already lost a husband or two, are far more pensive. You walk past the procession and go to the %companyname% to fill them in on the details of the task at hand. | %employer%'s soldiers are getting ready for war. The young are nervous, masking their fear with faux courage and reluctant laughs. The veterans go about their tasks, their faces showing men who know of old friends who never made it back. And the crazy, the wide-eyed and bloodlusting, they are almost unnervingly giddy at the prospect of war that is afoot. You pass them all up to go and inform the %companyname% of what it must do. | As you step outside you find the soldiers of %employer%'s army getting ready to march. Weapons are in a big pile from which the men are picking and choosing. It's an odd sight and shows a lack of organization. Probably not the best of signs, but you put it behind you to go and inform the %companyname% of its new contract.}\""
+  },
+  {
+    "key": "a8554f28508b5c41d2cf519a575d695def60c84ca8af799f0397f26d61908202",
+    "original": "{How much is saving %objective% worth to you? | Breaking a siege is something the %companyname% can do.}",
+    "translation": "",
+    "context": "Text = \"{How much is saving %objective% worth to you? | Breaking a siege is something the %companyname% can do.}\""
+  },
+  {
+    "key": "4b18f4e514456a0551808c77735dc8d05ae119cfb7d044cdf5d54497f2db3065",
+    "original": "{This isn't worth it. | We have other obligations.}",
+    "translation": "",
+    "context": "Text = \"{This isn't worth it. | We have other obligations.}\""
+  }
+]

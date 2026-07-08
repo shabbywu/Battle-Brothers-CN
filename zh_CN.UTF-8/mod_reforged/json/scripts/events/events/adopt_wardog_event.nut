@@ -1,0 +1,128 @@
+[
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Bro.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "02b0dbc8d7a9d05091435bf679c57dd0808e26fbf5579c682c0ad826d4e63ab4",
+    "original": "%houndmaster%, you're trained to handle dogs, right?",
+    "translation": "",
+    "context": "Text = \"%houndmaster%, you're trained to handle dogs, right?\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "f6b8531b664f582af449906838aa2e63385df15a5231b200b601a8ddd80d161b",
+    "original": "And stay away!",
+    "translation": "",
+    "context": "Text = \"And stay away!\""
+  },
+  {
+    "key": "68b53268f8292399484b0c8c2fc85be3f258e1f65946f928b38dfd5218e98619",
+    "original": "Battle Brother",
+    "translation": "",
+    "context": "item.m.Name = \"Battle Brother\""
+  },
+  {
+    "key": "af6f8fbb2a414f03308436704f8a088ff8dbe4631c9b07885d4a82b626218499",
+    "original": "Better to put it down now before it steals any of our supplies later.",
+    "translation": "",
+    "context": "Text = \"Better to put it down now before it steals any of our supplies later.\""
+  },
+  {
+    "key": "b0a92770bf73e350f2458560547ed32e866fad726ce424addd180460b1175d80",
+    "original": "Chase that mongrel away!",
+    "translation": "",
+    "context": "Text = \"Chase that mongrel away!\""
+  },
+  {
+    "key": "c609d0cb513d117c39798f05bcd549fa35b925ad369e5a2623f0af410727d95b",
+    "original": "Damn, he really would have fit in.",
+    "translation": "",
+    "context": "Text = \"Damn, he really would have fit in.\""
+  },
+  {
+    "key": "f28a6ca150fe05cb261c30a48710d213eceefb16ace6f7ff3ecc16169785dfb6",
+    "original": "I meant to scare it off.",
+    "translation": "",
+    "context": "Text = \"I meant to scare it off.\""
+  },
+  {
+    "key": "b4791ba04377a68f74584b96595ca1a904790bd2eb67e0337fadbec0d35a4f76",
+    "original": "Nice.",
+    "translation": "",
+    "context": "Text = \"Nice.\""
+  },
+  {
+    "key": "adae325f19d16c1eed88216349320078445b2360018bb112d189a6ac1977fd50",
+    "original": "Poor thing.",
+    "translation": "",
+    "context": "Text = \"Poor thing.\""
+  },
+  {
+    "key": "89eaffd3cd230f7f35db2e5d8cb44a30e97538f17d244260d0e0f0070006d7e1",
+    "original": "The company needs a mascot. Take it in.",
+    "translation": "",
+    "context": "Text = \"The company needs a mascot. Take it in.\""
+  },
+  {
+    "key": "b936d5dd166c7ebc18e4e8232564a1731bc2ef8cabf4ac5aba78a99fd7e95bbd",
+    "original": "Welcome to the company.",
+    "translation": "",
+    "context": "Text = \"Welcome to the company.\""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + item.getName()"
+  },
+  {
+    "key": "09293ccc7bb7322065e0eeb636fe21320e732f61db3d084aa0ea0c67a9a08b6d",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You ask %houndmaster% the houndmaster if he can try and 'woo' this dog. He nods and steps toward it. The wild mongrel's ears go from pinned to pointed. Crouched, the houndmaster slowly edges his way toward the beast. He keeps his hand out with a piece of meat in the palm. Hunger overcomes heedfulness and the dog sniffs its way ever closer to the houndmaster's hand. The dog tongues it out of his palm and chows down. The dog trainer feeds him another bite. He scruffs him up and finds the sweet spot behind his ears. Looking back, %houndmaster% nods.%SPEECH_ON%Aye, it's an agreeable beast and will be easily trained.%SPEECH_OFF%That's great. You ask if it can fight. The houndmaster purses his lips.%SPEECH_ON%A dog is akin to a man. If it can breathe, it can fight.%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]You ask %houndmaster% the houndmaster if he can try and 'woo' this dog. He nods and steps toward it. The wild mongrel's ears go from pinned to pointed. Crouched, the houndmaster slowly edges his way toward the beast. He keeps his hand out with a piece of meat in the palm. Hunger overcomes heedfulness and the dog sniffs its way ever closer to the houndmaster's hand. The dog tongues it out of his palm and chows down. The dog trainer feeds him another bite. He scruffs him up and finds the sweet spot behind his ears. Looking back, %houndmaster% nods.%SPEECH_ON%Aye, it's an agreeable beast and will be easily trained.%SPEECH_OFF%That's great. You ask if it can fight. The houndmaster purses his lips.%SPEECH_ON%A dog is akin to a man. If it can breathe, it can fight.%SPEECH_OFF%\""
+  },
+  {
+    "key": "1fbd729bd49bafc27f25d0fcc8fc01e1c2600699ac17756e00c4297aa42d62d8",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing here and there, eyes flicking in search of an ambush.\n\nYou can see a barrel of ribs on the dog, many days on the road having given the pup a gaunt frame. Its ears are stitched up and its tail bolted with signs of battle. This here animal knows how to fight and that's just what it'll be doing for you from now on.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing here and there, eyes flicking in search of an ambush.\\n\\nYou can see a barrel of ribs on the dog, many days on the road having given the pup a gaunt frame. Its ears are stitched up and its tail bolted with signs of battle. This here animal knows how to fight and that's just what it'll be doing for you from now on.\""
+  },
+  {
+    "key": "40650dc2e91ed2b5ffb21317be909940726ee73b201499c1e511bd48d49486fa",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\n\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is feeding it?",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\\n\\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is feeding it?\""
+  },
+  {
+    "key": "6503e35782d71f13c5c0416989f1d189f62e97adda3cb78577e6db438ff2cb6a",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\n\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\\n\\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.\""
+  },
+  {
+    "key": "b7de030263effd96b36ab164f02f22c5363f5af4a21195dcfa18c06a1312a5f3",
+    "original": "[img]gfx/ui/events/event_37.png[/img]A rugged dog such as he would make for a great mascot. The little mutt could definitely boost morale. You order %bro% to feed it some food in the hopes that it'll tag along. He goes out with a scrap of leftovers and crouches down.%SPEECH_ON%Good dog.%SPEECH_OFF%The mongrel sniffs the food, then chomps down on it - and the mercenary's hand along with it. The brother jumps back, nestling his arm into his chest as though he might lose it otherwise. The dog, on the other hand, swallows the scrap and then runs off.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_37.png[/img]A rugged dog such as he would make for a great mascot. The little mutt could definitely boost morale. You order %bro% to feed it some food in the hopes that it'll tag along. He goes out with a scrap of leftovers and crouches down.%SPEECH_ON%Good dog.%SPEECH_OFF%The mongrel sniffs the food, then chomps down on it - and the mercenary's hand along with it. The brother jumps back, nestling his arm into his chest as though he might lose it otherwise. The dog, on the other hand, swallows the scrap and then runs off.\""
+  },
+  {
+    "key": "7fcf5af3f6a727629f0a0d841d2fff2d23f3e0c18769a121c968c4416cb4c3e4",
+    "original": "[img]gfx/ui/events/event_75.png[/img]This is no place for a pup to be. The next time the dog appears, you crack it between the eyes with a well-placed stone. Yelping, the dog retreats. It pauses, perhaps thinking that there was some sort of mistake here, but you quickly correct the foul thing with another rock. The dog leaves and is not seen again.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_75.png[/img]This is no place for a pup to be. The next time the dog appears, you crack it between the eyes with a well-placed stone. Yelping, the dog retreats. It pauses, perhaps thinking that there was some sort of mistake here, but you quickly correct the foul thing with another rock. The dog leaves and is not seen again.\""
+  },
+  {
+    "key": "48ebebd45e32246a385ba9abc639c68ee863092cf7e20337866a0a7b898628b0",
+    "original": "[img]gfx/ui/events/event_75.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The shot goes wide, but the dog gets the message and quickly scampers off.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_75.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The shot goes wide, but the dog gets the message and quickly scampers off.\""
+  }
+]

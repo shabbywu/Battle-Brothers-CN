@@ -1,0 +1,80 @@
+[
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Lowborn.getName() + \" suffers \" + injury2.getNameOnly()"
+  },
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Noble.getName() + \" suffers \" + injury1.getNameOnly()"
+  },
+  {
+    "key": "5ba916722880e9f2fe0278249d34c9b18081ea49eba04dec5c22f696886360ec",
+    "original": "During camp...",
+    "translation": "",
+    "context": "this.m.Title = \"During camp...\""
+  },
+  {
+    "key": "4137961c1259ae92b65673840ff2163c67b2a09e1d11af4d7dac5072f32e7fc0",
+    "original": "Get out of my sight.",
+    "translation": "",
+    "context": "Text = \"Get out of my sight.\""
+  },
+  {
+    "key": "ffe5c598c448b406df88c330ee00e3b639b6e202a12e5a954fbd978decca34d2",
+    "original": "In the company of sellswords, no man is low or highborn.",
+    "translation": "",
+    "context": "Text = \"In the company of sellswords, no man is low or highborn.\""
+  },
+  {
+    "key": "667feeaab0bdfc5ce6938e4695fee38ac78e62d6eef6de6ef7f07222368c6bf7",
+    "original": "Sort it out yourselves.",
+    "translation": "",
+    "context": "Text = \"Sort it out yourselves.\""
+  },
+  {
+    "key": "456637853377761ed106dcf58d6e04a5b7e9a3868e26297127bb65282212d39f",
+    "original": "They'll become brothers in battle soon enough.",
+    "translation": "",
+    "context": "Text = \"They'll become brothers in battle soon enough.\""
+  },
+  {
+    "key": "75cfeadb059de8bfae8420b2b39c8dda285664ca928dd6a914d2adca870811eb",
+    "original": "Was humiliated in front of the company",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1d667f711c4db3a109e226d83bbbf9a514e38e4d6140086ef68a25c54b9fae1d",
+    "original": "You know the rules of the land, give the noble what he wants.",
+    "translation": "",
+    "context": "Text = \"You know the rules of the land, give the noble what he wants.\""
+  },
+  {
+    "key": "c8485ede0a7437e01a08c40fbd283bc27f72547ee4d4e6e4446d5e9710c2e503",
+    "original": "[img]gfx/ui/events/event_06.png[/img] As the two men look to you for guidance, you fold your arms and shrug. They slowly turn back to one another. The other men in the camp stand up and step back, giving room to what is coming. The lowborn draws his dagger first. It is a simple thing with a wooden handle and jagged, unnaturally serrated edges. The nobleman pulls his blade in return, brandishing a metal that curves with the care of a blacksmith's mastery. Two golden snakes curl up the handle to bite the pommel. Its wielder grins, saying the riff-raff should learn their place. The lowborn grins like a man who has had no practice doing it.\n\nSurprisingly, both men then chuck the daggers into the stumps upon which they sat and close rank with fists raised, the most equal of fighting grounds. In the ensuing battle the spit is immediately knocked aside and flames fan upward, raining wild embers and the felled food is now flavored with ash and soot.\n\nSeeing their meal ruined, the rest of the company finally puts an end to the combat, pulling the two men apart. They threaten and spit at one another, but after a few minutes everything settles down.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_06.png[/img] As the two men look to you for guidance, you fold your arms and shrug. They slowly turn back to one another. The other men in the camp stand up and step back, giving room to what is coming. The lowborn draws his dagger first. It is a simple thing with a wooden handle and jagged, unnaturally serrated edges. The nobleman pulls his blade in return, brandishing a metal that curves with the care of a blacksmith's mastery. Two golden snakes curl up the handle to bite the pommel. Its wielder grins, saying the riff-raff should learn their place. The lowborn grins like a man who has had no practice doing it.\\n\\nSurprisingly, both men then chuck the daggers into the stumps upon which they sat and close rank with fists raised, the most equal of fighting grounds. In the ensuing battle the spit is immediately knocked aside and flames fan upward, raining wild embers and the felled food is now flavored with ash and soot.\\n\\nSeeing their meal ruined, the rest of the company finally puts an end to the combat, pulling the two men apart. They threaten and spit at one another, but after a few minutes everything settles down.\""
+  },
+  {
+    "key": "81a95373ef0e591c6d475c2f5193c399c4b5ff97bc463cf837aeafdbb01d4734",
+    "original": "[img]gfx/ui/events/event_64.png[/img] You find the nobleman %nobleman_short% and the rather ragged-looking %lowborn% quarreling over the last piece of food on a spit. Apparently the lowborn got his fork to it first, but the nobleman claimed that his high stature granted him the right to the meat.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_64.png[/img] You find the nobleman %nobleman_short% and the rather ragged-looking %lowborn% quarreling over the last piece of food on a spit. Apparently the lowborn got his fork to it first, but the nobleman claimed that his high stature granted him the right to the meat.\""
+  },
+  {
+    "key": "caf12f60e55e768b973beca07044f6c2da693bd79c317ea60a45d2fbcf0eece7",
+    "original": "[img]gfx/ui/events/event_64.png[/img]%nobleman% grins as he knocks %lowborn%'s fork out of the way. The nobleman takes the food for himself as the lowborn gets up and storms toward you. As he nears, some men look ready to draw swords, but you hold a hand out, calming them.%SPEECH_ON%I thought you were one of us, but I guess not. I suppose you think someday you'll be one of them, huh? Keep dreaming. As that man would say to me, 'Know your place'.%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_64.png[/img]%nobleman% grins as he knocks %lowborn%'s fork out of the way. The nobleman takes the food for himself as the lowborn gets up and storms toward you. As he nears, some men look ready to draw swords, but you hold a hand out, calming them.%SPEECH_ON%I thought you were one of us, but I guess not. I suppose you think someday you'll be one of them, huh? Keep dreaming. As that man would say to me, 'Know your place'.%SPEECH_OFF%\""
+  },
+  {
+    "key": "84cbf15c038a3cce7078460f5a05345c2ce2e0fca2b5ca1bf2da8bdd6c67ce24",
+    "original": "[img]gfx/ui/events/event_64.png[/img]%nobleman% looks aghast. He slowly lifts his fork from the spit and %lowborn% immediately shovels the last bit of meat into his mouth. The nobleman gets up and heads your way. He straightens before you, bumping his chest into yours as you lock eyes. A few of the men put their hands on their pommels.%SPEECH_ON%{Siding with the lowborn, huh? I fancied you would, being lowborn yourself. Don't ever expect to become one of us. You're a sellsword for life. Remember that. | You expect to get a piece of land when all this is said and done, yeah? I hope you do, because then I'll come and knock and show you how nobles really treat one another.}%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_64.png[/img]%nobleman% looks aghast. He slowly lifts his fork from the spit and %lowborn% immediately shovels the last bit of meat into his mouth. The nobleman gets up and heads your way. He straightens before you, bumping his chest into yours as you lock eyes. A few of the men put their hands on their pommels.%SPEECH_ON%{Siding with the lowborn, huh? I fancied you would, being lowborn yourself. Don't ever expect to become one of us. You're a sellsword for life. Remember that. | You expect to get a piece of land when all this is said and done, yeah? I hope you do, because then I'll come and knock and show you how nobles really treat one another.}%SPEECH_OFF%\""
+  }
+]

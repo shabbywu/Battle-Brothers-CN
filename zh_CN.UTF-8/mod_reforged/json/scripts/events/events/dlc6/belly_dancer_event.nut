@@ -1,0 +1,122 @@
+[
+  {
+    "key": "b92b1b4a11b1d92353fc95c4404fb3747c8376a860073406314f6c7a8eb14141",
+    "original": ", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.",
+    "translation": "",
+    "context": "\"You found %name% in \" + _event.m.Town.getName() + \", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.\""
+  },
+  {
+    "key": "1f1b8deaf876a9e0b37464f3a4181fc449364378095fb6adb35a1c8ab00ccc67",
+    "original": "At %townname%",
+    "translation": "",
+    "context": "this.m.Title = \"At %townname%\""
+  },
+  {
+    "key": "1e577cd51149cc673a64e972859432843217464f9737c8257cd14bc85ff3cb1e",
+    "original": "I had to ask.",
+    "translation": "",
+    "context": "Text = \"I had to ask.\""
+  },
+  {
+    "key": "40d85532cd751e1e8332c226b7384972bd656a14397ebddb241fd1cd14a1d214",
+    "original": "I'll pay you 500 crowns right now if you join us.",
+    "translation": "",
+    "context": "Text = \"I'll pay you 500 crowns right now if you join us.\""
+  },
+  {
+    "key": "6de532c7a0422b204db11aaa5cb32f3aa1101350669aebc9d53dfb0d824bd58a",
+    "original": "Maybe we can make use of this man?",
+    "translation": "",
+    "context": "Text = \"Maybe we can make use of this man?\""
+  },
+  {
+    "key": "581cacfe449b38b9afb36663df0203faea342669df3f7b9e594e1c39b477df99",
+    "original": "Time to leave.",
+    "translation": "",
+    "context": "Text = \"Time to leave.\""
+  },
+  {
+    "key": "a4327c6d2ac5ccc393f96ff03a1aa3b3085459bc78602adb71e7aa6ee15d6f23",
+    "original": "Welcome to the company!",
+    "translation": "",
+    "context": "Text = \"Welcome to the company!\""
+  },
+  {
+    "key": "96865ac6a64d93502d57ce2b953b1d021b24a5c027ccb63b2c7bdca705bbdd1a",
+    "original": "Well done, have a crown.",
+    "translation": "",
+    "context": "Text = \"Well done, have a crown.\""
+  },
+  {
+    "key": "7c1792da0723ce53685a0d7b4b287d29f4ac33d61599f48bfca898862dad36c8",
+    "original": "You found %name% in ",
+    "translation": "",
+    "context": "\"You found %name% in \" + _event.m.Town.getName() + \", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.\""
+  },
+  {
+    "key": "a13fe5411cacd783f255c572bdc6c56739d54be420a516b38fb8ae49baa5a6d3",
+    "original": "You spend [color=",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.PositiveEventValue + \"]500[/color] Crowns\""
+  },
+  {
+    "key": "a13fe5411cacd783f255c572bdc6c56739d54be420a516b38fb8ae49baa5a6d3",
+    "original": "You spend [color=",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]1[/color] Crown\""
+  },
+  {
+    "key": "bd6ca5df2b8325aced6efc63dcd089922c1122fb20d059123e9e0aeb2faea2b6",
+    "original": "You've talent with the blade like I've never seen before.",
+    "translation": "",
+    "context": "Text = \"You've talent with the blade like I've never seen before.\""
+  },
+  {
+    "key": "e496fa0b14afe39283d736740339e69ddad26507f25319ed669abd561554224d",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{A belly dancer magnetizes %townname%'s center plaza. Rhythmic movements on their own can coerce a beggar to donating a crown, but with the stage of the whole plaza it is enough to draw crowds and with it heaps of gold. Masked by green silk, nearly see through, and clothed in thin silks with the whole mid rift exposed, the dancer is no doubt an expert in her field. She whirls, hips hypnotic, elbows bowed, hands clapping little cymbals, her feet tiptoeing as she spins a spot so tight there very well may be an invisible god above holding her in place as she razzles and dazzles.\n\n Someone throws an apple through the air and the dancer spins around and shoots a tiny dagger through it, plugging it dead center and dropping the fruit to the ground. Another apple soars in and this time a large saber is produced and slashes the stem off and she catches the rest and takes a bite. The crowd claps gently to this.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{A belly dancer magnetizes %townname%'s center plaza. Rhythmic movements on their own can coerce a beggar to donating a crown, but with the stage of the whole plaza it is enough to draw crowds and with it heaps of gold. Masked by green silk, nearly see through, and clothed in thin silks with the whole mid rift exposed, the dancer is no doubt an expert in her field. She whirls, hips hypnotic, elbows bowed, hands clapping little cymbals, her feet tiptoeing as she spins a spot so tight there very well may be an invisible god above holding her in place as she razzles and dazzles.\\n\\n Someone throws an apple through the air and the dancer spins around and shoots a tiny dagger through it, plugging it dead center and dropping the fruit to the ground. Another apple soars in and this time a large saber is produced and slashes the stem off and she catches the rest and takes a bite. The crowd claps gently to this.}\""
+  },
+  {
+    "key": "c37742ed9d5b564963af77450e199483b3796567afd9135709e5c37aedf0c562",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{After the mannish belly dancer takes your crown you wait around for the show to end. You approach as he picks up his things. He looks at you with a wry smile.%SPEECH_ON%Ah, an admirer. Sorry, only one show tonight, good stranger.%SPEECH_OFF%You shake your head and ask if he knows anything about fighting. He nods.%SPEECH_ON%Of course I do. The Gilded One's gleam is upon us all, but not at all hours or days. Sometimes we must find our own way through the dark. I take it by your dress that you are a Crownling, putting that blade of yours where it does and sometimes does not belong.%SPEECH_OFF%You nod and ask him if he'd be interested in joining. He goes bowlegged and sinks to the ground like a collapsing truss. He counts his crowns.%SPEECH_ON%I'm not sure if you have a good eye for the wandering nature of men such as myself. Perhaps you saw a vocational tiredness not even I was aware of until this present moment. That said, you'll have to try harder to get me to go around killing for coin.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{After the mannish belly dancer takes your crown you wait around for the show to end. You approach as he picks up his things. He looks at you with a wry smile.%SPEECH_ON%Ah, an admirer. Sorry, only one show tonight, good stranger.%SPEECH_OFF%You shake your head and ask if he knows anything about fighting. He nods.%SPEECH_ON%Of course I do. The Gilded One's gleam is upon us all, but not at all hours or days. Sometimes we must find our own way through the dark. I take it by your dress that you are a Crownling, putting that blade of yours where it does and sometimes does not belong.%SPEECH_OFF%You nod and ask him if he'd be interested in joining. He goes bowlegged and sinks to the ground like a collapsing truss. He counts his crowns.%SPEECH_ON%I'm not sure if you have a good eye for the wandering nature of men such as myself. Perhaps you saw a vocational tiredness not even I was aware of until this present moment. That said, you'll have to try harder to get me to go around killing for coin.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "2688b6c9f0853f865718c7bfa93565a9122c95d3ed5afc09a4beb6b0c00843a5",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You assuage his ego by saying he's one of the best with the blade you've seen. The dancer turns his hands to the dust, his fingers sliding beneath each coin and flipping it into his clay pot. His left hand reaches across the ground, but as this catches your eye, his right hand snatches a blade that had been entirely buried beneath the sands. He holds it toward your crotch.%SPEECH_ON%I'm deadly with the blade, as I'm sure you are with that stinger there. Now, I know you are merely petting things which shall make me purr, preying upon my pride as the hunter does the lions, and I will say this: it has worked. I will fight for you, captain of the Crownlings, and I will fight well.%SPEECH_OFF%Nodding, you ask that he lower the blade. He spins it in his hand and sheathes it in one swift motion. He gets to his feet, stripping himself down until he is buck naked.%SPEECH_ON%This life I will leave behind in total, and to the Crownling's life I will be devoted in whole.%SPEECH_OFF%You shake the man's hand. A passerby glances over and scratches his head.%SPEECH_ON%Wait a minute, you've a snake down there! I thought you were a lady of the dance, but this...%SPEECH_OFF%He dabs his forehead with a cloth and lowers his voice.%SPEECH_ON%This makes it even better.%SPEECH_OFF%The dancer looks at you and laughs.%SPEECH_ON%We've all dangers to confront in our respective vocations, Crownling, and I look forward to seeing yours.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You assuage his ego by saying he's one of the best with the blade you've seen. The dancer turns his hands to the dust, his fingers sliding beneath each coin and flipping it into his clay pot. His left hand reaches across the ground, but as this catches your eye, his right hand snatches a blade that had been entirely buried beneath the sands. He holds it toward your crotch.%SPEECH_ON%I'm deadly with the blade, as I'm sure you are with that stinger there. Now, I know you are merely petting things which shall make me purr, preying upon my pride as the hunter does the lions, and I will say this: it has worked. I will fight for you, captain of the Crownlings, and I will fight well.%SPEECH_OFF%Nodding, you ask that he lower the blade. He spins it in his hand and sheathes it in one swift motion. He gets to his feet, stripping himself down until he is buck naked.%SPEECH_ON%This life I will leave behind in total, and to the Crownling's life I will be devoted in whole.%SPEECH_OFF%You shake the man's hand. A passerby glances over and scratches his head.%SPEECH_ON%Wait a minute, you've a snake down there! I thought you were a lady of the dance, but this...%SPEECH_OFF%He dabs his forehead with a cloth and lowers his voice.%SPEECH_ON%This makes it even better.%SPEECH_OFF%The dancer looks at you and laughs.%SPEECH_ON%We've all dangers to confront in our respective vocations, Crownling, and I look forward to seeing yours.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "920422c77bb09d30ea1ebb105296182c3dbc7a9585bb6e33d28872144a27ab4d",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You offer five hundred crowns to the dancer. He keeps picking up coins - one at a time - and putting them in his clay pot. It is almost a silent affair, coins clapping loudly as they fall into a nearly empty barrel of clay. He looks up, looks down. He puts in one more crown then gets to his feet. He strips off his clothes and holds out his hand.%SPEECH_ON%The Gilded One must be gleaming upon us both, for you to have earned such keep, and no doubt He has guided your purse here to bring it to me.%SPEECH_OFF%You nod and shake his hand. A passerby glances over and scratches his head.%SPEECH_ON%Wait a minute, you've a snake down there! I thought you were a lady of the dance, but this...%SPEECH_OFF%He dabs his forehead and lowers his voice.%SPEECH_ON%This makes it even better.%SPEECH_OFF%Sighing, the dancer asks that he take a look at your inventory.%SPEECH_ON%A body like mine, anything will fit, inside or out, I'll make it work.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You offer five hundred crowns to the dancer. He keeps picking up coins - one at a time - and putting them in his clay pot. It is almost a silent affair, coins clapping loudly as they fall into a nearly empty barrel of clay. He looks up, looks down. He puts in one more crown then gets to his feet. He strips off his clothes and holds out his hand.%SPEECH_ON%The Gilded One must be gleaming upon us both, for you to have earned such keep, and no doubt He has guided your purse here to bring it to me.%SPEECH_OFF%You nod and shake his hand. A passerby glances over and scratches his head.%SPEECH_ON%Wait a minute, you've a snake down there! I thought you were a lady of the dance, but this...%SPEECH_OFF%He dabs his forehead and lowers his voice.%SPEECH_ON%This makes it even better.%SPEECH_OFF%Sighing, the dancer asks that he take a look at your inventory.%SPEECH_ON%A body like mine, anything will fit, inside or out, I'll make it work.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "cf1bb79bb390660556ba71536dfa9e0191ed9295fbf51a77f6f90716b9c36fff",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You take out a crown and flip it to the dancer. Her eyes catch its glint, but she doesn't break the dance. She drops her weapons and sashays over, cymbals clattering, hips gyrating, her knees hardly bending, her feet almost mystically carrying her across the ground. She gets near. The face is narrow, but the jaw broad. Her temples deep. She grins. It's a man. She's a man. He claps the cymbals in your face, then swings around, briefly gracing your groin with his ass, and starts to dance back to the middle. He picks up your coin with a toe and flips it up and it lands in a clay pot. The crowd cheers.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You take out a crown and flip it to the dancer. Her eyes catch its glint, but she doesn't break the dance. She drops her weapons and sashays over, cymbals clattering, hips gyrating, her knees hardly bending, her feet almost mystically carrying her across the ground. She gets near. The face is narrow, but the jaw broad. Her temples deep. She grins. It's a man. She's a man. He claps the cymbals in your face, then swings around, briefly gracing your groin with his ass, and starts to dance back to the middle. He picks up your coin with a toe and flips it up and it lands in a clay pot. The crowd cheers.}\""
+  },
+  {
+    "key": "9e5f3ebe607e4d724240af54cd531092584b2ee6d047dd7bba39e19d82cd1411",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You tell the dancer that he is one of the best you've seen with a blade. He laughs.%SPEECH_ON%A truly well intentioned attempt on your part, Crownling, to drag me to your ways of life. But you know well that there is nothing you could say or do that would take me away from this life. Yes, the blade suits me well, but so does flittering about for the crowd, earning praise without spilling blood to do it. You go play gladiator on the sands and earn you coin, Crownling, and I will be here earning mine.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You tell the dancer that he is one of the best you've seen with a blade. He laughs.%SPEECH_ON%A truly well intentioned attempt on your part, Crownling, to drag me to your ways of life. But you know well that there is nothing you could say or do that would take me away from this life. Yes, the blade suits me well, but so does flittering about for the crowd, earning praise without spilling blood to do it. You go play gladiator on the sands and earn you coin, Crownling, and I will be here earning mine.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "2d807f74627a3c8ebf29d42b0e8d31ea4c86bd15082d389649f86dfd1198fde9",
+    "original": "]1[/color] Crown",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]1[/color] Crown\""
+  },
+  {
+    "key": "5076c811af44eba319a7c380d69d5432e23a681021f4d45b5c0a88dbe01ca62f",
+    "original": "]500[/color] Crowns",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.PositiveEventValue + \"]500[/color] Crowns\""
+  }
+]

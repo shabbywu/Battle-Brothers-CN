@@ -1,0 +1,86 @@
+[
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "bro.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "b7bc905957708d55178221afa8341e37cfc0312b758eb88e1a3ea8b3e2fee3c6",
+    "original": " suffers light wounds",
+    "translation": "",
+    "context": "bro.getName() + \" suffers light wounds\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "19d696617e6f1da03e31df97c65499500ef1dfe8364e33223604418b7a833d99",
+    "original": "Assault the fort!",
+    "translation": "",
+    "context": "Text = \"Assault the fort!\""
+  },
+  {
+    "key": "c26fe6faf02ed1f48003d940b16a358b755a91250d19bfa346270192f48ff6f9",
+    "original": "Damn kids.",
+    "translation": "",
+    "context": "Text = \"Damn kids.\""
+  },
+  {
+    "key": "72eedfd903442f1dc763697b209eda1e4a6301b630fb1178be26d7b2d8f28da9",
+    "original": "Let's get back on the road.",
+    "translation": "",
+    "context": "Text = \"Let's get back on the road.\""
+  },
+  {
+    "key": "6c414670a502cfd6bff47b4cb7a7c0a6354ee6dc397ea558ae64b32c6fc5e2de",
+    "original": "Oathtakers!",
+    "translation": "",
+    "context": "Text = \"Oathtakers!\""
+  },
+  {
+    "key": "81bf5c82d9c4ccebab973d5a59f67c475f59d8a01f5170c78e2affeaa7dfdb2a",
+    "original": "That could have gone better.",
+    "translation": "",
+    "context": "Text = \"That could have gone better.\""
+  },
+  {
+    "key": "038fa730a0790ee755634b9e50b05fbc5500ee983f3185cf8c0edb11392be6c6",
+    "original": "We don't have time for this.",
+    "translation": "",
+    "context": "Text = \"We don't have time for this.\""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + item.getName()"
+  },
+  {
+    "key": "d01a2eccb7e5e0c732655bc7b6b653166f43e037439a339bd14a95a535de6629",
+    "original": "[img]gfx/ui/events/event_183.png[/img]{You take Anselm's skull and hold it up. With a booming voice, you explain the trials and triumphs of Young Anselm, the original Oathtaker. The kids are wowed, looking at one another as you regale them with tale after tale of courage and honor. Eventually, the kids produce a rather extravagant weapon.%SPEECH_ON%We found it in a pond.%SPEECH_OFF%Another kid pushes another.%SPEECH_ON%No, it was in a stone! Remember, I'm the one who pulled it out!%SPEECH_OFF%The kids fight each other for a time, but eventually a small girl takes the weapon and hurls it out of the tree fort's window. Its blade stakes into the ground, the steel warbling as it bends back and forth. She scoffs.%SPEECH_ON%Maybe it's for the best that someone else takes this thing, all they do is fight over it!%SPEECH_OFF%You wrap your hand around the sword's handle and its steel song hums to a quiet end. You unsheathe it from the earth and thank the kids for their contribution to the quest of the Oathtakers. The kids glance around at each other. One asks another.%SPEECH_ON%Do we have some sorta purpose now?%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_183.png[/img]{You take Anselm's skull and hold it up. With a booming voice, you explain the trials and triumphs of Young Anselm, the original Oathtaker. The kids are wowed, looking at one another as you regale them with tale after tale of courage and honor. Eventually, the kids produce a rather extravagant weapon.%SPEECH_ON%We found it in a pond.%SPEECH_OFF%Another kid pushes another.%SPEECH_ON%No, it was in a stone! Remember, I'm the one who pulled it out!%SPEECH_OFF%The kids fight each other for a time, but eventually a small girl takes the weapon and hurls it out of the tree fort's window. Its blade stakes into the ground, the steel warbling as it bends back and forth. She scoffs.%SPEECH_ON%Maybe it's for the best that someone else takes this thing, all they do is fight over it!%SPEECH_OFF%You wrap your hand around the sword's handle and its steel song hums to a quiet end. You unsheathe it from the earth and thank the kids for their contribution to the quest of the Oathtakers. The kids glance around at each other. One asks another.%SPEECH_ON%Do we have some sorta purpose now?%SPEECH_OFF%}\""
+  },
+  {
+    "key": "851c06169ddd3ffda2274b21818f40c412f398d9a8f0c4d3807bb64e7759dbad",
+    "original": "[img]gfx/ui/events/event_97.png[/img]{You come across a group of kids sitting in a treehouse. Eyes glare out of the portholes and around the wooden bastion you can see readied slingshots. As you size up the fort, they draw up the rope ladder and tell you to scram. Curious, you wonder what they might have of value for such an overreaction to a group of men who would almost certainly destroy them.\n\nBeing that kids easily buckle under pressure, you ask if they're hiding something. One makes a jerking off motion and tells you to scram, while another kid slugs him on the shoulder and tells him to shut up. Not exactly the answers of kids hiding treats or pastries. They definitely got something valuable up there.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{You come across a group of kids sitting in a treehouse. Eyes glare out of the portholes and around the wooden bastion you can see readied slingshots. As you size up the fort, they draw up the rope ladder and tell you to scram. Curious, you wonder what they might have of value for such an overreaction to a group of men who would almost certainly destroy them.\\n\\nBeing that kids easily buckle under pressure, you ask if they're hiding something. One makes a jerking off motion and tells you to scram, while another kid slugs him on the shoulder and tells him to shut up. Not exactly the answers of kids hiding treats or pastries. They definitely got something valuable up there.}\""
+  },
+  {
+    "key": "f69ebac62e2988a19dd6e4fdfd27af55cc01c0cbd97fb89fd860a7c4f381b72d",
+    "original": "[img]gfx/ui/events/event_97.png[/img]{You order the %companyname% to assault the fort. Unable to climb the tree under threat of rocks and slingshots, you have the men build ladders and throw up ropes of their own. The kids scream and throw down sticks and stones, dishing out an unignorable amount of pain, but not nearly as much as the words they call you, awful things like birdwatchers and pig dicks, the mean little bastards. A few manage to cut the ropes as the men are climbing up, leading to even more injuries. But eventually the sellswords roost the kids out, throwing the children out of the tree with great fervor. No surprise to you, your intuition was entirely correct: the kids had stowed away a few armaments and were stockpiling them in the tree fort. You take the goods and have the fort and the tree it rests on burned.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{You order the %companyname% to assault the fort. Unable to climb the tree under threat of rocks and slingshots, you have the men build ladders and throw up ropes of their own. The kids scream and throw down sticks and stones, dishing out an unignorable amount of pain, but not nearly as much as the words they call you, awful things like birdwatchers and pig dicks, the mean little bastards. A few manage to cut the ropes as the men are climbing up, leading to even more injuries. But eventually the sellswords roost the kids out, throwing the children out of the tree with great fervor. No surprise to you, your intuition was entirely correct: the kids had stowed away a few armaments and were stockpiling them in the tree fort. You take the goods and have the fort and the tree it rests on burned.}\""
+  },
+  {
+    "key": "ce8e931fc0a4e7507143a1fb89b149097b89f8d63ae5683c2480b20fa547c0bb",
+    "original": "[img]gfx/ui/events/event_97.png[/img]{You punch two fingers forward, ordering the men to assault the tree fort. The kids respond with slingshots and rocks. Pretending the rocks don't hurt like a mug, you tell the kids to give up. In return, they call you an inept fool and a witless schemer. These words hurt almost as much as the stones and rocks.\n\nSuddenly, the fort finds reinforcements as a group of more kids join the fray from the adjacent tree's branches, the bastards streaming over like sea raiders boarding a ship. The whole assault is going to all the hells in many handbaskets and a few of the men are complaining that the whole affair is simply far too annoying an endeavor to have it be continued. You wonder if they're just worried about their pride. Sighing, you order a cease to the assault. The kids laugh and mock you, but it is what it is.%SPEECH_ON%They probably had nothing up there anyway. Not worth the hassle.%SPEECH_OFF%One of the men says. You disagree, but there's no point in dwelling on it. The kids rally into a fowl choir and make squawking chicken noises as you march away.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{You punch two fingers forward, ordering the men to assault the tree fort. The kids respond with slingshots and rocks. Pretending the rocks don't hurt like a mug, you tell the kids to give up. In return, they call you an inept fool and a witless schemer. These words hurt almost as much as the stones and rocks.\\n\\nSuddenly, the fort finds reinforcements as a group of more kids join the fray from the adjacent tree's branches, the bastards streaming over like sea raiders boarding a ship. The whole assault is going to all the hells in many handbaskets and a few of the men are complaining that the whole affair is simply far too annoying an endeavor to have it be continued. You wonder if they're just worried about their pride. Sighing, you order a cease to the assault. The kids laugh and mock you, but it is what it is.%SPEECH_ON%They probably had nothing up there anyway. Not worth the hassle.%SPEECH_OFF%One of the men says. You disagree, but there's no point in dwelling on it. The kids rally into a fowl choir and make squawking chicken noises as you march away.}\""
+  }
+]
