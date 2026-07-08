@@ -7,13 +7,27 @@
       "type": "base",
       "name": "纯净原版",
       "description": "原版+DLC",
-      "version": "1.5.17",
+      "version": "1.5.2.2",
       "project_id": 7032,
       "json_path": "zh_CN.UTF-8/json",
       "package_name": "zdata_cn.zip",
       "detect": [],
       "required": true
+    },
+    {
+      "id": "reforged",
+      "type": "mod",
+      "name": "Battle Brothers - Reforged",
+      "description": "Reforged core mod, Nexus Mods #765",
+      "version": "0.9.2",
+      "project_id": 19677,
+      "json_path": "zh_CN.UTF-8/json/mods/reforged",
+      "package_name": "zdata_cn_reforged.zip",
+      "detect": [
+        "mod_reforged_core*.zip",
+        "mod_reforged_assets*.zip"
+      ],
+      "required": false
     }
   ]
 }
-
