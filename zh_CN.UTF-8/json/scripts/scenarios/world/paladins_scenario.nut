@@ -19,7 +19,7 @@
     "ID": 293419747,
     "key": "Oathtakers",
     "original": "Oathtakers",
-    "translation": "宣誓者",
+    "translation": "执誓者",
     "stage": 1,
     "context": "this.m.Name = 'Oathtakers'"
   },

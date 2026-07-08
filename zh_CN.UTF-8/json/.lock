@@ -11907,9 +11907,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:53.361Z",
         "updatedAt": "2023-07-05T12:35:59.403Z",
-        "modifiedAt": "2025-10-16T14:26:40Z",
+        "modifiedAt": "2026-07-08T03:24:01.372Z",
         "hash": "36ebbd6c2412b6854e4a41afda0e3aab",
-        "sha256": "6ef08ae898d75ad9cfb00e965bb9e584924e2ef4a848e379a5aa24b31403487e"
+        "sha256": "a84d0f4433317d78c0cafae3d9b6a8e0e0ffb5cfcd4829fad7c842c55f4ca1ca"
     },
     "scripts/events/events/dlc2/corpses_in_forest_event.json": {
         "id": 918884,
@@ -14928,9 +14928,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:52.628Z",
         "updatedAt": "2023-06-26T05:48:02.249Z",
-        "modifiedAt": "2023-06-26T05:48:02Z",
+        "modifiedAt": "2026-07-08T07:36:38.774Z",
         "hash": "f0bf1d3253426a9d4adf77afd1fc4919",
-        "sha256": "c5ade670830bf0ceb078bf6d757b763ad5978d21dcd6591a47c6e53b5f0a3b82"
+        "sha256": "c971101ddc340ffb07eae12eba5ff270760fe306beb463dfb62bbbb50f626f89"
     },
     "scripts/events/events/dlc8/incense_trade_event.json": {
         "id": 919043,
@@ -17360,9 +17360,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:45.001Z",
         "updatedAt": "2023-06-26T05:48:13.95Z",
-        "modifiedAt": "2025-09-17T03:37:33Z",
+        "modifiedAt": "2026-07-08T06:43:27.304Z",
         "hash": "e622be01fe8d33c70c62c2376e5a3b1e",
-        "sha256": "032a9f6d2f88c5591d40109b19f754fbe6a36e569d83bed123f65c6003f6c8fb"
+        "sha256": "fe912268b0635515f2a5a085c6c59462039c47500588efa4cf534115222cde6d"
     },
     "scripts/events/events/scenario/raiders_intro_event.json": {
         "id": 919164,
@@ -33624,9 +33624,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:52.263Z",
         "updatedAt": "2026-02-11T17:21:51.161Z",
-        "modifiedAt": "2026-05-25T08:49:38.536Z",
+        "modifiedAt": "2026-07-08T07:13:49.311Z",
         "hash": "f425a4c705b1742d7e760c919a20635d",
-        "sha256": "76b50fa2435bdcdec67e6cf526c64d8a0d4f83be1f8d197b0af6512d2c772499"
+        "sha256": "e59b01aff1db3d66ef0983efae187f1c479eb30097ac060f943788243a7a0345"
     },
     "scripts/scenarios/world/raiders_scenario.json": {
         "id": 919975,
@@ -44644,9 +44644,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2026-06-25T17:01:04.537Z",
-        "modifiedAt": "2026-06-27T02:21:04.097Z",
+        "modifiedAt": "2026-07-08T07:26:56.607Z",
         "hash": "1b214a483b2f2f453bb56785ea2d4591",
-        "sha256": "6038442fd8d610226cd7f65ebb1f401ec0adddb537833be59587b62e60045098"
+        "sha256": "d9f962c398e579ab2f065a30a119fb2e588dd3406de471c6a90945e49059a9fc"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

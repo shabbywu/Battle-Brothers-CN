@@ -667,7 +667,7 @@
     "ID": 293423036,
     "key": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
     "original": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
-    "translation": "免费的《血肉与信仰》DLC为你添加了两个新的、非常独特的起源：解剖学家和宣誓者。 此外，还有两个新的旗帜、新装备、新的雇佣背景和许多新事件。",
+    "translation": "免费的《血肉与信仰》DLC为你添加了两个新的、非常独特的起源：解剖学家和执誓者。 此外，还有两个新的旗帜、新装备、新的雇佣背景和许多新事件。",
     "stage": 5,
     "context": "text = \"The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.\""
   },
