@@ -203,7 +203,7 @@
     "ID": 293416105,
     "key": "Well, at least we got paid.",
     "original": "Well, at least we got paid.",
-    "translation": "好吧，至少我们拿到了报酬。",
+    "translation": "好吧，至少我们没白干。",
     "stage": 1,
     "context": "Text = 'Well, at least we got paid.'"
   },
