@@ -16049,9 +16049,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:22.399Z",
         "updatedAt": "2023-07-05T12:36:07.295Z",
-        "modifiedAt": "2026-06-29T05:06:50.187Z",
+        "modifiedAt": "2026-07-07T13:17:49.848Z",
         "hash": "18309a3e507944ad91df65bebe947dbf",
-        "sha256": "1eddccbd06cb803cc8a3d3605646a6ae63e9e6c4c3d0b3132b2265e32630afdb"
+        "sha256": "53e398d28efd86e09c10df13827fd96ee2beb92e32889187ce681a1bbc9bf63a"
     },
     "scripts/events/events/inadvertently_save_merchant_event.json": {
         "id": 919102,
