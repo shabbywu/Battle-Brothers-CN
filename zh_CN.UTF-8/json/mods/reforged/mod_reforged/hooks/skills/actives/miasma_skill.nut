@@ -35,7 +35,8 @@
     "key": "7f17c1d7267cc608c0bf33c38bffa1426f0a6b94c3dccc426b8dca63d7e259f7",
     "original": "Blows away existing tile effects like Fire or Smoke",
     "translation": "吹散火焰，烟雾等现有地格效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Blows away existing tile effects like Fire or Smoke\")"
   },
   {
     "ID": 1007430495,

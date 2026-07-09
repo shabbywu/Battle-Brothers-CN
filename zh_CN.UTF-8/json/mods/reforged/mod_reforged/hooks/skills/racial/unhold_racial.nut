@@ -50,7 +50,8 @@
     "key": "5d2388efaecaec2a90b2f73e13e4e1a80c3c38f9d25cfc89651bb3d7f510ec98",
     "original": "Immune to being [$ $|Skill+rotation]",
     "translation": "免疫[$ $|Skill+rotation]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+rotation]\")"
   },
   {
     "ID": 1007438951,

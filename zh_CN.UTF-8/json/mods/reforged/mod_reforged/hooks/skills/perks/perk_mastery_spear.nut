@@ -35,7 +35,8 @@
     "key": "0f893ea4a9334b9c9f57b3d146e4ccb12dac4e8ff271566e490a47eca5dad1f7",
     "original": "This character has mastered the art of fighting with the spear allowing him to perform an extra attack once per [turn|Concept.Turn].",
     "translation": "该角色精通矛术，使其可在每[回合|Concept.Turn]中额外施展一次攻击。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character has mastered the art of fighting with the spear allowing him to perform an extra attack once per [turn|Concept.Turn].\")"
   },
   {
     "ID": 1007437451,

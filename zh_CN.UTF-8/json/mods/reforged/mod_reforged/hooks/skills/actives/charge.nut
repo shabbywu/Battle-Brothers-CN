@@ -48,7 +48,8 @@
     "ID": 1007424310,
     "key": "e9621a9fa308784fbc8aa7c4733715bdcee6667f45afe9a64e170c64d945a004",
     "original": "Move to the target tile",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Move to the target tile\")"
   },
   {
     "ID": 1007424311,
@@ -56,5 +57,12 @@
     "original": "text",
     "translation": "",
     "context": "type = \"text\""
+  },
+  {
+    "ID": 1007668119,
+    "key": "cbf6b2f92809d5f2f95bdd9e487f3f49539163f2b082cf8b10f31f6aead41cf4",
+    "original": "Cannot be used when [engaged|Concept.ZoneOfControl] in melee",
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot be used when [engaged|Concept.ZoneOfControl] in melee\")"
   }
 ]

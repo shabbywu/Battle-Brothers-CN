@@ -33,7 +33,8 @@
     "key": "a57f51a929fcca5668a5ae0d89baa56a00b666aadb83daff16eb71368bd49311",
     "original": "A well-placed gouging attack that is likely to inflict debilitating [injuries|Concept.InjuryTemporary].",
     "translation": "一记精心瞄准，更容易造成[创伤|Concept.InjuryTemporary]的凿击。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"A well-placed gouging attack that is likely to inflict debilitating [injuries|Concept.InjuryTemporary].\")"
   },
   {
     "ID": 1007441273,

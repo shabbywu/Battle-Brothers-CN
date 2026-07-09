@@ -5,7 +5,7 @@
     "original": "Goblins",
     "translation": "地精",
     "stage": 1,
-    "context": "ID = \"Goblins\""
+    "context": "this.getSpawnable(\"Goblins\")"
   },
   {
     "ID": 1007411511,
@@ -13,6 +13,6 @@
     "original": "Orcs",
     "translation": "兽人",
     "stage": 1,
-    "context": "ID = \"Orcs\""
+    "context": "this.getSpawnable(\"Orcs\")"
   }
 ]

@@ -12,7 +12,7 @@
     "original": " hooks ",
     "translation": "钩开了",
     "stage": 1,
-    "context": "getroottable().Const.UI.getColorizedEntityName(_user) + \" hooks \" + getroottable().Const.UI.getColorizedEntityName(targetEntity) + \"'s shield removing their \" + shieldWall.m.Name"
+    "context": "getroottable().Const.UI.getColorizedEntityName(_user) + \" hooks \" + getroottable().Const.UI.getColorizedEntityName(targetEntity) + \"'s shield\""
   },
   {
     "ID": 1007441296,
@@ -50,7 +50,8 @@
     "ID": 1007441300,
     "key": "23bac0f50d6b3e9d18a0c274d446330f1ef056309aeff57043ecd0fa624b76b1",
     "original": "Cannot be used against a target using [$ $|Skill+shieldwall_effect] adjacent to an ally using [$ $|Skill+shieldwall_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot be used against a target using [$ $|Skill+shieldwall_effect] adjacent to an ally using [$ $|Skill+shieldwall_effect]\")"
   },
   {
     "ID": 1007441301,
@@ -80,13 +81,15 @@
     "ID": 1007441304,
     "key": "16e23dbeead7a1e24ff998d37f8590867be6e91650ba37837a2e7971db3fc097",
     "original": "Ignores the bonus to [Melee Defense|Concept.MeleeDefense] granted by shields and [$ $|Skill+shieldwall_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Ignores the bonus to [Melee Defense|Concept.MeleeDefense] granted by shields and [$ $|Skill+shieldwall_effect]\")"
   },
   {
     "ID": 1007441305,
     "key": "f96dcbfba83a66ade674fd7874794e4da3b933a4c85048a7e93d2c5f7b056386",
     "original": "Once per [turn|Concept.Turn], the second successful use against the same target refunds all of its [Action Point|Concept.ActionPoints] cost",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Once per [turn|Concept.Turn], the second successful use against the same target refunds all of its [Action Point|Concept.ActionPoints] cost\")"
   },
   {
     "ID": 1007441306,
@@ -100,6 +103,7 @@
     "ID": 1007441307,
     "key": "097b291e84068f21c9b2e12387cd2da691b9362787321fa67f0ebaadbb74ef11",
     "original": "Removes [$ $|Skill+shieldwall_effect] from the target. Otherwise applies the [$ $|Skill+rf_hooked_shield_effect] effect",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes [$ $|Skill+shieldwall_effect] from the target. Otherwise applies the [$ $|Skill+rf_hooked_shield_effect] effect\")"
   }
 ]

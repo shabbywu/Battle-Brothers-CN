@@ -28,7 +28,8 @@
     "key": "c0d0cb4bcbdf1d345baae99157ea80e7486e1d667942b0ac7fe4946b0ab2547b",
     "original": "The target receives a mental [morale check|Concept.Morale] with a greater penalty to [Resolve|Concept.Bravery] the closer they are to you. If successful, the target falls [$ $|Skill+sleeping_effect]",
     "translation": "目标进行一次有[决心|Concept.Bravery]减值的[士气检定|Concept.Morale]，离你越近减值越大，如成功，目标就会[睡着|Skill+sleeping_effect]。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target receives a mental [morale check|Concept.Morale] with a greater penalty to [Resolve|Concept.Bravery] the closer they are to you. If successful, the target falls [$ $|Skill+sleeping_effect]\")"
   },
   {
     "ID": 1007432447,

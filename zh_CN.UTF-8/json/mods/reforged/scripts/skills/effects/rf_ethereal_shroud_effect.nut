@@ -20,6 +20,7 @@
     "key": "503700242448cfe256e929cb2c6fdb4c076186aaf096bc4d403cb1f4fc6e25ef",
     "original": "Melee attackers who inflict [Hitpoint|Concept.Hitpoints] damage to you are afflicted with [$ $|Skill+rf_numbness_effect]",
     "translation": "对所有对你造成[生命值|Concept.Hitpoints]伤害的近战攻击者施加[$ $|Skill+rf_numbness_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Melee attackers who inflict [Hitpoint|Concept.Hitpoints] damage to you are afflicted with [$ $|Skill+rf_numbness_effect]\")"
   }
 ]

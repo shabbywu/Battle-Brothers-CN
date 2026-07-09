@@ -12,7 +12,8 @@
     "key": "8d161533b94f34f93b7a436de029a11d6f1d488061c6018afd2eac70ee95db08",
     "original": "Brings your tail next to you ignoring [zone of control|Concept.ZoneOfControl]",
     "translation": "无视[控制区域|Concept.ZoneOfControl]，将尾巴带到相邻地格",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Brings your tail next to you ignoring [zone of control|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007430578,

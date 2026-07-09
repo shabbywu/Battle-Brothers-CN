@@ -50,7 +50,8 @@
     "ID": 1007441394,
     "key": "1db4e7817d9d61b3b830a4312a9d431ddd622ff9bb7c11141bee4c04cf046f56",
     "original": "Cannot be used when rooted",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used when rooted\")"
   },
   {
     "ID": 1007441395,
@@ -64,7 +65,8 @@
     "ID": 1007441396,
     "key": "a67497886b59f53451c3631e6854356366f3a17125cecc87ce7a5bac23b647dd",
     "original": "Immediately gain the [$ $|Skill+indomitable_effect] effect",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immediately gain the [$ $|Skill+indomitable_effect] effect\")"
   },
   {
     "ID": 1007441397,
@@ -78,13 +80,15 @@
     "ID": 1007441398,
     "key": "7581d9687107092c132cdee0e71f4e60f1e07bedc2e3b52e1061b745bdecd567",
     "original": "Not usable when [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Not usable when [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007441399,
     "key": "8481224a44ae367e6248278fead0ff5c41a67ac44bd9b07b876242ec5b944275",
     "original": "Requires a two-handed non-fencing sword",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a two-handed non-fencing sword\")"
   },
   {
     "ID": 1007441400,
@@ -98,7 +102,8 @@
     "ID": 1007441401,
     "key": "3f617f1e050d90e4cc6bab1bc7add2efccfa1a3ac045f3a281e990ea9d796587",
     "original": "Will [stagger|Skill+staggered_effect] all enemies adjacent to the target tile",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will [stagger|Skill+staggered_effect] all enemies adjacent to the target tile\")"
   },
   {
     "ID": 1007441402,

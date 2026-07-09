@@ -11,7 +11,8 @@
     "ID": 1007440488,
     "key": "4fd336f38763118286af00379387d5f1a1f6185f01a9880151226fc2a1c6dacd",
     "original": "Can not be used because this character is [engaged in melee|Concept.ZoneOfControl]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Can not be used because this character is [engaged in melee|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007440489,
@@ -26,20 +27,23 @@
     "key": "892b3e48247423ea2409c3ce353a912289bac5fb1ae8d08712fe4d791e8ac881",
     "original": "Sling",
     "translation": "抛投",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.String.replace(getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\"), \"Throw\", \"Sling\")"
   },
   {
     "ID": 1007440491,
     "key": "c78054582e89a9a7d8cdf08a74f1b78f2f158a338703e9baf1ed56ef0104e738",
     "original": "Throw",
     "translation": "投掷",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.String.replace(getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\"), \"Throw\", \"Sling\")"
   },
   {
     "ID": 1007440492,
     "key": "c4b9e8ad35170faec914b49de60127796e266b300d81a7ce88736fa3cff4e813",
     "original": "sling",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\")"
   },
   {
     "ID": 1007440493,
@@ -52,6 +56,7 @@
     "ID": 1007440494,
     "key": "7b0456581bef4cb1f0e2c9c52ab9a3d80989f8aabe74e609d3cc183c365363de",
     "original": "throw",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\")"
   }
 ]

@@ -99,7 +99,8 @@
     "key": "64923822756da12da47f641d4795963146b5414fae75df3a317e7a434db63678",
     "original": "Requires a Sword to be equipped",
     "translation": "需要装备剑",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorRed(\"Requires a Sword to be equipped\")"
   },
   {
     "ID": 1007441695,

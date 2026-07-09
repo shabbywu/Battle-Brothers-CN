@@ -65,7 +65,8 @@
     "ID": 1007440786,
     "key": "7dae5272a2540f1ca9f7de775b0e8475252cb409eb355dd3a1df2a20e027ca9c",
     "original": "Removing the Fountain of Youth (Grotesque Tree) location",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().logInfo(\"Removing the Fountain of Youth (Grotesque Tree) location\")"
   },
   {
     "ID": 1007440787,

@@ -12,7 +12,8 @@
     "key": "c001e2c16d60e1a7119c2f4352661da168a811cb823363cfd768b8cc8b71744a",
     "original": "Has %s chance to hit due to [%s|Perk+%s]",
     "translation": "因[%s|Perk+%s]命中率提高%s",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Has %s chance to hit due to [%s|Perk+%s]\", getroottable().MSU.Text.colorizeValue(rangedBonus, {\n    AddSign = True\n    AddPercent = True\n}), this.m.Name, this.ClassName)"
   },
   {
     "ID": 1007441899,

@@ -28,7 +28,8 @@
     "key": "72189ef23c5732052193e90bc65e9b3a89e0f5fc0cb0ac34f20db7f113a380e6",
     "original": "Gain one use of the [$ $|Skill+rf_line_breaker_onslaught_skill] skill",
     "translation": "获得一次性的[$ $|Skill+rf_line_breaker_onslaught_skill]技能",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain one use of the [$ $|Skill+rf_line_breaker_onslaught_skill] skill\")"
   },
   {
     "ID": 1007441722,

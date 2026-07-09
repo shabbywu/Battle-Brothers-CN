@@ -44,7 +44,8 @@
     "key": "735511c124c1af51c126cf00e2779592f5de469279df97621a3482de484705d4",
     "original": "Inflicts the target with [$ $|Skill+rf_grave_chill_effect]",
     "translation": "对目标施加[$ $|Skill+rf_grave_chill_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Inflicts the target with [$ $|Skill+rf_grave_chill_effect]\")"
   },
   {
     "ID": 1007441467,

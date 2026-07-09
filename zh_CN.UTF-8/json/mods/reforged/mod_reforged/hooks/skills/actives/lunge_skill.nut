@@ -11,7 +11,8 @@
     "key": "c49a0633123619bc43ef1f6e3060b8f2758836b71359fe7e6fcf7970bad457ce",
     "original": "Cannot be used while [rooted|Concept.Rooted]",
     "translation": "被[定身|Concept.Rooted]时无法使用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while [rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007429960,
@@ -25,14 +26,16 @@
     "ID": 1007429961,
     "key": "8ac358cff34d1ba81ba431123c2d15d2013045de60b7112618dba9d4d1a87b9a",
     "original": "Inflicts additional damage, the higher the user's current [Initiative|Concept.Initiative]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Inflicts additional damage, the higher the user's current [Initiative|Concept.Initiative]\")"
   },
   {
     "ID": 1007429962,
     "key": "26ef746fb9a60578b4b8db379a9d7c66053c34926b24fb1cfd889a54727afd0d",
     "original": "Moves the user next to the target, ignoring [Zone of Control|Concept.ZoneOfControl]",
     "translation": "无视[控制区|Concept.ZoneOfControl]，将使用者移动到目标身边",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Moves the user next to the target, ignoring [Zone of Control|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007429963,

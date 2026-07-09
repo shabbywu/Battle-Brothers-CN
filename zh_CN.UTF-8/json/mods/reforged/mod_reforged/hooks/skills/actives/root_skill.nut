@@ -28,7 +28,8 @@
     "key": "d3914534b69fa202722dd0edca639962442a00b789230898fbf1e7aacd8b72e3",
     "original": "The target and all adjacent enemies receive the [$ $|Skill+rooted_effect] effect",
     "translation": "对目标和相邻敌人施加[$ $|Skill+rooted_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target and all adjacent enemies receive the [$ $|Skill+rooted_effect] effect\")"
   },
   {
     "ID": 1007431533,

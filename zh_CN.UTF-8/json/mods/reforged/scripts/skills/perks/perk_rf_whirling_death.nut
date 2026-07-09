@@ -35,6 +35,7 @@
     "ID": 1007442054,
     "key": "c219d573686c078f75e9ad3facefc1d30d3ec56ae2cda4ba224bddcc43c133ae",
     "original": "[%s] is using skill [%s] on target [%s (%i)] due to %s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"[%s] is using skill [%s] on target [%s (%i)] due to %s\", _user.getName(), _skill.getName(), _targetEntity.getName(), _targetEntity.getID(), this.m.Name)"
   }
 ]

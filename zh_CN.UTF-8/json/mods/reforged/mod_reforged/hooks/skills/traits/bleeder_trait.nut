@@ -20,6 +20,7 @@
     "key": "c43fb05de4d8a9a0a442824f677d9753397cdd29cd123404e434bc457256b6d2",
     "original": "doubled",
     "translation": "加倍",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"doubled\")"
   }
 ]

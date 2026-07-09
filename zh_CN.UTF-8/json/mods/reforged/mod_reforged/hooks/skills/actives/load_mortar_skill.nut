@@ -36,5 +36,12 @@
     "original": "text",
     "translation": "",
     "context": "type = \"text\""
+  },
+  {
+    "ID": 1007668121,
+    "key": "cbf6b2f92809d5f2f95bdd9e487f3f49539163f2b082cf8b10f31f6aead41cf4",
+    "original": "Cannot be used when [engaged|Concept.ZoneOfControl] in melee",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used when [engaged|Concept.ZoneOfControl] in melee\")"
   }
 ]

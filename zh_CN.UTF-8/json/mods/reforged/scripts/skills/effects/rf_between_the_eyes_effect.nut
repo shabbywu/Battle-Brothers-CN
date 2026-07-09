@@ -58,7 +58,8 @@
     "key": "9c4384ed6f05fa5a2b090c903f27edfbdab659176cdaee6cbbd1d5401192a9c6",
     "original": "Will expire upon [waiting|Concept.Wait] or ending your [turn|Concept.Turn]",
     "translation": "会在[等待|Concept.Wait]或结束[回合|Concept.Turn]后失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon [waiting|Concept.Wait] or ending your [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441535,

@@ -35,7 +35,8 @@
     "key": "3f3beba3b3d0b580bb0517e0b5c5a27537ec8529ced9c083b1ef191c6a807718",
     "original": "You gain the [$ $|Skill+possessing_undead_effect] effect and the target gains the [$ $|Skill+possessed_undead_effect] effect",
     "translation": "获得[支配亡灵|Skill+possessing_undead_effect]效果，使目标获得[被支配|Skill+possessed_undead_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"You gain the [$ $|Skill+possessing_undead_effect] effect and the target gains the [$ $|Skill+possessed_undead_effect] effect\")"
   },
   {
     "ID": 1007430898,
@@ -43,5 +44,12 @@
     "original": "text",
     "translation": "",
     "context": "type = \"text\""
+  },
+  {
+    "ID": 1007668122,
+    "key": "cbf6b2f92809d5f2f95bdd9e487f3f49539163f2b082cf8b10f31f6aead41cf4",
+    "original": "Cannot be used when [engaged|Concept.ZoneOfControl] in melee",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used when [engaged|Concept.ZoneOfControl] in melee\")"
   }
 ]

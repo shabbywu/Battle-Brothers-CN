@@ -20,14 +20,16 @@
     "key": "765bc906510c5becb0ef4c19178dafbb9d26a43661a30277e9ad77842da11b20",
     "original": "Must be reloaded before shooting again",
     "translation": "必须重新装填才能再次射击",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Must be reloaded before shooting again\")"
   },
   {
     "ID": 1007432097,
     "key": "c3f1c24953d0702d6a57a0aef671319c5b86d3392ed31e1a3971180e838655ec",
     "original": "Needs a non-empty quiver of bolts equipped",
     "translation": "需要装备非空弩箭袋",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Needs a non-empty quiver of bolts equipped\")"
   },
   {
     "ID": 1007432098,

@@ -12,7 +12,8 @@
     "key": "36eee35dc47fda43928ebb81374f2d1f3e0f108860d6990ec7abe4cfe084468d",
     "original": "Will prevent your animals from going wild for their next [turn|Concept.Turn]",
     "translation": "防止你的动物在下[回合|Concept.Turn]中回归野性",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will prevent your animals from going wild for their next [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007425035,

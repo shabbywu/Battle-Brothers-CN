@@ -11,7 +11,8 @@
     "key": "b9fe3e031e56bf46d6b925b1ab8d5ca4b9bb784afb525bda932f525dece965da",
     "original": "Skills cost %s [Action Point(s)|Concept.ActionPoints]%s",
     "translation": "技能消耗%s[行动点数|Concept.ActionPoints]%s",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Skills cost %s [Action Point(s)|Concept.ActionPoints]%s\", getroottable().MSU.Text.colorizeValue(this.m.ActionPointCostModifier, {\n    InvertColor = True\n    AddSign = True\n}), minimumString)"
   },
   {
     "ID": 1007441823,
@@ -26,6 +27,7 @@
     "key": "b394b441092444cfba70fe96bd7cb6d0e8f5a35f1e201b8e241afb1f34b7bef6",
     "original": "Will expire upon using a non-free skill, [waiting|Concept.Wait] or ending your [turn|Concept.Turn]",
     "translation": "会在使用技能，[等待|Concept.Wait]或结束[回合|Concept.Turn]后失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon using a non-free skill, [waiting|Concept.Wait] or ending your [turn|Concept.Turn]\")"
   }
 ]

@@ -12,7 +12,7 @@
     "key": "85c3f9fa6f300eea6f1e388a6f988f52e2cc968d344ea763e92e4bce9c7292f0",
     "original": "Animals",
     "translation": "",
-    "context": "ID = \"Animals\""
+    "context": "this.getSpawnable(\"Animals\")"
   },
   {
     "ID": 1007411499,
@@ -20,7 +20,7 @@
     "original": "Bandits",
     "translation": "土匪",
     "stage": 1,
-    "context": "ID = \"Bandits\""
+    "context": "[\"Bandits\",\"Spiders\",\"Ghouls\",\"Direwolves\",\"Unholds\",\"Schrats\"].map(function None(_id){\n    return self.getSpawnable;;\n    return;\n})"
   },
   {
     "ID": 1007411500,
@@ -28,14 +28,14 @@
     "original": "Direwolves",
     "translation": "恐狼",
     "stage": 1,
-    "context": "ID = \"Direwolves\""
+    "context": "[\"Bandits\",\"Spiders\",\"Ghouls\",\"Direwolves\",\"Unholds\",\"Schrats\"].map(function None(_id){\n    return self.getSpawnable;;\n    return;\n})"
   },
   {
     "ID": 1007411501,
     "key": "3515a08d1e96aee4484d5d4bed59587b3a59e6404a0975efd9a40bcf88e7add0",
     "original": "Ghouls",
     "translation": "",
-    "context": "ID = \"Ghouls\""
+    "context": "[\"Bandits\",\"Spiders\",\"Ghouls\",\"Direwolves\",\"Unholds\",\"Schrats\"].map(function None(_id){\n    return self.getSpawnable;;\n    return;\n})"
   },
   {
     "ID": 1007411502,
@@ -67,7 +67,7 @@
     "original": "Schrats",
     "translation": "树人",
     "stage": 1,
-    "context": "ID = \"Schrats\""
+    "context": "[\"Bandits\",\"Spiders\",\"Ghouls\",\"Direwolves\",\"Unholds\",\"Schrats\"].map(function None(_id){\n    return self.getSpawnable;;\n    return;\n})"
   },
   {
     "ID": 1007411506,
@@ -82,7 +82,7 @@
     "key": "cb61a2042c86437d438c9f0598eed4f6a55a167430e24ad01f01a547c7c01e7d",
     "original": "Spiders",
     "translation": "",
-    "context": "ID = \"Spiders\""
+    "context": "[\"Bandits\",\"Spiders\",\"Ghouls\",\"Direwolves\",\"Unholds\",\"Schrats\"].map(function None(_id){\n    return self.getSpawnable;;\n    return;\n})"
   },
   {
     "ID": 1007411508,
@@ -98,6 +98,6 @@
     "original": "Unholds",
     "translation": "巨魔",
     "stage": 1,
-    "context": "ID = \"Unholds\""
+    "context": "this.getSpawnable(\"Unholds\")"
   }
 ]

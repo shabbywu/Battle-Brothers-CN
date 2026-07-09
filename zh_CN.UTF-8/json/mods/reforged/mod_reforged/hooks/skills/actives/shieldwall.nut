@@ -18,7 +18,8 @@
     "key": "fa53317aaf6b546579605fbdfd7c20fbef8108bfed5a9a7147ddb02e2493ad3d",
     "original": "Removes the penalty to shield defenses from built [Fatigue|Concept.Fatigue]",
     "translation": "移除[疲劳|Concept.Fatigue]积累造成的盾牌防御惩罚",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes the penalty to shield defenses from built [Fatigue|Concept.Fatigue]\")"
   },
   {
     "ID": 1007431936,

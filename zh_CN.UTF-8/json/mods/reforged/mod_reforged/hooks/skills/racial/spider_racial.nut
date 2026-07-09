@@ -19,14 +19,16 @@
     "key": "c0a06251001413aa8409285eeee8f6619abeee0e3d3540dae5f4c746e9a666fb",
     "original": "Immune to being [$ $|Skill+disarmed_effect]",
     "translation": "免疫[$ $|Skill+disarmed_effect]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+disarmed_effect]\")"
   },
   {
     "ID": 1007438939,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
     "translation": "不受[$ $|Skill+night_effect]惩罚影响",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007438940,

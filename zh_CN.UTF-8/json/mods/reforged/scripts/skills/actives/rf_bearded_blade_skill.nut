@@ -29,5 +29,12 @@
     "translation": "准备使用斧头上的钩刃，缴械你的对手。",
     "stage": 1,
     "context": "this.m.Description = \"Prepare to use the bearded blade of your axe to disarm your opponent.\""
+  },
+  {
+    "ID": 1007668135,
+    "key": "849276b284e8e610189502f3d2bc417825e58d73ad68de530d7acd958b3e6436",
+    "original": "Gain the [$ $|Skill+rf_bearded_blade_effect] effect that allows you to [$ $|Skill+disarmed_effect] your opponents",
+    "translation": "获得[钩刃|Skill+rf_bearded_blade_effect]效果，创造[缴械|Skill+disarmed_effect]对手的可能",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain the [$ $|Skill+rf_bearded_blade_effect] effect that allows you to [$ $|Skill+disarmed_effect] your opponents\")"
   }
 ]

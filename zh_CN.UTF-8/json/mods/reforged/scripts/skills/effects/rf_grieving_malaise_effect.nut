@@ -35,7 +35,8 @@
     "key": "e2770a3d1dbdf870fd7c072744a8a903a0dce85404731b4ab87ce5a934043c65",
     "original": "Has a chance to be removed at the start of every [turn|Concept.Turn] upon a successful [morale check|Concept.Morale]",
     "translation": "每个[回合|Concept.Turn]开始时进行一次[士气检定|Concept.Morale]，若成功，移除此效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Has a chance to be removed at the start of every [turn|Concept.Turn] upon a successful [morale check|Concept.Morale]\")"
   },
   {
     "ID": 1007441639,

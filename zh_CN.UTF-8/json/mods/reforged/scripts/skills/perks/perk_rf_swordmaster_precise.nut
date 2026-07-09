@@ -28,6 +28,7 @@
     "key": "3a4dc512177724a83b4de48bcb95410370dfc5ba13ab64c08c4531699113d044",
     "original": "This character is exceptionally precise with the sword, able to consistently strike at the most vulnerable parts. This effect becomes stronger with each [level|Concept.Level].",
     "translation": "该角色的剑法精准异常，能够持续击中弱点。[等级|Concept.Level]越高，效果越强。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character is exceptionally precise with the sword, able to consistently strike at the most vulnerable parts. This effect becomes stronger with each [level|Concept.Level].\")"
   }
 ]

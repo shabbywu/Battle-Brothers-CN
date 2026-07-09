@@ -20,7 +20,8 @@
     "key": "07c5db4c3ed2d4e70d97dba478efd5c68303c4bab8bd480e4200f23c14123304",
     "original": "Raises the targeted resurrectable corpse as a wiederganger",
     "translation": "将可用的目标尸体复活为僵尸",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Raises the targeted resurrectable corpse as a wiederganger\")"
   },
   {
     "ID": 1007431119,

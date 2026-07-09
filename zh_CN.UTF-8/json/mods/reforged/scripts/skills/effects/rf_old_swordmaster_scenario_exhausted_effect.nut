@@ -60,7 +60,8 @@
     "key": "4f4d375c41498618e2f8900852351698d279c1b146ac8e6095893ba0f1069c67",
     "original": "These effects only apply during battle. Will expire %s",
     "translation": "该效果仅在战斗中生效。%s消退",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"These effects only apply during battle. Will expire %s\", daysRemaining == 0 ? \"soon\" : \"in \" + daysRemaining + \" days\")"
   },
   {
     "ID": 1007441706,
@@ -83,6 +84,7 @@
     "key": "4a754148b88a68e18df1a02489950666d187e904cd88d2dc0aa16c103b94045f",
     "original": "soon",
     "translation": "很快就会",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"These effects only apply during battle. Will expire %s\", daysRemaining == 0 ? \"soon\" : \"in \" + daysRemaining + \" days\")"
   }
 ]

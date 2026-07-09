@@ -4,7 +4,8 @@
     "key": "961ada1db4d85153be8008f45531a982fcc59354020d83686f4cec81ab420192",
     "original": "Every other ally on the battlefield gains the [$ $|Skill+drums_of_war_effect] effect",
     "translation": "所有其他友军获得[战鼓|Skill+drums_of_war_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Every other ally on the battlefield gains the [$ $|Skill+drums_of_war_effect] effect\")"
   },
   {
     "ID": 1007425323,

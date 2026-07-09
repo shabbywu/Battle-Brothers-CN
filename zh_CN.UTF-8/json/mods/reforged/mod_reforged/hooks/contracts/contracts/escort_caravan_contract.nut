@@ -3,7 +3,8 @@
     "ID": 1007413192,
     "key": "b7bdf7a2d6e73e58d69a667ad9b63f706dd96bbbc4a8187914fc34646a1e003b",
     "original": "Distance",
-    "translation": ""
+    "translation": "",
+    "context": "this.m.Flags.get(\"Distance\")"
   },
   {
     "ID": 1007413193,

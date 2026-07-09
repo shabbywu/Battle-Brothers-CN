@@ -12,14 +12,16 @@
     "key": "d3d6db2217385282e936d23e7b7b56111ccce7cee9667ecb332ba93de11403bf",
     "original": "Targets who lose [morale|Concept.Morale] due to this are afflicted with [Grieving Malaise|Skill+rf_grieving_malaise_effect]",
     "translation": "因此技能降低[士气|Concept.Morale]等级的目标会被施加[悲痛萎靡|Skill+rf_grieving_malaise_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Targets who lose [morale|Concept.Morale] due to this are afflicted with [Grieving Malaise|Skill+rf_grieving_malaise_effect]\")"
   },
   {
     "ID": 1007441478,
     "key": "be2c291104b2e34e3ca8dea28424f1fa5ec661e5e69aad6d00fb37209518573c",
     "original": "Trigger a negative [morale check|Concept.Morale] for all enemies within %i tiles, with a stacking penalty of %s [Resolve|Concept.Bravery] for each tile the target is closer to you",
     "translation": "对%i格内的所有敌人触发一次负面[士气检定|Concept.Morale]，目标每靠近你一格，检定便受到%s点[决心值|Concept.Bravery]的累加惩罚。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Trigger a negative [morale check|Concept.Morale] for all enemies within %i tiles, with a stacking penalty of %s [Resolve|Concept.Bravery] for each tile the target is closer to you\", this.getMaxRange(), getroottable().MSU.Text.colorizeValue(this.m.MoraleCheckDifficultyPerTile, {\n    AddSign = True\n}))"
   },
   {
     "ID": 1007441479,

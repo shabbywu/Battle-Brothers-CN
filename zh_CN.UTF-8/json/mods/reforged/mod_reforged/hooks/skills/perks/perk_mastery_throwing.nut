@@ -5,7 +5,7 @@
     "original": " for ",
     "translation": "，持续",
     "stage": 1,
-    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has impaled \" + getroottable().Const.UI.getColorizedEntityName(_targetEntity) + \" for \" + effect.m.TurnsLeft + \" turns\""
+    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has stunned \" + getroottable().Const.UI.getColorizedEntityName(_targetEntity) + \" for \" + effect.m.TurnsLeft + \" turn\""
   },
   {
     "ID": 1007437722,
@@ -37,7 +37,7 @@
     "original": " turn",
     "translation": "回合",
     "stage": 1,
-    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has stunned \" + getroottable().Const.UI.getColorizedEntityName(_targetEntity) + \" for \" + effect.m.TurnsLeft + \" turn\""
+    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has staggered \" + getroottable().Const.UI.getColorizedEntityName(_targetEntity) + \" for \" + effect.m.TurnsLeft + \" turn\""
   },
   {
     "ID": 1007437726,

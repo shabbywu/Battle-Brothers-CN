@@ -3,24 +3,28 @@
     "ID": 1007413365,
     "key": "864ea39fe7e2b27155a29e46fb9458d05e2ccade4151d02b7c851b10257eda7a",
     "original": "arrow",
-    "translation": ""
+    "translation": "",
+    "context": "this.setSpriteOffset(\"arrow\", this.createVec(0, 20))"
   },
   {
     "ID": 1007413366,
     "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
     "original": "body",
-    "translation": ""
+    "translation": "",
+    "context": "this.addSprite(\"body\")"
   },
   {
     "ID": 1007413367,
     "key": "a945a02a044c3286e670d0ffff0cd9e8e46b3f6bcf9cf6bfaf19311d60fa830c",
     "original": "injury",
-    "translation": ""
+    "translation": "",
+    "context": "this.addSprite(\"injury\")"
   },
   {
     "ID": 1007413368,
     "key": "47dd56c2c7a7f7aac789ff6a0190ecc9f7508548c7e4f5118bef1622b478fbeb",
     "original": "socket",
-    "translation": ""
+    "translation": "",
+    "context": "this.addSprite(\"socket\")"
   }
 ]

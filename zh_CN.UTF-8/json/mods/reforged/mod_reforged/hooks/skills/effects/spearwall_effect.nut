@@ -3,7 +3,8 @@
     "ID": 1007437077,
     "key": "329cf65a0267088f645b9b150b299533f4ec03ca3d022c816c2cb9c9bd159b6f",
     "original": "Attacks do not suffer from %s when it is not your [turn|Concept.Turn]",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"Attacks do not suffer from %s when it is not your [turn|Concept.Turn]\", getroottable().Reforged.NestedTooltips.getNestedSkillName(crowded))"
   },
   {
     "ID": 1007437078,

@@ -34,14 +34,16 @@
     "key": "c89e09be145ef085b683bb8a60a21243711bbed134f5edd014d2744939cff9ed",
     "original": "Removes",
     "translation": "移除",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Removes\")"
   },
   {
     "ID": 1007441426,
     "key": "ee2cc1d1c9db64df0f9ef84f21cf3039107838ed48b9fd25d074106df9c88239",
     "original": "Requires a two-handed sword or a one-handed sword with the offhand free",
     "translation": "需要双手剑或双手持握的单手剑",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a two-handed sword or a one-handed sword with the offhand free\")"
   },
   {
     "ID": 1007441427,
@@ -64,6 +66,7 @@
     "key": "a11ae06469c63740d7b0ecf802f282a0d46e94f31a654dfcd3c0dc6dc277f904",
     "original": "half",
     "translation": "减半",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"half\")"
   }
 ]

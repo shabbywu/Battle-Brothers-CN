@@ -11,6 +11,7 @@
     "ID": 1007442040,
     "key": "a1ccf54c3fa9130be1109c1054f9f7a1db224b854af846acd97c6e8597d0e901",
     "original": "This character's eye is keen, his movements keener. Gain a portion of unspent [Action Points|Concept.ActionPoints] from the previous [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character's eye is keen, his movements keener. Gain a portion of unspent [Action Points|Concept.ActionPoints] from the previous [turn|Concept.Turn].\")"
   }
 ]

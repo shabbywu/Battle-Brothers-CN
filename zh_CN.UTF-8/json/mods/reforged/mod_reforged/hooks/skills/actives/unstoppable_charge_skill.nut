@@ -27,13 +27,15 @@
     "ID": 1007433820,
     "key": "b37cb467393eb4f14eeed12b034c0dd261e850be44e934db7dda2bcd131a7984",
     "original": "Knocked back targets will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Knocked back targets will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects\")"
   },
   {
     "ID": 1007433821,
     "key": "dff39d82cf494a15ecfd404ccffbe862a490ad687588380c4fa3cf65e5b61ac9",
     "original": "Will move you into the target tile and randomly [stun|Skill+stunned_effect], or [stagger|Skill+staggered_effect] and knock back enemies around that tile",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will move you into the target tile and randomly [stun|Skill+stunned_effect], or [stagger|Skill+staggered_effect] and knock back enemies around that tile\")"
   },
   {
     "ID": 1007433822,

@@ -35,6 +35,7 @@
     "key": "159e848f6b0ab113096da063fb4c9a65bacda47089fbabe9facfbda3c096dff6",
     "original": "Use the cover provided by a shield-bearing ally to move 1 tile ignoring [Zone of Control|Concept.ZoneOfControl] and without triggering free attacks.",
     "translation": "利用举盾盟友提供的掩护，无视[控制区|Concept.ZoneOfControl]，移动1格距离而不触发借机攻击。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Use the cover provided by a shield-bearing ally to move 1 tile ignoring [Zone of Control|Concept.ZoneOfControl] and without triggering free attacks.\")"
   }
 ]

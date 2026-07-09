@@ -31,49 +31,57 @@
     "ID": 1007440721,
     "key": "4634f315abbcd6f24258610d62815a41133b87c971f9b8e6f397fdad0ef4fd20",
     "original": "* %s won't be usable on target from this tile - Skipping!",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* %s won't be usable on target from this tile - Skipping!\", skill.getName())"
   },
   {
     "ID": 1007440722,
     "key": "6c8d28d4c4fb2040e808572ce10396485eb0e3e2f260a7374e9bc7f874c3f635",
     "original": "* - Evaluating my own tile",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* - Evaluating my own tile\")"
   },
   {
     "ID": 1007440723,
     "key": "2c9e16894a9aa83f82232eeccd496644e2440eda633db3b9046ad87a3d7bfe1d",
     "original": "* - Evaluating tile: with ID %i in direction: %s from previous tile",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* - Evaluating tile: with ID %i in direction: %s from previous tile\", tile.ID, path.BasePath == null ? getroottable().Const.Strings.Direction[myTile.getDirectionTo(tile)] : getroottable().Const.Strings.Direction[path.BasePath.Tiles.top().getDirectionTo(tile)])"
   },
   {
     "ID": 1007440724,
     "key": "97a1b1010004248dfdcb3fc385d00b5e37671191d48cfa18a2f8b5e41617781f",
     "original": "* --- Evaluating target: %s with ID %i in direction %s from that tile",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* --- Evaluating target: %s with ID %i in direction %s from that tile\", target.getName(), target.getID(), getroottable().Const.Strings.Direction[tile.getDirectionTo(targetTile)])"
   },
   {
     "ID": 1007440725,
     "key": "69378d038394b1e3a12ff05826dc5cd36245710294ed9ae536aa285abe1153e2",
     "original": "* Copying path score from path %i",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* Copying path score from path %i\", paths.find(path.BasePath))"
   },
   {
     "ID": 1007440726,
     "key": "b94becf721c2401885e6438008f116ef2e71aae9ed2a97c7416139a0e6406341",
     "original": "* Current path score: %f",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* Current path score: %f\", path.Score)"
   },
   {
     "ID": 1007440727,
     "key": "90cfc10b631edc346388a6cc8a28f244f8f0e1e7a89da1b1ecd6e828c0512ca2",
     "original": "* Evaluating path: %i",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* Evaluating path: %i\", pathIdx)"
   },
   {
     "ID": 1007440728,
     "key": "05a69ba7357fd8c028ca38578d2da25f721f68262bbcb6f3ef865254c97ccdfe",
     "original": "* Evaluating skill: %s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* Evaluating skill: %s\", skill.getName())"
   },
   {
     "ID": 1007440729,
@@ -86,13 +94,15 @@
     "ID": 1007440730,
     "key": "682a833106fa39eaf44fd0002cc95b67948c31be81e8f0276602d22fa838cd55",
     "original": "* PassingStep: It is best to stay on my tile.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().logInfo(\"* PassingStep: It is best to stay on my tile.\")"
   },
   {
     "ID": 1007440731,
     "key": "b89fae6022870924ffa9fa46f0c790cf5fdca14675a5c1f9107dd55d367a1ef2",
     "original": "* Score: %f, ScoreMult: %f, Total Path Score: %f",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"* Score: %f, ScoreMult: %f, Total Path Score: %f\", path.Score, path.ScoreMult, path.Score * path.ScoreMult)"
   },
   {
     "ID": 1007440732,

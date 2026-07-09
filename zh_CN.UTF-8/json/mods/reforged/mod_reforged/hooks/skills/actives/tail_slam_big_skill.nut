@@ -20,7 +20,8 @@
     "key": "9f5256baac3e13a0349f8fb764a895a5583df6965693081b6a8097c2efa40fee",
     "original": "Will randomly either [daze|Skill+dazed_effect], [stun|Skill+stunned_effect] or knock back the target",
     "translation": "随机[茫然|Skill+dazed_effect]，[击晕|Skill+stunned_effect]，或击退目标",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will randomly either [daze|Skill+dazed_effect], [stun|Skill+stunned_effect] or knock back the target\")"
   },
   {
     "ID": 1007433021,

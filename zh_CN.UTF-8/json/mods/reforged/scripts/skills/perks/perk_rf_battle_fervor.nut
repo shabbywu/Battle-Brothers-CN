@@ -60,13 +60,15 @@
     "key": "fef96538adf9a9153a6b38e9c45422020c6657752e9168c59a5fdf09f4304c77",
     "original": "Unless this character attacks, one stack will be lost upon ending this [turn|Concept.Turn]",
     "translation": "本[回合|Concept.Turn]结束时，若该角色没有进行过攻击，失去一层效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Unless this character attacks, one stack will be lost upon ending this [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441809,
     "key": "e765cf2cab889d54a5fc6ad65c7c484884e72f2d800c8278fadd476627d1ec58",
     "original": "Will expire upon losing [Confident|Concept.Morale] morale",
     "translation": "效果会因失去[自信|Concept.Morale]士气而消失",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon losing [Confident|Concept.Morale] morale\")"
   }
 ]

@@ -27,7 +27,8 @@
     "ID": 1007441248,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007441249,
@@ -57,12 +58,21 @@
     "ID": 1007441252,
     "key": "185622d3b3f471b592cf454c498f13bdec4ef55c99f5367e53615bce7970d3c9",
     "original": "Needs a non-empty quiver of arrows equipped",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Needs a non-empty quiver of arrows equipped\")"
   },
   {
     "ID": 1007441253,
     "key": "270320f05ef7681cb0f3975e89d68007915f8f68231bb3b484e9ab010e25b7ab",
     "original": "Will trigger a negative [morale check|Concept.MoraleCheck] for the character hit and all adjacent enemies",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will trigger a negative [morale check|Concept.MoraleCheck] for the character hit and all adjacent enemies\")"
+  },
+  {
+    "ID": 1007668136,
+    "key": "343c0d5fdc6288d159c727f855c79b74b2793c90fca3b6a1a1ff6cf54f65941f",
+    "original": "Fire rages here, melting armor and flesh alike",
+    "translation": "火焰在这里肆虐，熔化了盔甲和血肉",
+    "context": "Tooltip = \"Fire rages here, melting armor and flesh alike\""
   }
 ]

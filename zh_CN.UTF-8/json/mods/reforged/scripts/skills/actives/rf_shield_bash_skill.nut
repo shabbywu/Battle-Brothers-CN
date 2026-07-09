@@ -43,6 +43,7 @@
     "key": "ca83740002407e259a666ba6d613677523335acfcab503bdcd911430e3da8e50",
     "original": "Will [daze|Skill+dazed_effect] the target on a hit",
     "translation": "对命中的目标施加[茫然|Skill+dazed_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will [daze|Skill+dazed_effect] the target on a hit\")"
   }
 ]

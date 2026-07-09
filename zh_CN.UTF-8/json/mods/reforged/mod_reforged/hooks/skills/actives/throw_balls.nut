@@ -11,7 +11,8 @@
     "ID": 1007433456,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007433457,
@@ -25,13 +26,15 @@
     "ID": 1007433458,
     "key": "c96128525a18bc0ce395f61eaa47b76f33c9f06692c9e47593bd59c5cd0c0fa3",
     "original": "Ignores the bonus to [Ranged Defense|Concept.RangeDefense] granted by shields",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Ignores the bonus to [Ranged Defense|Concept.RangeDefense] granted by shields\")"
   },
   {
     "ID": 1007433459,
     "key": "7768c4143899265b0d93b332988b06f9eca82b4164b4e8a32971ee119bd501f5",
     "original": "No spiked balls left",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"No spiked balls left\")"
   },
   {
     "ID": 1007433460,

@@ -4,7 +4,8 @@
     "key": "3aa57b0be58fccbb807c8a7caa2f9e02d8f1fdcf4f00161ba930580afefe67fa",
     "original": " [again|Concept.Wait] ",
     "translation": "[再次|Concept.Wait] ",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.String.replace(entry.text, \" \", \" [again|Concept.Wait] \")"
   },
   {
     "ID": 1007413211,
@@ -19,7 +20,7 @@
     "original": "AI Only",
     "translation": "仅AI",
     "stage": 1,
-    "context": "getroottable().Reforged.Mod.ModSettings.getSetting(\"TacticalTooltip_Values\").getValue() == \"AI Only\""
+    "context": "value != \"None\" && value == \"All\" || value == \"Player Only\" && this.isPlayerControlled() || value == \"AI Only\" && !this.isPlayerControlled()"
   },
   {
     "ID": 1007413213,
@@ -27,7 +28,7 @@
     "original": "All",
     "translation": "所有人",
     "stage": 1,
-    "context": "value != \"None\" && value == \"All\" || value == \"Player Only\" && this.isPlayerControlled() || value == \"AI Only\" && !this.isPlayerControlled()"
+    "context": "getroottable().Reforged.Mod.ModSettings.getSetting(\"TacticalTooltip_Values\").getValue() == \"All\""
   },
   {
     "ID": 1007413214,
@@ -43,7 +44,7 @@
     "original": "Player Only",
     "translation": "仅玩家",
     "stage": 1,
-    "context": "getroottable().Reforged.Mod.ModSettings.getSetting(\"TacticalTooltip_Values\").getValue() == \"Player Only\""
+    "context": "value != \"None\" && value == \"All\" || value == \"Player Only\" && this.isPlayerControlled() || value == \"AI Only\" && !this.isPlayerControlled()"
   },
   {
     "ID": 1007413216,
@@ -56,25 +57,29 @@
     "ID": 1007413217,
     "key": "ead6ef03d61ee60c533d6d450c50a1e559a8a37f6b796a4094cd0dac6b744428",
     "original": "ghost",
-    "translation": ""
+    "translation": "",
+    "context": "flags.has(\"ghost\")"
   },
   {
     "ID": 1007413218,
     "key": "64c393506db87e3ffa5f93fa9577b98540275aac3d9118181e70d50972c4f44f",
     "original": "ghoul",
-    "translation": ""
+    "translation": "",
+    "context": "flags.has(\"ghoul\")"
   },
   {
     "ID": 1007413219,
     "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
     "original": "player",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().isKindOf(this, \"player\")"
   },
   {
     "ID": 1007413220,
     "key": "2ac11a92104c4d7d1403c56587d239f7a46d17192a2f2a9d12fda14dfa806574",
     "original": "skeleton",
-    "translation": ""
+    "translation": "",
+    "context": "flags.has(\"skeleton\")"
   },
   {
     "ID": 1007413221,
@@ -88,12 +93,14 @@
     "ID": 1007413222,
     "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
     "original": "undead",
-    "translation": ""
+    "translation": "",
+    "context": "this.getFlags().has(\"undead\")"
   },
   {
     "ID": 1007413223,
     "key": "94c41436f038313595af6897442afcc442ebec2c31803cb8fb88765258a52f85",
     "original": "vampire",
-    "translation": ""
+    "translation": "",
+    "context": "flags.has(\"vampire\")"
   }
 ]

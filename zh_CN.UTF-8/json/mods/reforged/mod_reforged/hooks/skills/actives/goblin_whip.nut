@@ -27,7 +27,8 @@
     "ID": 1007426779,
     "key": "9df420f106e9c2c149ba7d5b662bd6392d011187ae56051e4bbb97e06417738e",
     "original": "Raises the target's [morale|Concept.Morale] to Confident unless they are Fleeing in which case raises it to Steady instead",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Raises the target's [morale|Concept.Morale] to Confident unless they are Fleeing in which case raises it to Steady instead\")"
   },
   {
     "ID": 1007426780,

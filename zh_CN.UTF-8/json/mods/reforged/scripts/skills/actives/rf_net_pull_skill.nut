@@ -51,7 +51,8 @@
     "key": "3146d95e2c568ce9fc09d370fc5701e589bed22ce33f35ffdc60a339cd56aede",
     "original": "The target will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects",
     "translation": "目标会失去[盾墙、|Skill+shieldwall_effect][矛墙|Skill+spearwall_effect]和[还击|Skill+riposte_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects\")"
   },
   {
     "ID": 1007441325,

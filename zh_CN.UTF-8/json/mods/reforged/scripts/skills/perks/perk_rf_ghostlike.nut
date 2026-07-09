@@ -26,13 +26,15 @@
     "key": "8f01a2598a6c0ccd816f424b14d1976016efa945b41389f63b44a2995541bf65",
     "original": "The damage bonus will be lost upon swapping an item or [waiting|Concept.Wait] or ending your [turn|Concept.Turn]",
     "translation": "伤害加成会在切换物品、[等待|Concept.Wait]或结束[回合|Concept.Turn]后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The damage bonus will be lost upon swapping an item or [waiting|Concept.Wait] or ending your [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441896,
     "key": "4836fed457d92f802f7bf5e89d38fc5ace7ba11522be7e0d9b45734eb3bef224",
     "original": "The next movement will ignore [Zone of Control|Concept.ZoneOfControl]",
     "translation": "下次移动无视[控制区|Concept.ZoneOfControl]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The next movement will ignore [Zone of Control|Concept.ZoneOfControl]\")"
   }
 ]

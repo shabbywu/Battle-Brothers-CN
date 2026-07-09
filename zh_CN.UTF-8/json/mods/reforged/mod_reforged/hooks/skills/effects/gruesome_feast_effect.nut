@@ -4,21 +4,21 @@
     "key": "503e7a3a7a1750221ece3a66152b9eae2df960a9635367f126ff1bb3bcb7129d",
     "original": " Maximum Damage",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+40\") + \" Maximum Damage\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+20\") + \" Maximum Damage\""
   },
   {
     "ID": 1007435744,
     "key": "3a7e582908557a57bb978b8aa5df9443381154bb468cc19e2a3a8a48f3775bce",
     "original": " Minimum Damage",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+15\") + \" Minimum Damage\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+30\") + \" Minimum Damage\""
   },
   {
     "ID": 1007435745,
     "key": "425834234537e2495d39d0932bacadb3b96ee23a636e64096490aa003b399385",
     "original": " [Hitpoints|Concept.Hitpoints]",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+120\") + \" [Hitpoints|Concept.Hitpoints]\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+300\") + \" [Hitpoints|Concept.Hitpoints]\""
   },
   {
     "ID": 1007435746,
@@ -26,21 +26,21 @@
     "original": " [Initiative|Concept.Initiative]",
     "translation": "[主动值|Concept.Initiative]",
     "stage": 1,
-    "context": "getroottable().MSU.Text.colorNegative(\"-30\") + \" [Initiative|Concept.Initiative]\""
+    "context": "getroottable().MSU.Text.colorNegative(\"-15\") + \" [Initiative|Concept.Initiative]\""
   },
   {
     "ID": 1007435747,
     "key": "451ee5458d9c9b11ad9b6919467ee4e332a8759cfd596edb301d92eb2cb6546c",
     "original": " [Melee Defense|Concept.MeleeDefense]",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+5\") + \" [Melee Defense|Concept.MeleeDefense]\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Defense|Concept.MeleeDefense]\""
   },
   {
     "ID": 1007435748,
     "key": "ff823c3ab8a078a6e983e474c07f0f1b315d450c88d570dd8b2538d783f72de0",
     "original": " [Melee Skill|Concept.MeleeSkill]",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+20\") + \" [Melee Skill|Concept.MeleeSkill]\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Skill|Concept.MeleeSkill]\""
   },
   {
     "ID": 1007435749,
@@ -48,14 +48,14 @@
     "original": " [Ranged Defense|Concept.RangeDefense]",
     "translation": "[远程防御|Concept.RangeDefense]",
     "stage": 1,
-    "context": "getroottable().MSU.Text.colorNegative(\"-5\") + \" [Ranged Defense|Concept.RangeDefense]\""
+    "context": "getroottable().MSU.Text.colorNegative(\"-10\") + \" [Ranged Defense|Concept.RangeDefense]\""
   },
   {
     "ID": 1007435750,
     "key": "eb87384ed62571b50d040294470f3f8ddaab0f874b92fc5e777881d97ef4c286",
     "original": " [Resolve|Concept.Bravery]",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+30\") + \" [Resolve|Concept.Bravery]\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+60\") + \" [Resolve|Concept.Bravery]\""
   },
   {
     "ID": 1007435751,

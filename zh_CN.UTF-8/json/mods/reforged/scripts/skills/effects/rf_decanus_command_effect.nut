@@ -4,7 +4,8 @@
     "key": "a335167b81bea4f38c9a23d7411c099596c0298001678f6ad41d2dfc5535bcb1",
     "original": "Can use [$ $|Skill+shieldwall] for no [Action Points|Concept.ActionPoints]",
     "translation": "可以不消耗[行动点数|Concept.ActionPoints]使用[盾墙|Skill+shieldwall]技能",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Can use [$ $|Skill+shieldwall] for no [Action Points|Concept.ActionPoints]\")"
   },
   {
     "ID": 1007441559,

@@ -27,6 +27,7 @@
     "key": "77503b08bb5c59b0d5320c152fcb324a5e9b27e50694f549672cc2eb0a3ea1b4",
     "original": "Will be lost upon moving, swapping an item, using any skill except a single-target attack, missing an attack, or [waiting|Concept.Wait] or ending the [turn|Concept.Turn]",
     "translation": "会在移动、交换物品、使用单目标攻击以外技能、攻击未命中、[等待|Concept.Wait]或结束[回合|Concept.Turn]时失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will be lost upon moving, swapping an item, using any skill except a single-target attack, missing an attack, or [waiting|Concept.Wait] or ending the [turn|Concept.Turn]\")"
   }
 ]

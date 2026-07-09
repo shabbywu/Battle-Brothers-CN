@@ -28,6 +28,7 @@
     "key": "cc7ef2f203c3e6407084ba7c38bea22d940ed58f0b365616257ce7a9f09fe6b4",
     "original": "Targets hit are inflicted with [$ $|Skill+rf_grave_chill_effect]",
     "translation": "对命中的目标施加[$ $|Skill+rf_grave_chill_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Targets hit are inflicted with [$ $|Skill+rf_grave_chill_effect]\")"
   }
 ]

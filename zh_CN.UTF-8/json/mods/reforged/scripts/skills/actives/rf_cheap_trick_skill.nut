@@ -18,7 +18,8 @@
     "key": "fa6c0b1bffc3a033f00e31ea67c75e70204e54989ae3de19f8e67da7a1931a6b",
     "original": "Can only be used once per [turn|Concept.Turn]",
     "translation": "每[回合|Concept.Turn]限一次",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Can only be used once per [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441170,
@@ -41,7 +42,8 @@
     "key": "727567bc026338c188fa851dd50ab1766e2be0f0b9e656a8a751e34c688a69b1",
     "original": "Deceive your enemies and strike with precision, sacrificing power for accuracy with your next attack this [turn|Concept.Turn].",
     "translation": "欺骗敌人，精准攻击，牺牲力量，为你在本[回合|Concept.Turn]中的下次攻击换取精度",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Deceive your enemies and strike with precision, sacrificing power for accuracy with your next attack this [turn|Concept.Turn].\")"
   },
   {
     "ID": 1007441173,

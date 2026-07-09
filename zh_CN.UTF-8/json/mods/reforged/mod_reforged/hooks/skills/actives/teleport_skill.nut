@@ -12,7 +12,8 @@
     "key": "8a2d8cf0adce80317ab208265a968c206a7858b7dc3c6c3f35af2b91840f7437",
     "original": "Will transform the terrain around the beginning and end of the teleportation to Snow",
     "translation": "将传送起点和终点周围的地形变为雪地",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will transform the terrain around the beginning and end of the teleportation to Snow\")"
   },
   {
     "ID": 1007433347,

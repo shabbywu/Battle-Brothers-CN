@@ -32,7 +32,7 @@
     "key": "dbfa2fca39e6a309562704e587aa11a10e9b393f4a361213b96056c1fe92e896",
     "original": "Smart Recruiter is not compatible with Reforged. Use Clever Recruiter by Enduriel instead.",
     "translation": "",
-    "context": "mod_smart_recruiter = \"Smart Recruiter is not compatible with Reforged. Use Clever Recruiter by Enduriel instead.\""
+    "context": "mod_sr_alternative = \"Smart Recruiter is not compatible with Reforged. Use Clever Recruiter by Enduriel instead.\""
   },
   {
     "ID": 1007440500,
@@ -57,7 +57,8 @@
     "ID": 1007440503,
     "key": "c556eedab3d2bf650cffafea749bcf0483ca6dc4f4c089ea757a8065e1b821a8",
     "original": "mod_betterFencing [Is already included and/or enhanced in Reforged]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.HooksMod.conflictWith([\"mod_legends\",\"mod_betterFencing [Is already included and/or enhanced in Reforged]\",\"mod_tactical_hit_factors [A similar feature is included in Reforged]\",\"mod_tactical_tooltip [A similar feature is included in Reforged]\"])"
   },
   {
     "ID": 1007440504,
@@ -76,13 +77,15 @@
     "ID": 1007440506,
     "key": "fbff2b5c5d8db057c06759f611dc344ca3fc17096f48230b9da7052f98f28de2",
     "original": "mod_tactical_hit_factors [A similar feature is included in Reforged]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.HooksMod.conflictWith([\"mod_legends\",\"mod_betterFencing [Is already included and/or enhanced in Reforged]\",\"mod_tactical_hit_factors [A similar feature is included in Reforged]\",\"mod_tactical_tooltip [A similar feature is included in Reforged]\"])"
   },
   {
     "ID": 1007440507,
     "key": "a9058fff83d0427604b88605c889f83d61058b9e7d7f0b1cf6c2f3cb2bba569a",
     "original": "mod_tactical_tooltip [A similar feature is included in Reforged]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.HooksMod.conflictWith([\"mod_legends\",\"mod_betterFencing [Is already included and/or enhanced in Reforged]\",\"mod_tactical_hit_factors [A similar feature is included in Reforged]\",\"mod_tactical_tooltip [A similar feature is included in Reforged]\"])"
   },
   {
     "ID": 1007440508,

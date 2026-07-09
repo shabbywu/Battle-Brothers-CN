@@ -4,7 +4,8 @@
     "key": "17941c7dedcd9c4c16a9f0b37893d65bb49da90096602f8c7c2cd79d3eb5e3fc",
     "original": "Founded a mercenary company",
     "translation": "成立了佣兵战团",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.improveMood(2.0, \"Founded a mercenary company\")"
   },
   {
     "ID": 1007441117,

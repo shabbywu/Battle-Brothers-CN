@@ -4,7 +4,8 @@
     "key": "5c09eacb80821822600cc98c31d1d6b00ba68da143071999cf633b788ee85d4f",
     "original": "Has %s chance to target the body part with the lower armor",
     "translation": "有%s概率命中目标护甲值较低的身体部分",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Has %s chance to target the body part with the lower armor\", getroottable().MSU.Text.colorPositive(this.getChance() + \"%\"))"
   },
   {
     "ID": 1007441903,

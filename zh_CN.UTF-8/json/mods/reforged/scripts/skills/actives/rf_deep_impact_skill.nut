@@ -26,7 +26,8 @@
     "ID": 1007441207,
     "key": "526e0087cc3f254d9f86f6c7d8e23d954c4dfda2b312efc29194ae8a860106ba",
     "original": "Description",
-    "translation": ""
+    "translation": "",
+    "context": "[\"ID\",\"Name\",\"Description\",\"Icon\",\"IconDisabled\",\"Overlay\",\"IsIgnoredAsAOO\",\"FatigueCost\",\"AIBehaviorID\"]"
   },
   {
     "ID": 1007441208,
@@ -40,13 +41,15 @@
     "ID": 1007441209,
     "key": "2af93aeb435dff6322f51a7be60ec25c3ea7b6bee86d3177324aa96a232e9710",
     "original": "Overlay",
-    "translation": ""
+    "translation": "",
+    "context": "[\"ID\",\"Name\",\"Description\",\"Icon\",\"IconDisabled\",\"Overlay\",\"IsIgnoredAsAOO\",\"FatigueCost\",\"AIBehaviorID\"]"
   },
   {
     "ID": 1007441210,
     "key": "1d0f2c919bad7416f9153faba05ce0df8c9b6554f3a8e29e5afef039ee1d783f",
     "original": "Upon dealing damage to [Hitpoints|Concept.Hitpoints] inflicts the target with the [Deep Impact|Skill+rf_deep_impact_effect] effect",
     "translation": "造成[生命值|Concept.Hitpoints]伤害时，对目标施加[深层冲击|Skill+rf_deep_impact_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Upon dealing damage to [Hitpoints|Concept.Hitpoints] inflicts the target with the [Deep Impact|Skill+rf_deep_impact_effect] effect\")"
   }
 ]

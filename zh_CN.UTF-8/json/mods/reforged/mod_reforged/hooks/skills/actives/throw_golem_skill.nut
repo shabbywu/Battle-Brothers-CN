@@ -43,7 +43,8 @@
     "key": "723f69b657171c28fb46489a507ec495b61e3dc6583e84add6886f73d4254594",
     "original": "Will spawn %s%s adjacent to the target",
     "translation": "在目标旁边生成%s%s",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Will spawn %s%s adjacent to the target\", getroottable().Const.Strings.getArticle(getroottable().Const.Strings.EntityName[entityType]), getroottable().Const.Strings.EntityName[entityType])"
   },
   {
     "ID": 1007433587,

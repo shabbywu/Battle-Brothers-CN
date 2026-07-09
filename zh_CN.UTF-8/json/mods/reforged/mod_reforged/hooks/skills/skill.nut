@@ -36,7 +36,8 @@
     "key": "7fcb2c03b6a324694f684945af8c467419e45a3122a17307ac6b92dc7d4a6d28",
     "original": "%s chance to hit head for %s damage",
     "translation": "有%s概率命中头部，造成%s倍伤害",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"%s chance to hit head for %s damage\", getroottable().MSU.Text.colorizeValue(headshotChance, {\n    AddPercent = True\n}), getroottable().MSU.Text.colorizeMultWithText(headshotDamageMult))"
   },
   {
     "ID": 1007439017,
@@ -75,7 +76,8 @@
     "key": "e8329e83485ea3297043f54e0e403397a66fb43f79d379d06dbc3722e883b952",
     "original": "Hold %s when selecting to %s",
     "translation": "按住%s来%s",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Hold %s when selecting to %s\", getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUseKeybind\").getValue(), getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUse\").getValue() ? \"use immediately\" : \"preview usage\")"
   },
   {
     "ID": 1007439022,
@@ -122,7 +124,8 @@
     "key": "8be3bc3332d751bdf475321f76d144622891ecf48689f23cc016b188741e16db",
     "original": "No chance to hit head",
     "translation": "无法取得头部命中",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"No chance to hit head\")"
   },
   {
     "ID": 1007439028,
@@ -184,7 +187,8 @@
     "ID": 1007439035,
     "key": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
     "original": "create",
-    "translation": ""
+    "translation": "",
+    "context": "q.contains(\"create\")"
   },
   {
     "ID": 1007439036,
@@ -198,13 +202,15 @@
     "key": "8490c58b929f7e99834d9231bc92c562e69e8618292e10113c573d64358028bb",
     "original": "preview usage",
     "translation": "预览技能效果",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Hold %s when selecting to %s\", getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUseKeybind\").getValue(), getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUse\").getValue() ? \"use immediately\" : \"preview usage\")"
   },
   {
     "ID": 1007439038,
     "key": "12d9be1c7b2d1cce0e11bd5116400be7630f6f13ab011ea8dfa2bcff27fe0793",
     "original": "use immediately",
     "translation": "立即使用技能",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Hold %s when selecting to %s\", getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUseKeybind\").getValue(), getroottable().Reforged.Mod.ModSettings.getSetting(\"ConfirmSkillUse\").getValue() ? \"use immediately\" : \"preview usage\")"
   }
 ]

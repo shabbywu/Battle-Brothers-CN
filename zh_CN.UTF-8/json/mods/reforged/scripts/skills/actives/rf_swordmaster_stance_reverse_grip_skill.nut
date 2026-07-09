@@ -43,7 +43,8 @@
     "key": "76000ea668b6ad7b7452884f53ecb1a1a083138c01b98ad56c78b3e9591dbf3e",
     "original": "Gain the [$ $|Perk+perk_rf_concussive_strikes] perk",
     "translation": "获得[$ $|Perk+perk_rf_concussive_strikes]特技",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain the [$ $|Perk+perk_rf_concussive_strikes] perk\")"
   },
   {
     "ID": 1007441440,
@@ -66,14 +67,16 @@
     "key": "c89e09be145ef085b683bb8a60a21243711bbed134f5edd014d2744939cff9ed",
     "original": "Removes",
     "translation": "移除",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Removes\")"
   },
   {
     "ID": 1007441443,
     "key": "ee2cc1d1c9db64df0f9ef84f21cf3039107838ed48b9fd25d074106df9c88239",
     "original": "Requires a two-handed sword or a one-handed sword with the offhand free",
     "translation": "需要双手剑或双手持握的单手剑",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a two-handed sword or a one-handed sword with the offhand free\")"
   },
   {
     "ID": 1007441444,
@@ -104,13 +107,15 @@
     "key": "8da91408dd1a5a7ebef03b655bac479c1f552cda854b0f8b698b70486a8e2699",
     "original": "adds",
     "translation": "添加",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorPositive(\"adds\")"
   },
   {
     "ID": 1007441448,
     "key": "1a78726c72d8dfe6064f848e2ad8f734783cd9f4572ff012ba54588709c03cbb",
     "original": "one-third",
     "translation": "三分之一",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"one-third\")"
   }
 ]

@@ -12,6 +12,7 @@
     "key": "2068b81b75d4b2b1dba07f5d37f972b989b5d265f5469bd0a12d087db49f200b",
     "original": "Reach",
     "translation": "触及",
-    "stage": 1
+    "stage": 1,
+    "context": "ret.push(\"Reach\")"
   }
 ]

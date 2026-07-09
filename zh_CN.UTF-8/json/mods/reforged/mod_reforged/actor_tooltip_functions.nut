@@ -3,7 +3,8 @@
     "ID": 1007411411,
     "key": "563822cf83760678d3fab031ebb529778d4acecbfdfce233f7af3c6eede23530",
     "original": "%s (%s, %s)",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"%s (%s, %s)\", getroottable().Reforged.NestedTooltips.getNestedSkillName(skill, extraData), getroottable().MSU.Text.colorNegative(skill.getActionPointCost()), getroottable().MSU.Text.colorPositive(skill.getFatigueCost()))"
   },
   {
     "ID": 1007411412,
@@ -31,42 +32,48 @@
     "key": "b121ee0ad853c000fef2f8a93977e27e961d2f50f5ce4349800318901b992fc4",
     "original": "Actives",
     "translation": "主动技能",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(ret, \"Actives\", _startID)"
   },
   {
     "ID": 1007411416,
     "key": "358511c8c09805c9c10b1ba11157ed0c08ced8599d59e27e16fa226bdc32d63e",
     "original": "Effects",
     "translation": "效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(effectList, \"Effects\", currentID)"
   },
   {
     "ID": 1007411417,
     "key": "4217c9be9f9701d638464cb1be084a83ef9fcee4c2e2871e3f5c515531ab883e",
     "original": "Equipped Items",
     "translation": "装备物品",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(itemList, \"Equipped Items\", currentID)"
   },
   {
     "ID": 1007411418,
     "key": "76ef0efcf7ac1dbccaf9ffdb2b93e1df428c88df02fa8b7f46ed2d2560e56ec2",
     "original": "Items in bag",
     "translation": "背包物品",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(itemList, \"Items in bag\", currentID)"
   },
   {
     "ID": 1007411419,
     "key": "4bcf16ad804f4ed34c031627d19d17c53d13ecc64beacffa69e3e6fd127c0f91",
     "original": "Items on ground",
     "translation": "地上物品",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(itemList, \"Items on ground\", currentID)"
   },
   {
     "ID": 1007411420,
     "key": "c339bf736e4a210b1c5f923eacf99969dcda80adcf4753fce1902f7f4cfa4945",
     "original": "Perks",
     "translation": "特技",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.TacticalTooltip.pushSectionName(perkList, \"Perks\", currentID)"
   },
   {
     "ID": 1007411421,
@@ -79,13 +86,15 @@
     "ID": 1007411422,
     "key": "fc4af09c1585d2de972856a1e49f49e69150e0f4d748c35a8d5988087eb73ff2",
     "original": "[%s|Item+%s,itemId:%s,itemOwner:entity,entityId:%i]",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"[%s|Item+%s,itemId:%s,itemOwner:entity,entityId:%i]\", accessory.getName(), accessory.ClassName, accessory.getInstanceID(), actorID)"
   },
   {
     "ID": 1007411423,
     "key": "3155ded332d3aa3e5ee24a611ac5958a9c3ca4fb06698d4ed7f1f299fed86949",
     "original": "[%s|Item+%s,itemId:%s,itemOwner:ground]",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"[%s|Item+%s,itemId:%s,itemOwner:ground]\", groundItem.getName(), groundItem.ClassName, groundItem.getInstanceID())"
   },
   {
     "ID": 1007411424,

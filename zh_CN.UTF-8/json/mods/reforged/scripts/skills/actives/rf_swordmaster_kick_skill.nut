@@ -19,7 +19,8 @@
     "key": "d78876a48af83ff636dada9f911c65acf027b4370f87293f3ddbd934b4ee2a33",
     "original": "If the attack is successful, the target is pushed back a tile and loses the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects",
     "translation": "若攻击成功，目标会被击退一格，并失去[盾墙|Skill+shieldwall_effect]、[矛墙|Skill+spearwall_effect]和[还击|Skill+riposte_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"If the attack is successful, the target is pushed back a tile and loses the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects\")"
   },
   {
     "ID": 1007441406,
@@ -50,6 +51,7 @@
     "key": "54713c94b60cef8e10d8965d2331fab073e70861ac02c1453761d3bdc55109c6",
     "original": "Will [stagger|Skill+staggered_effect] the target",
     "translation": "会[趔趄|Skill+staggered_effect]目标",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will [stagger|Skill+staggered_effect] the target\")"
   }
 ]

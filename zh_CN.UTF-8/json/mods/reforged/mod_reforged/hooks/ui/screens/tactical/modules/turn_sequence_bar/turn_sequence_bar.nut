@@ -19,7 +19,8 @@
     "ID": 1007440094,
     "key": "e65f51dd4a5df5ce613955854e2e287a43575ea2c62cf1360910b04d0a600c57",
     "original": "Have all your characters use 'Wait' on this round?",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Tactical.State.showDialogPopup(\"Wait Round\", \"Have all your characters use 'Wait' on this round?\", function None(){\n    this.m.IsWaitingRound = True;\n    this.m.JSHandle.call(\"RF_setWaitTurnAllButtonVisible\", False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setWaitTurn(True)\n        }\n    };\n    local activeEntity = this.getActiveEntity();\n    if (activeEntity != null && activeEntity.m.IsWaitingTurn) {\n        activeEntity.m.IsWaitingTurn = False;\n        this.entityWaitTurn(activeEntity);\n        return;\n    };\n    return;\n}.bindenv(this), null)"
   },
   {
     "ID": 1007440095,
@@ -33,12 +34,14 @@
     "ID": 1007440096,
     "key": "69bebe0b9e282178ca37dee74d3fc7496b8d2d8d84e98ac45a1eb342820ea9e6",
     "original": "Wait Round",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Tactical.State.showDialogPopup(\"Wait Round\", \"Have all your characters use 'Wait' on this round?\", function None(){\n    this.m.IsWaitingRound = True;\n    this.m.JSHandle.call(\"RF_setWaitTurnAllButtonVisible\", False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setWaitTurn(True)\n        }\n    };\n    local activeEntity = this.getActiveEntity();\n    if (activeEntity != null && activeEntity.m.IsWaitingTurn) {\n        activeEntity.m.IsWaitingTurn = False;\n        this.entityWaitTurn(activeEntity);\n        return;\n    };\n    return;\n}.bindenv(this), null)"
   },
   {
     "ID": 1007440097,
     "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
     "original": "player",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.isKindOf(_entity, \"player\")"
   }
 ]

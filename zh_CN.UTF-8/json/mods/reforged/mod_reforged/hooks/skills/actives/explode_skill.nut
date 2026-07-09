@@ -4,7 +4,8 @@
     "key": "ce2dac4b1dcae37aaadf4d6a9e84ebf0be0524785cfe2068e2da3a43fc677ee2",
     "original": "Deals a small amount of damage to everyone on adjacent tiles",
     "translation": "对相邻地格上的所有角色造成少量伤害",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Deals a small amount of damage to everyone on adjacent tiles\")"
   },
   {
     "ID": 1007425467,

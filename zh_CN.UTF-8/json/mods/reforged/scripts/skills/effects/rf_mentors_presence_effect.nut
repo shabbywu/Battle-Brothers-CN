@@ -43,7 +43,8 @@
     "key": "83469b381709cd1b105e7bdab1bc58d82368a57db99f13ca82f79f00a583aca0",
     "original": "At the start of every [turn|Concept.Turn] become [Confident|Concept.Morale]",
     "translation": "每[回合|Concept.Turn]开始时，士气变为[自信|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"At the start of every [turn|Concept.Turn] become [Confident|Concept.Morale]\")"
   },
   {
     "ID": 1007441671,
@@ -73,6 +74,7 @@
     "ID": 1007441674,
     "key": "208d8f9b780cc81d7bdcf85acc3fc49d466f6647ecae01305d6853808c5bfdb1",
     "original": "_skill must be an instance of perk_rf_mentor or its descendant",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().logError(\"_skill must be an instance of perk_rf_mentor or its descendant\")"
   }
 ]

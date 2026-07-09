@@ -12,7 +12,8 @@
     "key": "807360ca20625a1377b46d8a5c944044bdbc5acf59497426c5c9e1f7f5579872",
     "original": "Receive no [morale check|Concept.Morale] from dying allies as long as a faction member carries your banner and your faction outnumbers your enemies",
     "translation": "只要有人执掌战旗且友方人数多于敌方，就不会因友军阵亡而受到[士气检定|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Receive no [morale check|Concept.Morale] from dying allies as long as a faction member carries your banner and your faction outnumbers your enemies\")"
   },
   {
     "ID": 1007441600,

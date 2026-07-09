@@ -28,7 +28,8 @@
     "key": "936a6c0e021474bf5a4a21948b135806c8ffc41f7cbc7fd54f9323ecd02e1e65",
     "original": "The target gains the [$ $|Skill+hex_slave_effect]",
     "translation": "对目标施加[$ $|Skill+hex_slave_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target gains the [$ $|Skill+hex_slave_effect]\")"
   },
   {
     "ID": 1007428215,

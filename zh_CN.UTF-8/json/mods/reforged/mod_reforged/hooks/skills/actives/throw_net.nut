@@ -4,7 +4,8 @@
     "key": "094426664f7f9219cba778ac1e2917621c266f9575364631ef9421c920a6edaa",
     "original": "Apply [$ $|Skill+net_effect] to the target",
     "translation": "对目标施加[$ $|Skill+net_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Apply [$ $|Skill+net_effect] to the target\")"
   },
   {
     "ID": 1007433656,

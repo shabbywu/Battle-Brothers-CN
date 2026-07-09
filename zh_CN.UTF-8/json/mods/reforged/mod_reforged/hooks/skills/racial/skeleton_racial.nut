@@ -24,31 +24,36 @@
     "ID": 1007438888,
     "key": "03ba5b751fc3617d83b21863f832cfa874bda57fa2e8bb5c677b7a628ba90449",
     "original": "Cannot receive [temporary injuries|Concept.InjuryTemporary]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot receive [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {
     "ID": 1007438889,
     "key": "eea0f8b2b01cfaaa5f3860f2281e7485f5b37aeb3d394a52862f29c452913ad7",
     "original": "Immune to Poison",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to Poison\")"
   },
   {
     "ID": 1007438890,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007438891,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007438892,
     "key": "0df3d85b2006390ef692d1eb6c54a675ce510f2fa6177cedc1647379126cef29",
     "original": "Not affected by [Morale|Concept.Morale]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [Morale|Concept.Morale]\")"
   },
   {
     "ID": 1007438893,

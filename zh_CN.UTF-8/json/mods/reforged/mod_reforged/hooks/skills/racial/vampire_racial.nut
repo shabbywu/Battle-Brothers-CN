@@ -26,19 +26,22 @@
     "ID": 1007439003,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007439004,
     "key": "0df3d85b2006390ef692d1eb6c54a675ce510f2fa6177cedc1647379126cef29",
     "original": "Not affected by [Morale|Concept.Morale]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [Morale|Concept.Morale]\")"
   },
   {
     "ID": 1007439005,
     "key": "3a96ffef3fb8756c270cc18ee051dfa52f1f7433312a6b07d1af42ff27c807c2",
     "original": "Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {
     "ID": 1007439006,

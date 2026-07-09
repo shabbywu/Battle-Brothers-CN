@@ -12,7 +12,8 @@
     "key": "3249ca84c997e2b8ccaa7a23f39f5e6e8ae7940aead805b8f0d30c42ad1047bb",
     "original": " in order to do damage",
     "translation": "一级，就要进行一次[士气检定|Concept.Morale]，检定全部通过时，攻击才能造成伤害",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Melee attackers must pass [morale checks|Concept.Morale] equal to the number of [morale|Concept.Morale] states they are below \" + getroottable().Const.MoraleStateName[this.m.MoraleStateRequired], \" in order to do damage\")"
   },
   {
     "ID": 1007441775,
@@ -42,7 +43,8 @@
     "key": "85116d7e06d2d4be15fff45d4e9427c9bedcf9556a6114997c2b38ee5a35f22b",
     "original": "Melee attackers suffering from [Grieving Malaise|Skill+rf_grieving_malaise_effect] must pass an additional [morale check|Concept.Morale]",
     "translation": "正受[悲痛萎靡|Skill+rf_grieving_malaise_effect]折磨的近战攻击者必须额外通过一次[士气检定|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Melee attackers suffering from [Grieving Malaise|Skill+rf_grieving_malaise_effect] must pass an additional [morale check|Concept.Morale]\")"
   },
   {
     "ID": 1007441779,
@@ -64,6 +66,7 @@
     "ID": 1007441781,
     "key": "b04216546057e8659fecdec71043ffe7e3220178fa3df37650d6fdbb631dcda8",
     "original": "fog",
-    "translation": ""
+    "translation": "",
+    "context": "actor.getSprite(\"fog\")"
   }
 ]

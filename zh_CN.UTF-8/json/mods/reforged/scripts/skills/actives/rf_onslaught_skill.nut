@@ -20,14 +20,16 @@
     "key": "406dd5fe153bd8adad3af4c9c995b7a474c8287354d4789c9bf90b0007e236bb",
     "original": "Does not affect allies who are [fleeing|Concept.Morale], [$ $|Skill+stunned_effect], or [$ $|Skill+sleeping_effect]",
     "translation": "不影响[溃逃、|Concept.Morale][$ $|Skill+stunned_effect]或[$ $|Skill+sleeping_effect]的盟友",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Does not affect allies who are [fleeing|Concept.Morale], [$ $|Skill+stunned_effect], or [$ $|Skill+sleeping_effect]\")"
   },
   {
     "ID": 1007441330,
     "key": "93e999771c3a5563483d9cc7e26fde6ea9eac70c4ed5f964fc4d83678572f1cf",
     "original": "Has already been used by the company in this battle",
     "translation": "战团已在本场战斗中使用过",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Has already been used by the company in this battle\")"
   },
   {
     "ID": 1007441331,

@@ -17,13 +17,15 @@
     "ID": 1007441217,
     "key": "528bcdf5ed05441c621ef3cc6fcea7e8bd6ddce34843242784e9e73512bd30a1",
     "original": "Cannot be used more than once per [turn|Concept.Turn]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used more than once per [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441218,
     "key": "28c8f20c752d46d15906853fedc4a08e13c847f78ca5f911cf9129ab078bee27",
     "original": "Cannot be used while rooted",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while rooted\")"
   },
   {
     "ID": 1007441219,
@@ -37,7 +39,8 @@
     "ID": 1007441220,
     "key": "d2a5a91d2935d637ffbfbc2ce7428dfb5a3ee8db8ebf9d8f708e6655cab45f8b",
     "original": "Once per turn, switch places with your partner, provided neither you nor your partner is [$ $|Skill+stunned_effect] or rooted.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Once per turn, switch places with your partner, provided neither you nor your partner is [$ $|Skill+stunned_effect] or rooted.\")"
   },
   {
     "ID": 1007441221,
@@ -51,19 +54,22 @@
     "ID": 1007441222,
     "key": "4c6a9d60156f11cc9dad4adcde17165ea0b97b35f3fc41b848971c42e7f7b779",
     "original": "Requires a partner",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a partner\")"
   },
   {
     "ID": 1007441223,
     "key": "0bc8b784effa78ff0423fe32796f064459d9894296bdaa1484a7844ac561b3a1",
     "original": "Requires your partner to be next to you",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires your partner to be next to you\")"
   },
   {
     "ID": 1007441224,
     "key": "03b048779cf4876d9f1cb4566139951acff8149bf83585603c204bcad4860dd1",
     "original": "Requires your partner to be present on the battlefield",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires your partner to be present on the battlefield\")"
   },
   {
     "ID": 1007441225,
@@ -77,6 +83,7 @@
     "ID": 1007441226,
     "key": "dfb800aee0cca05af75e984c80d96410fd157dc02772c615a19bbc9a018a80ee",
     "original": "Swap places with your partner and put them next in the [turn|Concept.Turn] order",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Swap places with your partner and put them next in the [turn|Concept.Turn] order\")"
   }
 ]

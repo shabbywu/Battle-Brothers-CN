@@ -21,19 +21,21 @@
     "original": " excluding ",
     "translation": "前",
     "stage": 1,
-    "context": "\" excluding \" + this.m.NumEnemiesToIgnore + \" enemies\""
+    "context": "\" excluding \" + this.m.NumAlliesToIgnore + \" allies\""
   },
   {
     "ID": 1007442105,
     "key": "1ba785d3536693e464a25f2fcd49a4ff9c22971dfe5a04e0bec6d377061a8317",
     "original": "%s chance to hit per adjacent ally%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"%s chance to hit per adjacent ally%s\", getroottable().MSU.Text.colorizeValue(this.m.MeleeSkillModifierPerAlly, {\n    AddSign = True\n    AddPercent = True\n}), numIgnoreString)"
   },
   {
     "ID": 1007442106,
     "key": "0c399eeada2e0a3b908c3fb65f50aa296b83977e28c5c4411546ec3c47c7b60c",
     "original": "%s chance to hit per adjacent enemy with lower [Reach|Concept.Reach] than you%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"%s chance to hit per adjacent enemy with lower [Reach|Concept.Reach] than you%s\", getroottable().MSU.Text.colorizeValue(this.m.MeleeSkillModifierPerEnemy, {\n    AddSign = True\n    AddPercent = True\n}), numIgnoreString)"
   },
   {
     "ID": 1007442107,

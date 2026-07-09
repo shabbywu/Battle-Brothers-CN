@@ -3,13 +3,15 @@
     "ID": 1007440665,
     "key": "c209ff201a7b50c9f00eaf3a4b19e2277036adf4b057de2e7f0962dc2443acc8",
     "original": "Click to focus",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Class.BasicTooltip(\"Click to focus\", \"Click to focus on the objectives for this contract\")"
   },
   {
     "ID": 1007440666,
     "key": "5c420478effb39c69e702ff6fb03b73292a3d5dad5b5ed254345008352dbd16b",
     "original": "Click to focus on the objectives for this contract",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Class.BasicTooltip(\"Click to focus\", \"Click to focus on the objectives for this contract\")"
   },
   {
     "ID": 1007440667,
@@ -38,7 +40,8 @@
     "ID": 1007440670,
     "key": "b6e523d2758bc8608718ca71da8e8175a85ec902783d3421f28b57c30450a0f1",
     "original": "Have all your characters use [Wait|Concept.Wait] on their [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Have all your characters use [Wait|Concept.Wait] on their [turn|Concept.Turn].\")"
   },
   {
     "ID": 1007440671,
@@ -51,25 +54,29 @@
     "ID": 1007440672,
     "key": "56aba9adccad283815ce616c54bb0d616001191a80bda50bc9536744e4e710d3",
     "original": "Switch to Description",
-    "translation": ""
+    "translation": "",
+    "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440673,
     "key": "0cfa07a57efbc4b43bedc5809b4f657abd03f44c8141dcc2ed3db0d50f3de2dd",
     "original": "Switch to Perk Groups",
-    "translation": ""
+    "translation": "",
+    "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440674,
     "key": "66de2c37cfcee34f33de246e367268c706d0d8feda2b25917ef5bcb118f678ca",
     "original": "Switch to Perk Tree",
-    "translation": ""
+    "translation": "",
+    "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440675,
     "key": "aa61274809bf0645eea2381eac10ff20d9f849a1e28e5ead3bc3683f9e2d8804",
     "original": "Wait Round (%s)",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"Wait Round (%s)\", getroottable().MSU.System.Keybinds.KeybindsByMod.mod_reforged.Tactical_WaitRound.getKeyCombinations())"
   },
   {
     "ID": 1007440676,

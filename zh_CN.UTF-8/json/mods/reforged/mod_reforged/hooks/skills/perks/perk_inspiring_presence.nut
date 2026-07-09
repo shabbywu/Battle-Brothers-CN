@@ -3,13 +3,15 @@
     "ID": 1007437219,
     "key": "1075193e478a28f84a85f7275ba179456c73ad874a734ad1a4e9605fd5543fe7",
     "original": "Allies who start their [turn|Concept.Turn] adjacent to this character when they are [engaged|Concept.ZoneOfControl] in melee or are adjacent to an ally [engaged|Concept.ZoneOfControl] in melee will gain the [$ $|Skill+rf_inspiring_presence_buff_effect] effect",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Allies who start their [turn|Concept.Turn] adjacent to this character when they are [engaged|Concept.ZoneOfControl] in melee or are adjacent to an ally [engaged|Concept.ZoneOfControl] in melee will gain the [$ $|Skill+rf_inspiring_presence_buff_effect] effect\")"
   },
   {
     "ID": 1007437220,
     "key": "79d5f9647007b00632eebb192954c69b25dc7f5e690014bfeb11c2c71fabd50a",
     "original": "Only same faction members are considered allies for this [perk|Concept.Perk]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Only same faction members are considered allies for this [perk|Concept.Perk]\")"
   },
   {
     "ID": 1007437221,
@@ -23,7 +25,8 @@
     "ID": 1007437222,
     "key": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e",
     "original": "banner",
-    "translation": ""
+    "translation": "",
+    "context": "weapon.getID().find(\"banner\")"
   },
   {
     "ID": 1007437223,

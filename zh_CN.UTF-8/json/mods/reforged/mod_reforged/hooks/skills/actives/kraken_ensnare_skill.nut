@@ -4,7 +4,8 @@
     "key": "e777e3c070b09fb7e674e2f55b405d28f0ae834948719c41fc41c075f96fa399",
     "original": "The target gains the [$ $|Skill+kraken_ensnare_effect] effect",
     "translation": "对目标施加[$ $|Skill+kraken_ensnare_effect]状态",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target gains the [$ $|Skill+kraken_ensnare_effect] effect\")"
   },
   {
     "ID": 1007429094,

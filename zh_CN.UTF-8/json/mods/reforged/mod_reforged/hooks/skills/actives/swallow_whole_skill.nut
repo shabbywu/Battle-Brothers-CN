@@ -11,13 +11,15 @@
     "ID": 1007432775,
     "key": "da1b9a2135af6160b6339ff26fe553787532875d2d922e30b66a1534f1b69a32",
     "original": "The target goes inside your belly, gaining the [$ $|Skill+swallowed_whole_effect] effect",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target goes inside your belly, gaining the [$ $|Skill+swallowed_whole_effect] effect\")"
   },
   {
     "ID": 1007432776,
     "key": "e62fd535e4edd873596977f6dffa68420e5ce0cfc444d7d994d22f24d6d8a633",
     "original": "The target's [morale|Concept.Morale] is set to [Breaking|Concept.Morale]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target's [morale|Concept.Morale] is set to [Breaking|Concept.Morale]\")"
   },
   {
     "ID": 1007432777,

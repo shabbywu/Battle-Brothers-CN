@@ -12,7 +12,8 @@
     "key": "1711338fc7eafccb69f4eb80c281cccf0e2ae891b155b3834b1f02037064a975",
     "original": "Can only be used on [$ $|Skill+sleeping_effect] targets",
     "translation": "只能对[$ $|Skill+sleeping_effect]的目标使用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Can only be used on [$ $|Skill+sleeping_effect] targets\")"
   },
   {
     "ID": 1007430813,

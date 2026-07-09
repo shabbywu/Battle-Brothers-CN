@@ -10,6 +10,7 @@
     "ID": 1007412998,
     "key": "592c39eeb85790ced46f694d17afc3d140c16f831f01871969fdcafae38f8fee",
     "original": "factionname",
-    "translation": ""
+    "translation": "",
+    "context": "ret.push([\"factionname\",faction.getName()])"
   }
 ]

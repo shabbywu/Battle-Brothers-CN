@@ -20,7 +20,8 @@
     "key": "98e370d309c3a6606fc438f85f746a8d1bf03b4f9004fab0e8418a74477b3576",
     "original": "Cannot receive this effect more than once per [turn|Concept.Turn]",
     "translation": "每[回合|Concept.Turn]只能受到一次",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot receive this effect more than once per [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007435638,

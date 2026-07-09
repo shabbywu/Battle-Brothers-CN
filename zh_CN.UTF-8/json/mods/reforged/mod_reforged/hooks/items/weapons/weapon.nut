@@ -4,7 +4,8 @@
     "key": "d1841819781b9326a62c1e0bcf7d104dcacecfc8f8da03dbddac61b261a1f5cf",
     "original": "Has a [reach|Concept.Reach] of ",
     "translation": "[触及距离|Concept.Reach]为",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Has a [reach|Concept.Reach] of \")"
   },
   {
     "ID": 1007422660,
@@ -19,7 +20,8 @@
     "key": "08110126dd249ee9a27dd8c414e4a404c59c6b78f445f87b71514c57d2460262",
     "original": "The first swap every [turn|Concept.Turn] to/from this weapon costs no [Action Points|Concept.ActionPoints]",
     "translation": "每[回合|Concept.Turn]第一次切换为/掉本武器不消耗[行动点数|Concept.ActionPoints]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The first swap every [turn|Concept.Turn] to/from this weapon costs no [Action Points|Concept.ActionPoints]\")"
   },
   {
     "ID": 1007422662,
@@ -33,7 +35,8 @@
     "ID": 1007422663,
     "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
     "original": "player",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.isKindOf(this.getContainer().getActor(), \"player\")"
   },
   {
     "ID": 1007422664,

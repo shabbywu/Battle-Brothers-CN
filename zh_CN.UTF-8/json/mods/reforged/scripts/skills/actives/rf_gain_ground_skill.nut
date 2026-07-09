@@ -18,13 +18,15 @@
     "ID": 1007441263,
     "key": "05eb24c0c7cebd9fab5d8e143bd9f1cceaf944550953441ec3e34fc51e057539",
     "original": "Can only be used immediately after killing an adjacent target",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Can only be used immediately after killing an adjacent target\")"
   },
   {
     "ID": 1007441264,
     "key": "28c8f20c752d46d15906853fedc4a08e13c847f78ca5f911cf9129ab078bee27",
     "original": "Cannot be used while rooted",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while rooted\")"
   },
   {
     "ID": 1007441265,
@@ -46,6 +48,7 @@
     "ID": 1007441267,
     "key": "88365ae37ea9afadb090a66e3748b4dca45193c1cd85abc1033b26bf38b452d9",
     "original": "Keep going! Immediately after killing an adjacent target you may move into their tile ignoring [Zone of Control|Concept.ZoneOfControl].",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Keep going! Immediately after killing an adjacent target you may move into their tile ignoring [Zone of Control|Concept.ZoneOfControl].\")"
   }
 ]

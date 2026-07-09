@@ -10,6 +10,7 @@
     "ID": 1007440088,
     "key": "a75c433ab2ae1daf8b032d38bf64e02fb152076b487bfb2784d10e4cf1bba73a",
     "original": "settlement",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.isKindOf(entity, \"settlement\")"
   }
 ]

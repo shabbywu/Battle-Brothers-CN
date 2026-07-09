@@ -42,25 +42,29 @@
     "ID": 1007441340,
     "key": "0b0aa1fd1a8f4b6c66945acddbb6dc17398957d2a7fc78edb0ff29b67b67e07b",
     "original": " from a %s%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\" from a %s%s\", this.m.RequireOffhandFree ? \"double-gripped or two-handed\" : \"\", \" \" + getroottable().Const.Items.getWeaponTypeName(this.m.RequiredWeaponType).tolower())"
   },
   {
     "ID": 1007441341,
     "key": "4022dbc8aaaef12d583871b23d6ee019a6a87718e8f912f9f8250a3936fe0f1b",
     "original": "Can only be used immediately after a successful attack",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Can only be used immediately after a successful attack\")"
   },
   {
     "ID": 1007441342,
     "key": "0d6b08da79d76df6d1f22742806fbf3930503dbb775fe61be510de149a880319",
     "original": "Can only be used on an empty tile adjacent to an enemy",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Can only be used on an empty tile adjacent to an enemy\")"
   },
   {
     "ID": 1007441343,
     "key": "28c8f20c752d46d15906853fedc4a08e13c847f78ca5f911cf9129ab078bee27",
     "original": "Cannot be used while rooted",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while rooted\")"
   },
   {
     "ID": 1007441344,
@@ -82,7 +86,8 @@
     "ID": 1007441346,
     "key": "998c0a0a011588a0f6dfb346df0425f9ccd77b5f08c29cbb4d1d3dac976957e8",
     "original": "Move to an adjacent tile ignoring [Zone of Control|Concept.ZoneOfControl]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Move to an adjacent tile ignoring [Zone of Control|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007441347,
@@ -96,12 +101,14 @@
     "ID": 1007441348,
     "key": "563e5454e53096c81b3877ffdc4be47461624c9439de4c59b85e97418bb29b3f",
     "original": "Requires%s%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"Requires%s%s\", damageTypeString, weaponTypeString)"
   },
   {
     "ID": 1007441349,
     "key": "dfd371f6b8675fe0e23bfc1ac2890d27eb59da0dea3a3f5d2ea190da556c7a11",
     "original": "double-gripped or two-handed",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\" from a %s%s\", this.m.RequireOffhandFree ? \"double-gripped or two-handed\" : \"\", \" \" + getroottable().Const.Items.getWeaponTypeName(this.m.RequiredWeaponType).tolower())"
   }
 ]

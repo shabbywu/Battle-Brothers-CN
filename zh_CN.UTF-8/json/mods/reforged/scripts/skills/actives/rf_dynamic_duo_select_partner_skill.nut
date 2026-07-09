@@ -20,7 +20,8 @@
     "key": "b3cf44f47957697b45a45b5cfeb8b20a1175ee6ea59f4db1cfbf4f2315622dd7",
     "original": "Select a partner for your [$ $|Perk+perk_rf_dynamic_duo] perk.",
     "translation": "选择你[灵动二人组|Perk+perk_rf_dynamic_duo]特技的搭档。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Select a partner for your [$ $|Perk+perk_rf_dynamic_duo] perk.\")"
   },
   {
     "ID": 1007441214,

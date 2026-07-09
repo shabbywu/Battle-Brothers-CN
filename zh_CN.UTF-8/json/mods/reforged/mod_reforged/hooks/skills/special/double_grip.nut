@@ -12,14 +12,14 @@
     "key": "24cf05818362788a4fead18123dadfc12c4ec088e5b9d7b7f8173217efc1fd0b",
     "original": " chance to hit the head",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+10%\") + \" chance to hit the head\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+20%\") + \" chance to hit the head\""
   },
   {
     "ID": 1007439109,
     "key": "152b1870e5053e298465c3ed65044096fe598c360d9129a4077eab55f5123341",
     "original": " damage ignores armor",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"+20%\") + \" damage ignores armor\""
+    "context": "getroottable().MSU.Text.colorPositive(\"+25%\") + \" damage ignores armor\""
   },
   {
     "ID": 1007439110,
@@ -41,14 +41,14 @@
     "key": "999f1c2d148cdbe628a1496ff5159a279ec19c436bee1d59080c9fe83c1df1c6",
     "original": " less [Fatigue|Concept.Fatigue]",
     "translation": "",
-    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue]\""
+    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" less [Fatigue|Concept.Fatigue]\""
   },
   {
     "ID": 1007439113,
     "key": "e7290599a39d6a410c8681062b78f85aaef6bb94ae03cacf7c4cde023462916d",
     "original": " more damage",
     "translation": "",
-    "context": "getroottable().MSU.Text.colorPositive(\"20%\") + \" more damage\""
+    "context": "getroottable().MSU.Text.colorizeMult(this.m.MeleeDamageMult_Dagger) + \" more damage\""
   },
   {
     "ID": 1007439114,
@@ -78,14 +78,14 @@
     "original": "Hits that deal at least ",
     "translation": "造成的[生命值|Concept.Hitpoints]伤害不少于",
     "stage": 1,
-    "context": "\"Hits that deal at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect\""
+    "context": "\"Hits that deal at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect\""
   },
   {
     "ID": 1007439118,
     "key": "c000552622769110d398668fa42aeaace9d921f57fe66b6f319ff0ee4ecaae7c",
     "original": "Skills build up ",
     "translation": "",
-    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue]\""
+    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" less [Fatigue|Concept.Fatigue]\""
   },
   {
     "ID": 1007439119,
@@ -101,5 +101,12 @@
     "original": "text",
     "translation": "",
     "context": "type = \"text\""
+  },
+  {
+    "ID": 1007668124,
+    "key": "f7aa86dd98c2c08ce31334eb384834e796a864d7455b0ba1774f848bd34d188a",
+    "original": " to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect",
+    "translation": "",
+    "context": "\"Hits that deal at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect\""
   }
 ]

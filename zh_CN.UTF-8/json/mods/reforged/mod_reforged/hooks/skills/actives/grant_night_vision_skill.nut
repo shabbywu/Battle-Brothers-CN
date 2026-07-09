@@ -28,7 +28,8 @@
     "key": "805d29c92416ab0dbd0f0676687428a80c557ed8f428e256d4f38deba88a2521",
     "original": "The target and allies adjacent to the target will no longer be affected by [$ $|Skill+night_effect] for the course of this battle",
     "translation": "本场战斗中，使目标和其相邻友军角色免受[$ $|Skill+night_effect]影响",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target and allies adjacent to the target will no longer be affected by [$ $|Skill+night_effect] for the course of this battle\")"
   },
   {
     "ID": 1007427496,

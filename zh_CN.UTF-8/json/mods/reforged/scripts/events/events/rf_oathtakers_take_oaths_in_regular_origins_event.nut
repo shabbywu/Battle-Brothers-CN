@@ -27,7 +27,8 @@
     "ID": 1007440772,
     "key": "7ed2037c95ecdb189e7940d5ae255817d8dede4101e56067384384c955b362f1",
     "original": "%s%s%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"%s%s%s\", bro.getName(), currentOath != null ? \" completes \" + currentOath.getName() + \" and\" : \"\", \" takes \" + newOath.getName())"
   },
   {
     "ID": 1007440773,
