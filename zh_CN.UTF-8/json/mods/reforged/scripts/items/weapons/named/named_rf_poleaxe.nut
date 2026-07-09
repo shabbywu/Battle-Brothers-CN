@@ -1,8 +1,10 @@
 [
   {
+    "ID": 1007441011,
     "key": "27562c34a575b1ed58654390ab331a54763d9838694dfb1db9b6a02dce7a0dd9",
     "original": "This fine poleaxe is built for piercing mail and caving in helmets. It is the work of a mastersmith who knew the demands of battle.",
-    "translation": "",
+    "translation": "这杆长柄斧制作精良，能够刺穿锁子，砸凹铁盔。打造它的铁匠不愧是大师，很懂战场上需要什么。",
+    "stage": 1,
     "context": "this.m.Description = \"This fine poleaxe is built for piercing mail and caving in helmets. It is the work of a mastersmith who knew the demands of battle.\""
   }
 ]

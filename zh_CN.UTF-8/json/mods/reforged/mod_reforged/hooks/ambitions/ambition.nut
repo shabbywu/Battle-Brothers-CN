@@ -1,26 +1,25 @@
 [
   {
+    "ID": 1007411563,
     "key": "494b360cd2c6ac18c09c5ac6f84e0bc1ca539d362ac06d150771e38126f51182",
     "original": " [Renown|Concept.BusinessReputation]",
-    "translation": "",
+    "translation": "[名望|Concept.BusinessReputation]",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorizeValue(this.getRenownOnSuccess(), {\n    AddSign = True\n}) + \" [Renown|Concept.BusinessReputation]\""
   },
   {
+    "ID": 1007411564,
     "key": "d3d483a5de67fecab5b45decc74f0ba6ca86536de7e3c38757c7eeccce4c8b5a",
     "original": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
-    "translation": "",
+    "translation": "你的名望会提高，这会带给你更高的报酬，有时还有更多类型的合同。",
+    "stage": 1,
     "context": "\"text\" && entry.text == \"Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.\""
   },
   {
+    "ID": 1007411565,
     "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
     "original": "text",
     "translation": "",
     "context": "\"text\" && entry.text == \"Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.\""
-  },
-  {
-    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
-    "original": "text",
-    "translation": "",
-    "context": "type = \"text\""
   }
 ]

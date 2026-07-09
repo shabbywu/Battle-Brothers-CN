@@ -1,8 +1,10 @@
 [
   {
+    "ID": 1007441074,
     "key": "1b329ddc8a34adfed6270f3f84f9083248ddb2f018fa76586632a7a364e474df",
     "original": "Light Armor",
-    "translation": "",
+    "translation": "轻甲",
+    "stage": 1,
     "context": "this.m.Name = \"Light Armor\""
   }
 ]

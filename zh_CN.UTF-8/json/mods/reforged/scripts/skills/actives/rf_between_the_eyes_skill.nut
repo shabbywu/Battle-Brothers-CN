@@ -1,26 +1,34 @@
 [
   {
+    "ID": 1007441154,
     "key": "21deb6dbbb5562038319ce4d42c7cc28a4e4cf3dcff8a98782a848b9ee7ad0b7",
     "original": " effect",
-    "translation": "",
+    "translation": "效果",
+    "stage": 1,
     "context": "\"Gain the \" + getroottable().Reforged.NestedTooltips.getNestedSkillName(effect) + \" effect\""
   },
   {
+    "ID": 1007441155,
     "key": "0ffe9e6a9869b472cccf547573f78dd95026cf88e5636e04451d8b9a7ef51b4b",
     "original": "Attempt to land your next attack right between your target's eyes.",
-    "translation": "",
+    "translation": "尝试将下次攻击落在对手眉间。",
+    "stage": 1,
     "context": "this.m.Description = \"Attempt to land your next attack right between your target's eyes.\""
   },
   {
+    "ID": 1007441156,
     "key": "c7385de109d542abe71a5ddab3455e574036035154db3f9fe150a2d1f54c2033",
     "original": "Between the Eyes",
-    "translation": "",
+    "translation": "直抵眉心",
+    "stage": 1,
     "context": "this.m.Name = \"Between the Eyes\""
   },
   {
+    "ID": 1007441157,
     "key": "42016a3386cda7d8fcc0091b524bab4504423bd3c5dcaf69609bb74d17084850",
     "original": "Gain the ",
-    "translation": "",
+    "translation": "获得",
+    "stage": 1,
     "context": "\"Gain the \" + getroottable().Reforged.NestedTooltips.getNestedSkillName(effect) + \" effect\""
   }
 ]

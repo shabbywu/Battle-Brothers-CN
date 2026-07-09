@@ -1,50 +1,52 @@
 [
   {
+    "ID": 1007413335,
     "key": "d81ea1595a0453780e68c2988980d28cccabbe2a774e77725c4e66a56f073fd4",
     "original": "armor",
-    "translation": "",
-    "context": ""
+    "translation": "armor",
+    "stage": 1
   },
   {
+    "ID": 1007413336,
     "key": "864ea39fe7e2b27155a29e46fb9458d05e2ccade4151d02b7c851b10257eda7a",
     "original": "arrow",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413337,
     "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
     "original": "body",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413338,
     "key": "9f2e6d33a3717ee826353a404ba4618d1aeeb6879ad7936bce8ed5f46814924d",
     "original": "head",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413339,
     "key": "115584860cd5620e40fd03402e771e185a3f789038d1f70c9d651ee60580c3bb",
     "original": "helmet",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413340,
     "key": "a945a02a044c3286e670d0ffff0cd9e8e46b3f6bcf9cf6bfaf19311d60fa830c",
     "original": "injury",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413341,
     "key": "47dd56c2c7a7f7aac789ff6a0190ecc9f7508548c7e4f5118bef1622b478fbeb",
     "original": "socket",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413342,
     "key": "7ae22a60d86a91fcdb11035e3c34658c865a12181a0f125ff491d310f346ddee",
     "original": "stunned",
-    "translation": "",
-    "context": ""
+    "translation": "stunned",
+    "stage": 1
   }
 ]
