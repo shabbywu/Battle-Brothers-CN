@@ -28,7 +28,8 @@
     "key": "b56fd1f63b586e365f005fa0d1b44cff26790e80d2e8b59d9a13e60e3b75c2b7",
     "original": "Unable to move",
     "translation": "无法移动",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Unable to move\")"
   },
   {
     "ID": 1007436236,

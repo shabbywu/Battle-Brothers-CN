@@ -3,7 +3,8 @@
     "ID": 1007428065,
     "key": "c828bdc6881bcc5a0070cb58a267bf91bdcec162208752fd06b1a056bf408fee",
     "original": "All [Hitpoints|Concept.Hitpoints] and [injuries|Concept.InjuryTemporary] are fully healed",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"All [Hitpoints|Concept.Hitpoints] and [injuries|Concept.InjuryTemporary] are fully healed\")"
   },
   {
     "ID": 1007428066,
@@ -17,7 +18,8 @@
     "ID": 1007428067,
     "key": "44ce8a1a99f3836cc4aa95354f7b6513e501b8a5769abed87753f58bdf67878e",
     "original": "Gain the [$ $|Skill+gruesome_feast_effect] effect",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain the [$ $|Skill+gruesome_feast_effect] effect\")"
   },
   {
     "ID": 1007428068,

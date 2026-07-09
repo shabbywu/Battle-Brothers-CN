@@ -12,7 +12,7 @@
     "key": "6538fd5728100d6be85e8d4546d00f119d5fca5a198b7ff992a0fc92285fbb7f",
     "original": "<div class='attributePredictionContainer'>",
     "translation": "",
-    "context": "ret + \"<div>\""
+    "context": "html + \"<div>\""
   },
   {
     "ID": 1007434797,
@@ -41,21 +41,24 @@
     "ID": 1007434800,
     "key": "1775c816795316c0be6b6b70a912d375c85f93c61b866c6aaf067f4609cb4ac6",
     "original": "Bravery",
-    "translation": ""
+    "translation": "",
+    "context": "formatString(\"gfx/ui/icons/bravery.png\", \"Bravery\")"
   },
   {
     "ID": 1007434801,
     "key": "c35ed1964164e1c292c9f3c36b676ed3a0e326de9f38754f7ba416e077534649",
     "original": "Hitpoints",
     "translation": "生命值",
-    "stage": 1
+    "stage": 1,
+    "context": "formatString(\"gfx/ui/icons/health.png\", \"Hitpoints\")"
   },
   {
     "ID": 1007434802,
     "key": "3e687de48a6ad4e5cde7376ae2e49c1f6d3e3d2ee31ffe168ed065a10a9f91be",
     "original": "Initiative",
     "translation": "主动值",
-    "stage": 1
+    "stage": 1,
+    "context": "formatString(\"gfx/ui/icons/initiative.png\", \"Initiative\")"
   },
   {
     "ID": 1007434803,
@@ -69,7 +72,8 @@
     "ID": 1007434804,
     "key": "cc350ea3393968f7cd7cbf135e8c1ec826c85b881b68dc619c699667805a3e96",
     "original": "Stamina",
-    "translation": ""
+    "translation": "",
+    "context": "formatString(\"gfx/ui/icons/fatigue.png\", \"Stamina\")"
   },
   {
     "ID": 1007434805,

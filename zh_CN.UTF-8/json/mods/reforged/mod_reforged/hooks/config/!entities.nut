@@ -5,6 +5,6 @@
     "original": "integer",
     "translation": "integer",
     "stage": 1,
-    "context": "typeof v == \"integer\" && v &gt;= _atID"
+    "context": "typeof value == \"integer\" && value &gt; highestID"
   }
 ]

@@ -28,14 +28,16 @@
     "key": "2cf5ea9f9dc2c70465045aac01a9db809d6e1e6fef3d1d698ab563322a9636c4",
     "original": "Targets immune to being knocked back or rooted are [$ $|Skill+staggered_effect] instead",
     "translation": "免疫击退或定身的目标会被[$ $|Skill+staggered_effect]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Targets immune to being knocked back or rooted are [$ $|Skill+staggered_effect] instead\")"
   },
   {
     "ID": 1007432859,
     "key": "1618e366e26dacfd26a276fbcd7982466a89a432fcae71b76b6d37c1c4ccff53",
     "original": "Will knock back targets who are not immune to being knocked back or being rooted. Upon being knocked back, the targets lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects",
     "translation": "击退不免疫击退或定身的目标。被击退时，目标会失去[$ $|Skill+shieldwall_effect]、[$ $|Skill+spearwall_effect]和[$ $|Skill+riposte_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will knock back targets who are not immune to being knocked back or being rooted. Upon being knocked back, the targets lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects\")"
   },
   {
     "ID": 1007432860,

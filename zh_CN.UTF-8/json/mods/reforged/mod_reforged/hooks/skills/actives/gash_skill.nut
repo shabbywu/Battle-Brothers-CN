@@ -19,7 +19,7 @@
     "key": "936bc76c81b22751154b0d77f733d8e6a51076abf42a5db76a63bf45e696a505",
     "original": " lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary]",
     "translation": "",
-    "context": "\"Has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary]\""
+    "context": "\"Has a \" + getroottable().MSU.Text.colorNegative(\"33%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary]\""
   },
   {
     "ID": 1007426488,
@@ -50,7 +50,7 @@
     "original": "Has a ",
     "translation": "造成[创伤|Concept.InjuryTemporary]的[阈值|Concept.InjuryThreshold]降低",
     "stage": 1,
-    "context": "\"Has a \" + getroottable().MSU.Text.colorNegative(\"33%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary]\""
+    "context": "\"Has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary]\""
   },
   {
     "ID": 1007426492,

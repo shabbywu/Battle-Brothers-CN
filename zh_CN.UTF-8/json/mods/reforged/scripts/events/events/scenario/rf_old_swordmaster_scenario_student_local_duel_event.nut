@@ -53,7 +53,7 @@
     "original": " gains ",
     "translation": "获得了",
     "stage": 1,
-    "context": "this.m.Champion.getName() + \" gains \" + getroottable().Const.UI.getColorized(attributes.Stamina, getroottable().Const.UI.Color.PositiveEventValue) + \" Fatigue\""
+    "context": "this.m.Champion.getName() + \" gains \" + getroottable().Const.UI.getColorized(attributes.MeleeSkill, getroottable().Const.UI.Color.PositiveEventValue) + \" Melee Skill\""
   },
   {
     "ID": 1007440826,
@@ -166,7 +166,8 @@
     "ID": 1007440840,
     "key": "d2edcd777211e59f1c4aaedea9d4ad74a6ef3718dcf0ed25e7b31d323bc42bf2",
     "original": "Prevented from taking part in a great duel",
-    "translation": ""
+    "translation": "",
+    "context": "_event.m.Champion.worsenMood(1.5, \"Prevented from taking part in a great duel\")"
   },
   {
     "ID": 1007440841,
@@ -196,7 +197,8 @@
     "ID": 1007440844,
     "key": "d6fa6517e28fd7d69c110cb4d02fb2fc6cb146d36a9058dfbcae12d22396f243",
     "original": "The company's champion won an impressive duel",
-    "translation": ""
+    "translation": "",
+    "context": "bro.improveMood(0.5, \"The company's champion won an impressive duel\")"
   },
   {
     "ID": 1007440845,
@@ -210,7 +212,8 @@
     "ID": 1007440846,
     "key": "16a628e31569ec0166a65ef8769662c31d6af8212473a1a1ccaaaecf5e06ff5e",
     "original": "Won a great duel",
-    "translation": ""
+    "translation": "",
+    "context": "_event.m.Champion.improveMood(1.0, \"Won a great duel\")"
   },
   {
     "ID": 1007440847,
@@ -265,30 +268,35 @@
     "ID": 1007440854,
     "key": "d14a7310bdf55b8ffeb7b8462d1f1e3bc6c79a7d80a90e70eae4ef36f223847f",
     "original": "champion",
-    "translation": ""
+    "translation": "",
+    "context": "_vars.push([\"champion\",this.m.Champion.getName()])"
   },
   {
     "ID": 1007440855,
     "key": "9ff8913c94a4a525233e9916f8300b78316d0770365f6d88317af63aa28e0ae9",
     "original": "enemyname",
-    "translation": ""
+    "translation": "",
+    "context": "_vars.push([\"enemyname\",this.m.Flags.get(\"EnemyChampionName\")])"
   },
   {
     "ID": 1007440856,
     "key": "7f3fa48ca885678134842fa7456f3ece53a97f843b610185d900ac4e467c7490",
     "original": "partner",
-    "translation": ""
+    "translation": "",
+    "context": "_vars.push([\"partner\",this.m.Partner.getName()])"
   },
   {
     "ID": 1007440857,
     "key": "3c6085dea5aa50e556f45fb2140fe5c5d2fd87bdf3d3862ec952a17ca2cd4f01",
     "original": "randombro",
-    "translation": ""
+    "translation": "",
+    "context": "_vars.push([\"randombro\",this.m.RandomBro.getName()])"
   },
   {
     "ID": 1007440858,
     "key": "c15176d57519fe5ab0aa662c69c1682421ea22ae899f5e8448822e409e64f1a4",
     "original": "randombro2",
-    "translation": ""
+    "translation": "",
+    "context": "_vars.push([\"randombro2\",this.m.RandomBro2.getName()])"
   }
 ]

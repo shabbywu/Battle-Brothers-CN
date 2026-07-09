@@ -18,13 +18,15 @@
     "ID": 1007441412,
     "key": "ae4745316e5652bf4a4c0a9ba740ea08a911767e2c039af19707aaa86f2fbba6",
     "original": "Cannot be used while [Rooted|Concept.Rooted]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while [Rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007441413,
     "key": "2e525c1479b70126355cbb4320e33427d15fde061cf420e98be7529af8138d8f",
     "original": "If the attack is successful, automatically use [$ $|Skill+line_breaker] for free on the target",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"If the attack is successful, automatically use [$ $|Skill+line_breaker] for free on the target\")"
   },
   {
     "ID": 1007441414,
@@ -46,7 +48,8 @@
     "ID": 1007441416,
     "key": "ffa5150c2a87bcea3f3cf76ac8397384a5837aa47039286e140a55bb27d5e58b",
     "original": "Requires a sword",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a sword\")"
   },
   {
     "ID": 1007441417,
@@ -60,6 +63,7 @@
     "ID": 1007441418,
     "key": "54713c94b60cef8e10d8965d2331fab073e70861ac02c1453761d3bdc55109c6",
     "original": "Will [stagger|Skill+staggered_effect] the target",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will [stagger|Skill+staggered_effect] the target\")"
   }
 ]

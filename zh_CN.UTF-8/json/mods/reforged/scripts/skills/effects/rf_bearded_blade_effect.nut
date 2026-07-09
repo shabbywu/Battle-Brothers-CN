@@ -59,5 +59,26 @@
     "original": "Will expire upon attacking or successfully [disarming|Skill+disarmed_effect] an opponent, or swapping your weapon",
     "translation": "在攻击、成功[缴械|Skill+disarmed_effect]对手或切换武器后失效。",
     "stage": 1
+  },
+  {
+    "ID": 1007668137,
+    "key": "0b8e318558c512449b4cbc47d0dc7ab4dee427afffa3ca345a395140d0bc1602",
+    "original": "Will expire upon attacking or successfully [$ $|Skill+disarmed_effect] an opponent, or swapping your weapon",
+    "translation": "在攻击、成功[缴械|Skill+disarmed_effect]对手或切换武器后失效。",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon attacking or successfully [$ $|Skill+disarmed_effect] an opponent, or swapping your weapon\")"
+  },
+  {
+    "ID": 1007668138,
+    "key": "74e49b4a19b4d467da55deecb1e733ad1a74932636da28bda671a6759a6375d1",
+    "original": "The next attack has a chance equal to the hit chance to [$ $|Skill+disarmed_effect] the opponent",
+    "translation": "下次攻击有概率[缴械|Skill+disarmed_effect]你的对手，概率等于命中率。",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The next attack has a chance equal to the hit chance to [$ $|Skill+disarmed_effect] the opponent\")"
+  },
+  {
+    "ID": 1007668139,
+    "key": "c8570c44ffff8c0da1bfd0b648ece299d079c6d9a11844f166d172e99cefbffc",
+    "original": "Until your next [turn|Concept.Turn], every attack missed against you has a chance to [$ $|Skill+disarmed_effect] the attacker equal to the miss chance",
+    "translation": "直到你的下个[回合|Concept.Turn]，任何未命中你的攻击者都有概率被[缴械|Skill+disarmed_effect]，概率等于攻击落空概率。",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Until your next [turn|Concept.Turn], every attack missed against you has a chance to [$ $|Skill+disarmed_effect] the attacker equal to the miss chance\")"
   }
 ]

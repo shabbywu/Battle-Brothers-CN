@@ -58,6 +58,7 @@
     "key": "200651a8b2d5912f692db89468a7d47d86a3ed6844f48f1b15f2be1d9c9a7e5e",
     "original": "once",
     "translation": "一次",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"once\")"
   }
 ]

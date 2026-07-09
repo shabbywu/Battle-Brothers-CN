@@ -37,14 +37,14 @@
     "original": " misses)",
     "translation": "次未命中)",
     "stage": 1,
-    "context": "name + \"(x\" + this.m.HitStacks + \" hits, x\" + this.m.MissStacks + \" misses)\""
+    "context": "name + \"(x\" + this.m.MissStacks + \" misses)\""
   },
   {
     "ID": 1007441989,
     "key": "8c7d25442892ca363d834b190ddb167a27a93ab0e81d5c3643f695185bf9cb9c",
     "original": "(x",
     "translation": "",
-    "context": "name + \"(x\" + this.m.MissStacks + \" misses)\""
+    "context": "name + \"(x\" + this.m.HitStacks + \" hits, x\" + this.m.MissStacks + \" misses)\""
   },
   {
     "ID": 1007441990,

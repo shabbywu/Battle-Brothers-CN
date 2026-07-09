@@ -11,7 +11,8 @@
     "ID": 1007433401,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007433402,
@@ -25,7 +26,8 @@
     "ID": 1007433403,
     "key": "9d9caf8e3889e42c2544fa027d79d1a0594b8098b6afd9ed511c70c80b99775d",
     "original": "No axes left",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"No axes left\")"
   },
   {
     "ID": 1007433404,

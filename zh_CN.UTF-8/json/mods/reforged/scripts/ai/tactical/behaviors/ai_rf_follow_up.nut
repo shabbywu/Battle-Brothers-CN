@@ -52,7 +52,8 @@
     "ID": 1007440715,
     "key": "b3b7a3d29a127840689f8499c64b5ce4c36f1989ace82275925fdd5b5bcf48e3",
     "original": "No Surrounded Target or Surrounding Allies in sight",
-    "translation": ""
+    "translation": "",
+    "context": "this.logInfo(\"No Surrounded Target or Surrounding Allies in sight\")"
   },
   {
     "ID": 1007440716,

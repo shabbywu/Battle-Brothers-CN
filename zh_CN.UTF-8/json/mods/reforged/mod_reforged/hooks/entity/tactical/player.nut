@@ -41,6 +41,6 @@
     "key": "2998b3232d29e8dc5a78d97a32ce83f556f3ed31b057077503df05641dd79158",
     "original": "get",
     "translation": "",
-    "context": "\"get\" + _attributeName"
+    "context": "\"get\" + _attributeName + \"Max\""
   }
 ]

@@ -29,7 +29,7 @@
     "original": " for one turn",
     "translation": "持续1回合",
     "stage": 1,
-    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has stunned \" + getroottable().Const.UI.getColorizedEntityName(_attacker) + \" for one turn\""
+    "context": "getroottable().Const.UI.getColorizedEntityName(actor) + \" has staggered \" + getroottable().Const.UI.getColorizedEntityName(_attacker) + \" for one turn\""
   },
   {
     "ID": 1007441490,
@@ -68,7 +68,8 @@
     "key": "e5817bf9002284335de858439817e3a5df850344235609bf6e11ebbf8ada55de",
     "original": "Requires being unarmed or armed with a melee weapon",
     "translation": "需要赤手空拳或持有近战武器",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires being unarmed or armed with a melee weapon\")"
   },
   {
     "ID": 1007441495,

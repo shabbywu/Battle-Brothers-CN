@@ -41,6 +41,7 @@
     "ID": 1007441547,
     "key": "e2af9bb21dee044ed0dbe3f3a987a7937b5a698569f89db6f1f0fa60de94890b",
     "original": "Will expire upon using [Wait|Concept.Wait] or ending the [turn|Concept.Turn]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon using [Wait|Concept.Wait] or ending the [turn|Concept.Turn]\")"
   }
 ]

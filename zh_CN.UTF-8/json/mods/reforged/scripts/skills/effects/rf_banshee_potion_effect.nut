@@ -10,13 +10,15 @@
     "ID": 1007441502,
     "key": "8a3f66d7a10656934e9352176d906d218abc81d9e82b2eff1c0b93d0b78ecb06",
     "original": "Counters all effects that prevent reaching Confident [morale|Concept.Morale]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Counters all effects that prevent reaching Confident [morale|Concept.Morale]\")"
   },
   {
     "ID": 1007441503,
     "key": "7098ddbe725d0bffe41646a5d36254079ee18f12b27ddefbe3fa068050e546f3",
     "original": "Removes [$ $|Skill+dastard_trait] and [$ $|Skill+insecure_trait]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes [$ $|Skill+dastard_trait] and [$ $|Skill+insecure_trait]\")"
   },
   {
     "ID": 1007441504,

@@ -4,7 +4,8 @@
     "key": "b79786e290bd440beda98adfd8ffad3cd237e23bb8dd84ee023a3de21c70e172",
     "original": "Every turn you are moved towards the Kraken",
     "translation": "每回合中，你都会被拖向克拉肯",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Every turn you are moved towards the Kraken\")"
   },
   {
     "ID": 1007429237,

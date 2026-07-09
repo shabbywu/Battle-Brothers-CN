@@ -44,7 +44,8 @@
     "key": "d83a069a6e46712a976a9d15c9e81ac0c9c36ed5392ebbc5562e404e018b2240",
     "original": "Immune to being [$ $|Skill+stunned_effect], Knocked Back or Grabbed",
     "translation": "免疫[$ $|Skill+stunned_effect]，击退和勾拽",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+stunned_effect], Knocked Back or Grabbed\")"
   },
   {
     "ID": 1007441646,

@@ -35,7 +35,7 @@
     "key": "be34a36f6b5920a14d1306fd09e80961a68ff285e2be1a9f6221b1d9ceaa0834",
     "original": "When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by ",
     "translation": "",
-    "context": "\"When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by \" + getroottable().MSU.Text.colorizeValue(this.calculateDefenseModifier()) + \" (\" + getroottable().MSU.Text.colorizePct(this.m.DefenseModifierFraction) + \" of your current [Resolve|Concept.Bravery])\""
+    "context": "\"When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by \" + getroottable().MSU.Text.colorizePct(this.m.DefenseModifierFraction) + \" of your current [Resolve|Concept.Bravery]\""
   },
   {
     "ID": 1007433225,

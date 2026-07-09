@@ -18,7 +18,8 @@
     "key": "82700e487f17f09ff3bec564e5948f66a7a825850960d3e53cd866a61392a6d8",
     "original": "Increases Ranged Defense by ",
     "translation": "烟雾中的角色远程防御增加 ",
-    "stage": 1
+    "stage": 1,
+    "context": "entry.text.find(\"Increases Ranged Defense by \")"
   },
   {
     "ID": 1007433710,

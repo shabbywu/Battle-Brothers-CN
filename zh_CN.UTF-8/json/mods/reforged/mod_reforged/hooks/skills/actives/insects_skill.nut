@@ -28,7 +28,8 @@
     "key": "5db049f4b0d1df2098abddeb0cc8f25dd5f5e633d37386ff148588e0ab339fb8",
     "original": "The target gains the [$ $|Skill+insect_swarm_effect] effect",
     "translation": "对目标施加[虫群笼罩|Skill+insect_swarm_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target gains the [$ $|Skill+insect_swarm_effect] effect\")"
   },
   {
     "ID": 1007428661,

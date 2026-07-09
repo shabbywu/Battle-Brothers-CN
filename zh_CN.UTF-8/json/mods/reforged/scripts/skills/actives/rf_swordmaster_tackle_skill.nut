@@ -18,13 +18,15 @@
     "ID": 1007441451,
     "key": "28c8f20c752d46d15906853fedc4a08e13c847f78ca5f911cf9129ab078bee27",
     "original": "Cannot be used while rooted",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while rooted\")"
   },
   {
     "ID": 1007441452,
     "key": "d898987a6315b1ff684a74516b248ee1c6c2ce9401686b18cc7a8c666c4f7c4c",
     "original": "If the attack is successful, [$ $|Skill+stunned_effect] and exchange positions with the target",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"If the attack is successful, [$ $|Skill+stunned_effect] and exchange positions with the target\")"
   },
   {
     "ID": 1007441453,
@@ -38,7 +40,8 @@
     "ID": 1007441454,
     "key": "ee2cc1d1c9db64df0f9ef84f21cf3039107838ed48b9fd25d074106df9c88239",
     "original": "Requires a two-handed sword or a one-handed sword with the offhand free",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a two-handed sword or a one-handed sword with the offhand free\")"
   },
   {
     "ID": 1007441455,

@@ -19,7 +19,8 @@
     "key": "93c89402eaac5187b3dacce85c19692a9ad3a4e2beb3bfa22684b5aff3579b9e",
     "original": "Cannot follow up when [engaged|Concept.ZoneOfControl] in melee",
     "translation": "陷入[近战|Concept.ZoneOfControl]时无法跟进攻击",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot follow up when [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007441607,

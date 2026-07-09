@@ -12,7 +12,8 @@
     "key": "ba486d67e527899ebc9278b3410669fb8dd51089dc2d177ef6599c1eeabeeb4c",
     "original": "All incoming [Hitpoints|Concept.Hitpoints] damage is inflicted in full to the victim as well",
     "translation": "受到的所有[生命值|Concept.Hitpoints]伤害同时会被全额施加给受害者",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"All incoming [Hitpoints|Concept.Hitpoints] damage is inflicted in full to the victim as well\")"
   },
   {
     "ID": 1007435817,

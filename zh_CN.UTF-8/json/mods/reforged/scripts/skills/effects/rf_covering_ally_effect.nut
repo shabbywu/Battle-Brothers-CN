@@ -51,6 +51,7 @@
     "key": "000b5ce9bb2360b9ebab0ed12e7906dd785e35f5633f42d53d8e3e88257bc6e6",
     "original": "This character is using the shield to help an ally move ignoring [Zone of Control|Concept.ZoneOfControl]. This takes up significant effort, resulting in reduced combat effectiveness.",
     "translation": "该角色正在使用盾牌，帮助队友无视[控制区|Concept.ZoneOfControl]移动。这将耗费大量精力，导致战斗效率下降。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character is using the shield to help an ally move ignoring [Zone of Control|Concept.ZoneOfControl]. This takes up significant effort, resulting in reduced combat effectiveness.\")"
   }
 ]

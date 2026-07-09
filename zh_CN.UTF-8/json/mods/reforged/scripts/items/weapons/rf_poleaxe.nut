@@ -22,5 +22,12 @@
     "translation": "长柄斧",
     "stage": 1,
     "context": "this.m.Name = \"Poleaxe\""
+  },
+  {
+    "ID": 1007668134,
+    "key": "5553d9fd4c6a24edf29bec81df58b61c01075bb5a3002648903d5ab8168587e8",
+    "original": "Hew",
+    "translation": "",
+    "context": "o.m.Name = \"Hew\""
   }
 ]

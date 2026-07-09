@@ -5,7 +5,7 @@
     "original": "Remaining uses: ",
     "translation": "剩余次数：",
     "stage": 1,
-    "context": "\"Remaining uses: \" + getroottable().MSU.Text.colorPositive(this.getRemainingUses())"
+    "context": "\"Remaining uses: \" + getroottable().MSU.Text.colorNegative(\"0\")"
   },
   {
     "ID": 1007441351,
@@ -20,6 +20,7 @@
     "key": "e074590ec4ad4ba7b5b3f6ab9d312e19d87cf39eb8d0bc97ab86b416f5639e8a",
     "original": "You have one use for each empty [bag slot|Concept.BagSlots] that you start the battle with",
     "translation": "战斗开始时，每有一个空的[背包槽位|Concept.BagSlots]，获得1次使用次数",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"You have one use for each empty [bag slot|Concept.BagSlots] that you start the battle with\")"
   }
 ]

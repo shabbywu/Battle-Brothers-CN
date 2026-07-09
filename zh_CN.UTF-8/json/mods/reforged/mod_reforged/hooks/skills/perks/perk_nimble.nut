@@ -19,13 +19,15 @@
     "ID": 1007437908,
     "key": "7d4255adb6d1bf8377f0351597f2ff7db8029d9c883dd3e21499f948ae7db718",
     "original": "Effective Hitpoints: ",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"Effective Hitpoints: \")"
   },
   {
     "ID": 1007437909,
     "key": "3131e09189a5c71b7a2de336947c6a8867595aeac53cb682903883593a4d8d36",
     "original": "Ignore 1 [Reach Disadvantage|Concept.ReachAdvantage] when attacking a target with lower [Initiative|Concept.Initiative] than yours",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Ignore 1 [Reach Disadvantage|Concept.ReachAdvantage] when attacking a target with lower [Initiative|Concept.Initiative] than yours\")"
   },
   {
     "ID": 1007437910,

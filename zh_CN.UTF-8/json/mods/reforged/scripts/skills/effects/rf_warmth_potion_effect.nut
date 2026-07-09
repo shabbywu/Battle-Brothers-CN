@@ -28,7 +28,8 @@
     "key": "c58ebeab1e8de3aa7197bb6ff0eea08182cdae39e633926ae5fe94fe732476e2",
     "original": "Immune to natural and unnatural cold effects like [$ $|Skill+chilled_effect] and [$ $|Skill+rf_numbness_effect]",
     "translation": "免疫自然或非自然的寒冷效果，如[$ $|Skill+chilled_effect]和[$ $|Skill+rf_numbness_effect]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to natural and unnatural cold effects like [$ $|Skill+chilled_effect] and [$ $|Skill+rf_numbness_effect]\")"
   },
   {
     "ID": 1007441772,

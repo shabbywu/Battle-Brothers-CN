@@ -4,7 +4,8 @@
     "key": "bfef0aeb3d451386a36bab551b6a627fad99ba3ccfe943922f220ab68607a0ab",
     "original": "Cost / Strength / Combats: %i / %i / %i",
     "translation": "消耗 / 战力 / 战斗数：%i / %i / %i",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Cost / Strength / Combats: %i / %i / %i\", cost.tointeger(), strength.tointeger(), this.getFlags().has(\"RF_NumCombats\") ? this.getFlags().get(\"RF_NumCombats\") : 0)"
   },
   {
     "ID": 1007419810,
@@ -27,7 +28,8 @@
     "key": "80ee4514bd5c5eb154999aa7a3bec1883a148a5b45bb22ddb129a4dc32dc2e6c",
     "original": "Spawned on Day: %i",
     "translation": "生成日：%i",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Spawned on Day: %i\", this.getFlags().has(\"RF_SpawnDay\") ? this.getFlags().get(\"RF_SpawnDay\") : 0)"
   },
   {
     "ID": 1007419813,

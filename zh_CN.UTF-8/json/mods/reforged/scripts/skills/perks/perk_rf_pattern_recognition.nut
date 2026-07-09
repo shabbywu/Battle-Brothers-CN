@@ -11,7 +11,8 @@
     "key": "5108957ef1e0c0c419b1783074a957efec09f3aefa108e2bd66a8277d77fb1ee",
     "original": "Increased [Melee Skill|Concept.MeleeSkill] and [Melee Defense|Concept.MeleeDefense]",
     "translation": "[近战技能|Concept.MeleeSkill]和[近战防御|Concept.MeleeDefense]得到了提高",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Increased [Melee Skill|Concept.MeleeSkill] and [Melee Defense|Concept.MeleeDefense]\")"
   },
   {
     "ID": 1007441923,

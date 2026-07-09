@@ -26,7 +26,8 @@
     "key": "0d2cbab9584b352b58dc7bdb7166fdfe14859a2ab3723a71dbb7a48bc76da0a6",
     "original": "Does nothing against mental attacks",
     "translation": "面对精神攻击时不生效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Does nothing against mental attacks\")"
   },
   {
     "ID": 1007441820,

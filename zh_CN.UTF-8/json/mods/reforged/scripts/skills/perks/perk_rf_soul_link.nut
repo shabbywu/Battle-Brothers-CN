@@ -19,6 +19,7 @@
     "key": "3219a72bc1949cacbe80f769032c8585ac0baea93d73e89cbc2e5013b9d3c6a8",
     "original": "This character has established a link with the souls of adjacent allies redirecting a portion of all incoming [Hitpoints|Concept.Hitpoints] damage.",
     "translation": "该角色与相邻友军建立了灵魂链接，会分流部分受到的[生命值|Concept.Hitpoints]伤害。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character has established a link with the souls of adjacent allies redirecting a portion of all incoming [Hitpoints|Concept.Hitpoints] damage.\")"
   }
 ]

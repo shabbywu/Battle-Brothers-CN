@@ -12,7 +12,8 @@
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
     "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007432450,

@@ -27,12 +27,14 @@
     "ID": 1007441908,
     "key": "207a663dcd0d800e5d4dd3c5488b9d69cf3cde595436bf7a7296ca20a983d9ad",
     "original": "This character's Body Armor is too damaged",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This character's Body Armor is too damaged\")"
   },
   {
     "ID": 1007441909,
     "key": "b3a5a1aeaa41652729d38606838d78a4e0778e12994191fea7a87afa856f5836",
     "original": "This character's Head Armor is too damaged",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This character's Head Armor is too damaged\")"
   }
 ]

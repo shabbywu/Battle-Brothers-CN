@@ -12,6 +12,7 @@
     "key": "a58eccb7af711faba941ddb2f03fd149de4c4eb97cb7e3d50b431c46f87f9f6a",
     "original": "The next melee attack against an adjacent target will [stagger|Skill+staggered_effect] them",
     "translation": "下次对一名相邻目标进行的近战攻击会使目标[趔趄|Skill+staggered_effect]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The next melee attack against an adjacent target will [stagger|Skill+staggered_effect] them\")"
   }
 ]

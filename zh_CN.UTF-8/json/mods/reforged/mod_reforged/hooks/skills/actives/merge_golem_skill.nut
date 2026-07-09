@@ -20,7 +20,8 @@
     "key": "e3263518a5b40413c6b20fd6f6531006b298d45d2f9d2f8a08b60ac482ceebc5",
     "original": "Fully heals all [Hitpoints|Concept.Hitpoints]",
     "translation": "完全恢复所有[生命值|Concept.Hitpoints]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Fully heals all [Hitpoints|Concept.Hitpoints]\")"
   },
   {
     "ID": 1007430260,

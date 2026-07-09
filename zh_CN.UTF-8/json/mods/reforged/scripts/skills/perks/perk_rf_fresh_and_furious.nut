@@ -33,13 +33,15 @@
     "ID": 1007441887,
     "key": "3a20dad5a283d63095ac7110447579550a78b1e472965a7bc6a8dd9d5cc01d0c",
     "original": "Becomes disabled when starting a turn with %s (%s) or more [Fatigue|Concept.Fatigue] built",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"Becomes disabled when starting a turn with %s (%s) or more [Fatigue|Concept.Fatigue] built\", getroottable().MSU.Text.colorizePct(this.m.FatigueThreshold, {\n    InvertColor = True\n}), getroottable().MSU.Text.colorNegative(getroottable().Math.round(this.m.FatigueThreshold * this.getContainer().getActor().getFatigueMax())))"
   },
   {
     "ID": 1007441888,
     "key": "9a951d2c5200365293525cb92481a7f276fc3d3ff06806e47d68900b779286b2",
     "original": "Disabled until this character uses [$ $|Skill+recover_skill]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Disabled until this character uses [$ $|Skill+recover_skill]\")"
   },
   {
     "ID": 1007441889,
@@ -62,5 +64,19 @@
     "translation": "该角色不疲劳时速度极快。",
     "stage": 1,
     "context": "this.m.Description = \"This character is exceptionally fast when not fatigued.\""
+  },
+  {
+    "ID": 1007668140,
+    "key": "c2cb2a417fec79ab21c4f94017fbd42a8de52db52fb5d3d55b272ab7cda8390e",
+    "original": "The next skill costing [Action Points|Concept.ActionPoints] has its [Action Point|Concept.ActionPoints] cost ",
+    "translation": "下个技能消耗的[行动点数|Concept.ActionPoints]会返还",
+    "context": "\"The next skill costing [Action Points|Concept.ActionPoints] has its [Action Point|Concept.ActionPoints] cost \" + getroottable().MSU.Text.colorPositive(\"halved\")"
+  },
+  {
+    "ID": 1007668141,
+    "key": "d804b7462c56f231e42d63b1861b9f14c16aa837022b25659bc85ebe8cbbfef2",
+    "original": "halved",
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"halved\")"
   }
 ]

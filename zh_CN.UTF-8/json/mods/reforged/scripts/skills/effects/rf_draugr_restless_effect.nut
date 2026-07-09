@@ -18,7 +18,8 @@
     "key": "0b2a82799506dbbde209b5cfc4e338df2a98a8d799d9c24819a1a08ef44747bf",
     "original": "Gain [$ $|Perk+perk_overwhelm]",
     "translation": "获得[$ $|Perk+perk_overwhelm]特技",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain [$ $|Perk+perk_overwhelm]\")"
   },
   {
     "ID": 1007441587,

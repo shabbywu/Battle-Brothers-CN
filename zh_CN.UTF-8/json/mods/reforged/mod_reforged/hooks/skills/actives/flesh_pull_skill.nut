@@ -12,7 +12,8 @@
     "key": "d79b81b7fe4e0fa42a32833bcfc68dc195ed90e51cd60e49454c565cb1650338",
     "original": "Harnessing dark forces, you pull a target toward a corpse or allied flesh golem that is at most 3 tiles away, [staggering|Skill+staggered_effect] it on arrival.",
     "translation": "引导黑暗力量，将目标拉向三格范围内的一具尸体或友军血肉魔像，然后，对其施加[趔趄|Skill+staggered_effect]效果。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Harnessing dark forces, you pull a target toward a corpse or allied flesh golem that is at most 3 tiles away, [staggering|Skill+staggered_effect] it on arrival.\")"
   },
   {
     "ID": 1007425910,

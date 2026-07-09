@@ -26,14 +26,15 @@
     "key": "8eb970a71863a2a4b0e7e3de72ddda2f585a32905b3a0c218be6d9c3cbc20d49",
     "original": "Cannot be [Confident|Concept.Morale]",
     "translation": "不能[自信|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot be [Confident|Concept.Morale]\")"
   },
   {
     "ID": 1007441510,
     "key": "5c7dc19c444ddaaa9ec33739a802187da6b655d2064e937d64ffe9e10482e025",
     "original": "Deal ",
     "translation": "",
-    "context": "\"Deal \" + getroottable().MSU.Text.colorizeMultWithText(1.0 + this.m.DamageMultPerMoraleStateAdd) + \" damage per [morale|Concept.Morale] state below Confident\""
+    "context": "\"Deal \" + getroottable().MSU.Text.colorizeMultWithText(damageMult) + \" damage\""
   },
   {
     "ID": 1007441511,

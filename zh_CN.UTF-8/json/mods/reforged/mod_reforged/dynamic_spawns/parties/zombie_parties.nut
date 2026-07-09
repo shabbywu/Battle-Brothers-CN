@@ -19,6 +19,6 @@
     "key": "f0dd1d97e8328693fc332a6477757cf2b03c70c16f85edc9b34d74221ecaf809",
     "original": "Zombies",
     "translation": "",
-    "context": "BaseID = \"Zombies\""
+    "context": "this.getSpawnable(\"Zombies\")"
   }
 ]

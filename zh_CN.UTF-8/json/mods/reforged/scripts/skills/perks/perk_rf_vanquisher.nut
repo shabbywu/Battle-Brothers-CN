@@ -35,6 +35,7 @@
     "key": "a11ae06469c63740d7b0ecf802f282a0d46e94f31a654dfcd3c0dc6dc277f904",
     "original": "half",
     "translation": "减半",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorPositive(\"half\")"
   }
 ]

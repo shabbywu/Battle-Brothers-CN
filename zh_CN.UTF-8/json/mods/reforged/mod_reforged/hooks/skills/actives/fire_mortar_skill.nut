@@ -43,7 +43,8 @@
     "ID": 1007425623,
     "key": "766fcef3d566025a775b1aeb38693891b3fd1974b1f9210177bc5f38bb790ce3",
     "original": "Will mark a tile and its surrounding tiles for impact for this character's next [turn|Concept.Turn]. Upon impact, characters in the tiles take damage and may be [$ $|Skill+shellshocked_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will mark a tile and its surrounding tiles for impact for this character's next [turn|Concept.Turn]. Upon impact, characters in the tiles take damage and may be [$ $|Skill+shellshocked_effect]\")"
   },
   {
     "ID": 1007425624,

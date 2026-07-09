@@ -34,6 +34,7 @@
     "key": "e393ec7679c14e4068e3db5b7134f485c47e95b0c029b0e624700efbb2f754cf",
     "original": "Will expire upon using any skill or [waiting|Concept.Wait] or ending the [turn|Concept.Turn]",
     "translation": "会在使用技能、[等待|Concept.Wait]或结束[回合|Concept.Turn]后失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon using any skill or [waiting|Concept.Wait] or ending the [turn|Concept.Turn]\")"
   }
 ]

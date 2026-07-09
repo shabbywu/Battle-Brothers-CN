@@ -35,5 +35,12 @@
     "original": "text",
     "translation": "",
     "context": "type = \"text\""
+  },
+  {
+    "ID": 1007668123,
+    "key": "d2a07968514b3d406b4e71200fbf155a5aac69f18189ae9859d5da9ab3c4c19c",
+    "original": "The target becomes [$ $|Skill+webbed_effect]",
+    "translation": "使目标[$ $|Skill+webbed_effect]",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target becomes [$ $|Skill+webbed_effect]\")"
   }
 ]

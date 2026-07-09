@@ -28,13 +28,15 @@
     "key": "3e0096c76a6e23b56d1b8c2d87f1dbe92f36cda2c06900b6927b68dedd51bea1",
     "original": "Will apply the [$ $|Skill+rooted_effect] effect on the target",
     "translation": "会对目标施加[$ $|Skill+rooted_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will apply the [$ $|Skill+rooted_effect] effect on the target\")"
   },
   {
     "ID": 1007441368,
     "key": "515d0af3648946eed147623abdcb1b1ec24bbfbfb4f7dda246dee468dd0878a9",
     "original": "You will die upon using this skill",
     "translation": "会在施展此技能后死亡",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"You will die upon using this skill\")"
   }
 ]

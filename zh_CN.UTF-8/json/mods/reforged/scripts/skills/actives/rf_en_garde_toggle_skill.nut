@@ -20,20 +20,23 @@
     "key": "0875685ea3420058d41f974b994b7a868bc3ecc1752b3bd143454582808790b4",
     "original": "Toggle your [$ $|Perk+perk_rf_en_garde] perk to be enabled or disabled.",
     "translation": "切换是否启用[$ $|Perk+perk_rf_en_garde]特技。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Toggle your [$ $|Perk+perk_rf_en_garde] perk to be enabled or disabled.\")"
   },
   {
     "ID": 1007441230,
     "key": "17eb3c0168d0d7b21ede5481150f17233427d89833ec121b4dbc4fb96cfab71e",
     "original": "disabled",
     "translation": "未启用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"disabled\")"
   },
   {
     "ID": 1007441231,
     "key": "fb9cf75606b4070dd6a9705810906bba28d0e2ea74ff301b999a91dbb68c7d98",
     "original": "enabled",
     "translation": "已启用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorPositive(\"enabled\")"
   }
 ]

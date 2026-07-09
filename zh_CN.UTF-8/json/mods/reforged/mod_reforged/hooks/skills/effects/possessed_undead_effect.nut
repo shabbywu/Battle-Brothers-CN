@@ -52,7 +52,8 @@
     "key": "c3ef96c7f9f70b17f82a4875dbc73b38a442e824b7d8416b4e1aad9976901280",
     "original": "This character is possessed until the end of their [turn|Concept.Turn].",
     "translation": "该角色正被支配，直到其[回合|Concept.Turn]结束时为止。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character is possessed until the end of their [turn|Concept.Turn].\")"
   },
   {
     "ID": 1007436436,

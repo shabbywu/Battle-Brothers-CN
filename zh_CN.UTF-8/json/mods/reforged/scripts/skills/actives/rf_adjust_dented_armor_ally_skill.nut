@@ -20,13 +20,15 @@
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
     "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007441125,
     "key": "ffdfebde1856a6a2b5cf13ea488150d1130842acc2efe3b18cf93d97881bbe8f",
     "original": "Removes the [$ $|Skill+rf_dented_armor_effect] effect",
     "translation": "移除[护甲凹损|Skill+rf_dented_armor_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes the [$ $|Skill+rf_dented_armor_effect] effect\")"
   }
 ]

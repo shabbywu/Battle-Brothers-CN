@@ -12,7 +12,8 @@
     "key": "42f022804b6ee40bd3d7dbead0df3b95a6125e5a741a811c5cecea9d29f5ea95",
     "original": "The range of [$ $|Skill+throw_net] is increased by 1 up to a maximum of 3 tiles",
     "translation": "[投网|Skill+throw_net]的技能范围提升1格，最多为3格",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The range of [$ $|Skill+throw_net] is increased by 1 up to a maximum of 3 tiles\")"
   },
   {
     "ID": 1007442066,

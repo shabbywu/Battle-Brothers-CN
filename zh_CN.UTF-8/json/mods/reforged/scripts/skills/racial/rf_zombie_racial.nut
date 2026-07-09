@@ -19,7 +19,8 @@
     "ID": 1007442077,
     "key": "222b0755eeb918b16780b3694d00530e4baf811947dad0e737b5d47f948489e2",
     "original": "Build no [Fatigue|Concept.Fatigue]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Build no [Fatigue|Concept.Fatigue]\")"
   },
   {
     "ID": 1007442078,
@@ -33,7 +34,8 @@
     "ID": 1007442079,
     "key": "03ba5b751fc3617d83b21863f832cfa874bda57fa2e8bb5c677b7a628ba90449",
     "original": "Cannot receive [temporary injuries|Concept.InjuryTemporary]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot receive [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {
     "ID": 1007442080,
@@ -47,13 +49,15 @@
     "ID": 1007442081,
     "key": "eea0f8b2b01cfaaa5f3860f2281e7485f5b37aeb3d394a52862f29c452913ad7",
     "original": "Immune to Poison",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to Poison\")"
   },
   {
     "ID": 1007442082,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007442083,
@@ -67,7 +71,8 @@
     "ID": 1007442084,
     "key": "0df3d85b2006390ef692d1eb6c54a675ce510f2fa6177cedc1647379126cef29",
     "original": "Not affected by [Morale|Concept.Morale]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [Morale|Concept.Morale]\")"
   },
   {
     "ID": 1007442085,

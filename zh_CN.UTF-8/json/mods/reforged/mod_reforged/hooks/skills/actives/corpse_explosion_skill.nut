@@ -12,7 +12,8 @@
     "key": "bded613db3fe23bfac6e6079279b6ea4fde92f894e1cee7d93f79b1826800bee",
     "original": "Detonate a corpse or Flesh Cradle, destroying it in a gruesome explosion. The blast deals damage to any target standing on the corpse and all adjacent enemies and leaves a lingering miasma on all affected tiles.",
     "translation": "引爆一具尸体或一处血肉摇篮，骇人的爆炸会将其破坏。冲击波会对任何站在尸体上的目标及其相邻敌人造成伤害，并在受影响的地格上留下挥之不去的瘴气。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Detonate a corpse or Flesh Cradle, destroying it in a gruesome explosion. The blast deals damage to any target standing on the corpse and all adjacent enemies and leaves a lingering miasma on all affected tiles.\")"
   },
   {
     "ID": 1007424745,

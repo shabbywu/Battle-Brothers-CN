@@ -11,6 +11,7 @@
     "ID": 1007441420,
     "key": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
     "original": "Yes",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"Yes\")"
   }
 ]

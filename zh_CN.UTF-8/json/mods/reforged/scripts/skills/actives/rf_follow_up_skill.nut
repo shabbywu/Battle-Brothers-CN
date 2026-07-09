@@ -19,7 +19,8 @@
     "ID": 1007441256,
     "key": "e466afd67c84b36915fbb12d4901b65c917e96a36ed7023e7837f7677da9ffd5",
     "original": "Cannot be used while [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007441257,
@@ -33,7 +34,8 @@
     "ID": 1007441258,
     "key": "2cfc2e00df80c54dfd82ac18cff291ddd8d47b154c39df7a9b87292ff39647f8",
     "original": "Only usable with Two-Handed Melee weapons",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Only usable with Two-Handed Melee weapons\")"
   },
   {
     "ID": 1007441259,

@@ -4,7 +4,8 @@
     "key": "145c688bc4c88a03c5a5d67464cbeeee2eb7d216a89efd2bbb266614d1d9c260",
     "original": "Gain a [$ $|Item+schrat_shield]",
     "translation": "获得一面[$ $|Item+schrat_shield]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain a [$ $|Item+schrat_shield]\")"
   },
   {
     "ID": 1007427922,

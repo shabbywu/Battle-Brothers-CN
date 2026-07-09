@@ -43,7 +43,8 @@
     "key": "03197a63181a592e9c81db08d2da021694c8f7c359dcb8645d0ce0713efbb457",
     "original": "Enemies on the battlefield cannot be [Confident|Concept.Morale]",
     "translation": "战场上的敌人不能达到[自信士气|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Enemies on the battlefield cannot be [Confident|Concept.Morale]\")"
   },
   {
     "ID": 1007441518,

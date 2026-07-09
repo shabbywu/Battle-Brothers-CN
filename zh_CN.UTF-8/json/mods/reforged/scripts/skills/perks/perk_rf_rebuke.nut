@@ -11,7 +11,8 @@
     "key": "61cca87c4730a15c39ec46f7388631f3953dc34084704fc3ab559fbc7b4941b7",
     "original": "Requires a melee attack that exerts [Zone of Control|Concept.ZoneOfControl]",
     "translation": "需要能施加[控制区|Concept.ZoneOfControl]的近战攻击",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Requires a melee attack that exerts [Zone of Control|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007441944,

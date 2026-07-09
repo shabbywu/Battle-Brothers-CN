@@ -11,7 +11,8 @@
     "ID": 1007433651,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007433652,
@@ -25,7 +26,8 @@
     "ID": 1007433653,
     "key": "dfc031e2ea1b1b93d411c17cfcac52029f93b53c407d445e06e26a31f8b40c54",
     "original": "No javelins left",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"No javelins left\")"
   },
   {
     "ID": 1007433654,

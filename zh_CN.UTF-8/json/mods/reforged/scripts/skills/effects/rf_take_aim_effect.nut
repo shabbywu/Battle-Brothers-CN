@@ -59,6 +59,7 @@
     "key": "ab711793222eb71f13ae67071040c08afd2f71c389d50c6b839c7de03e58c8fc",
     "original": "Will expire upon ending your [turn|Concept.Turn]",
     "translation": "会在结束[回合|Concept.Turn]后失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon ending your [turn|Concept.Turn]\")"
   }
 ]

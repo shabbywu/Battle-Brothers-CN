@@ -28,7 +28,8 @@
     "key": "a81cd5f9e313f118f06c1a9f7053153860cf78fdebb45cb6a83ca8870265c7d9",
     "original": "Read the text in the intro event for details on how this origin works!",
     "translation": "详细阅读导入事件，了解起源运作机制！",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Read the text in the intro event for details on how this origin works!\")"
   },
   {
     "ID": 1007441113,
@@ -50,6 +51,7 @@
     "ID": 1007441115,
     "key": "e6eaea18e885e1078829b56df34896be5ab51439e8f0ba00cb1624b2c572c10e",
     "original": "location",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().isKindOf(_entity, \"location\")"
   }
 ]

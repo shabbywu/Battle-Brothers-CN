@@ -42,6 +42,7 @@
     "key": "8cb59d106a20c64b19387c16d8561a2df470ac3aa502b6179ef018b4528f84e0",
     "original": "Will expire upon [waiting|Concept.Wait] or ending the [turn|Concept.Turn], using any skill, or swapping any item except to/from a throwing weapon",
     "translation": "会在[等待、|Concept.Wait]结束[回合、|Concept.Turn]使用技能或切换物品后失效，切换掉/成投掷武器除外",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon [waiting|Concept.Wait] or ending the [turn|Concept.Turn], using any skill, or swapping any item except to/from a throwing weapon\")"
   }
 ]

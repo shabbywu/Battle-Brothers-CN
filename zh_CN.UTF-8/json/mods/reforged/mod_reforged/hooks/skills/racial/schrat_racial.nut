@@ -47,25 +47,29 @@
     "ID": 1007438802,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007438803,
     "key": "c0a06251001413aa8409285eeee8f6619abeee0e3d3540dae5f4c746e9a666fb",
     "original": "Immune to being [$ $|Skill+disarmed_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+disarmed_effect]\")"
   },
   {
     "ID": 1007438804,
     "key": "c9379899fe73318a81898ad2387327ed49a40125908a7ab74d57827f75f83209",
     "original": "Immune to being [$ $|Skill+stunned_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+stunned_effect]\")"
   },
   {
     "ID": 1007438805,
     "key": "d7b42d42942214980c125596e5d6fca0d1ff886196d32db757f4daa38723bc58",
     "original": "Immune to being [rooted|Concept.Rooted]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007438806,
@@ -79,13 +83,15 @@
     "ID": 1007438807,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007438808,
     "key": "3a96ffef3fb8756c270cc18ee051dfa52f1f7433312a6b07d1af42ff27c807c2",
     "original": "Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {
     "ID": 1007438809,

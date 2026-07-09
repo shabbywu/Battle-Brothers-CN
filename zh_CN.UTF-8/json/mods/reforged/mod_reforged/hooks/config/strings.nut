@@ -18,7 +18,7 @@
     "key": "e85bcaf24f59768247d6f10cbcd2c7e7622609a3735594fa734a498d1215b6ed",
     "original": " [Action Points|Concept.ActionPoints] and builds ",
     "translation": "",
-    "context": "\"When starting your [turn|Concept.Turn] with a spear equipped, the first piercing spear attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue]. This expires upon moving from your position if using a two-handed spear, or moving more than 1 tile if using a one-handed spear.\""
+    "context": "\"When using a throwing weapon which uses ammo, whenever you end your movement over an enemy's corpse during your [turn|Concept.Turn], recover \" + getroottable().MSU.Text.colorPositive(1) + \" ammo. Immediately afterward, the next throwing attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue].\""
   },
   {
     "ID": 1007412102,
@@ -54,7 +54,7 @@
     "key": "fa27fce7cdcaeed5c64d439f161e09259a10c9db8d6d6e0c482355b42b301e67",
     "original": " [Action Points|Concept.ActionPoints].",
     "translation": "",
-    "context": "\"When you use [Wait|Concept.Wait], recover [Action Points|Concept.ActionPoints] until you have \" + getroottable().MSU.Text.colorPositive(\"4\") + \" [Action Points|Concept.ActionPoints].\""
+    "context": "\"Once per [turn|Concept.Turn], after you use a skill targeting an adjacent ally, recover \" + getroottable().MSU.Text.colorPositive(\"3\") + \" [Action Points|Concept.ActionPoints].\""
   },
   {
     "ID": 1007412107,
@@ -225,7 +225,7 @@
     "original": " and ",
     "translation": "层，命中状态则是",
     "stage": 1,
-    "context": "\"Whenever you attack or are attacked, hit or miss, gain a stacking \" + getroottable().MSU.Text.colorPositive(\"+5\") + \" [Initiative|Concept.Initiative] and \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" reduction to the [Fatigue|Concept.Fatigue] cost of skills until the end of your next [turn|Concept.Turn], up to a maximum of \" + getroottable().MSU.Text.colorPositive(\"+25\") + \" and \" + getroottable().MSU.Text.colorPositive(\"+25%\") + \" respectively.\""
+    "context": "\"Every time you spend a level-up, gain between \" + getroottable().MSU.Text.colorPositive(1) + \" and \" + getroottable().MSU.Text.colorPositive(3) + \" [talent|Concept.Talent] stars in a random attribute in which you have fewer than 3 stars.\""
   },
   {
     "ID": 1007412131,
@@ -419,7 +419,7 @@
     "key": "de3a84eef91eec789471c9034b421f5196e41552ed21de36e38a3df96a97c9bb",
     "original": " chance to hit the head.",
     "translation": "",
-    "context": "\"Attacks have an additional \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" chance to hit the head.\""
+    "context": "\"When attacking a target at a range of 2 tiles, gain \" + getroottable().MSU.Text.colorNegative(\"+20%\") + \" chance to hit the head.\""
   },
   {
     "ID": 1007412158,
@@ -434,7 +434,7 @@
     "key": "dac4049ba9dfb460009b085507752ed41cc8a332dfa670f666c0f2d7a426f3df",
     "original": " chance to hit.",
     "translation": "",
-    "context": "\"[$ $|Skill+knock_back] gains \" + getroottable().MSU.Text.colorPositive(\"+15%\") + \" chance to hit.\""
+    "context": "\"[$ $|Skill+thresh] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\""
   },
   {
     "ID": 1007412160,
@@ -564,7 +564,7 @@
     "key": "ace0d5ea013263762baa8b8d34cbe6f92863109601bfe525243c7a780f643fa1",
     "original": " for one [turn|Concept.Turn].",
     "translation": "",
-    "context": "\"Successful hits from Flails progressively reduce the target's [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by a stacking \" + getroottable().MSU.Text.colorNegative(-5) + \" for one [turn|Concept.Turn].\""
+    "context": "\"With every attack, hit or miss, against an opponent that acts after you in the current round, inflict the [$ $|Skill+overwhelmed_effect] status effect which lowers both [Melee Skill|Concept.MeleeSkill] and [Ranged Skill|Concept.RangeSkill] by \" + getroottable().MSU.Text.colorNegative(\"-10%\") + \" for one [turn|Concept.Turn].\""
   },
   {
     "ID": 1007412178,
@@ -700,7 +700,7 @@
     "key": "8367914b98196540bda6dee4f290cc765cf948090b3d004491a1a0b5d17d5127",
     "original": " less [Fatigue|Concept.Fatigue].",
     "translation": "",
-    "context": "\"When using a throwing weapon which uses ammo, whenever you end your movement over an enemy's corpse during your [turn|Concept.Turn], recover \" + getroottable().MSU.Text.colorPositive(1) + \" ammo. Immediately afterward, the next throwing attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue].\""
+    "context": "\"When using a non-fencing sword, the [Action Point|Concept.ActionPoints] cost of non-AOE skills is reduced by \" + getroottable().MSU.Text.colorPositive(1) + \" and these skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\""
   },
   {
     "ID": 1007412197,
@@ -728,7 +728,7 @@
     "key": "7d9a7e79c95050a0fc84acb72a6dd5940c3d01b2ca5d0325b1ecb839d061c125",
     "original": " lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].",
     "translation": "",
-    "context": "\"[$ $|Skill+gash_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\""
+    "context": "\"[$ $|Skill+rf_gouge_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\""
   },
   {
     "ID": 1007412201,
@@ -1106,14 +1106,14 @@
     "key": "87721689ee42f4415e4afe0d0f0a84d4cd837dd0c66635bd0734127ee0e0b5b7",
     "original": " to ",
     "translation": "",
-    "context": "\"The penalty to hitchance when shooting at a target you have no clear line of shooting to is reduced from \" + getroottable().MSU.Text.colorNegative(\"75%\") + \" to \" + getroottable().MSU.Text.colorNegative(\"50%\") + \".\""
+    "context": "\"The drop in shield defense bonus at maximum [fatigue|Concept.Fatigue] is reduced from \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" to \" + getroottable().MSU.Text.colorNegative(\"25%\") + \".\""
   },
   {
     "ID": 1007412254,
     "key": "9ca12239c7e02a1c5fde4afd5aee6023455deeab5487c1c6d9d98bbe075c11de",
     "original": " to a minimum of ",
     "translation": "",
-    "context": "\"A successful attack with your mainhand dagger reduces the [Action Point|Concept.ActionPoints] cost of all its skills by \" + getroottable().MSU.Text.colorPositive(\"2\") + \" to a minimum of \" + getroottable().MSU.Text.colorPositive(\"2\") + \" for the remainder of this [turn|Concept.Turn].\""
+    "context": "\"For every 2 tiles moved, the [Action Point|Concept.ActionPoints] cost of your next attack is reduced by \" + getroottable().MSU.Text.colorPositive(1) + \" to a minimum of \" + getroottable().MSU.Text.colorPositive(1) + \", and the [Fatigue|Concept.Fatigue] cost is reduced by \" + getroottable().MSU.Text.colorPositive(\"10%\") + \".\""
   },
   {
     "ID": 1007412255,
@@ -1396,7 +1396,8 @@
     "ID": 1007412294,
     "key": "9be602cac2fc1c615212d4563b0320bf9c1b187ab5d24fa75c990218f2211034",
     "original": "A corpse can only be used once per combat and cannot be used by multiple characters with this perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The first two throwing attacks during a battle have their [Action Point|Concept.ActionPoints] costs \" + getroottable().MSU.Text.colorPositive(\"halved\") + \". This effect only lasts until the end of your second [turn|Concept.Turn].\",\"When using a throwing weapon which uses ammo, whenever you end your movement over an enemy's corpse during your [turn|Concept.Turn], recover \" + getroottable().MSU.Text.colorPositive(1) + \" ammo. Immediately afterward, the next throwing attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue].\",\"A corpse can only be used once per combat and cannot be used by multiple characters with this perk.\"]"
   },
   {
     "ID": 1007412295,
@@ -1465,7 +1466,8 @@
     "ID": 1007412304,
     "key": "e7ad684c0b9d528180eb5dcbbbac49616b8401b5713341f0490e34d857a35655",
     "original": "Adds the Cleaver perk group to this character's perk tree.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Adds the Cleaver perk group to this character's perk tree.\"]"
   },
   {
     "ID": 1007412305,
@@ -1521,13 +1523,15 @@
     "ID": 1007412312,
     "key": "5b53ffdfc3c29389ff11e2f0704a17a9cd4fa3f18436020a8fb100fa36cc4da5",
     "original": "All stacks are lost if you end your [turn|Concept.Turn] with more than half of your [Action Points|Concept.ActionPoints] remaining, use [Wait|Concept.Wait] or [$ $|Skill+recover_skill], or get [$ $|Skill+stunned_effect], rooted or [$ $|Skill+staggered_effect].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"As long as you have attacked at least once during your [turn|Concept.Turn], if you end the [turn|Concept.Turn] with half or fewer of your [Action Points|Concept.ActionPoints] remaining, gain a stack, up to a maximum of 5 stacks.\",\"Each stack increases [Action Points|Concept.ActionPoints] by \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" and [Initiative|Concept.Initiative] by \" + getroottable().MSU.Text.colorPositive(\"+10\") + \".\",\"All stacks are lost if you end your [turn|Concept.Turn] with more than half of your [Action Points|Concept.ActionPoints] remaining, use [Wait|Concept.Wait] or [$ $|Skill+recover_skill], or get [$ $|Skill+stunned_effect], rooted or [$ $|Skill+staggered_effect].\"]"
   },
   {
     "ID": 1007412313,
     "key": "951242f687ec7eb666a25edcaf52573eeb8c3928e1c29b64a55861930a307f2e",
     "original": "Allies with a shield will use [$ $|Skill+shieldwall] for free at the start of each battle.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allies with a shield will use [$ $|Skill+shieldwall] for free at the start of each battle.\",\"Allies within 2 tiles have the [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] costs of [$ $|Skill+shieldwall] halved. Cannot reduce the [Action Point|Concept.ActionPoints] cost below \" + getroottable().MSU.Text.colorNegative(2) + \".\",\"If you have the [$ $|Skill+shieldwall] skill available, any ally who starts or ends their [turn|Concept.Turn] adjacent to you will use [$ $|Skill+shieldwall] for free.\",\"You will use [$ $|Skill+shieldwall] for free as long as you start or end your [turn|Concept.Turn] adjacent to an ally who has the [$ $|Skill+shieldwall] skill available.\",\"Only members of your company are considered allies for the purposes of this [perk|Concept.Perk].\"]"
   },
   {
     "ID": 1007412314,
@@ -1541,19 +1545,22 @@
     "ID": 1007412315,
     "key": "6bcb0285e4ca4408b294a2771088b422f89496feaf749dfbd14c4db1928537a6",
     "original": "Allows [$ $|Skill+rf_passing_step_skill] to be usable even while holding something, e.g. a shield, in your offhand.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain additional [Initiative|Concept.Initiative] equal to the armor ignore percentage of your equipped sword.\",\"When using a non-fencing sword, the [Action Point|Concept.ActionPoints] cost of non-AOE skills is reduced by \" + getroottable().MSU.Text.colorPositive(1) + \" and these skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Allows [$ $|Skill+rf_passing_step_skill] to be usable even while holding something, e.g. a shield, in your offhand.\",\"[$ $|Skill+rf_passing_step_skill] costs \" + getroottable().MSU.Text.colorPositive(2) + \" fewer [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(2) + \" less [Fatigue|Concept.Fatigue], both down to a minimum of 0.\"]"
   },
   {
     "ID": 1007412316,
     "key": "5b182a4cb75cd3e4adfdd2cc56386ff1ae8f41a692b32b6360a4a0b3e0f0ac72",
     "original": "Allows you to choose another member of your company as your partner. You will remain partners until one of you dies or leaves the company. You and your partner gain the following bonuses when there is no ally next to you or your partner.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allows you to choose another member of your company as your partner. You will remain partners until one of you dies or leaves the company. You and your partner gain the following bonuses when there is no ally next to you or your partner.\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Skill|Concept.MeleeSkill] against enemies that attack your partner, and \" + getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Defense|Concept.MeleeDefense] against enemies attacked by your partner, for one [turn|Concept.Turn].\",\"A partner's melee [AOE|Concept.AOE] attacks never have more than \" + getroottable().MSU.Text.colorPositive(getroottable().Const.Combat.MV_HitChanceMin + \"%\") + \" chance to hit their partner and inflict \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less damage.\",\"The partner does not need to learn this [perk|Concept.Perk] in order to gain the benefits.\"]"
   },
   {
     "ID": 1007412317,
     "key": "dfc2df341ba3cb5e0583d8e05443431354661dba3cf54d16aa3b0a21cf9c9271",
     "original": "Always start battles at Confident [morale|Concept.Morale].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Always start battles at Confident [morale|Concept.Morale].\",\"[Resolve|Concept.Bravery] is increased by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" against negative [morale checks|Concept.Morale].\"]"
   },
   {
     "ID": 1007412318,
@@ -1610,7 +1617,8 @@
     "ID": 1007412325,
     "key": "9e742878d7cb04b34856adee3b193643bac56bd644ba26d721355794cd469e6b",
     "original": "As long as you have attacked at least once during your [turn|Concept.Turn], if you end the [turn|Concept.Turn] with half or fewer of your [Action Points|Concept.ActionPoints] remaining, gain a stack, up to a maximum of 5 stacks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"As long as you have attacked at least once during your [turn|Concept.Turn], if you end the [turn|Concept.Turn] with half or fewer of your [Action Points|Concept.ActionPoints] remaining, gain a stack, up to a maximum of 5 stacks.\",\"Each stack increases [Action Points|Concept.ActionPoints] by \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" and [Initiative|Concept.Initiative] by \" + getroottable().MSU.Text.colorPositive(\"+10\") + \".\",\"All stacks are lost if you end your [turn|Concept.Turn] with more than half of your [Action Points|Concept.ActionPoints] remaining, use [Wait|Concept.Wait] or [$ $|Skill+recover_skill], or get [$ $|Skill+stunned_effect], rooted or [$ $|Skill+staggered_effect].\"]"
   },
   {
     "ID": 1007412326,
@@ -1623,7 +1631,8 @@
     "ID": 1007412327,
     "key": "9bd3757175b0f2141e67197c60a2c6525419a1b083c0c29d071c258448405a16",
     "original": "At the eleventh character level, you gain an additional perk point and this perk becomes inert.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"At the eleventh character level, you gain an additional perk point and this perk becomes inert.\",\"Playing the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\"]"
   },
   {
     "ID": 1007412328,
@@ -1636,7 +1645,8 @@
     "ID": 1007412329,
     "key": "a7f6d5ef3d79f50a7db3388dc81cae4738a27d0520a7c0dbff17fdcf5b097e10",
     "original": "At the start of every [turn|Concept.Turn] the bonus is reset except the bonus gained from getting hit which is retained for the remainder of the combat.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Whenever you are attacked, gain a stacking bonus to [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] of \" + getroottable().MSU.Text.colorPositive(\"+2\") + \" on a miss and \" + getroottable().MSU.Text.colorPositive(\"+5\") + \" on a hit. This can stack up to \" + getroottable().MSU.Text.colorPositive(\"5\") + \" times for misses and up to \" + getroottable().MSU.Text.colorPositive(\"2\") + \" times for hits.\",\"At the start of every [turn|Concept.Turn] the bonus is reset except the bonus gained from getting hit which is retained for the remainder of the combat.\"]"
   },
   {
     "ID": 1007412330,
@@ -1663,25 +1673,29 @@
     "ID": 1007412333,
     "key": "9f4c1a2359663a3f96c47b93bb15880477507449774c358876eb1a2c74031c94",
     "original": "Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect] on the target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect] on the target.\",\"When attacking a target which already has at least 3 stacks of [$ $|Skill+bleeding_effect], you have a \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" chance to apply an injury. If the attack already applied an injury, this applies an additional injury.\"]"
   },
   {
     "ID": 1007412334,
     "key": "aa6d7d75a840168ce9f3409a193d6621491bfb9b016d10d1629cd2b694fc5898",
     "original": "Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bloodlust] perk.\",\"Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect].\",\"[$ $|Skill+disarm_skill] only has half the penalty to hit.\",\"[$ $|Skill+rf_gouge_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\",\"The [$ $|Item+rf_voulge] no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412335,
     "key": "e86d7750abc96a3175a4bf5a648a7e9f93e1496e3e23a516e46edbb77ff7e3a9",
     "original": "Attacks from daggers against targets who act after you in the current [round|Concept.Round] ignore all of the target's [reach advantage|Concept.ReachAdvantage].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Attacks from daggers against targets who act after you in the current [round|Concept.Round] ignore all of the target's [reach advantage|Concept.ReachAdvantage].\",\"[$ $|Skill+stab], [$ $|Skill+puncture] and [$ $|Skill+deathblow_skill] have a reduced [Action Point|Concept.ActionPoints] cost to allow for an additional attack each turn.\"]"
   },
   {
     "ID": 1007412336,
     "key": "579381c7ae454131e8e8cd4f03f2c622f36c5e1725f9b626b995d70c38d26da6",
     "original": "Attacks from swords inflict [$ $|Skill+bleeding_effect] on the target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Skill+decapitate] skill with swords.\",\"Gain all the perks of the Cleaver perk group when using a sword. Swords now additionally qualify as Cleavers for the purposes of these perks.\",\"Attacks from swords inflict [$ $|Skill+bleeding_effect] on the target.\"]"
   },
   {
     "ID": 1007412337,
@@ -1942,43 +1956,50 @@
     "ID": 1007412371,
     "key": "5b67cbb09c438a7d165705377159987cac7be86fa78dc958d155ce00abc42d1d",
     "original": "Can only trigger once per attack.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The first 2 [fatalities|Concept.Fatality] during your [turn|Concept.Turn] instantly restore \" + getroottable().MSU.Text.colorPositive(3) + \" [Action Points|Concept.ActionPoints] each.\",\"Can only trigger once per attack.\"]"
   },
   {
     "ID": 1007412372,
     "key": "6d5ea62e4569222faf4b385f2e7dc9511cd9304c433945441e045d445ee21db5",
     "original": "Can only trigger once per attribute and cannot increase the number of [talent|Concept.Talent] stars in an attribute beyond 3.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Every time you spend a level-up, gain between \" + getroottable().MSU.Text.colorPositive(1) + \" and \" + getroottable().MSU.Text.colorPositive(3) + \" [talent|Concept.Talent] stars in a random attribute in which you have fewer than 3 stars.\",\"Can only trigger once per attribute and cannot increase the number of [talent|Concept.Talent] stars in an attribute beyond 3.\"]"
   },
   {
     "ID": 1007412373,
     "key": "4ff704bc4a74b9963ae2b1b3017ca2114e4387aa2dd4cd4572a155f924f624da",
     "original": "Can switch to or from a throwing weapon for free once per [turn|Concept.Turn]. Does not stack with other free swap skills.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain \" + getroottable().MSU.Text.colorPositive(\"10%\") + \" of your Base [Ranged Skill|Concept.RangeSkill] as additional [Melee Skill|Concept.MeleeSkill] and [Melee Defense|Concept.MeleeDefense].\",\"Throwing attacks gain \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" of your current [Melee Skill|Concept.MeleeSkill] as additional chance to hit.\",\"Can switch to or from a throwing weapon for free once per [turn|Concept.Turn]. Does not stack with other free swap skills.\"]"
   },
   {
     "ID": 1007412374,
     "key": "635c992b648874f2b0b0536eb970aa6d207911778bd9888a6b8d2ff078fece1a",
     "original": "Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_battle_forged].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"30%\") + \" and to Armor by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 35 and is more than 30% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412375,
     "key": "bad3d64d26587d79dd1b0e6a4cf8f9f8c7b2a9740b4a7466bb309d2f8ceb2309",
     "original": "Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_rf_poise].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Armor damage taken is reduced by a percentage equal to \" + getroottable().MSU.Text.colorPositive(\"5%\") + \" of the current total armor value of both body and head armor.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachDisadvantage], reduce this disadvantage by 1 for every 300 current combined head and body armor durability you have.\",\"Does not affect damage from mental attacks or status effects.\",\"Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_rf_poise].\"]"
   },
   {
     "ID": 1007412376,
     "key": "946d697d5de926d022ec2089186047bca0c706754e06fec307a56d88328fe260",
     "original": "Cannot be learned if you have [$ $|Perk+perk_rf_poise] or [$ $|Perk+perk_battle_forged].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" and that to armor by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 15 and is more than 15% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_rf_poise] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412377,
     "key": "942448d0c3b899c13b25102d67eac179580a356e6c08de49ab87d267c16341a2",
     "original": "Cannot be used if either character is [$ $|Skill+stunned_effect], [$ $|Skill+rooted_effect] or otherwise disabled.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rotation] skill which allows you to switch places with an adjacent allied character while ignoring [Zone of Control|Concept.ZoneOfControl].\",\"Cannot be used if either character is [$ $|Skill+stunned_effect], [$ $|Skill+rooted_effect] or otherwise disabled.\"]"
   },
   {
     "ID": 1007412378,
@@ -2006,7 +2027,8 @@
     "ID": 1007412381,
     "key": "0a1c2457c0167b9c8acfc641374c2b0371b35ae300ce4db94cf0bef0f5f594a8",
     "original": "Changing height levels also has no additional [Action Point|Concept.ActionPoints] cost anymore.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"[Action Point|Concept.ActionPoints] costs for movement on all terrain is reduced by \" + getroottable().MSU.Text.colorPositive(\"1\") + \" to a minimum of 2 [Action Points|Concept.ActionPoints] per tile, and [Fatigue|Concept.Fatigue] cost is reduced to half.\",\"Changing height levels also has no additional [Action Point|Concept.ActionPoints] cost anymore.\"]"
   },
   {
     "ID": 1007412382,
@@ -2115,21 +2137,21 @@
     "key": "a9aa1ff5af7b3b091a2d2762d0348498d664aa78d47c13b735f4949166307555",
     "original": "Damage is increased by ",
     "translation": "",
-    "context": "\"Damage is increased by \" + getroottable().MSU.Text.colorPositive(\"30%\") + \" when attacking at a distance of 2 tiles and by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" when attacking at a distance of 3 tiles.\""
+    "context": "\"Damage is increased by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" against enemies who have sustained an [injury|Concept.Injury] or are [$ $|Skill+sleeping_effect], [$ $|Skill+stunned_effect], [$ $|Skill+net_effect], [$ $|Skill+web_effect], or [$ $|Skill+rooted_effect].\""
   },
   {
     "ID": 1007412397,
     "key": "74b00133ada8d260338dd3a23a7efd5a1e580b849e399625573f2c3fc217dc47",
     "original": "Damage to [Hitpoints|Concept.Hitpoints] is reduced by ",
     "translation": "",
-    "context": "\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"30%\") + \" and to Armor by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \".\""
+    "context": "\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" and that to armor by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \".\""
   },
   {
     "ID": 1007412398,
     "key": "5c7dc19c444ddaaa9ec33739a802187da6b655d2064e937d64ffe9e10482e025",
     "original": "Deal ",
     "translation": "",
-    "context": "\"Deal \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" more damage while you have 3 stacks.\""
+    "context": "\"Deal \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" more damage against anyone who has not started their [turn|Concept.Turn] yet in the current [round|Concept.Round].\""
   },
   {
     "ID": 1007412399,
@@ -2228,43 +2250,50 @@
     "ID": 1007412411,
     "key": "899fb510fd075fc8baa7523b47c0f905a6838d956507ebb37144dba10db11859",
     "original": "Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" and that to armor by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 15 and is more than 15% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_rf_poise] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412412,
     "key": "17929af81a2daba227b489f3e400f72b62fb0e048710b220c695ee4e5270cc0b",
     "original": "Does not affect damage from mental attacks or status effects.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Armor damage taken is reduced by a percentage equal to \" + getroottable().MSU.Text.colorPositive(\"5%\") + \" of the current total armor value of both body and head armor.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachDisadvantage], reduce this disadvantage by 1 for every 300 current combined head and body armor durability you have.\",\"Does not affect damage from mental attacks or status effects.\",\"Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_rf_poise].\"]"
   },
   {
     "ID": 1007412413,
     "key": "0c1ea31fc61bcf4c6bddf8f65835dafba160179fca356ce5352c2b1fdc10e489",
     "original": "Does not stack with other free swap skills.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Swapping any item in battle becomes a free action with no [Action Point|Concept.ActionPoints] cost once every [turn|Concept.Turn].\",\"Does not work when swapping a shield, or when swapping from one Two-Handed melee weapon to another Two-Handed melee weapon.\",\"Does not stack with other free swap skills.\"]"
   },
   {
     "ID": 1007412414,
     "key": "6614aa0e87ac3e789a4e842eb2a67b2866fec88b40672aaa6e75bfa654e2c7e1",
     "original": "Does not take into account abilities which ignore or modify [Reach|Concept.Reach] during an attack.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Every attack with flails increases your current [Reach|Concept.Reach] by \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" until your next [turn|Concept.Turn].\",\"With two-handed flails, when attacking a target who has lower current [Reach|Concept.Reach] than you, gain \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" chance to hit the head per difference in current [Reach|Concept.Reach] between you and the target.\",\"During your [turn|Concept.Turn], when attacking with one-handed flails, perform a free extra attack with \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" less damage against a different adjacent enemy who has lower current [Reach|Concept.Reach] than you. This extra attack does not increase your [Reach|Concept.Reach].\",\"Does not take into account abilities which ignore or modify [Reach|Concept.Reach] during an attack.\"]"
   },
   {
     "ID": 1007412415,
     "key": "a855640419bf90f301f0730bc85d83b46f8e95802d9f1fbab4ebe1d2602c8a4e",
     "original": "Does not work when swapping a shield, or when swapping from one Two-Handed melee weapon to another Two-Handed melee weapon.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Swapping any item in battle becomes a free action with no [Action Point|Concept.ActionPoints] cost once every [turn|Concept.Turn].\",\"Does not work when swapping a shield, or when swapping from one Two-Handed melee weapon to another Two-Handed melee weapon.\",\"Does not stack with other free swap skills.\"]"
   },
   {
     "ID": 1007412416,
     "key": "d8165f4120ec6dccae392ec34455dc44bcb970169a73d440b78b7ef088b553a7",
     "original": "Does not work with bucklers.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"When attacking or defending in melee, gain \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" [Reach|Concept.Reach] per adjacent ally who is wielding a two-handed weapon with a piercing attack or a shield.\",\"Ignore the defense malus from being [surrounded|Concept.Surrounding] by enemies up to the number of such adjacent allies. This includes enemies with the [$ $|Perk+perk_backstabber] perk.\",\"Does not work with bucklers.\"]"
   },
   {
     "ID": 1007412417,
     "key": "d1f6c7ef941e9dc01c9e69356dc4e09fc6735b12a09458599affe96486d2002c",
     "original": "Does nothing against mental attacks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain \" + getroottable().MSU.Text.colorPositive(\"5%\") + \" of your current combined head and body armor durability as [Resolve|Concept.Bravery] during [morale checks|Concept.Morale]. This is doubled against negative [morale checks|Concept.Morale].\",\"Does nothing against mental attacks.\"]"
   },
   {
     "ID": 1007412418,
@@ -2314,7 +2343,8 @@
     "ID": 1007412424,
     "key": "694809e434163cf02e4a7e5cb23166144e88e12e1a9b3e65dab011f943648ebc",
     "original": "During your [turn|Concept.Turn], while holding a [net|Item+throwing_net], every successful melee attack against an adjacent target has a chance, equal to the hit chance, to [trap|Skill+net_effect] the target without expending the [net|Item+throwing_net].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"During your [turn|Concept.Turn], while holding a [net|Item+throwing_net], every successful melee attack against an adjacent target has a chance, equal to the hit chance, to [trap|Skill+net_effect] the target without expending the [net|Item+throwing_net].\",\"You cannot use or swap this [net|Item+throwing_net] until the target breaks free or dies. Attempts to break free are always successful.\",\"If you move away from the target, the target remains [trapped|Skill+net_effect] but you lose the [net|Item+throwing_net].\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+2\") + \" [Reach|Concept.Reach] while holding a [net|Item+throwing_net] and not currently [trapping|Skill+net_effect] a target.\"]"
   },
   {
     "ID": 1007412425,
@@ -2336,7 +2366,8 @@
     "ID": 1007412427,
     "key": "a3ad1cc473fcff05c1687e322cd7acbd5e65ee0abecf6267669f8b29dbd31122",
     "original": "Each attack that does damage to [Hitpoints|Concept.Hitpoints] triggers a mental [morale check|Concept.Bravery] for the target. If the target fails the morale check, it gains the [$ $|Skill+horrified_effect] effect.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Each attack that does damage to [Hitpoints|Concept.Hitpoints] triggers a mental [morale check|Concept.Bravery] for the target. If the target fails the morale check, it gains the [$ $|Skill+horrified_effect] effect.\"]"
   },
   {
     "ID": 1007412428,
@@ -2386,7 +2417,8 @@
     "ID": 1007412434,
     "key": "641e7ecba4e0c1743118b366aa7571e1686ff79b0fcc5a0cd5c3886309e2da06",
     "original": "Enemies within 2 tiles are considered [surrounded|Concept.Surrounding] by you for the purposes of hit-chance bonus for any allies attacking that target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Enemies within 2 tiles are considered [surrounded|Concept.Surrounding] by you for the purposes of hit-chance bonus for any allies attacking that target.\"]"
   },
   {
     "ID": 1007412435,
@@ -2414,7 +2446,8 @@
     "ID": 1007412438,
     "key": "a1887f5e882b97f92072da39ddb0a9eba1b4641aa30fcddfcb81faeab8ee8e31",
     "original": "Every hit applies the [$ $|Skill+rf_rattled_effect] effect for one [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Every hit applies the [$ $|Skill+rf_rattled_effect] effect for one [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412439,
@@ -2614,7 +2647,8 @@
     "ID": 1007412465,
     "key": "34e486822af1df7c367befa1d24ea420ca5360cdf8c3be73e5709894d3924986",
     "original": "For [non-hybrid|Concept.HybridWeapon] weapons, this extends to the third [perk|Concept.Perk] as well.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Upon equipping a weapon, temporarily gain the first and second [perk|Concept.Perk] of all of its [perk|Concept.Perk] groups if you have the corresponding [perk|Concept.Perk] in any weapon [perk|Concept.Perk] group regardless of tier.\",\"For [non-hybrid|Concept.HybridWeapon] weapons, this extends to the third [perk|Concept.Perk] as well.\"]"
   },
   {
     "ID": 1007412466,
@@ -2689,13 +2723,14 @@
     "key": "b293a6e20571e019c94135159ef9613ddad88c0ea6bdfa4ba6ca6fe812fec740",
     "original": "Gain ",
     "translation": "",
-    "context": "\"Gain \" + getroottable().MSU.Text.colorPositive(2) + \" perk points upon completing your next 5 [levels|Concept.Level] after picking this perk.\""
+    "context": "\"Gain \" + getroottable().MSU.Text.colorPositive(1) + \" stack for every hit or miss against any target during your [turn|Concept.Turn].\""
   },
   {
     "ID": 1007412476,
     "key": "7e4668237bd05382860797d7b3647115567b80459e4812b1c301624d98bb224d",
     "original": "Gain 2 perk points.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain 2 perk points.\",\"Drop your [perk tier|Concept.PerkTier] down to \" + getroottable().MSU.Text.colorNegative(2) + \".\"]"
   },
   {
     "ID": 1007412477,
@@ -2708,7 +2743,8 @@
     "ID": 1007412478,
     "key": "aebfcba17a4c19b7973e8b94ead5c357c4ec188d4cc2288441514b417679d9a5",
     "original": "Gain a stack whenever you end your [turn|Concept.Turn] without having used [Wait|Concept.Wait], up to a maximum of 3 stacks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain a stack whenever you end your [turn|Concept.Turn] without having used [Wait|Concept.Wait], up to a maximum of 3 stacks.\",\"[Resolve|Concept.Bravery] and [Initiative|Concept.Initiative] are both increased by \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" while you have at least 1 stack.\",\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" less [Fatigue|Concept.Fatigue] while you have at least 2 stacks.\",\"Deal \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" more damage while you have 3 stacks.\",\"You lose all stacks if you use [Wait|Concept.Wait].\"]"
   },
   {
     "ID": 1007412479,
@@ -2728,13 +2764,15 @@
     "ID": 1007412481,
     "key": "dafc2a2f672d501721fa36fba805d76c610aafb121cca68d61797da343da8a38",
     "original": "Gain additional [Initiative|Concept.Initiative] equal to the armor ignore percentage of your equipped sword.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain additional [Initiative|Concept.Initiative] equal to the armor ignore percentage of your equipped sword.\",\"When using a non-fencing sword, the [Action Point|Concept.ActionPoints] cost of non-AOE skills is reduced by \" + getroottable().MSU.Text.colorPositive(1) + \" and these skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Allows [$ $|Skill+rf_passing_step_skill] to be usable even while holding something, e.g. a shield, in your offhand.\",\"[$ $|Skill+rf_passing_step_skill] costs \" + getroottable().MSU.Text.colorPositive(2) + \" fewer [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(2) + \" less [Fatigue|Concept.Fatigue], both down to a minimum of 0.\"]"
   },
   {
     "ID": 1007412482,
     "key": "d2dd00db8598970216939e36790ab374ae819718b17a8deb708d85c45b9ef014",
     "original": "Gain all the perks of the Cleaver perk group when using a sword. Swords now additionally qualify as Cleavers for the purposes of these perks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Skill+decapitate] skill with swords.\",\"Gain all the perks of the Cleaver perk group when using a sword. Swords now additionally qualify as Cleavers for the purposes of these perks.\",\"Attacks from swords inflict [$ $|Skill+bleeding_effect] on the target.\"]"
   },
   {
     "ID": 1007412483,
@@ -2747,61 +2785,71 @@
     "ID": 1007412484,
     "key": "3275245c93a795156952202a881646fb4ff860ab6abcba6ce8d54e660bcb99b0",
     "original": "Gain stacking rage during combat. You gain 1 rage for getting hit, 3 for killing a target, and 2 for every successful hit against an adjacent target. You lose 3 rage at the start of every [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain stacking rage during combat. You gain 1 rage for getting hit, 3 for killing a target, and 2 for every successful hit against an adjacent target. You lose 3 rage at the start of every [turn|Concept.Turn].\",\"Each stack of rage increases [Resolve|Concept.Bravery] and [Initiative|Concept.Initiative] by \" + getroottable().MSU.Text.colorPositive(\"+2\") + \" and Melee Damage by \" + getroottable().MSU.Text.colorPositive(\"2%\") + \". Each stack lowers [Melee Defense|Concept.MeleeDefense] by \" + getroottable().MSU.Text.colorNegative(\"-1\") + \" and lowers damage received by \" + getroottable().MSU.Text.colorPositive(\"2%\") + \", up to a maximum of 70%.\"]"
   },
   {
     "ID": 1007412485,
     "key": "399b59b007f555f8dacec74a88fc659d4ddfc6e769c009781e3dc13fc04d513b",
     "original": "Gain the [$ $|Perk+perk_rf_bear_down] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bear_down] perk.\",\"[$ $|Skill+knock_out], [$ $|Skill+knock_over_skill] and [$ $|Skill+strike_down_skill] have a \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" chance to inflict [$ $|Skill+stunned_effect] the target if not immune.\",\"The Polemace no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412486,
     "key": "0d6d9b2b37ab9566d225652557bee0327885914805e8c07653aad3a9167c2198",
     "original": "Gain the [$ $|Perk+perk_rf_bloodlust] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bloodlust] perk.\",\"Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect].\",\"[$ $|Skill+disarm_skill] only has half the penalty to hit.\",\"[$ $|Skill+rf_gouge_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\",\"The [$ $|Item+rf_voulge] no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412487,
     "key": "ef688420cb3638ef23aca3b19e7f7583751c3e79a48ddcb216197841388192de",
     "original": "Gain the [$ $|Perk+perk_rf_bolster] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bolster] perk.\",\"All skills with two-handed weapons, with a range of 2 tiles, having an [Action Point|Concept.ActionPoints] cost of \" + getroottable().MSU.Text.colorNegative(\"6\") + \" have their [Action Point|Concept.ActionPoints] cost reduced to \" + getroottable().MSU.Text.colorNegative(\"5\") + \".\",\"Polearms no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412488,
     "key": "f1062197aefb3b2a2e14f068b1c86a61ebc0c7171623aa0102fe042749ba9c4c",
     "original": "Gain the [$ $|Perk+perk_rf_from_all_sides] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+lash_skill] and [$ $|Skill+hail_skill] ignore the defense bonus granted by shields but not by [$ $|Skill+shieldwall_effect].\",\"Gain the [$ $|Perk+perk_rf_from_all_sides] perk.\",\"[$ $|Skill+pound] ignores an additional \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" of armor on head hits.\",\"[$ $|Skill+thresh] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\",\"Poleflails no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412489,
     "key": "366534a7a34bbe6ced8b028c68489565fafe1f06d597f7d875332b15d2d29569",
     "original": "Gain the [$ $|Perk+perk_rf_hip_shooter] and [$ $|Perk+perk_rf_flaming_arrows] perks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Perk+perk_rf_hip_shooter] and [$ $|Perk+perk_rf_flaming_arrows] perks.\"]"
   },
   {
     "ID": 1007412490,
     "key": "28eb7cf6bfd834b2f8074b3d3fa7ce7c2dc91e41d6e836f4a81d1e35dce5c9be",
     "original": "Gain the [$ $|Skill+decapitate] skill with swords.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Skill+decapitate] skill with swords.\",\"Gain all the perks of the Cleaver perk group when using a sword. Swords now additionally qualify as Cleavers for the purposes of these perks.\",\"Attacks from swords inflict [$ $|Skill+bleeding_effect] on the target.\"]"
   },
   {
     "ID": 1007412491,
     "key": "725a23a6098e7bea35b357e9e56ef2f47da0aa86d36ad0ee847dd20b2b7ad3b0",
     "original": "Gain the [$ $|Skill+rf_dynamic_duo_shuffle_skill] skill that allows you to swap places with your partner once per [turn|Concept.Turn] and put them next in the [turn|Concept.Turn] order immediately after you.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Skill+rf_dynamic_duo_shuffle_skill] skill that allows you to swap places with your partner once per [turn|Concept.Turn] and put them next in the [turn|Concept.Turn] order immediately after you.\"]"
   },
   {
     "ID": 1007412492,
     "key": "71a1190033301701f4f066451d0c326f581816ca9a77b99f1d5c9cad3e4b563d",
     "original": "Gain the [$ $|Skill+rf_encourage_skill] skill which allows you to increase the [morale|Concept.Morale] of an ally.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the [$ $|Skill+rf_encourage_skill] skill which allows you to increase the [morale|Concept.Morale] of an ally.\"]"
   },
   {
     "ID": 1007412493,
     "key": "c9e8ea4f335ea4ce9100a3cb0261f2c9693b6122358e2f00ffc709602631172a",
     "original": "Gain the first two [perks|Concept.Perk] in a random melee perk group that you have access to.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain the first two [perks|Concept.Perk] in a random melee perk group that you have access to.\"]"
   },
   {
     "ID": 1007412494,
@@ -2882,19 +2930,22 @@
     "ID": 1007412504,
     "key": "4ed9d4c3f955d4d623eca2565daa9e6d94f3174dbcf847d6db4a9a43724510a1",
     "original": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head [injuries|Concept.Injury] significantly.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head [injuries|Concept.Injury] significantly.\"]"
   },
   {
     "ID": 1007412505,
     "key": "39a24edc276d3fcb8acad905d556f03133b37c1425d79b419a5b5020db3b2d06",
     "original": "Hits to the head with one-handed maces [stun|Skill+stunned_effect] for 1 [turn|Concept.Turn] if the target is already [$ $|Skill+dazed_effect] or if the attack inflicts [$ $|Skill+dazed_effect]. Otherwise inflict [$ $|Skill+dazed_effect] for 1 [turn|Concept.Turn] instead.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Hits to the head with one-handed maces [stun|Skill+stunned_effect] for 1 [turn|Concept.Turn] if the target is already [$ $|Skill+dazed_effect] or if the attack inflicts [$ $|Skill+dazed_effect]. Otherwise inflict [$ $|Skill+dazed_effect] for 1 [turn|Concept.Turn] instead.\",\"Hits to the head with two-handed maces [stun|Skill+stunned_effect] the target for 1 [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412506,
     "key": "fdb359ad177ef72f706fc6ee246548f43c038f70dac7e9826162b9f05b1efce3",
     "original": "Hits to the head with two-handed maces [stun|Skill+stunned_effect] the target for 1 [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Hits to the head with one-handed maces [stun|Skill+stunned_effect] for 1 [turn|Concept.Turn] if the target is already [$ $|Skill+dazed_effect] or if the attack inflicts [$ $|Skill+dazed_effect]. Otherwise inflict [$ $|Skill+dazed_effect] for 1 [turn|Concept.Turn] instead.\",\"Hits to the head with two-handed maces [stun|Skill+stunned_effect] the target for 1 [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412507,
@@ -2965,13 +3016,15 @@
     "ID": 1007412516,
     "key": "c4bdf0a3755331cf5b593eaaee6437dceef139fbc6344b0dccb1ff2e7d5d5e94",
     "original": "If an attacker has the [$ $|Perk+perk_backstabber] perk, the effect of that perk is negated, and the normal defense malus due to being [surrounded|Concept.Surrounding] is applied instead.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The defense malus due to being [surrounded|Concept.Surrounding] by opponents no longer applies to this character.\",\"If an attacker has the [$ $|Perk+perk_backstabber] perk, the effect of that perk is negated, and the normal defense malus due to being [surrounded|Concept.Surrounding] is applied instead.\"]"
   },
   {
     "ID": 1007412517,
     "key": "d6b7865e45497277f872a3a6370f2ede3995df972c1f050a92e0e7d37136cd2c",
     "original": "If the damage was sufficient to inflict an [injury|Concept.Injury], it inflicts an additional [injury|Concept.Injury].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Attacks that do at least \" + getroottable().MSU.Text.colorNegative(5) + \" damage to [Hitpoints|Concept.Hitpoints] and apply a valid [status effect|Concept.StatusEffect] or are against characters with a valid [status effect|Concept.StatusEffect] have a chance to inflict an [injury|Concept.Injury]. This chance is \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" for two-handed maces and \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" for one-handed maces.\",\"If the damage was sufficient to inflict an [injury|Concept.Injury], it inflicts an additional [injury|Concept.Injury].\",\"In a single turn, cannot trigger more than once on the same target.\",\"Valid status effects include: [$ $|Skill+stunned_effect], [$ $|Skill+net_effect], [$ $|Skill+web_effect], [$ $|Skill+rooted_effect], [$ $|Skill+sleeping_effect].\"]"
   },
   {
     "ID": 1007412518,
@@ -2984,7 +3037,8 @@
     "ID": 1007412519,
     "key": "bf155771f837b18fa7a0812198496004d58cd0efa140be1bd325233e506198bb",
     "original": "If unsuccessful, this perk is replaced by [$ $|Perk+perk_rf_failed_potential] which does nothing.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Upon reaching level 11, this perk has a \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" chance of being replaced with [$ $|Perk+perk_rf_realized_potential].\",\"If unsuccessful, this perk is replaced by [$ $|Perk+perk_rf_failed_potential] which does nothing.\",\"A [$ $|Skill+player_character_trait] has a \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" chance to succeed.\"]"
   },
   {
     "ID": 1007412520,
@@ -2997,25 +3051,29 @@
     "ID": 1007412521,
     "key": "731575c0d90cbfa373d0e5c5e880697547f8911fe11df9819d7305f94c3bdde1",
     "original": "If you have the [$ $|Skill+shieldwall] skill available, any ally who starts or ends their [turn|Concept.Turn] adjacent to you will use [$ $|Skill+shieldwall] for free.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allies with a shield will use [$ $|Skill+shieldwall] for free at the start of each battle.\",\"Allies within 2 tiles have the [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] costs of [$ $|Skill+shieldwall] halved. Cannot reduce the [Action Point|Concept.ActionPoints] cost below \" + getroottable().MSU.Text.colorNegative(2) + \".\",\"If you have the [$ $|Skill+shieldwall] skill available, any ally who starts or ends their [turn|Concept.Turn] adjacent to you will use [$ $|Skill+shieldwall] for free.\",\"You will use [$ $|Skill+shieldwall] for free as long as you start or end your [turn|Concept.Turn] adjacent to an ally who has the [$ $|Skill+shieldwall] skill available.\",\"Only members of your company are considered allies for the purposes of this [perk|Concept.Perk].\"]"
   },
   {
     "ID": 1007412522,
     "key": "daaca7265aeac92e895777b793c229d5dc1d536a863e4adb5aa2173b921c4011",
     "original": "If you move away from the target, the target remains [trapped|Skill+net_effect] but you lose the [net|Item+throwing_net].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"During your [turn|Concept.Turn], while holding a [net|Item+throwing_net], every successful melee attack against an adjacent target has a chance, equal to the hit chance, to [trap|Skill+net_effect] the target without expending the [net|Item+throwing_net].\",\"You cannot use or swap this [net|Item+throwing_net] until the target breaks free or dies. Attempts to break free are always successful.\",\"If you move away from the target, the target remains [trapped|Skill+net_effect] but you lose the [net|Item+throwing_net].\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+2\") + \" [Reach|Concept.Reach] while holding a [net|Item+throwing_net] and not currently [trapping|Skill+net_effect] a target.\"]"
   },
   {
     "ID": 1007412523,
     "key": "0ac2c017d5b2b74b17158bee7590e6af53f0ce0145d58760d6c0c0e9861d7c7f",
     "original": "Ignore the defense malus from being [surrounded|Concept.Surrounding] by enemies up to the number of such adjacent allies. This includes enemies with the [$ $|Perk+perk_backstabber] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"When attacking or defending in melee, gain \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" [Reach|Concept.Reach] per adjacent ally who is wielding a two-handed weapon with a piercing attack or a shield.\",\"Ignore the defense malus from being [surrounded|Concept.Surrounding] by enemies up to the number of such adjacent allies. This includes enemies with the [$ $|Perk+perk_backstabber] perk.\",\"Does not work with bucklers.\"]"
   },
   {
     "ID": 1007412524,
     "key": "db75ee7d2a39fa67ee43e0c25b62123354a9cfa775bce6035261ff63b29e2475",
     "original": "In a single turn, cannot trigger more than once on the same target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Attacks that do at least \" + getroottable().MSU.Text.colorNegative(5) + \" damage to [Hitpoints|Concept.Hitpoints] and apply a valid [status effect|Concept.StatusEffect] or are against characters with a valid [status effect|Concept.StatusEffect] have a chance to inflict an [injury|Concept.Injury]. This chance is \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" for two-handed maces and \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" for one-handed maces.\",\"If the damage was sufficient to inflict an [injury|Concept.Injury], it inflicts an additional [injury|Concept.Injury].\",\"In a single turn, cannot trigger more than once on the same target.\",\"Valid status effects include: [$ $|Skill+stunned_effect], [$ $|Skill+net_effect], [$ $|Skill+web_effect], [$ $|Skill+rooted_effect], [$ $|Skill+sleeping_effect].\"]"
   },
   {
     "ID": 1007412525,
@@ -3037,7 +3095,8 @@
     "ID": 1007412527,
     "key": "29ae7fa0251ed9d67931ae3c6c261ed0f377fccad7468baa5ade55c062f06593",
     "original": "Instantly gain a levelup to increase this character's attributes with maximum rolls, but without talents.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Instantly gain a levelup to increase this character's attributes with maximum rolls, but without talents.\"]"
   },
   {
     "ID": 1007412528,
@@ -3072,7 +3131,8 @@
     "ID": 1007412532,
     "key": "022dd6f67b911b08458d534ae5fd14bd12d51849e946a553221f958e72171621",
     "original": "Items placed in [bags|Concept.BagSlots] no longer apply a penalty to [Maximum Fatigue|Concept.MaximumFatigue], except for two-handed weapons.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlock two extra [bag slots|Concept.BagSlots].\",\"Items placed in [bags|Concept.BagSlots] no longer apply a penalty to [Maximum Fatigue|Concept.MaximumFatigue], except for two-handed weapons.\"]"
   },
   {
     "ID": 1007412533,
@@ -3224,7 +3284,8 @@
     "ID": 1007412553,
     "key": "2ed0b11aba32897bd2c88de4d106f205f6da41e128474396f6b446fb67d05d85",
     "original": "Link your soul with adjacent allies redirecting a portion of all incoming damage to [Hitpoints|Concept.Hitpoints] to a random adjacent ally. Does not work with allies that also have this perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Link your soul with adjacent allies redirecting a portion of all incoming damage to [Hitpoints|Concept.Hitpoints] to a random adjacent ally. Does not work with allies that also have this perk.\"]"
   },
   {
     "ID": 1007412554,
@@ -3253,7 +3314,8 @@
     "ID": 1007412557,
     "key": "cb9a71b69ff53bb7764971667ddee95f39db31a4600d659d905447560ce7d7e7",
     "original": "Lose all stacks immediately upon losing Confident [morale|Concept.Morale].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Receive a [morale check|Concept.Morale] at the start of every [turn|Concept.Turn] if you are [Confident|Concept.Morale] and if successful, gain a stack, up to a maximum of 4. For each stack, [Resolve|Concept.Bravery], [Melee Skill|Concept.MeleeSkill], [Ranged Skill|Concept.RangeSkill], [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] are increased by \" + getroottable().MSU.Text.colorPositive(\"5%\") + \".\",\"Lose \" + getroottable().MSU.Text.colorNegative(1) + \" stack upon ending a [turn|Concept.Turn] without having attacked.\",\"Lose all stacks immediately upon losing Confident [morale|Concept.Morale].\"]"
   },
   {
     "ID": 1007412558,
@@ -3489,7 +3551,8 @@
     "ID": 1007412590,
     "key": "df61b9ffff998e4391d3d1bf0434c9c9718d31ffaab1b6038eb85e58d3cf276a",
     "original": "Missed attacks against you no longer increase your [Fatigue|Concept.Fatigue].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The shield defense bonus is increased by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \". This also applies to the additional defense bonus of the [$ $|Skill+shieldwall] skill.\",\"The drop in shield defense bonus at maximum [fatigue|Concept.Fatigue] is reduced from \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" to \" + getroottable().MSU.Text.colorNegative(\"25%\") + \".\",\"Missed attacks against you no longer increase your [Fatigue|Concept.Fatigue].\"]"
   },
   {
     "ID": 1007412591,
@@ -3576,7 +3639,8 @@
     "ID": 1007412602,
     "key": "0048979862fe02da48a2684638e31063145c8082002952c8fb5411f82f716914",
     "original": "Once per battle, upon receiving a killing blow, survive instead with a few [Hitpoints|Concept.Hitpoints] left and have all damage over time effects (e.g. [$ $|Skill+bleeding_effect], [$ $|Skill+spider_poison_effect]) cured.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Once per battle, upon receiving a killing blow, survive instead with a few [Hitpoints|Concept.Hitpoints] left and have all damage over time effects (e.g. [$ $|Skill+bleeding_effect], [$ $|Skill+spider_poison_effect]) cured.\",\"Upon triggering, gain [$ $|Skill+nine_lives_effect] until the start of your next [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412603,
@@ -3611,19 +3675,22 @@
     "ID": 1007412607,
     "key": "178d759ff4dccb9114276174e3088aa07be63238362064bcb918fb05f91c85f0",
     "original": "Only members of your company are considered allies for the purposes of this [perk|Concept.Perk].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allies with a shield will use [$ $|Skill+shieldwall] for free at the start of each battle.\",\"Allies within 2 tiles have the [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] costs of [$ $|Skill+shieldwall] halved. Cannot reduce the [Action Point|Concept.ActionPoints] cost below \" + getroottable().MSU.Text.colorNegative(2) + \".\",\"If you have the [$ $|Skill+shieldwall] skill available, any ally who starts or ends their [turn|Concept.Turn] adjacent to you will use [$ $|Skill+shieldwall] for free.\",\"You will use [$ $|Skill+shieldwall] for free as long as you start or end your [turn|Concept.Turn] adjacent to an ally who has the [$ $|Skill+shieldwall] skill available.\",\"Only members of your company are considered allies for the purposes of this [perk|Concept.Perk].\"]"
   },
   {
     "ID": 1007412608,
     "key": "d9c8379ce7aabbd5240c0e1299a4d1e79e71ae5a5e7a549a95f964032a29983a",
     "original": "Only members of your company are considered allies for this [perk|Concept.Perk].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Any ally who is adjacent to an enemy, or is adjacent to an ally who is adjacent to an enemy, gains \" + getroottable().MSU.Text.colorPositive(\"+3\") + \" [Action Points|Concept.ActionPoints] as long as they start their [turn|Concept.Turn] adjacent to you.\",\"Only members of your company are considered allies for this [perk|Concept.Perk].\"]"
   },
   {
     "ID": 1007412609,
     "key": "e171203f6b50d5ffeb65594b25b9f5ac38904ec8ffd46a4f13a41b148813e7fe",
     "original": "Only works with Two-Handed swords or with One-Handed swords with the offhand free.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_passing_step_skill] skill which, immediately after a successful attack, allows you to move one tile ignoring [Zone of Control|Concept.ZoneOfControl] with reduced [Action Point|Concept.ActionPoints] cost and [Fatigue|Concept.Fatigue] cost of movement.\",\"The target tile for the movement must be adjacent to an enemy.\",\"Only works with Two-Handed swords or with One-Handed swords with the offhand free.\"]"
   },
   {
     "ID": 1007412610,
@@ -3713,7 +3780,8 @@
     "ID": 1007412621,
     "key": "5a923a997e389a58743d254a929e62413322710f65d4a6d53eecf4468d7d730a",
     "original": "Playing the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"At the eleventh character level, you gain an additional perk point and this perk becomes inert.\",\"Playing the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\"]"
   },
   {
     "ID": 1007412622,
@@ -3734,13 +3802,15 @@
     "ID": 1007412624,
     "key": "45db52605cad65541c877cd70a2bff6c58a403a7d39a48b366e056881f988c79",
     "original": "Polearms no longer have a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bolster] perk.\",\"All skills with two-handed weapons, with a range of 2 tiles, having an [Action Point|Concept.ActionPoints] cost of \" + getroottable().MSU.Text.colorNegative(\"6\") + \" have their [Action Point|Concept.ActionPoints] cost reduced to \" + getroottable().MSU.Text.colorNegative(\"5\") + \".\",\"Polearms no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412625,
     "key": "85dcf42a83f4945f47fd7afa1bf869090ad2d6e02d5a6fe5d539a611709c547b",
     "original": "Poleflails no longer have a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+lash_skill] and [$ $|Skill+hail_skill] ignore the defense bonus granted by shields but not by [$ $|Skill+shieldwall_effect].\",\"Gain the [$ $|Perk+perk_rf_from_all_sides] perk.\",\"[$ $|Skill+pound] ignores an additional \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" of armor on head hits.\",\"[$ $|Skill+thresh] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\",\"Poleflails no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412626,
@@ -3866,13 +3936,15 @@
     "ID": 1007412642,
     "key": "2a45833892262495a69133c9fda44031bbb3905973b4728bd6cabf0e3dca807f",
     "original": "Refund all spent Perk Points.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Refund all spent Perk Points.\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" Perk Point.\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"1\") + \" random Shared Perk Group.\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"2\") + \" random Weapon Perk Groups.\",\"All Attributes are increased by \" + getroottable().MSU.Text.colorPositive(\"+15\") + \".\"]"
   },
   {
     "ID": 1007412643,
     "key": "933acc368987e174eb508a2590a041adc249a0b14ca3ac2c3594c3591b89bb25",
     "original": "Removes the [$ $|Skill+insecure_trait] and [$ $|Skill+dastard_trait] traits.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Removes the [$ $|Skill+insecure_trait] and [$ $|Skill+dastard_trait] traits.\"]"
   },
   {
     "ID": 1007412644,
@@ -3885,7 +3957,8 @@
     "ID": 1007412645,
     "key": "0a2a90bb00962155fe489b630098fdc5a1bc7a6f5b5f9ed21ee4d0465f4952cc",
     "original": "Requires a cutting attack from a two-handed or double-gripped sword.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_passing_step_skill] skill which, immediately after a successful attack, allows you to move one tile ignoring [Zone of Control|Concept.ZoneOfControl] with reduced [Action Point|Concept.ActionPoints] cost but \" + getroottable().MSU.Text.colorNegative(\"+2\") + \" [Fatigue|Concept.Fatigue] cost.\",\"The target tile for the movement must be adjacent to an enemy.\",\"Requires a cutting attack from a two-handed or double-gripped sword.\"]"
   },
   {
     "ID": 1007412646,
@@ -3968,7 +4041,8 @@
     "ID": 1007412656,
     "key": "47ace830b0aef1fc9f2a98084f519297fb9537dc178584cae3587c82bb69cd79",
     "original": "Shields now also negate the [Reach Advantage|Concept.ReachAdvantage] of the target when attacking.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Additional damage ignores armor. This bonus is \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" for one-handed weapons, \" + getroottable().MSU.Text.colorPositive(\"35%\") + \" for one-handed weapon with shield, and \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" for two-handed weapons.\",\"Shields now also negate the [Reach Advantage|Concept.ReachAdvantage] of the target when attacking.\"]"
   },
   {
     "ID": 1007412657,
@@ -3982,7 +4056,7 @@
     "key": "c000552622769110d398668fa42aeaace9d921f57fe66b6f319ff0ee4ecaae7c",
     "original": "Skills build up ",
     "translation": "",
-    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\""
+    "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" less [Fatigue|Concept.Fatigue] and gain \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" chance to hit.\""
   },
   {
     "ID": 1007412659,
@@ -4054,13 +4128,15 @@
     "ID": 1007412668,
     "key": "c29a6319c7c02046f2c99eba9e4a5cd0423dea9fcfe059e25bc59f29067d23b2",
     "original": "Stacks [multiplicatively|Concept.StackMultiplicatively] with the [$ $|Perk+perk_relentless] perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The penalty to [Initiative|Concept.Initiative] from head and body armor is reduced by \" + getroottable().MSU.Text.colorPositive(\"30%\") + \".\",\"At all times your [Initiative|Concept.Initiative] is reduced only by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" of accumulated [Fatigue|Concept.Fatigue], instead of all of it.\",\"Stacks [multiplicatively|Concept.StackMultiplicatively] with the [$ $|Perk+perk_relentless] perk.\"]"
   },
   {
     "ID": 1007412669,
     "key": "e17c02386292fe88bd10030e429ce2fc276c8a2d457a246743decc6deace58b6",
     "original": "Stacks gained during each [turn|Concept.Turn] are tracked separately.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Whenever you attack or are attacked, hit or miss, gain a stacking \" + getroottable().MSU.Text.colorPositive(\"+5\") + \" [Initiative|Concept.Initiative] and \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" reduction to the [Fatigue|Concept.Fatigue] cost of skills until the end of your next [turn|Concept.Turn], up to a maximum of \" + getroottable().MSU.Text.colorPositive(\"+25\") + \" and \" + getroottable().MSU.Text.colorPositive(\"+25%\") + \" respectively.\",\"Stacks gained during each [turn|Concept.Turn] are tracked separately.\"]"
   },
   {
     "ID": 1007412670,
@@ -4111,7 +4187,8 @@
     "ID": 1007412676,
     "key": "593543e20ab809c0613ef453c712bf9029874278054720697cf3e252fc5a3c9f",
     "original": "Successful attacks apply the [$ $|Skill+rf_worn_down_effect] effect on the target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Successful attacks apply the [$ $|Skill+rf_worn_down_effect] effect on the target.\",\"Gain a stacking \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" chance that an enemy requires two successful rolls to hit you per negative status effect affecting the enemy. Valid status effects include: [$ $|Skill+rf_worn_down_effect], [$ $|Skill+stunned_effect], [$ $|Skill+dazed_effect], [$ $|Skill+rf_rattled_effect], [$ $|Skill+net_effect], [$ $|Skill+sleeping_effect], [$ $|Skill+staggered_effect], [$ $|Skill+rooted_effect], [$ $|Skill+web_effect].\"]"
   },
   {
     "ID": 1007412677,
@@ -4148,7 +4225,8 @@
     "ID": 1007412681,
     "key": "75193fa0eafa4a7407cef76d5bf3ae5a9f966c41b7b9cb05a1def4b5b95678b8",
     "original": "Swapping any item in battle becomes a free action with no [Action Point|Concept.ActionPoints] cost once every [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Swapping any item in battle becomes a free action with no [Action Point|Concept.ActionPoints] cost once every [turn|Concept.Turn].\",\"Does not work when swapping a shield, or when swapping from one Two-Handed melee weapon to another Two-Handed melee weapon.\",\"Does not stack with other free swap skills.\"]"
   },
   {
     "ID": 1007412682,
@@ -4223,13 +4301,15 @@
     "ID": 1007412691,
     "key": "ea294cbde039a2d9283718a3b45a340cd0e60b4264f36cc275f42ffd88ce9622",
     "original": "The Damage Type requirement from [$ $|Skill+rf_passing_step_skill] is removed.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" less [Fatigue|Concept.Fatigue] and gain \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" chance to hit.\",\"The Damage Type requirement from [$ $|Skill+rf_passing_step_skill] is removed.\",\"When using a one-handed fencing sword, the [Action Point|Concept.ActionPoints] costs of [$ $|Skill+rf_sword_thrust_skill], [$ $|Skill+riposte] and [$ $|Skill+lunge_skill] are reduced by \" + getroottable().MSU.Text.colorPositive(1) + \".\",\"When using a two-handed fencing sword, the range of [$ $|Skill+lunge_skill] is increased by \" + getroottable().MSU.Text.colorPositive(1) + \" tile.\"]"
   },
   {
     "ID": 1007412692,
     "key": "f9c89abab8bf499072c541bc9c5eadc3aa1321e876a7ca20f6b9cbd84da9f68b",
     "original": "The Polemace no longer has a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bear_down] perk.\",\"[$ $|Skill+knock_out], [$ $|Skill+knock_over_skill] and [$ $|Skill+strike_down_skill] have a \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" chance to inflict [$ $|Skill+stunned_effect] the target if not immune.\",\"The Polemace no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412693,
@@ -4243,25 +4323,29 @@
     "ID": 1007412694,
     "key": "f9f121e50355ebf1c74737c6e13e2c053601632daf8a08d2b806fa5836091c5d",
     "original": "The [$ $|Item+longaxe] and [$ $|Item+rf_poleaxe] no longer have a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+round_swing] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\",\"The [$ $|Item+longaxe] and [$ $|Item+rf_poleaxe] no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412695,
     "key": "aca730c902cc1471f97d7ea50162d1b7f108323ccf40db6fbda2803ab5adda8b",
     "original": "The [$ $|Item+polehammer] no longer has a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+crush_armor] and [$ $|Skill+demolish_armor_skill] inflict \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" more damage against armor and apply the [$ $|Skill+rf_dented_armor_effect] effect.\",\"[$ $|Skill+shatter_skill] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\",\"The [$ $|Item+polehammer] no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412696,
     "key": "0215ec05cf23d0d2cddda730e949e33426f2341f4563c70d7c7e2ee361ef49a2",
     "original": "The [$ $|Item+rf_voulge] no longer has a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bloodlust] perk.\",\"Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect].\",\"[$ $|Skill+disarm_skill] only has half the penalty to hit.\",\"[$ $|Skill+rf_gouge_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\",\"The [$ $|Item+rf_voulge] no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412697,
     "key": "eab432922ded3089602f92786c9bab853d39e769c4baf18823ef357063269b43",
     "original": "The [$ $|Item+spetum] and [$ $|Item+warfork] no longer have a penalty for attacking targets directly adjacent.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+spearwall] is no longer disabled once an opponent manages to overcome it. Instead, [$ $|Skill+spearwall] can still be used and continues to give free attacks on any further opponent attempting to enter the [Zone of Control|Concept.ZoneOfControl]\",\"When starting your [turn|Concept.Turn] with a spear equipped, the first piercing spear attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue]. This expires upon moving from your position if using a two-handed spear, or moving more than 1 tile if using a one-handed spear.\",\"The [$ $|Item+spetum] and [$ $|Item+warfork] no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412698,
@@ -4289,50 +4373,57 @@
     "ID": 1007412701,
     "key": "9aae19073103e78977e204655401ba33bff4740796cf453745df41816293ff7c",
     "original": "The [effect|Concept.StatusEffect] does not stack and lasts until the start of your next [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"AOE attacks, hit or miss, increase your [Reach|Concept.Reach] by \" + getroottable().MSU.Text.colorPositive(\"+3\") + \". Additionally, the targeted enemies' [Reach|Concept.Reach] is reduced by \" + getroottable().MSU.Text.colorPositive(\"-3\") + \" for their attacks against you.\",\"The [effect|Concept.StatusEffect] does not stack and lasts until the start of your next [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412702,
     "key": "c9f057ac0c8893e97b076fdae3a12902432d4c4423869ce7d39dee06a8a16eea",
     "original": "The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 15 and is more than 15% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" and that to armor by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 15 and is more than 15% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_rf_poise] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412703,
     "key": "f204e55a02b0368b3c356be7bb3456a83f19587288b0cb6b0a43e75acd06619b",
     "original": "The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 35 and is more than 30% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"30%\") + \" and to Armor by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 35 and is more than 30% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412704,
     "key": "4bbbc638d194330a75d001ec6a1560bd46213022b443a753d4f062c1ad53a071",
     "original": "The bonus from each point of [Reach Advantage|Concept.ReachAdvantage] you have is increased by ",
     "translation": "",
-    "context": "\"The bonus from each point of [Reach Advantage|Concept.ReachAdvantage] you have is increased by \" + getroottable().MSU.Text.colorPositive(\"+1\") + \" against enemies in your [Zone of Control|Concept.ZoneOfControl] until they hit you. After being hit this effect expires, but is reset if the [Zone of Control|Concept.ZoneOfControl] is broken.\""
+    "context": "\"The bonus from each point of [Reach Advantage|Concept.ReachAdvantage] you have is increased by \" + getroottable().MSU.Text.colorPositive(\"+2\") + \", without diminishing returns, against enemies in your [Zone of Control|Concept.ZoneOfControl] until they hit you. After being hit this effect expires, but is reset if the [Zone of Control|Concept.ZoneOfControl] is broken.\""
   },
   {
     "ID": 1007412705,
     "key": "e536c3f13fdcaba2c35f4fbe8d3ebc001ff5e3bec4d0a94bfdc53f409803af9a",
     "original": "The bonus is lost upon waiting or ending your [turn|Concept.Turn], using any skill, or swapping your weapon except to or from a throwing weapon.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"For every 2 tiles moved, the [Action Point|Concept.ActionPoints] cost of your next attack is reduced by \" + getroottable().MSU.Text.colorPositive(1) + \" to a minimum of \" + getroottable().MSU.Text.colorPositive(1) + \", and the [Fatigue|Concept.Fatigue] cost is reduced by \" + getroottable().MSU.Text.colorPositive(\"10%\") + \".\",\"The bonus is lost upon waiting or ending your [turn|Concept.Turn], using any skill, or swapping your weapon except to or from a throwing weapon.\"]"
   },
   {
     "ID": 1007412706,
     "key": "9e28206e3e9285ff2f1ec18719f35716eab3a43e9bafbc95159874ca8b3adb77",
     "original": "The chance is equal to the ratio of armor damage inflicted to remaining armor on the body part hit.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Every successful hit has a chance to apply the [$ $|Skill+rf_dismantled_effect] effect, which causes the target to receive a stacking \" + getroottable().MSU.Text.colorNegative(\"+20%\") + \" damage received ignoring armor on the body part hit for the remainder of the combat.\",\"The chance is equal to the ratio of armor damage inflicted to remaining armor on the body part hit.\"]"
   },
   {
     "ID": 1007412707,
     "key": "0669e7a9fae6a2f366843c00cad5234e28bb5092bdbcb9e6ea2e8a75878ba51e",
     "original": "The damage threshold for triggering [morale checks|Concept.Morale] with your attacks is reduced to 1.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The damage threshold for triggering [morale checks|Concept.Morale] with your attacks is reduced to 1.\",\"These morale checks now have an additional penalty to [Resolve|Concept.Bravery] of \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" of your [Resolve|Concept.Bravery].\"]"
   },
   {
     "ID": 1007412708,
     "key": "31582e8e3e7067b107073fd03f485020c30e00f83cd5c5de2dafdafe36b4c539",
     "original": "The defense malus due to being [surrounded|Concept.Surrounding] by opponents no longer applies to this character.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The defense malus due to being [surrounded|Concept.Surrounding] by opponents no longer applies to this character.\",\"If an attacker has the [$ $|Perk+perk_backstabber] perk, the effect of that perk is negated, and the normal defense malus due to being [surrounded|Concept.Surrounding] is applied instead.\"]"
   },
   {
     "ID": 1007412709,
@@ -4352,43 +4443,50 @@
     "ID": 1007412711,
     "key": "e20df3baa87a51208d6a2168bd511100c80c709b57c2ec820c95bb67bd8f44f3",
     "original": "The effect expires upon missing an attack, switching your weapon, switching the target, killing the target, or using any skill that is not a dagger attack.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"A successful attack with your mainhand dagger reduces the [Action Point|Concept.ActionPoints] cost of all its skills by \" + getroottable().MSU.Text.colorPositive(\"2\") + \" to a minimum of \" + getroottable().MSU.Text.colorPositive(\"2\") + \" for the remainder of this [turn|Concept.Turn].\",\"The effect expires upon missing an attack, switching your weapon, switching the target, killing the target, or using any skill that is not a dagger attack.\"]"
   },
   {
     "ID": 1007412712,
     "key": "6e50d95e23aff1261e2d1ac1787ba37014d8f7694bff895393387118882b2354",
     "original": "The effect expires upon switching your target, moving, swapping an item, waiting or ending a [turn|Concept.Turn], or using any skill except a cutting attack.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"During your [turn|Concept.Turn], after a successful attack against a target, all subsequent attacks have a \" + getroottable().MSU.Text.colorNegative(\"33%\") + \" reduced [threshold|Concept.InjuryThreshold] to inflict [injury|Concept.InjuryTemporary] and will inflict [$ $|Skill+bleeding_effect]. If any of the attacks inflicted an [injury|Concept.InjuryTemporary]., the attacks inflict additional [$ $|Skill+bleeding_effect].\",\"The effect expires upon switching your target, moving, swapping an item, waiting or ending a [turn|Concept.Turn], or using any skill except a cutting attack.\"]"
   },
   {
     "ID": 1007412713,
     "key": "c48032783e20aec5d74cfc2756a19ac0024a0fd985b3d252bd8f23a86949d8ee",
     "original": "The effect expires upon using any non-free skill, [waiting|Concept.Wait] or ending your [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Using any skill that costs [Action Points|Concept.ActionPoints] reduces the [Action Point|Concept.ActionPoints] cost of all skills by \" + getroottable().MSU.Text.colorPositive(\"1\") + \" to a minimum of 3.\",\"The effect expires upon using any non-free skill, [waiting|Concept.Wait] or ending your [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412714,
     "key": "41d02cd61cb567dcb3c0fa5d8faa59e82edad2fb0016b7b9e0397c52761979ca",
     "original": "The effect is doubled if the attacks hit the head.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Successful hits from Flails progressively reduce the target's [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by a stacking \" + getroottable().MSU.Text.colorNegative(-5) + \" for one [turn|Concept.Turn].\",\"The effect is doubled if the attacks hit the head.\"]"
   },
   {
     "ID": 1007412715,
     "key": "e511aae60a6975c36f0e49e2819558d3fd63eb6829157520bdce4ade0ee698d5",
     "original": "The effect is lost upon moving, swapping an item, using any skill except a single-target attack, missing an attack, or [waiting|Concept.Wait] or ending your [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"A successful hit increases the damage of your next attack by \" + getroottable().MSU.Text.colorNegative(\"20%\") + \".\",\"The effect is lost upon moving, swapping an item, using any skill except a single-target attack, missing an attack, or [waiting|Concept.Wait] or ending your [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412716,
     "key": "3a2c85cdfdd18e0f468ac74e519996ba14c41deaaf1e2a3b544c4901ccdc4210",
     "original": "The effect lasts until your next attack or the end of your [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Every time you are hit, gain a stacking \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" damage bonus for your next attack.\",\"The effect lasts until your next attack or the end of your [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412717,
     "key": "c4e671ccce36fc71b6712d5d68503ee743fcc4018630d8997db0fe8cec439b3c",
     "original": "The effect stacks with each attack, up to a maximum of 7 times, and can be applied to multiple targets at once with a single attack.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"With every attack, hit or miss, against an opponent that acts after you in the current round, inflict the [$ $|Skill+overwhelmed_effect] status effect which lowers both [Melee Skill|Concept.MeleeSkill] and [Ranged Skill|Concept.RangeSkill] by \" + getroottable().MSU.Text.colorNegative(\"-10%\") + \" for one [turn|Concept.Turn].\",\"The effect stacks with each attack, up to a maximum of 7 times, and can be applied to multiple targets at once with a single attack.\"]"
   },
   {
     "ID": 1007412718,
@@ -4416,7 +4514,8 @@
     "ID": 1007412721,
     "key": "5d6cdfa5a9b0e808707ab3cf113a5d839aca6dc8076639ee237ae7b052a3e9e2",
     "original": "The first successful melee attack every [turn|Concept.Turn] against an adjacent target will apply the [$ $|Skill+staggered_effect] effect.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The first successful melee attack every [turn|Concept.Turn] against an adjacent target will apply the [$ $|Skill+staggered_effect] effect.\",\"When wielding a weapon with a [Reach|Concept.Reach] of less than 4, gain the difference in [Reach|Concept.Reach] up to 4.\"]"
   },
   {
     "ID": 1007412722,
@@ -4436,13 +4535,15 @@
     "ID": 1007412724,
     "key": "40e9d22810e2d4693c18cbd990583c056902169967538eb45d7a02ef8b13234a",
     "original": "The higher the [Resolve|Concept.Bravery] of the character using this skill, the higher the chance to succeed.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rally_the_troops] skill which can raise [morale|Concept.Morale] of all nearby allies of your faction to a steady level.\",\"The higher the [Resolve|Concept.Bravery] of the character using this skill, the higher the chance to succeed.\"]"
   },
   {
     "ID": 1007412725,
     "key": "68bd91b90fe0f04c15036c3f77ba716585570e684d9d8e27e1e502197f6dac69",
     "original": "The partner does not need to learn this [perk|Concept.Perk] in order to gain the benefits.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allows you to choose another member of your company as your partner. You will remain partners until one of you dies or leaves the company. You and your partner gain the following bonuses when there is no ally next to you or your partner.\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Skill|Concept.MeleeSkill] against enemies that attack your partner, and \" + getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Defense|Concept.MeleeDefense] against enemies attacked by your partner, for one [turn|Concept.Turn].\",\"A partner's melee [AOE|Concept.AOE] attacks never have more than \" + getroottable().MSU.Text.colorPositive(getroottable().Const.Combat.MV_HitChanceMin + \"%\") + \" chance to hit their partner and inflict \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less damage.\",\"The partner does not need to learn this [perk|Concept.Perk] in order to gain the benefits.\"]"
   },
   {
     "ID": 1007412726,
@@ -4491,13 +4592,15 @@
     "ID": 1007412732,
     "key": "9bf89e4cf3b6f0c3b95492b36fbc3e0ffeb946993311d217ccbfa8bbf728fc68",
     "original": "The student of this character gains the [$ $|Skill+rf_mentors_presence_effect] effect.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The student of this character gains the [$ $|Skill+rf_mentors_presence_effect] effect.\",\"If the student dies, this character will immediately recover \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" of built [Fatigue|Concept.Fatigue] and gain the [$ $|Skill+adrenaline_effect] effect.\"]"
   },
   {
     "ID": 1007412733,
     "key": "4cabcb4bc07b1d81f1ebfb2e5cda5d11cc1857060d73f4babb33ecdf7f37a77a",
     "original": "The target tile for the movement must be adjacent to an enemy.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_passing_step_skill] skill which, immediately after a successful attack, allows you to move one tile ignoring [Zone of Control|Concept.ZoneOfControl] with reduced [Action Point|Concept.ActionPoints] cost but \" + getroottable().MSU.Text.colorNegative(\"+2\") + \" [Fatigue|Concept.Fatigue] cost.\",\"The target tile for the movement must be adjacent to an enemy.\",\"Requires a cutting attack from a two-handed or double-gripped sword.\"]"
   },
   {
     "ID": 1007412734,
@@ -4554,25 +4657,29 @@
     "ID": 1007412741,
     "key": "adc779d54076ffe7f0f388e5ec3e97df778b786d9e2dcfe8975870668794b2c3",
     "original": "This perk ONLY works with melee non-AOE attacks that have a Base Maximum Range of 1 tile, with the exception of [$ $|Skill+lunge_skill].",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This perk ONLY works with melee non-AOE attacks that have a Base Maximum Range of 1 tile, with the exception of [$ $|Skill+lunge_skill].\")"
   },
   {
     "ID": 1007412742,
     "key": "fd6aa73383732eafa1ebffd4b2b6891529fca8a0ab75d3dc5c4d1552d81c1ad0",
     "original": "This perk cannot be picked after you have spent a perk point elsewhere. This perk cannot be refunded.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This perk cannot be picked after you have spent a perk point elsewhere. This perk cannot be refunded.\")"
   },
   {
     "ID": 1007412743,
     "key": "9fa6b2981cb1544319b96f7505324c23a792c97c8d570aac5d941ce32e5fd8bd",
     "original": "This perk cannot be refunded.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This perk cannot be refunded.\")"
   },
   {
     "ID": 1007412744,
     "key": "9f5629b33f02aa69d295a0d92b4e9915563329a359cf531a0817985edd5be673",
     "original": "This perk does nothing.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"This perk does nothing.\")"
   },
   {
     "ID": 1007412745,
@@ -4666,19 +4773,22 @@
     "ID": 1007412757,
     "key": "949b5619639e7dc13dcdd6c696d9c8469b6a16076b91506fb611940ae52d1e86",
     "original": "Triggers the [$ $|Skill+rf_centurion_command_effect] effect for allied skeletons up to 6 tiles away.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Triggers the [$ $|Skill+rf_centurion_command_effect] effect for allied skeletons up to 6 tiles away.\"]"
   },
   {
     "ID": 1007412758,
     "key": "82987ea40d34b61bf1e774894de42f0f0332e1b8d5231695c81943b9e0b91339",
     "original": "Triggers the [$ $|Skill+rf_decanus_command_effect] effect for allied skeletons up to 4 tiles away.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Triggers the [$ $|Skill+rf_decanus_command_effect] effect for allied skeletons up to 4 tiles away.\"]"
   },
   {
     "ID": 1007412759,
     "key": "bed3abb2cc2815663ed86b64e51069150bdd31228eb05d04e9df28c107306197",
     "original": "Triggers the [$ $|Skill+rf_legatus_command_effect] effect for allied skeletons up to 8 tiles away.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Triggers the [$ $|Skill+rf_legatus_command_effect] effect for allied skeletons up to 8 tiles away.\"]"
   },
   {
     "ID": 1007412760,
@@ -4706,7 +4816,8 @@
     "ID": 1007412763,
     "key": "1aebebe387296075435c6d9ad7d7a61392b2857d58ba57b5c9b5dcf7e9c20450",
     "original": "Under the effects of [$ $|Skill+adrenaline_effect] you cannot receive and are not affected by [temporary injuries|Concept.InjuryTemporary].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+adrenaline_skill] skill which puts you first in the [turn|Concept.Turn] order for the next [round|Concept.Round], to have another [turn|Concept.Turn] before your enemies do.\",\"Under the effects of [$ $|Skill+adrenaline_effect] you cannot receive and are not affected by [temporary injuries|Concept.InjuryTemporary].\"]"
   },
   {
     "ID": 1007412764,
@@ -4727,145 +4838,169 @@
     "ID": 1007412766,
     "key": "9650aec0f676bf6d805cd72ddcf819ae3ea52498f8f99761b346a6a93cc06619",
     "original": "Unlock two extra [bag slots|Concept.BagSlots].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlock two extra [bag slots|Concept.BagSlots].\",\"Items placed in [bags|Concept.BagSlots] no longer apply a penalty to [Maximum Fatigue|Concept.MaximumFatigue], except for two-handed weapons.\"]"
   },
   {
     "ID": 1007412767,
     "key": "b3a92d07d1cb2616bfc768aa79e4f82cc704b37cd0574cf2ca1b2b136e58b51c",
     "original": "Unlocks the [$ $|Skill+adrenaline_skill] skill which puts you first in the [turn|Concept.Turn] order for the next [round|Concept.Round], to have another [turn|Concept.Turn] before your enemies do.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+adrenaline_skill] skill which puts you first in the [turn|Concept.Turn] order for the next [round|Concept.Round], to have another [turn|Concept.Turn] before your enemies do.\",\"Under the effects of [$ $|Skill+adrenaline_effect] you cannot receive and are not affected by [temporary injuries|Concept.InjuryTemporary].\"]"
   },
   {
     "ID": 1007412768,
     "key": "3be193cb9afb8f2f3c4f7a51d535d512fe2706edfd480c36f2f65f8492236242",
     "original": "Unlocks the [$ $|Skill+footwork] skill which allows you to leave a [Zone of Control|Concept.ZoneOfControl] without triggering free attacks.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+footwork] skill which allows you to leave a [Zone of Control|Concept.ZoneOfControl] without triggering free attacks.\"]"
   },
   {
     "ID": 1007412769,
     "key": "0d6c3ae7c393e2f07b8c1ed5f02c5559e1c733b0f512f4bd508a6c6749045801",
     "original": "Unlocks the [$ $|Skill+indomitable] skill that reduces incoming damage and grants immunity to being [$ $|Skill+stunned_effect], knocked back or grabbed.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+indomitable] skill that reduces incoming damage and grants immunity to being [$ $|Skill+stunned_effect], knocked back or grabbed.\"]"
   },
   {
     "ID": 1007412770,
     "key": "394a4bf734e4dbb70798ccab4763e868ccaeafc00be82c2c06b00886a96c5ee4",
     "original": "Unlocks the [$ $|Skill+rally_the_troops] skill which can raise [morale|Concept.Morale] of all nearby allies of your faction to a steady level.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rally_the_troops] skill which can raise [morale|Concept.Morale] of all nearby allies of your faction to a steady level.\",\"The higher the [Resolve|Concept.Bravery] of the character using this skill, the higher the chance to succeed.\"]"
   },
   {
     "ID": 1007412771,
     "key": "db227e62583650941b042860507586cea034bbe53d2f7e681f9733a718becca9",
     "original": "Unlocks the [$ $|Skill+recover_skill] skill which allows for resting a [turn|Concept.Turn] in order to reduce accumulated [Fatigue|Concept.Fatigue].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+recover_skill] skill which allows for resting a [turn|Concept.Turn] in order to reduce accumulated [Fatigue|Concept.Fatigue].\"]"
   },
   {
     "ID": 1007412772,
     "key": "01803ff923599d30c2c70b6f678822b9c268f2e5419e65edea07a2eb7a783a64",
     "original": "Unlocks the [$ $|Skill+rf_arrow_to_the_knee_skill] skill to debilitate your opponents' capability to move around the battlefield.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_arrow_to_the_knee_skill] skill to debilitate your opponents' capability to move around the battlefield.\"]"
   },
   {
     "ID": 1007412773,
     "key": "6fabb90c94b487e984b656a2bce498c659a9b4ba226b822ab6094cd75c525955",
     "original": "Unlocks the [$ $|Skill+rf_bearded_blade_skill] skill which allows you to disarm your opponents during an attack or when they miss attacks against you.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_bearded_blade_skill] skill which allows you to disarm your opponents during an attack or when they miss attacks against you.\"]"
   },
   {
     "ID": 1007412774,
     "key": "81234182fdee785fd74d48fcb6f193219b73f5aa563cb4349da3d6f5c0efe3f6",
     "original": "Unlocks the [$ $|Skill+rf_bestial_vigor_skill] skill which can be used to reduce [Fatigue|Concept.Fatigue] and gain [Action Points|Concept.ActionPoints] during combat.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_bestial_vigor_skill] skill which can be used to reduce [Fatigue|Concept.Fatigue] and gain [Action Points|Concept.ActionPoints] during combat.\"]"
   },
   {
     "ID": 1007412775,
     "key": "92e4b62f7528415ef0a6254e09dff6a34153e9123534ddffb3baa8c3daab34a4",
     "original": "Unlocks the [$ $|Skill+rf_between_the_eyes_skill] skill.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_between_the_eyes_skill] skill.\"]"
   },
   {
     "ID": 1007412776,
     "key": "30151f796fca78021fec84cbee2a875a22feb34f867ba7722511c5813974a67b",
     "original": "Unlocks the [$ $|Skill+rf_blitzkrieg_skill] skill which allows you and the rest of your company to gain the [$ $|Skill+adrenaline_effect] effect.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_blitzkrieg_skill] skill which allows you and the rest of your company to gain the [$ $|Skill+adrenaline_effect] effect.\"]"
   },
   {
     "ID": 1007412777,
     "key": "0fc4eb3c9f62880f23f52f3686acbef7594a554af919d5cd66083d53b94c68e6",
     "original": "Unlocks the [$ $|Skill+rf_cheap_trick_skill] skill which increases the hitchance of your next attack but reduces its damage.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_cheap_trick_skill] skill which increases the hitchance of your next attack but reduces its damage.\"]"
   },
   {
     "ID": 1007412778,
     "key": "7be9aba694a655e2280b6abc04be3bccd10d7c35187b9882e9bfa8ddacb7d597",
     "original": "Unlocks the [$ $|Skill+rf_command_skill] skill which allows you move allies forward in the turn order.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_command_skill] skill which allows you move allies forward in the turn order.\"]"
   },
   {
     "ID": 1007412779,
     "key": "a406a4412c741a42d9e19c1543651d2a38a767cafdf3f3a9e29db0961e26f99c",
     "original": "Unlocks the [$ $|Skill+rf_cover_ally_skill] skill which allows you to target an ally to allow them to move 1 tile ignoring [Zone of Control|Concept.ZoneOfControl] on their [turn|Concept.Turn] while improving their position in the turn order in the next [round|Concept.Round].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_cover_ally_skill] skill which allows you to target an ally to allow them to move 1 tile ignoring [Zone of Control|Concept.ZoneOfControl] on their [turn|Concept.Turn] while improving their position in the turn order in the next [round|Concept.Round].\"]"
   },
   {
     "ID": 1007412780,
     "key": "ef76b76c4e55456950cdf830aced4f9ac08c1153130cc31de14cd2e393207e3c",
     "original": "Unlocks the [$ $|Skill+rf_deep_impact_skill] skill which allows you to debilitate a target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_deep_impact_skill] skill which allows you to debilitate a target.\"]"
   },
   {
     "ID": 1007412781,
     "key": "b06ae68a360186ca05f8efc07aa5e628d043ba6175baeb75ca10788e5da8b539",
     "original": "Unlocks the [$ $|Skill+rf_flaming_arrows_skill] skill.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_flaming_arrows_skill] skill.\"]"
   },
   {
     "ID": 1007412782,
     "key": "a6428bde72050b6bfea74f59e18bd6f129781ad3afb364f5d99710fa0d4708d7",
     "original": "Unlocks the [$ $|Skill+rf_follow_up_skill] skill which allows you to attack enemies who are hit by your allies during your allies' [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_follow_up_skill] skill which allows you to attack enemies who are hit by your allies during your allies' [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412783,
     "key": "e53aa3c2ab0607ae9dff6ee9a268833fe2895748c789ab0d75a9c365ea3c3f2b",
     "original": "Unlocks the [$ $|Skill+rf_gain_ground_skill] skill which, immediately after killing an adjacent opponent, allows you to move into their tile ignoring [Zone of Control|Concept.ZoneOfControl] and with reduced [Action Point|Concept.ActionPoints] cost.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_gain_ground_skill] skill which, immediately after killing an adjacent opponent, allows you to move into their tile ignoring [Zone of Control|Concept.ZoneOfControl] and with reduced [Action Point|Concept.ActionPoints] cost.\"]"
   },
   {
     "ID": 1007412784,
     "key": "5150b49e6e3b86bc41adfbf9323b202f7a6aed936eef9e6c8a7c017326983fc1",
     "original": "Unlocks the [$ $|Skill+rf_hold_steady_skill] skill which allows you and nearby allies to gain increased [Melee Defense|Concept.MeleeDefense], [Ranged Defense|Concept.RangeDefense] and [Resolve|Concept.Bravery] and immunity to being [$ $|Skill+stunned_effect], knocked back or grabbed.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_hold_steady_skill] skill which allows you and nearby allies to gain increased [Melee Defense|Concept.MeleeDefense], [Ranged Defense|Concept.RangeDefense] and [Resolve|Concept.Bravery] and immunity to being [$ $|Skill+stunned_effect], knocked back or grabbed.\"]"
   },
   {
     "ID": 1007412785,
     "key": "fc36cb6938fb992a1845bdad81c22e0997bb1959f1f2d03d2510e8140e0f03b4",
     "original": "Unlocks the [$ $|Skill+rf_hook_shield_skill] skill which allows you to reduce the effectiveness of your target's shield.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_hook_shield_skill] skill which allows you to reduce the effectiveness of your target's shield.\"]"
   },
   {
     "ID": 1007412786,
     "key": "8c5e4a5decf913176103656a0c1e2230c0300970849af982d67ec2c8da3f5757",
     "original": "Unlocks the [$ $|Skill+rf_line_breaker_skill] skill which allows you to knock back an enemy and take their place, all in one action.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_line_breaker_skill] skill which allows you to knock back an enemy and take their place, all in one action.\"]"
   },
   {
     "ID": 1007412787,
     "key": "75b1209c733364ea0e2f37ad27c1d969525f8355cb8ed5d627273329d9b715ed",
     "original": "Unlocks the [$ $|Skill+rf_net_pull_skill] skill that allows you to pull a target and [net|Skill+net_effect] it.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_net_pull_skill] skill that allows you to pull a target and [net|Skill+net_effect] it.\"]"
   },
   {
     "ID": 1007412788,
     "key": "eacca0485bd6ff7c152dc6105ac69d9bd8231a956218d75f514956fae9d5df71",
     "original": "Unlocks the [$ $|Skill+rf_onslaught_skill] skill which allows you and nearby members of your company to gain increased [Initiative|Concept.Initiative], [Melee Skill|Concept.MeleeSkill] and one use of the [$ $|Skill+rf_line_breaker_skill] skill for 2 [rounds|Concept.Round]. This use of [$ $|Skill+rf_line_breaker_skill] has a reduced [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_onslaught_skill] skill which allows you and nearby members of your company to gain increased [Initiative|Concept.Initiative], [Melee Skill|Concept.MeleeSkill] and one use of the [$ $|Skill+rf_line_breaker_skill] skill for 2 [rounds|Concept.Round]. This use of [$ $|Skill+rf_line_breaker_skill] has a reduced [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost.\"]"
   },
   {
     "ID": 1007412789,
     "key": "72f1ab77bc0883138d1a0ca459272d81c503be9eb842fa0fffc1c622b9b682b8",
     "original": "Unlocks the [$ $|Skill+rf_passing_step_skill] skill which, immediately after a successful attack, allows you to move one tile ignoring [Zone of Control|Concept.ZoneOfControl] with reduced [Action Point|Concept.ActionPoints] cost and [Fatigue|Concept.Fatigue] cost of movement.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_passing_step_skill] skill which, immediately after a successful attack, allows you to move one tile ignoring [Zone of Control|Concept.ZoneOfControl] with reduced [Action Point|Concept.ActionPoints] cost and [Fatigue|Concept.Fatigue] cost of movement.\",\"The target tile for the movement must be adjacent to an enemy.\",\"Only works with Two-Handed swords or with One-Handed swords with the offhand free.\"]"
   },
   {
     "ID": 1007412790,
@@ -4878,67 +5013,78 @@
     "ID": 1007412791,
     "key": "e9812e4baa421ef8760df719d55e0080d5bc44be0c0296a24a9b81926e16f2a0",
     "original": "Unlocks the [$ $|Skill+rf_pocket_sand_skill] skill which allows you to store sand in your empty [bag slots|Concept.BagSlots] to distract nearby enemies with.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_pocket_sand_skill] skill which allows you to store sand in your empty [bag slots|Concept.BagSlots] to distract nearby enemies with.\"]"
   },
   {
     "ID": 1007412792,
     "key": "b1f2374784f12fbb430bd8683bad37fdd92d47d0ef1b519e42d5b41e4f599265",
     "original": "Unlocks the [$ $|Skill+rf_shield_bash_skill] skill which allows you to [daze|Skill+dazed_effect] a target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_shield_bash_skill] skill which allows you to [daze|Skill+dazed_effect] a target.\"]"
   },
   {
     "ID": 1007412793,
     "key": "47e760e6aba3d67df9be5bbe0ca9650cf4a159e40d2311522c9cee16d90a33f3",
     "original": "Unlocks the [$ $|Skill+rf_sprint_skill] skill that allows you to travel longer distances during your [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_sprint_skill] skill that allows you to travel longer distances during your [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412794,
     "key": "95198a68ee87dc2cc447cac91410781f9fa401618b5cbd6d66d5bd2b6cf6924d",
     "original": "Unlocks the [$ $|Skill+rf_swordmaster_charge_skill] that allows you to close the gap with your opponents, and attack, all in one action.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_swordmaster_charge_skill] that allows you to close the gap with your opponents, and attack, all in one action.\"]"
   },
   {
     "ID": 1007412795,
     "key": "dca354ec3aea040d75f62204b7d77c0f8c83de34bf83238aa181619c0131e8c0",
     "original": "Unlocks the [$ $|Skill+rf_swordmaster_kick_skill] skill which allows you to stagger a target, perform a free attack against them. If the attack is successful, the target is knocked back a tile.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_swordmaster_kick_skill] skill which allows you to stagger a target, perform a free attack against them. If the attack is successful, the target is knocked back a tile.\"]"
   },
   {
     "ID": 1007412796,
     "key": "779fb31e246957ab874aae1501d62f7ad2d504229d0dceaba2f3e5dade7522d3",
     "original": "Unlocks the [$ $|Skill+rf_swordmaster_push_through_skill] skill which allows you to stagger a target and perform a free attack against them. If the attack is successful, the target is knocked back a tile and you move into their place.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_swordmaster_push_through_skill] skill which allows you to stagger a target and perform a free attack against them. If the attack is successful, the target is knocked back a tile and you move into their place.\"]"
   },
   {
     "ID": 1007412797,
     "key": "7b623a036d24c1027e39b970f11130048cc353d4e739f4b030e800bce2d3e186",
     "original": "Unlocks the [$ $|Skill+rf_swordmaster_tackle_skill] which performs a free attack against the target. If the attack is successful, the target is [$ $|Skill+stunned_effect] and you exchange positions with the target.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_swordmaster_tackle_skill] which performs a free attack against the target. If the attack is successful, the target is [$ $|Skill+stunned_effect] and you exchange positions with the target.\"]"
   },
   {
     "ID": 1007412798,
     "key": "b0042353a1148fe717b744bafa70fe2db7bebe4b56c3c6f3b5cdb2c0af236135",
     "original": "Unlocks the [$ $|Skill+rf_take_aim_skill] skill which allows you to target opponents behind obstacles with a [$ $|Item+crossbow] or hit more targets with a [$ $|Item+handgonne].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rf_take_aim_skill] skill which allows you to target opponents behind obstacles with a [$ $|Item+crossbow] or hit more targets with a [$ $|Item+handgonne].\"]"
   },
   {
     "ID": 1007412799,
     "key": "b7be5d8b6f12662498597dbb124f58d35ab496a58d7620d9c341a56616772995",
     "original": "Unlocks the [$ $|Skill+rotation] skill which allows you to switch places with an adjacent allied character while ignoring [Zone of Control|Concept.ZoneOfControl].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+rotation] skill which allows you to switch places with an adjacent allied character while ignoring [Zone of Control|Concept.ZoneOfControl].\",\"Cannot be used if either character is [$ $|Skill+stunned_effect], [$ $|Skill+rooted_effect] or otherwise disabled.\"]"
   },
   {
     "ID": 1007412800,
     "key": "2c1685e4acb25d02103b76380c74652a7a40302ea9ec8bb0e0cfae6553fcd85c",
     "original": "Unlocks the [$ $|Skill+taunt] skill which makes the targeted opponent take offensive actions instead of defensive ones, and attack the taunting character over another, potentially more vulnerable one.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks the [$ $|Skill+taunt] skill which makes the targeted opponent take offensive actions instead of defensive ones, and attack the taunting character over another, potentially more vulnerable one.\",\"When used on an adjacent target, reduces their [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by \" + getroottable().MSU.Text.colorPositive(\"20%\") + \" of the user's [Resolve|Concept.Bravery].\"]"
   },
   {
     "ID": 1007412801,
     "key": "f6316cd34024e0bc50f4a01575c685eb572aa4d15a6f80db620904d02e3afeba",
     "original": "Unlocks three stances which can be switched to during combat for a small [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost to gain different effects that last as long as the stance is kept.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Unlocks three stances which can be switched to during combat for a small [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost to gain different effects that last as long as the stance is kept.\",\"The [$ $|Skill+rf_swordmaster_stance_half_swording_skill] stance which allows you to [$ $|Skill+puncture] your opponents.\",\"The [$ $|Skill+rf_swordmaster_stance_reverse_grip_skill] stance which allows you to use your sword like a mace and grants the [$ $|Perk+perk_rf_concussive_strikes] [perk|Concept.Perk].\",\"The [$ $|Skill+rf_swordmaster_stance_meisterhau_skill] stance which allows you to move and still benefit from [$ $|Perk+perk_rf_en_garde] and gain the ability to use the [$ $|Skill+rf_swordmaster_kick_skill], [$ $|Skill+rf_swordmaster_push_through_skill] and [$ $|Skill+rf_swordmaster_tackle_skill] skills.\"]"
   },
   {
     "ID": 1007412802,
@@ -4952,7 +5098,8 @@
     "ID": 1007412803,
     "key": "28f26007a4adf2390fc42c5ebe0194a4e7e2afe867921157fcfbc4ffb1233843",
     "original": "Upon equipping a weapon, temporarily gain the first and second [perk|Concept.Perk] of all of its [perk|Concept.Perk] groups if you have the corresponding [perk|Concept.Perk] in any weapon [perk|Concept.Perk] group regardless of tier.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Upon equipping a weapon, temporarily gain the first and second [perk|Concept.Perk] of all of its [perk|Concept.Perk] groups if you have the corresponding [perk|Concept.Perk] in any weapon [perk|Concept.Perk] group regardless of tier.\",\"For [non-hybrid|Concept.HybridWeapon] weapons, this extends to the third [perk|Concept.Perk] as well.\"]"
   },
   {
     "ID": 1007412804,
@@ -4965,7 +5112,8 @@
     "ID": 1007412805,
     "key": "73439ac6dc84bea58a459fff78105c0643a0a87bccd8f61d43fdba87f79f13dc",
     "original": "Upon triggering, gain [$ $|Skill+nine_lives_effect] until the start of your next [turn|Concept.Turn].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Once per battle, upon receiving a killing blow, survive instead with a few [Hitpoints|Concept.Hitpoints] left and have all damage over time effects (e.g. [$ $|Skill+bleeding_effect], [$ $|Skill+spider_poison_effect]) cured.\",\"Upon triggering, gain [$ $|Skill+nine_lives_effect] until the start of your next [turn|Concept.Turn].\"]"
   },
   {
     "ID": 1007412806,
@@ -4999,7 +5147,8 @@
     "ID": 1007412810,
     "key": "28663572ef1ff549b25d0d23f53c16b719c64a232fe39d6477d59135dfeb3fab",
     "original": "Valid status effects include: [$ $|Skill+stunned_effect], [$ $|Skill+net_effect], [$ $|Skill+web_effect], [$ $|Skill+rooted_effect], [$ $|Skill+sleeping_effect].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Attacks that do at least \" + getroottable().MSU.Text.colorNegative(5) + \" damage to [Hitpoints|Concept.Hitpoints] and apply a valid [status effect|Concept.StatusEffect] or are against characters with a valid [status effect|Concept.StatusEffect] have a chance to inflict an [injury|Concept.Injury]. This chance is \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" for two-handed maces and \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" for one-handed maces.\",\"If the damage was sufficient to inflict an [injury|Concept.Injury], it inflicts an additional [injury|Concept.Injury].\",\"In a single turn, cannot trigger more than once on the same target.\",\"Valid status effects include: [$ $|Skill+stunned_effect], [$ $|Skill+net_effect], [$ $|Skill+web_effect], [$ $|Skill+rooted_effect], [$ $|Skill+sleeping_effect].\"]"
   },
   {
     "ID": 1007412811,
@@ -5111,7 +5260,8 @@
     "ID": 1007412825,
     "key": "89ac60e43ad71ea2beab6e0ab2e962b0eedbc3314f2d45bf28d2e75ffc1cddd9",
     "original": "When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachDisadvantage], reduce this disadvantage by 1 for every 300 current combined head and body armor durability you have.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Armor damage taken is reduced by a percentage equal to \" + getroottable().MSU.Text.colorPositive(\"5%\") + \" of the current total armor value of both body and head armor.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachDisadvantage], reduce this disadvantage by 1 for every 300 current combined head and body armor durability you have.\",\"Does not affect damage from mental attacks or status effects.\",\"Cannot be learned if you have [$ $|Perk+perk_nimble] or [$ $|Perk+perk_rf_poise].\"]"
   },
   {
     "ID": 1007412826,
@@ -5145,13 +5295,15 @@
     "ID": 1007412830,
     "key": "e4583fe836d21e408103dd299f29d40a765d54d32b852443cde80fc7d8c94229",
     "original": "When equipped with a net, gain the [$ $|Skill+rf_trip_artist_effect] effect.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Once per [turn|Concept.Turn], the first use of your offhand item weighing less than \" + getroottable().MSU.Text.colorNegative(10) + \" costs no [Action Points|Concept.ActionPoints].\",\"When equipped with a net, gain the [$ $|Skill+rf_trip_artist_effect] effect.\"]"
   },
   {
     "ID": 1007412831,
     "key": "4a63de01c80e2c49d99c3b1a800f632b5fef7072fb307231914c77db4ca23d3b",
     "original": "When inflicting an [injury|Concept.InjuryTemporary] with an attack, if you meet the [threshold|Concept.InjuryThreshold] for the lowest possible injury, instead inflict one with the highest [threshold|Concept.InjuryThreshold].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"When inflicting an [injury|Concept.InjuryTemporary] with an attack, if you meet the [threshold|Concept.InjuryThreshold] for the lowest possible injury, instead inflict one with the highest [threshold|Concept.InjuryThreshold].\",\"This [injury|Concept.InjuryTemporary] triggers at least one additional [morale check|Concept.Morale] on the target and can trigger up to \" + getroottable().MSU.Text.colorNegative(3) + \" [morale checks|Concept.Morale], one for every \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" of [Hitpoints|Concept.Hitpoints] damage dealt compared to remaining [Hitpoints|Concept.Hitpoints].\"]"
   },
   {
     "ID": 1007412832,
@@ -5185,7 +5337,8 @@
     "ID": 1007412836,
     "key": "06cc960bc58c4e4ef769ad5360336a81e94dc807921c47ae2c186734d2f74c27",
     "original": "When the number of adjacent allies is greater than or equal to the number of adjacent enemies, you may ignore [Zone of Control|Concept.ZoneOfControl] for your next movement action.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"When the number of adjacent allies is greater than or equal to the number of adjacent enemies, you may ignore [Zone of Control|Concept.ZoneOfControl] for your next movement action.\",\"When wielding a melee weapon with up to 4 [Reach|Concept.Reach] and ending your movement next to a [surrounded|Concept.Surrounding] enemy, the next attack against that enemy deals \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" more damage and \" + getroottable().MSU.Text.colorPositive(\"+20%\") + \" damage ignoring armor. This bonus expires upon taking any action other than an attack.\"]"
   },
   {
     "ID": 1007412837,
@@ -5227,7 +5380,8 @@
     "ID": 1007412842,
     "key": "0f212e022e6cd96fbb69bad4eb3b1d0dc6b000d1b68650168b2d46e4c7222b26",
     "original": "When using two-handed hammers gain the [$ $|Skill+rf_pummel_skill] skill.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"When using two-handed hammers gain the [$ $|Skill+rf_pummel_skill] skill.\"]"
   },
   {
     "ID": 1007412843,
@@ -5247,7 +5401,8 @@
     "ID": 1007412845,
     "key": "5297e7e2d3cb1dbd1308073bcf16a54fb2cc84753c5d411ea3699beca1f7d78d",
     "original": "When wielding a weapon with a [Reach|Concept.Reach] of less than 4, gain the difference in [Reach|Concept.Reach] up to 4.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"The first successful melee attack every [turn|Concept.Turn] against an adjacent target will apply the [$ $|Skill+staggered_effect] effect.\",\"When wielding a weapon with a [Reach|Concept.Reach] of less than 4, gain the difference in [Reach|Concept.Reach] up to 4.\"]"
   },
   {
     "ID": 1007412846,
@@ -5282,7 +5437,8 @@
     "ID": 1007412850,
     "key": "bc3ab6aac1e9713adc0daa54c6c7eeda4cc1811b9fcd5dca2d3a5629db54a788",
     "original": "While not [engaged in melee|Concept.ZoneOfControl], whenever you attack, hit or miss, trigger a Positive [Morale Check|Concept.Morale] for adjacent members of your company who are not [fleeing|Concept.Morale].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"While not [engaged in melee|Concept.ZoneOfControl], whenever you attack, hit or miss, trigger a Positive [Morale Check|Concept.Morale] for adjacent members of your company who are not [fleeing|Concept.Morale].\"]"
   },
   {
     "ID": 1007412851,
@@ -5359,19 +5515,22 @@
     "ID": 1007412861,
     "key": "68b45cf16454e2b08f0258e8c944a06d756c3f5e56aefcd31a0bae620cf6119f",
     "original": "You can [$ $|Skill+throw_net] one further tile away up to a maximum of 3 tiles.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"You can [$ $|Skill+throw_net] one further tile away up to a maximum of 3 tiles.\",\"Enemies [$ $|Skill+net_effect] by you at a distance of 2 or fewer tiles have a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" increased [Action Point|Concept.ActionPoints] cost for using the [$ $|Skill+break_free_skill] skill.\"]"
   },
   {
     "ID": 1007412862,
     "key": "92ded84869ca1876a225ce07294c6f3e09a6ab94e4622af87b638595a2123f18",
     "original": "You can only pick ONE perk from the Swordmaster perk group.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"You can only pick ONE perk from the Swordmaster perk group.\")"
   },
   {
     "ID": 1007412863,
     "key": "1ccb3e662ce560eddc01b301eb8b7e7c1ee25acedafd089b63fc0807e4a4f941",
     "original": "You cannot use or swap this [net|Item+throwing_net] until the target breaks free or dies. Attempts to break free are always successful.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"During your [turn|Concept.Turn], while holding a [net|Item+throwing_net], every successful melee attack against an adjacent target has a chance, equal to the hit chance, to [trap|Skill+net_effect] the target without expending the [net|Item+throwing_net].\",\"You cannot use or swap this [net|Item+throwing_net] until the target breaks free or dies. Attempts to break free are always successful.\",\"If you move away from the target, the target remains [trapped|Skill+net_effect] but you lose the [net|Item+throwing_net].\",\"Gain \" + getroottable().MSU.Text.colorPositive(\"+2\") + \" [Reach|Concept.Reach] while holding a [net|Item+throwing_net] and not currently [trapping|Skill+net_effect] a target.\"]"
   },
   {
     "ID": 1007412864,
@@ -5405,7 +5564,8 @@
     "ID": 1007412868,
     "key": "9aac0cf5e852a24b5adce14aaf96de3aea37c9d2f4c7b1db3fba23418e4483cb",
     "original": "You lose all stacks if you use [Wait|Concept.Wait].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Gain a stack whenever you end your [turn|Concept.Turn] without having used [Wait|Concept.Wait], up to a maximum of 3 stacks.\",\"[Resolve|Concept.Bravery] and [Initiative|Concept.Initiative] are both increased by \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" while you have at least 1 stack.\",\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" less [Fatigue|Concept.Fatigue] while you have at least 2 stacks.\",\"Deal \" + getroottable().MSU.Text.colorPositive(\"15%\") + \" more damage while you have 3 stacks.\",\"You lose all stacks if you use [Wait|Concept.Wait].\"]"
   },
   {
     "ID": 1007412869,
@@ -5418,7 +5578,8 @@
     "ID": 1007412870,
     "key": "726da0f2e6515085c7df1312e9ba820384b4a4aa50868e693f8a9b449955c404",
     "original": "You will use [$ $|Skill+shieldwall] for free as long as you start or end your [turn|Concept.Turn] adjacent to an ally who has the [$ $|Skill+shieldwall] skill available.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Allies with a shield will use [$ $|Skill+shieldwall] for free at the start of each battle.\",\"Allies within 2 tiles have the [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] costs of [$ $|Skill+shieldwall] halved. Cannot reduce the [Action Point|Concept.ActionPoints] cost below \" + getroottable().MSU.Text.colorNegative(2) + \".\",\"If you have the [$ $|Skill+shieldwall] skill available, any ally who starts or ends their [turn|Concept.Turn] adjacent to you will use [$ $|Skill+shieldwall] for free.\",\"You will use [$ $|Skill+shieldwall] for free as long as you start or end your [turn|Concept.Turn] adjacent to an ally who has the [$ $|Skill+shieldwall] skill available.\",\"Only members of your company are considered allies for the purposes of this [perk|Concept.Perk].\"]"
   },
   {
     "ID": 1007412871,
@@ -5522,7 +5683,8 @@
     "ID": 1007412885,
     "key": "90bc4c7958e433c5923b960a327e40a3c9f59e014eaffa5faa27dbf05908d990",
     "original": "[$ $|Perk+perk_brawny] does not affect this perk.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Damage to [Hitpoints|Concept.Hitpoints] is reduced by \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" and that to armor by \" + getroottable().MSU.Text.colorPositive(\"25%\") + \".\",\"The bonus drops exponentially when wearing head and body armor whose total penalty to [Maximum Fatigue|Concept.MaximumFatigue] exceeds 15 and is more than 15% of your [Base|Concept.BaseAttribute] [Maximum Fatigue|Concept.Fatigue] including the effects of [traits|Concept.Trait] and [permanent injuries|Concept.InjuryPermanent].\",\"Does not affect damage from mental attacks or status effects, but can help to avoid receiving them.\",\"When attacking a target against whom you have a [Reach Disadvantage|Concept.ReachAdvantage], reduce this disadvantage by \" + getroottable().MSU.Text.colorPositive(1) + \" if your [Initiative|Concept.Initiative] is greater than that of your target.\",\"[$ $|Perk+perk_brawny] does not affect this perk.\",\"Cannot be learned if you have [$ $|Perk+perk_rf_poise] or [$ $|Perk+perk_battle_forged].\"]"
   },
   {
     "ID": 1007412886,
@@ -5535,7 +5697,8 @@
     "ID": 1007412887,
     "key": "b7da32acf4afa2eb23281469bcfba9bf4dcce60da19c4c72eac9b42598202444",
     "original": "[$ $|Skill+disarm_skill] only has half the penalty to hit.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Gain the [$ $|Perk+perk_rf_bloodlust] perk.\",\"Attacks from cleavers apply an additional stack of [$ $|Skill+bleeding_effect].\",\"[$ $|Skill+disarm_skill] only has half the penalty to hit.\",\"[$ $|Skill+rf_gouge_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\",\"The [$ $|Item+rf_voulge] no longer has a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412888,
@@ -5562,7 +5725,8 @@
     "ID": 1007412891,
     "key": "bf7522f143b70ea01dadda7f36d4167292a1a96d5bd7acf58c4433b80b4cc983",
     "original": "[$ $|Skill+lash_skill] and [$ $|Skill+hail_skill] ignore the defense bonus granted by shields but not by [$ $|Skill+shieldwall_effect].",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+lash_skill] and [$ $|Skill+hail_skill] ignore the defense bonus granted by shields but not by [$ $|Skill+shieldwall_effect].\",\"Gain the [$ $|Perk+perk_rf_from_all_sides] perk.\",\"[$ $|Skill+pound] ignores an additional \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" of armor on head hits.\",\"[$ $|Skill+thresh] gains \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\",\"Poleflails no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412892,
@@ -5608,7 +5772,8 @@
     "ID": 1007412898,
     "key": "c4cde7712a0b371f4db793becbf959a4836d8714de947a880f6274fb0e0a5de8",
     "original": "[$ $|Skill+riposte] no longer has a penalty to hitchance.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+riposte] no longer has a penalty to hitchance.\",\"[$ $|Skill+gash_skill] has a \" + getroottable().MSU.Text.colorNegative(\"50%\") + \" lower [threshold|Concept.InjuryThreshold] to inflict [injuries|Concept.InjuryTemporary].\",\"[$ $|Skill+split] and [$ $|Skill+swing] no longer have a penalty to hitchance and gain \" + getroottable().MSU.Text.colorPositive(\"+5%\") + \" chance to hit.\"]"
   },
   {
     "ID": 1007412899,
@@ -5628,7 +5793,8 @@
     "ID": 1007412901,
     "key": "ef876a49cb5661e1670365220c09e6b8b1907d9509780554dd029344ec33957e",
     "original": "[$ $|Skill+spearwall] is no longer disabled once an opponent manages to overcome it. Instead, [$ $|Skill+spearwall] can still be used and continues to give free attacks on any further opponent attempting to enter the [Zone of Control|Concept.ZoneOfControl]",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"[$ $|Skill+spearwall] is no longer disabled once an opponent manages to overcome it. Instead, [$ $|Skill+spearwall] can still be used and continues to give free attacks on any further opponent attempting to enter the [Zone of Control|Concept.ZoneOfControl]\",\"When starting your [turn|Concept.Turn] with a spear equipped, the first piercing spear attack costs \" + getroottable().MSU.Text.colorPositive(\"no\") + \" [Action Points|Concept.ActionPoints] and builds \" + getroottable().MSU.Text.colorPositive(\"50%\") + \" less [Fatigue|Concept.Fatigue]. This expires upon moving from your position if using a two-handed spear, or moving more than 1 tile if using a one-handed spear.\",\"The [$ $|Item+spetum] and [$ $|Item+warfork] no longer have a penalty for attacking targets directly adjacent.\"]"
   },
   {
     "ID": 1007412902,
@@ -5641,7 +5807,8 @@
     "ID": 1007412903,
     "key": "cf93771efe03e0eece4e87562aa8d4822299e0d0ac0670cc9c56e70be5f25f1e",
     "original": "[$ $|Skill+stab], [$ $|Skill+puncture] and [$ $|Skill+deathblow_skill] have a reduced [Action Point|Concept.ActionPoints] cost to allow for an additional attack each turn.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"25%\") + \" less [Fatigue|Concept.Fatigue].\",\"Attacks from daggers against targets who act after you in the current [round|Concept.Round] ignore all of the target's [reach advantage|Concept.ReachAdvantage].\",\"[$ $|Skill+stab], [$ $|Skill+puncture] and [$ $|Skill+deathblow_skill] have a reduced [Action Point|Concept.ActionPoints] cost to allow for an additional attack each turn.\"]"
   },
   {
     "ID": 1007412904,
@@ -5703,7 +5870,8 @@
     "ID": 1007412912,
     "key": "6ad262e0cd2bd995d2b74a954d53602d0897ac9c38f27e673d70e20d972196e8",
     "original": "[Status effects|Concept.StatusEffect] that have their effects grow weaker over several [turns|Concept.Turn] (e.g. [$ $|Skill+goblin_poison_effect]) are at their weakest state from the start.",
-    "translation": ""
+    "translation": "",
+    "context": "Description = [\"Any negative [status effect|Concept.StatusEffect] with a finite duration (e.g. [$ $|Skill+disarmed_effect], [$ $|Skill+charmed_effect]) has its duration reduced to \" + getroottable().MSU.Text.colorPositive(1) + \" [turn|Concept.Turn].\",\"[Status effects|Concept.StatusEffect] that have their effects grow weaker over several [turns|Concept.Turn] (e.g. [$ $|Skill+goblin_poison_effect]) are at their weakest state from the start.\",\"The effects of [$ $|Skill+bleeding_effect] are \" + getroottable().MSU.Text.colorPositive(\"halved\") + \".\"]"
   },
   {
     "ID": 1007412913,
@@ -5724,19 +5892,22 @@
     "ID": 1007412915,
     "key": "a11ae06469c63740d7b0ecf802f282a0d46e94f31a654dfcd3c0dc6dc277f904",
     "original": "half",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"half\")"
   },
   {
     "ID": 1007412916,
     "key": "d804b7462c56f231e42d63b1861b9f14c16aa837022b25659bc85ebe8cbbfef2",
     "original": "halved",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"halved\")"
   },
   {
     "ID": 1007412917,
     "key": "9390298f3fb0c5b160498935d79cb139aef28e1c47358b4bbba61862b9c26e59",
     "original": "no",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorPositive(\"no\")"
   },
   {
     "ID": 1007412918,
@@ -5745,5 +5916,40 @@
     "translation": "很遥远",
     "stage": 1,
     "context": "getroottable().Const.Strings.Distance.5 = \"very far away\""
+  },
+  {
+    "ID": 1007668113,
+    "key": "2fd79a98dc2eeb0133914e3ac8c85a9eae5dac7a1b95d2ad86da4a0db044ce13",
+    "original": "The [$ $|Skill+rf_swordmaster_stance_reverse_grip_skill] stance which allows you to use your sword like a mace and grants the [$ $|Perk+perk_rf_concussive_strikes] [perk|Concept.Perk].",
+    "translation": "",
+    "context": "Description = [\"Unlocks three stances which can be switched to during combat for a small [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost to gain different effects that last as long as the stance is kept.\",\"The [$ $|Skill+rf_swordmaster_stance_half_swording_skill] stance which allows you to [$ $|Skill+puncture] your opponents.\",\"The [$ $|Skill+rf_swordmaster_stance_reverse_grip_skill] stance which allows you to use your sword like a mace and grants the [$ $|Perk+perk_rf_concussive_strikes] [perk|Concept.Perk].\",\"The [$ $|Skill+rf_swordmaster_stance_meisterhau_skill] stance which allows you to move and still benefit from [$ $|Perk+perk_rf_en_garde] and gain the ability to use the [$ $|Skill+rf_swordmaster_kick_skill], [$ $|Skill+rf_swordmaster_push_through_skill] and [$ $|Skill+rf_swordmaster_tackle_skill] skills.\"]"
+  },
+  {
+    "ID": 1007668114,
+    "key": "378901343548fecfe44d78e6c8606ee2d1e15d9f95aaf5cf87eb42c173e438e0",
+    "original": "The [$ $|Skill+rf_swordmaster_stance_half_swording_skill] stance which allows you to [$ $|Skill+puncture] your opponents.",
+    "translation": "",
+    "context": "Description = [\"Unlocks three stances which can be switched to during combat for a small [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost to gain different effects that last as long as the stance is kept.\",\"The [$ $|Skill+rf_swordmaster_stance_half_swording_skill] stance which allows you to [$ $|Skill+puncture] your opponents.\",\"The [$ $|Skill+rf_swordmaster_stance_reverse_grip_skill] stance which allows you to use your sword like a mace and grants the [$ $|Perk+perk_rf_concussive_strikes] [perk|Concept.Perk].\",\"The [$ $|Skill+rf_swordmaster_stance_meisterhau_skill] stance which allows you to move and still benefit from [$ $|Perk+perk_rf_en_garde] and gain the ability to use the [$ $|Skill+rf_swordmaster_kick_skill], [$ $|Skill+rf_swordmaster_push_through_skill] and [$ $|Skill+rf_swordmaster_tackle_skill] skills.\"]"
+  },
+  {
+    "ID": 1007668115,
+    "key": "3b1c337ed18b8594673c4bbceca0f2fabc259e2d7b74c8925c6718326b835755",
+    "original": ", without diminishing returns, against enemies in your [Zone of Control|Concept.ZoneOfControl] until they hit you. After being hit this effect expires, but is reset if the [Zone of Control|Concept.ZoneOfControl] is broken.",
+    "translation": "",
+    "context": "\"The bonus from each point of [Reach Advantage|Concept.ReachAdvantage] you have is increased by \" + getroottable().MSU.Text.colorPositive(\"+2\") + \", without diminishing returns, against enemies in your [Zone of Control|Concept.ZoneOfControl] until they hit you. After being hit this effect expires, but is reset if the [Zone of Control|Concept.ZoneOfControl] is broken.\""
+  },
+  {
+    "ID": 1007668116,
+    "key": "c781cfefcdc05e497756ee7261d05ef025c69c2518e3a2fc956445ac16231fca",
+    "original": "The [$ $|Skill+rf_swordmaster_stance_meisterhau_skill] stance which allows you to move and still benefit from [$ $|Perk+perk_rf_en_garde] and gain the ability to use the [$ $|Skill+rf_swordmaster_kick_skill], [$ $|Skill+rf_swordmaster_push_through_skill] and [$ $|Skill+rf_swordmaster_tackle_skill] skills.",
+    "translation": "",
+    "context": "Description = [\"Unlocks three stances which can be switched to during combat for a small [Action Point|Concept.ActionPoints] and [Fatigue|Concept.Fatigue] cost to gain different effects that last as long as the stance is kept.\",\"The [$ $|Skill+rf_swordmaster_stance_half_swording_skill] stance which allows you to [$ $|Skill+puncture] your opponents.\",\"The [$ $|Skill+rf_swordmaster_stance_reverse_grip_skill] stance which allows you to use your sword like a mace and grants the [$ $|Perk+perk_rf_concussive_strikes] [perk|Concept.Perk].\",\"The [$ $|Skill+rf_swordmaster_stance_meisterhau_skill] stance which allows you to move and still benefit from [$ $|Perk+perk_rf_en_garde] and gain the ability to use the [$ $|Skill+rf_swordmaster_kick_skill], [$ $|Skill+rf_swordmaster_push_through_skill] and [$ $|Skill+rf_swordmaster_tackle_skill] skills.\"]"
+  },
+  {
+    "ID": 1007668117,
+    "key": "dc41323cc94d58728e6b7837a6abdbc7b020a5942b3be3b7e89e5f729a52be9d",
+    "original": "The [Action Point|Concept.ActionPoints] cost of the first skill that costs [Action Points|Concept.ActionPoints] used every [turn|Concept.Turn] is ",
+    "translation": "",
+    "context": "\"The [Action Point|Concept.ActionPoints] cost of the first skill that costs [Action Points|Concept.ActionPoints] used every [turn|Concept.Turn] is \" + getroottable().MSU.Text.colorPositive(\"halved\") + \".\""
   }
 ]

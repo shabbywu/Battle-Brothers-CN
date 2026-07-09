@@ -27,7 +27,8 @@
     "ID": 1007425472,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
     "ID": 1007425473,
@@ -41,13 +42,15 @@
     "ID": 1007425474,
     "key": "71f974e09ec39a16c9f675e215afd0deac4c8c8b59100d731e463a4bc028a61a",
     "original": "Must be reloaded before firing again",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Must be reloaded before firing again\")"
   },
   {
     "ID": 1007425475,
     "key": "32bfe37345c2d37c5e4fcfb1570df7e479f143be351085d94779d73da77d400b",
     "original": "Needs a non-empty powder bag equipped",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Needs a non-empty powder bag equipped\")"
   },
   {
     "ID": 1007425476,

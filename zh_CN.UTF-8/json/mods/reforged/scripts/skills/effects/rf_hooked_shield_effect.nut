@@ -43,7 +43,8 @@
     "key": "5afcdd0dac6d0acf0c093428421a2564886cbd8d1b87a45c3ee9fc62cad24ed0",
     "original": "Removes [$ $|Skill+riposte_effect] and disables [$ $|Perk+perk_rf_rebuke]",
     "translation": "移除[$ $|Skill+riposte_effect]并禁用[$ $|Perk+perk_rf_rebuke]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes [$ $|Skill+riposte_effect] and disables [$ $|Perk+perk_rf_rebuke]\")"
   },
   {
     "ID": 1007441654,
@@ -57,7 +58,8 @@
     "ID": 1007441655,
     "key": "1c0bc5d337a1ae5d2f6c0dcdff2dac7a019a9f6f5e8643cc1538be3acff2203d",
     "original": "Will expire upon using any skill or starting a new [turn|Concept.Turn]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon using any skill or starting a new [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441656,

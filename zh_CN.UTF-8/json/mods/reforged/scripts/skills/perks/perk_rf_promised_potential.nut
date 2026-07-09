@@ -20,6 +20,7 @@
     "key": "85e68ef25ea165b4153b7ef5075bd66e7513cb2a0cecf499c6f3b76a94c1a558",
     "original": "Realized potential",
     "translation": "觉醒了潜力",
-    "stage": 1
+    "stage": 1,
+    "context": "actor.improveMood(1.0, \"Realized potential\")"
   }
 ]

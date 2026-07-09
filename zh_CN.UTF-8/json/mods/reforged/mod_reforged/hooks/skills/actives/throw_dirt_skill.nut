@@ -4,7 +4,8 @@
     "key": "e220d3fc7adde73e39e2bd4bbe83e3e38fff864afa59033b1ae0b769c6624acf",
     "original": "Applies the [$ $|Skill+distracted_effect] effect on the target",
     "translation": "对目标施加[$ $|Skill+distracted_effect]效果",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Applies the [$ $|Skill+distracted_effect] effect on the target\")"
   },
   {
     "ID": 1007433509,

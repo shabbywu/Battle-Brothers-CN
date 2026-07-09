@@ -76,7 +76,8 @@
     "key": "232dd1364c43cec90b8cfa8ab1654535dee989596af23b67cc21a83087f990c7",
     "original": "Move the target to the next position in the [turn|Concept.Turn] sequence",
     "translation": "将目标移动到[回合|Concept.Turn]行动序列的下一位",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Move the target to the next position in the [turn|Concept.Turn] sequence\")"
   },
   {
     "ID": 1007441195,

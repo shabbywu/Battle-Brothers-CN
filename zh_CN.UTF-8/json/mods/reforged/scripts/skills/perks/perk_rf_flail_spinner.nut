@@ -10,12 +10,14 @@
     "ID": 1007441881,
     "key": "c219d573686c078f75e9ad3facefc1d30d3ec56ae2cda4ba224bddcc43c133ae",
     "original": "[%s] is using skill [%s] on target [%s (%i)] due to %s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"[%s] is using skill [%s] on target [%s (%i)] due to %s\", _user.getName(), _skill.getName(), _targetEntity.getName(), _targetEntity.getID(), this.m.Name)"
   },
   {
     "ID": 1007441882,
     "key": "c68fef1abac63a8353831df2718519fee1c4c16d63ff13bc473a65be02fb60bf",
     "original": "weapon",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.isKindOf(weapon, \"weapon\")"
   }
 ]

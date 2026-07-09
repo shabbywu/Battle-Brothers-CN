@@ -4,14 +4,16 @@
     "key": "dee324d8400821ab21bbf23da339d30cdf14989666dca94facb5d8bcfdbaf5fc",
     "original": " with %s [Resolve|Concept.Bravery]",
     "translation": "按照%s点[决心值|Concept.Bravery]",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\" with %s [Resolve|Concept.Bravery]\", getroottable().MSU.Text.colorizeValue(this.m.Difficulty, {\n    AddSign = True\n}))"
   },
   {
     "ID": 1007441765,
     "key": "bfaeb1cfb284e05f9f9d101c0ce8eb6d028cee8c1d6760bfe5f4bb9f16a13cd3",
     "original": "Characters ending their [turn|Concept.Turn] adjacent to you receive a mental [morale check|Concept.Morale]%s",
     "translation": "所有角色接邻你结束[回合|Concept.Turn]时%s进行一次精神[士气检定|Concept.Morale]",
-    "stage": 1
+    "stage": 1,
+    "context": "this.format(\"Characters ending their [turn|Concept.Turn] adjacent to you receive a mental [morale check|Concept.Morale]%s\", difficultyText)"
   },
   {
     "ID": 1007441766,

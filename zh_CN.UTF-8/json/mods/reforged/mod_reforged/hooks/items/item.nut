@@ -3,13 +3,15 @@
     "ID": 1007421137,
     "key": "224b5f4f9c810b992072abe366cbcfdf553c26dda7f088329ffb6c18f8fed222",
     "original": " (%s, %s)",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\" (%s, %s)\", getroottable().MSU.Text.colorPositive(skill.m.ActionPointCost), getroottable().MSU.Text.colorNegative(skill.m.FatigueCost))"
   },
   {
     "ID": 1007421138,
     "key": "fa7f25ef4da44b8c0df1b5d9f60abca9d53447898ab19c06058c8d63dd9a273b",
     "original": "- [%s|%s+%s,itemId:%s,entityId:default]%s\n",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"- [%s|%s+%s,itemId:%s,entityId:default]%s\n\", skill.getName(), identifier, getroottable().IO.scriptFilenameByHash(skill.ClassNameHash), itemID, suffix)"
   },
   {
     "ID": 1007421139,
@@ -23,7 +25,8 @@
     "ID": 1007421140,
     "key": "c83bec1f02849a09edc642f2d4226774435f1233abc8b85f7d559ba9d022f570",
     "original": "Fatigue",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Fatigue\")"
   },
   {
     "ID": 1007421141,
@@ -43,20 +46,22 @@
     "ID": 1007421143,
     "key": "864e4d4b004cd5cd3581347f21e35d9b20f252b979b68fafab46822ad9d60886",
     "original": "Skills: (%s, %s)\n%s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"Skills: (%s, %s)\n%s\", getroottable().MSU.Text.colorPositive(\"AP\"), getroottable().MSU.Text.colorNegative(\"Fatigue\"), skillsString)"
   },
   {
     "ID": 1007421144,
     "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
     "original": "State",
     "translation": "",
-    "context": "\"State\" && !getroottable().MSU.isNull(getroottable().World.State)"
+    "context": "this.isItemType(getroottable().Const.Items.ItemType.Crafting) && \"State\" && !getroottable().MSU.isNull(getroottable().World.State)"
   },
   {
     "ID": 1007421145,
     "key": "ab845e2e0d034502a2765ff033a17fed792899969900d9e6b09afede690ae8a8",
     "original": "[%s|Item+%s]",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"[%s|Item+%s]\", _b.getName(), _b.m.PreviewCraftable.ClassName)"
   },
   {
     "ID": 1007421146,

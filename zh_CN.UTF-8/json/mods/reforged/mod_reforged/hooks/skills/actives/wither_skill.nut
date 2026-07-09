@@ -12,7 +12,8 @@
     "key": "4fb232ca40e99a1024c853b0f149332ad2c87e1d46cc5828cc11dd8dd18258f5",
     "original": "The target becomes [$ $|Skill+withered_effect]",
     "translation": "使目标[$ $|Skill+withered_effect]",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target becomes [$ $|Skill+withered_effect]\")"
   },
   {
     "ID": 1007434606,

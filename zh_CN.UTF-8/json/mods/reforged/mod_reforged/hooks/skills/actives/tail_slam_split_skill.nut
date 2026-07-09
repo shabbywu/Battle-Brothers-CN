@@ -20,7 +20,8 @@
     "key": "51206a2244c91c5998009a33c2fa5830407e67ea7505f86945571dd906e09d74",
     "original": "Will randomly either [daze|Skill+dazed_effect] or [stun|Skill+stunned_effect] the target",
     "translation": "随机[茫然|Skill+dazed_effect]或[击晕|Skill+stunned_effect]目标",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will randomly either [daze|Skill+dazed_effect] or [stun|Skill+stunned_effect] the target\")"
   },
   {
     "ID": 1007433219,

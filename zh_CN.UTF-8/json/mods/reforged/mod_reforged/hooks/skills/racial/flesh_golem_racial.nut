@@ -3,7 +3,8 @@
     "ID": 1007438505,
     "key": "6185a20cc256b81ed125a5d9dcff76788e184784ad13c6d8af6cf3cc36e318f6",
     "original": " [Action Points|Concept.ActionPoints] per tile",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\" [Action Points|Concept.ActionPoints] per tile\")"
   },
   {
     "ID": 1007438506,

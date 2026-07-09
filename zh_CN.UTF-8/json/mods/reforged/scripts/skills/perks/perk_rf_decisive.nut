@@ -42,7 +42,8 @@
     "key": "d5fc96dd1efad9552487035f19adda21219d8e68ce31f8e9e488c6e7d489d4fd",
     "original": "All stacks are lost when using [Wait|Concept.Wait]",
     "translation": "会在[等待|Concept.Wait]时失去所有层数",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"All stacks are lost when using [Wait|Concept.Wait]\")"
   },
   {
     "ID": 1007441838,

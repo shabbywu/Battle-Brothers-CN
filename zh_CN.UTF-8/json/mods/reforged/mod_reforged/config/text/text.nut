@@ -4,7 +4,7 @@
     "key": "e3ee915a8e8c7aa02d2fced443314522b20824abd2535d5959c41dc8ab8a09e4",
     "original": " and ",
     "translation": "",
-    "context": "ret + n &lt; 100 ? \" and \" : \" \""
+    "context": "str + \" and \""
   },
   {
     "ID": 1007411445,
@@ -135,61 +135,71 @@
     "ID": 1007411461,
     "key": "c195d2d8756234367242ba7616c5c60369bc25ced2dcb5b92808d31b58ef217a",
     "original": "eight",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411462,
     "key": "34357b18abddea1874221b1f062f80fe3e11b6abd11fe80b171738893003b24c",
     "original": "eighteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411463,
     "key": "0dbc3407a7080e3d39871b66208636c038ed9ffbd082421b6ad6b80b22f447f1",
     "original": "eighty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411464,
     "key": "e979074ebd5633a7263aa48c4b7dea055a769115fbc0a7de459f8a74cd2efd2b",
     "original": "eleven",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411465,
     "key": "c463967e5708cab7f980855e14042ddbcfd1c3556d520ad4dacdfb4a115c67a5",
     "original": "fifteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411466,
     "key": "f8d807ee15e983f8d185132ffb0e55d3075b220891aff58845e55a158c842798",
     "original": "fifty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411467,
     "key": "222b0bd51fcef7e65c2e62db2ed65457013bab56be6fafeb19ee11d453153c80",
     "original": "five",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411468,
     "key": "9cee2304bd633d42c35db17c1427a273668bd3166487f924216d807a566a8e73",
     "original": "forty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411469,
     "key": "04efaf080f5a3e74e1c29d1ca6a48569382cbbcd324e8d59d2b83ef21c039f00",
     "original": "four",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411470,
     "key": "fef8f41cdcd2038663b027a0cfbe252d39510bc162b599d1d4aa683873cc21d7",
     "original": "fourteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411471,
@@ -211,43 +221,50 @@
     "ID": 1007411473,
     "key": "edcd8e701a2df0cd66a39bae6aa156cf16fe2b9653ef65f7d31742e2352421e4",
     "original": "nine",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411474,
     "key": "cde4e100efd26f5b02fb484e30db927732ca192f1cd9975186510adec82b5c61",
     "original": "nineteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411475,
     "key": "521c74a4d5824aba60ce4abaf48f951b11836b548de2f7f72af3bac37e70fc47",
     "original": "ninety",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411476,
     "key": "7692c3ad3540bb803c020b3aee66cd8887123234ea0c6e7143c0add73ff431ed",
     "original": "one",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411477,
     "key": "3ba8d02b16fd2a01c1a8ba1a1f036d7ce386ed953696fa57331c2ac48a80b255",
     "original": "seven",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411478,
     "key": "2c5abdef2a0eacb49f5115991a9331e8f78c5a15f986426815fd9486b5230628",
     "original": "seventeen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411479,
     "key": "ab0e4b1a7839571e0278fdb4c49d6ea632bc9df91968af197d539b2df976d4f9",
     "original": "seventy",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411480,
@@ -269,43 +286,50 @@
     "ID": 1007411482,
     "key": "44778d82365e4af681c40d5f0eef5cf6f5899d3f0ac335050a7ed6779cf3f674",
     "original": "six",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411483,
     "key": "f2ce341fdaa67727bbdc88e3f7f19dc539943e346f6c2bac497fa1c89c0ca128",
     "original": "sixteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411484,
     "key": "df41164e151227b31ca29bb188c936923a0afb26d9bd0a8e4ec6d05d4815c991",
     "original": "sixty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411485,
     "key": "e4432baa90819aaef51d2a7f8e148bf7e679610f3173752fabb4dcb2d0f418d3",
     "original": "ten",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411486,
     "key": "9ecc81f0a4b6dfb0c30e78370c42a1e0c118d2b426ec4dd1ee06c9f62a832040",
     "original": "thirteen",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411487,
     "key": "aca5fb59db69e5dffeda36ff0bd65205f16720b7fa1893c4557e9216dfc276d5",
     "original": "thirty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411488,
     "key": "8b5b9db0c13db24256c829aa364aa90c6d2eba318b9232a4ab9313b954d3555f",
     "original": "three",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411489,
@@ -319,19 +343,22 @@
     "ID": 1007411490,
     "key": "d1a749ad879b6c07e1f356b260ba81f9cb5b4376072280c9994a5c125165b701",
     "original": "twelve",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411491,
     "key": "7c2c4df740f720b0c861920dc27692c4d4b5daa65d6330a593c931d35f8ac737",
     "original": "twenty",
-    "translation": ""
+    "translation": "",
+    "context": "local tens = [\"\",\"\",\"twenty\",\"thirty\",\"forty\",\"fifty\",\"sixty\",\"seventy\",\"eighty\",\"ninety\"]"
   },
   {
     "ID": 1007411492,
     "key": "3fc4ccfe745870e2c0d99f71f30ff0656c8dedd41cc1d7d3d376b0dbe685e2f3",
     "original": "two",
-    "translation": ""
+    "translation": "",
+    "context": "local units = [\"\",\"one\",\"two\",\"three\",\"four\",\"five\",\"six\",\"seven\",\"eight\",\"nine\",\"ten\",\"eleven\",\"twelve\",\"thirteen\",\"fourteen\",\"fifteen\",\"sixteen\",\"seventeen\",\"eighteen\",\"nineteen\"]"
   },
   {
     "ID": 1007411493,

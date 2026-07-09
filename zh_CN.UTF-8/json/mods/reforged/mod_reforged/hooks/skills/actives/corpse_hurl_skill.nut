@@ -20,7 +20,8 @@
     "key": "4f0264a40cdb144fe5c3f60a0c7f266f0fc14fdbf2eeed9363a6cdebf750812b",
     "original": "Throw a decayed mass at a target tile, dealing damage on impact to all adjacent characters and leaving behind a corpse at the target location.",
     "translation": "向目标地格投出一具尸体，对所有相邻角色造成伤害。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Throw a decayed mass at a target tile, dealing damage on impact to all adjacent characters and leaving behind a corpse at the target location.\")"
   },
   {
     "ID": 1007424891,

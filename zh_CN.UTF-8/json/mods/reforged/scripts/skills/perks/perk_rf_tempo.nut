@@ -28,7 +28,7 @@
     "key": "479c4f18435ce10c7216c207fc082192cfa2d85248bc035a7d275cfda8715d5c",
     "original": " [Fatigue|Concept.Fatigue]",
     "translation": "",
-    "context": "startString + \" build up \" + getroottable().MSU.Text.colorizeMultWithText(this.m.FatBonusThisTurn, {\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue]\""
+    "context": "startString + \" build up \" + getroottable().MSU.Text.colorizeMultWithText(this.getFatigueCostMultMult(), {\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue]\""
   },
   {
     "ID": 1007442007,
@@ -52,7 +52,7 @@
     "original": " build up ",
     "translation": "积累的[疲劳|Concept.Fatigue]",
     "stage": 1,
-    "context": "startString + \" build up \" + getroottable().MSU.Text.colorizeMultWithText(this.m.FatBonusThisTurn, {\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue]\""
+    "context": "startString + \" build up \" + getroottable().MSU.Text.colorizeMultWithText(this.getFatigueCostMultMult(), {\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue]\""
   },
   {
     "ID": 1007442010,
@@ -67,14 +67,16 @@
     "key": "1c651ead30197556e72de80a71d75c6b7386dddac39c352c3fdf77daec6b020d",
     "original": "In the next [turn|Concept.Turn]:",
     "translation": "下[回合|Concept.Turn]中：",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"In the next [turn|Concept.Turn]:\")"
   },
   {
     "ID": 1007442012,
     "key": "5202b460858cfe91965e5cfc26bb8b9d53e6e90024a83668e87010999d595aeb",
     "original": "The [Initiative|Concept.Initiative] bonus has been carried over from the previous [turn|Concept.Turn] and will expire after using a skill or upon [waiting|Concept.Wait] or ending this [turn|Concept.Turn]",
     "translation": "从上[回合中|Concept.Turn]继承的[主动值|Concept.Initiative]会在使用技能、[等待|Concept.Wait]或是结束[回合|Concept.Turn]后失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The [Initiative|Concept.Initiative] bonus has been carried over from the previous [turn|Concept.Turn] and will expire after using a skill or upon [waiting|Concept.Wait] or ending this [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007442013,

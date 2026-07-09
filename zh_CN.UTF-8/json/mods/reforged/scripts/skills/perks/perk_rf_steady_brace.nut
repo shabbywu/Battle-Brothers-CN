@@ -42,6 +42,7 @@
     "key": "339035a8c73d9749e886659bc4b1b05064cd5765fbb663a7b9bee8e35361da3b",
     "original": "Will expire upon moving or swapping any item",
     "translation": "会在移动或切换物品时失效",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon moving or swapping any item\")"
   }
 ]

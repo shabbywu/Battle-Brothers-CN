@@ -12,7 +12,8 @@
     "key": "e5b9a6b8d3957fed56876ceebf1573bae545838e81985a729c6a82909342c11f",
     "original": "Kills the target",
     "translation": "杀死目标",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Kills the target\")"
   },
   {
     "ID": 1007428951,

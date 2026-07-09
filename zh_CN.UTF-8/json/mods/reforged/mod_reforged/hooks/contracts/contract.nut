@@ -117,7 +117,7 @@
     "key": "6fac39e2845bb81253124d4d6b5e8c475020dac1851c68cd92129432e9e7de92",
     "original": "Characters",
     "translation": "",
-    "context": "\"Characters\" && this.m.ActiveScreen.Characters.len() &gt; _index"
+    "context": "!\"Characters\" || !this.m.ActiveScreen.Characters.len() && !\"Banner\" || _index == 0 && \"ShowEmployer\" && this.m.ActiveScreen.ShowEmployer && _index != 0 && \"Destination\" && this.m.Destination != null && !this.m.Destination.isNull() && this.m.Destination.isLocation() && this.m.Destination.isLocationType(getroottable().Const.World.LocationType.Settlement) && this.m.Destination.isDiscovered()"
   },
   {
     "ID": 1007413161,

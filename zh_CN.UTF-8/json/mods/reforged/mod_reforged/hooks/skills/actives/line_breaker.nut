@@ -12,7 +12,8 @@
     "key": "c49a0633123619bc43ef1f6e3060b8f2758836b71359fe7e6fcf7970bad457ce",
     "original": "Cannot be used while [rooted|Concept.Rooted]",
     "translation": "被[定身|Concept.Rooted]时无法使用",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while [rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007429808,

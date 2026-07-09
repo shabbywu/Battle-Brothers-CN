@@ -56,24 +56,28 @@
     "ID": 1007441848,
     "key": "82077fac5910da50c4c980c9591231d56ff3274e9f2056b5283e514c090cc262",
     "original": "Will expire upon attacking another target, moving, swapping an item, [waiting|Concept.Wait] or ending a [turn|Concept.Turn], or using any skill except a cutting attack",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Will expire upon attacking another target, moving, swapping an item, [waiting|Concept.Wait] or ending a [turn|Concept.Turn], or using any skill except a cutting attack\")"
   },
   {
     "ID": 1007441849,
     "key": "77f9dc3ecaa6897d918d1fd6e9274c6cc09f6753a6ef389754702b5469a4ead6",
     "original": "cutting",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorDamage(\"cutting\")"
   },
   {
     "ID": 1007441850,
     "key": "e5ff8d2b6809d8105d3c75b2f8c4a77d4c73d39e11fddc02605720a13168de48",
     "original": "higher",
-    "translation": ""
+    "translation": "",
+    "context": "Text = [\"higher\",\"lower\"]"
   },
   {
     "ID": 1007441851,
     "key": "8c6fb1e9e37a1aea1d308c785192e1a17d71cef08c7f50a68d2e0ab292b2e7f4",
     "original": "lower",
-    "translation": ""
+    "translation": "",
+    "context": "Text = [\"higher\",\"lower\"]"
   }
 ]

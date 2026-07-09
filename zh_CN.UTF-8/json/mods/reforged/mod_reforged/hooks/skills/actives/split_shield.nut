@@ -77,7 +77,7 @@
     "original": "Inflicts ",
     "translation": "对目标施加",
     "stage": 1,
-    "context": "\"Inflicts \" + getroottable().MSU.Text.colorDamage(this.RF_getFatigueDamage()) + \" [Fatigue|Concept.Fatigue] on the target\""
+    "context": "\"Inflicts \" + getroottable().MSU.Text.colorDamage(this.getContainer().getActor().getMainhandItem().getShieldDamage()) + \" damage to shields\""
   },
   {
     "ID": 1007432771,

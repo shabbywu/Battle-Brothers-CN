@@ -163,19 +163,22 @@
     "ID": 1007440211,
     "key": "a45ea8c856466dd7550a05404673289ea5e57c6a604b18f7bc64403d8506683f",
     "original": "See also: Morale.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().String.replace(entry.text, \"See also: Morale.\", getroottable().Reforged.Mod.Tooltips.parseString(\"See also: [Morale|Concept.Morale].\"))"
   },
   {
     "ID": 1007440212,
     "key": "202c77b1d1163f88714b142f80e0ff1e79325316abc072028a344cd0a222f024",
     "original": "See also: [Morale|Concept.Morale].",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"See also: [Morale|Concept.Morale].\")"
   },
   {
     "ID": 1007440213,
     "key": "d26330881f3fe477c422c256f6e31d819c6358ec87cc52cbbb456e83feccfdb6",
     "original": "Will be [attacked on movement|Concept.ZoneOfControl] by:",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will be [attacked on movement|Concept.ZoneOfControl] by:\")"
   },
   {
     "ID": 1007440214,
@@ -187,20 +190,22 @@
     "ID": 1007440215,
     "key": "ac0bc6a4a2d5b6a3c17aeff1846c78571266cfbf06e190d883565d28ffb7c48b",
     "original": "[Ignore when attacking|Concept.ReachIgnoreOffensive]: ",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"[Ignore when attacking|Concept.ReachIgnoreOffensive]: \")"
   },
   {
     "ID": 1007440216,
     "key": "2eab8c17527ddf2da2b9f43fd44f93817c44eaaecf1ef3d8b7d5e1fec4ba73f9",
     "original": "[Ignore when defending|Concept.ReachIgnoreDefensive]: ",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"[Ignore when defending|Concept.ReachIgnoreDefensive]: \")"
   },
   {
     "ID": 1007440217,
     "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
     "original": "description",
     "translation": "",
-    "context": "type = \"description\""
+    "context": "entry.id == 2 && entry.type == \"description\""
   },
   {
     "ID": 1007440218,
@@ -220,13 +225,15 @@
     "ID": 1007440220,
     "key": "33753333ea39997a0cef442b28525be9097b74e97399acfeed270515af3b1876",
     "original": "gain perk points every %s",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"gain perk points every %s\", getroottable().Reforged.Config.VeteranPerksLevelStep == 1 ? \"level\" : getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\")"
   },
   {
     "ID": 1007440221,
     "key": "0081779c287d567d9ca622f4c0cc2ede819b0cc7f286a5f01d8c3c0178191ad6",
     "original": "level",
-    "translation": ""
+    "translation": "",
+    "context": "this.format(\"gain perk points every %s\", getroottable().Reforged.Config.VeteranPerksLevelStep == 1 ? \"level\" : getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\")"
   },
   {
     "ID": 1007440222,
@@ -241,7 +248,7 @@
     "original": "smoke",
     "translation": "smoke",
     "stage": 1,
-    "context": "!entity.getCurrentProperties().IsImmuneToZoneOfControl && destTile.Properties.Effect == null || destTile.Properties.Effect.Type != \"smoke\""
+    "context": "_entity.getTile().Properties.Effect == null || _entity.getTile().Properties.Effect.Type != \"smoke\""
   },
   {
     "ID": 1007440224,
@@ -276,5 +283,12 @@
     "key": "53f03225ce09c219775d1e1d67c24cb3587d4da0a07d7198da6f206b4db2cc1c",
     "original": "to hit",
     "translation": ""
+  },
+  {
+    "ID": 1007668125,
+    "key": "d8fa0a6e02b0562e695d2bd1a6fbd0fe83c15ea437eee6f55c612f2b8ec47f02",
+    "original": "Will be attacked on arrival by: ",
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Will be attacked on arrival by: \")"
   }
 ]

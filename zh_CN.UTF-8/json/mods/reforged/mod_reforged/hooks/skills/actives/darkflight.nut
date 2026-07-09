@@ -20,7 +20,8 @@
     "key": "3766bdcf4f449c8634c2bd0a4b6cf2b1b787b3d2754ed5d88c2868860a1007e0",
     "original": "Transform into a swarm of bats to quickly navigate the field of battle ignoring [Zone of Control|Concept.ZoneOfControl].",
     "translation": "化为一群蝙蝠，无视[控制区域|Concept.ZoneOfControl]，快速穿过战场",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Transform into a swarm of bats to quickly navigate the field of battle ignoring [Zone of Control|Concept.ZoneOfControl].\")"
   },
   {
     "ID": 1007425180,

@@ -43,13 +43,15 @@
     "ID": 1007441163,
     "key": "406dd5fe153bd8adad3af4c9c995b7a474c8287354d4789c9bf90b0007e236bb",
     "original": "Does not affect allies who are [fleeing|Concept.Morale], [$ $|Skill+stunned_effect], or [$ $|Skill+sleeping_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Does not affect allies who are [fleeing|Concept.Morale], [$ $|Skill+stunned_effect], or [$ $|Skill+sleeping_effect]\")"
   },
   {
     "ID": 1007441164,
     "key": "7f4f4dac48139e6c5c45cf3a21e099cc0268660a48c3ab4e26f8148da24a8f08",
     "original": "Has already been used by the company this day",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().MSU.Text.colorNegative(\"Has already been used by the company this day\")"
   },
   {
     "ID": 1007441165,

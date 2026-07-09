@@ -27,19 +27,22 @@
     "ID": 1007426056,
     "key": "7c23b27e61c4f6e5518886394ad6d49cfb7502c79aaaed4be01130bfdbfbb32b",
     "original": "The target is flung backwards and receives damage upon landing",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target is flung backwards and receives damage upon landing\")"
   },
   {
     "ID": 1007426057,
     "key": "c3416ae044fe1dc9d3fdd58cbc4dd8c5ff8c04f9f6526e5ffe28e9c22e287dab",
     "original": "The target loses effects such as [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target loses effects such as [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect]\")"
   },
   {
     "ID": 1007426058,
     "key": "ecef0c355378207543ae2609c3ddc36b1b36a3c65482db5bbc765330db2c068c",
     "original": "You move into the target tile ignoring [Zone of Control|Concept.ZoneOfControl]",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"You move into the target tile ignoring [Zone of Control|Concept.ZoneOfControl]\")"
   },
   {
     "ID": 1007426059,

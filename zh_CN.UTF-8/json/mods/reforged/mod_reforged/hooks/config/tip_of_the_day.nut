@@ -172,7 +172,8 @@
     "key": "55da2f3ea532b226f010543bd3192fa1aa967fbf4b6ca01a23718b1ef713f8b5",
     "original": "If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.",
     "translation": "如果你看到彩色色块，请不要保存游戏，否则可能导致存档损坏。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412944,
@@ -200,14 +201,16 @@
     "key": "ac10c22ff295dd08850d6d944d26b497a4d54a3b18f07a11ef81cf481353bf72",
     "original": "Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.",
     "translation": "身边的敌人会提高士气检定难度，盟友则会降低检定难度。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412948,
     "key": "21b0bfbf738a3ac4a7f5bcbc4909b4ce83683e0ec8ef16b06685b6842a743023",
     "original": "Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.",
     "translation": "非玩家控制角色永远不会用光弓、弩和火铳的弹药。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412949,
@@ -221,27 +224,31 @@
     "key": "1d1a52c22246772aac3bba8b0789552c818a0708a44559d56a0f93e5ce316ea3",
     "original": "Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.",
     "translation": "点击活跃的合同会把你聚焦到地图上的任务目标，未知位置除外。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412951,
     "key": "9962b19204202eefb03cce0200d2843fd51e02e29b9f29232610dc59096963af",
     "original": "Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.",
-    "translation": ""
+    "translation": "",
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412952,
     "key": "73434cdc63cdfdf7950d66151f061511449f434427cf598c7ebe4ec53209d897",
     "original": "Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.",
     "translation": "重铸：杀敌经验按照造成伤害的份额分配。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412953,
     "key": "b2a7814d1764e1b4c970a5946ba7565298493c9dd9df6735d2236819cbe923d4",
     "original": "Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.",
     "translation": "重铸：游玩常规起源时，执誓者兄弟会定期宣誓新的誓言。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412954,
@@ -256,35 +263,40 @@
     "key": "8242d29ddca4a1dee19f2a11e1df0f24aaf8f7d29932296620f167dcf1f4a416",
     "original": "Reforged: Tavern rumors will never be about legendary locations you have already discovered.",
     "translation": "重铸：酒馆流言不会提到已经发现过的传说地点。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412956,
     "key": "e33fc50f59b3ac0cccd61ead538d4e11cde329e1bd0ea88708d29a36da99eb8c",
     "original": "Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.",
     "translation": "重铸：亡灵会受到某些特定的创伤，但要对它们造成创伤则相对困难。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412957,
     "key": "31d7dc70dd16aba4e49dcfd0214d2d5149a9a4cb31d05ebc33ff077ceb3de924",
     "original": "Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.",
     "translation": "重铸：你的角色装备的武器就算损坏了也会掉落，你可以在战后修复它们。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412958,
     "key": "9b8545afa8cb38598ed68a653eb872a94886dfd6fed3ce58c73acec20d85333f",
     "original": "Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.",
     "translation": "重铸：护送商队任务当中，你可以在两格距离上而非临近时才能进入城镇。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412959,
     "key": "6151cb514a8fb649e2c51ebc1aab602b5aee681099ddc9754088bf1090fd75b2",
     "original": "Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.",
     "translation": "重铸：你可以在模组选项中定制你角色和敌人的提示栏。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412960,
@@ -354,7 +366,8 @@
     "key": "54b76dd9d71fe5f66340ad6eda294972163b8db2f9b3b9eae2280cb50d9a3fae",
     "original": "The Mod Options have a lot of customizations regarding quality of life.",
     "translation": "模组选项当中有很多可以改善游戏体验的自定义内容。",
-    "stage": 1
+    "stage": 1,
+    "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
     "ID": 1007412970,
