@@ -1,8 +1,10 @@
 [
   {
+    "ID": 1007441085,
     "key": "f826baa05bef6921a165d323c4dcd7c60d9ec8a3e443482e8ee26f9933bf8340",
     "original": "Soldier",
-    "translation": "",
+    "translation": "士兵",
+    "stage": 1,
     "context": "this.m.Name = \"Soldier\""
   }
 ]

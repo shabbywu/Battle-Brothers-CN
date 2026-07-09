@@ -1,11 +1,14 @@
 [
   {
+    "ID": 1007439655,
     "key": "2c87f062d12730722fe38d2ebedf2c033f2d7e8f245c16b7666d0a942fb3a9e5",
     "original": " [Reach|Concept.Reach]",
-    "translation": "",
+    "translation": "[触及距离|Concept.Reach]",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorPositive(\"+1\") + \" [Reach|Concept.Reach]\""
   },
   {
+    "ID": 1007439656,
     "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
     "original": "text",
     "translation": "",

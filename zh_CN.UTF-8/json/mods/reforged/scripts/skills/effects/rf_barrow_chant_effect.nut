@@ -1,44 +1,56 @@
 [
   {
+    "ID": 1007441512,
     "key": "7638b833d6497d562e1e46dc8c33941bbd5d32729bda62476dc0fc78c5bf7aef",
     "original": " chance to become [$ $|Skill+rf_draugr_restless_effect]",
-    "translation": "",
+    "translation": "概率变得[$ $|Skill+rf_draugr_restless_effect]",
+    "stage": 1,
     "context": "\"Upon your death each allied Barrowkin has an individual \" + getroottable().MSU.Text.colorizeValue(this.m.RestlessnessChance, {\n    AddPercent = True\n}) + \" chance to become [$ $|Skill+rf_draugr_restless_effect]\""
   },
   {
+    "ID": 1007441513,
     "key": "f9590b20ccbaf0a2340a57bbfc22af89ff1107d3a8c9585f8f64c3f944704bcb",
     "original": " damage for each morale state below [Confident|Concept.Morale]",
     "translation": "",
     "context": "\"Affected enemies deal \" + getroottable().MSU.Text.colorizeMultWithText(1.0 + debuff.m.DamageMultPerMoraleStateAdd) + \" damage for each morale state below [Confident|Concept.Morale]\""
   },
   {
+    "ID": 1007441514,
     "key": "bc4a91e93491986370bbc45f373e42bf44cdfc6c2c3dbf515e6785290b225d11",
     "original": "A low dreadful chant that appeases the dead but drags at the spirit of the living, choking off any surge of confidence.",
-    "translation": "",
+    "translation": "一阵低沉而骇人的吟唱，安抚亡者，却不断消磨生者的精神，扼杀自信的萌发。",
+    "stage": 1,
     "context": "this.m.Description = \"A low dreadful chant that appeases the dead but drags at the spirit of the living, choking off any surge of confidence.\""
   },
   {
+    "ID": 1007441515,
     "key": "ac4c2dabed95b9aad086abbbbc25abc56aa46aa2f87f6873d5037bbe16bdc929",
     "original": "Affected enemies deal ",
-    "translation": "",
+    "translation": "受影响的敌人士气每低于[自信|Concept.Morale]一级，造成的伤害",
+    "stage": 1,
     "context": "\"Affected enemies deal \" + getroottable().MSU.Text.colorizeMultWithText(1.0 + debuff.m.DamageMultPerMoraleStateAdd) + \" damage for each morale state below [Confident|Concept.Morale]\""
   },
   {
+    "ID": 1007441516,
     "key": "d24d2ecde80958ea904f73903709b291c2d88ca7e7b08ced16f512bc15ced415",
     "original": "Barrow Chant",
-    "translation": "",
+    "translation": "墓穴挽歌",
+    "stage": 1,
     "context": "this.m.Name = \"Barrow Chant\""
   },
   {
+    "ID": 1007441517,
     "key": "03197a63181a592e9c81db08d2da021694c8f7c359dcb8645d0ce0713efbb457",
     "original": "Enemies on the battlefield cannot be [Confident|Concept.Morale]",
-    "translation": "",
-    "context": ""
+    "translation": "战场上的敌人不能达到[自信士气|Concept.Morale]",
+    "stage": 1
   },
   {
+    "ID": 1007441518,
     "key": "e4f74d8dbf9703315fff50be28d9628636aaac3287c42127aa79a93cbcab5031",
     "original": "Upon your death each allied Barrowkin has an individual ",
-    "translation": "",
+    "translation": "当你死亡时，每个墓穴族盟友有独立的",
+    "stage": 1,
     "context": "\"Upon your death each allied Barrowkin has an individual \" + getroottable().MSU.Text.colorizeValue(this.m.RestlessnessChance, {\n    AddPercent = True\n}) + \" chance to become [$ $|Skill+rf_draugr_restless_effect]\""
   }
 ]

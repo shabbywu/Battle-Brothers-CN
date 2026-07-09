@@ -1,29 +1,38 @@
 [
   {
+    "ID": 1007411512,
     "key": "954f97238b5afd7a2ef523891d4e294e24048464d4d086db19be44b9a5bda759",
     "original": "Caravan",
-    "translation": "",
+    "translation": "车队",
+    "stage": 1,
     "context": "ID = \"Caravan\""
   },
   {
+    "ID": 1007411513,
     "key": "4e6e45441ef35e2a19918c71b1ab7046a49af4fb3abff694b43525bb63652d50",
     "original": "Cultists",
-    "translation": "",
+    "translation": "邪教徒",
+    "stage": 1,
     "context": "ID = \"Cultists\""
   },
   {
+    "ID": 1007411514,
     "key": "7db5f4a3b7fe5a0001f20f9d9241fa25127f6dcd8634b70ff547aae66fdc58db",
     "original": "Mercenaries",
-    "translation": "",
+    "translation": "雇佣兵",
+    "stage": 1,
     "context": "ID = \"Mercenaries\""
   },
   {
+    "ID": 1007411515,
     "key": "33353fdce1c2e9a551d6a651a7b25217f5c91b99510d937a62f0b47ed8fc7e50",
     "original": "Militia",
-    "translation": "",
+    "translation": "民兵",
+    "stage": 1,
     "context": "ID = \"Militia\""
   },
   {
+    "ID": 1007411516,
     "key": "3f0e26c3281004f9e50993ea57d3ead3c84885fb64bd27abb2ec3b2b31011e44",
     "original": "Peasants",
     "translation": "",

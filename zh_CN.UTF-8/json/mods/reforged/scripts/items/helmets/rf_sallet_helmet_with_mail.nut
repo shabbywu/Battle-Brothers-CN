@@ -1,14 +1,18 @@
 [
   {
+    "ID": 1007440969,
     "key": "35fd6f98dc5a187f84bf823351516e06cf9562a09a88fce5ae6e71393d6d3959",
     "original": "A well-made sallet helmet over a mail coif. Provides great overall protection for any soldier.",
-    "translation": "",
+    "translation": "一顶穿在链甲头肩巾上的精制轻盔。能为任何士兵提供极佳的全面防护。",
+    "stage": 1,
     "context": "this.m.Description = \"A well-made sallet helmet over a mail coif. Provides great overall protection for any soldier.\""
   },
   {
+    "ID": 1007440970,
     "key": "63242d7076fcbb82bbe870f4fd88bf5641019dc5118af2a081498695ae6152e3",
     "original": "Sallet Helmet with Mail",
-    "translation": "",
+    "translation": "衬链轻盔",
+    "stage": 1,
     "context": "this.m.Name = \"Sallet Helmet with Mail\""
   }
 ]

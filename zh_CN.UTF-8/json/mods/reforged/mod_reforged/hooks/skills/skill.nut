@@ -1,164 +1,210 @@
 [
   {
+    "ID": 1007439012,
     "key": "5eca446273b667a3f8e6dfee5d4f3f7e85ad8d3d683fa7650fdfd35ba6ad4946",
     "original": " Height Advantage",
-    "translation": "",
+    "translation": "高度优势",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorPositive(getroottable().Const.Combat.LevelDifferenceToHitBonus + \"% \") + \" Height Advantage\""
   },
   {
+    "ID": 1007439013,
     "key": "edb8750702d90d249a6a6713ea01432897d2661bb681cb47b0eb0ac168fa83b0",
     "original": " Height Disadvantage",
-    "translation": "",
+    "translation": "高度劣势",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorNegative(getroottable().Const.Combat.LevelDifferenceToHitMalus * _targetTile.Level - this.m.Container.getActor().getTile().Level + \"% \") + \" Height Disadvantage\""
   },
   {
+    "ID": 1007439014,
     "key": "bff8ca12fa0a557cc5dce5da08782f32ff2976fcdb2ffe90255cb293f2a70e69",
     "original": " Ignores Shield",
-    "translation": "",
+    "translation": "无视盾牌",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorPositive(bonus + \"%\") + \" Ignores Shield\""
   },
   {
+    "ID": 1007439015,
     "key": "98aa75fe81d86b9e1a1011cf44ef9e159507ec0b922d1f3d813a2caf32ede34f",
     "original": " Surrounded",
-    "translation": "",
+    "translation": "被围攻",
+    "stage": 1,
     "context": "getroottable().MSU.Text.colorPositive(bonus + \"%\") + \" Surrounded\""
   },
   {
+    "ID": 1007439016,
     "key": "7fcb2c03b6a324694f684945af8c467419e45a3122a17307ac6b92dc7d4a6d28",
     "original": "%s chance to hit head for %s damage",
-    "translation": "",
-    "context": ""
+    "translation": "有%s概率命中头部，造成%s倍伤害",
+    "stage": 1
   },
   {
+    "ID": 1007439017,
     "key": "11d0db4be322b321121842fcb3dcc1ab8516c2ee664b9ad5419f1b5e4aa60004",
     "original": "Armed with shield",
-    "translation": "",
+    "translation": "装备盾牌",
+    "stage": 1,
     "context": "ret[index].text == \"Armed with shield\""
   },
   {
+    "ID": 1007439018,
     "key": "bd65afc7c005a38822ed2d41eb1b0f108c0a079d66b5eec7336701ec1e6ddd53",
     "original": "Fast Adaption",
-    "translation": "",
+    "translation": "快速适应",
+    "stage": 1,
     "context": "ret[index].text == \"Fast Adaption\""
   },
   {
+    "ID": 1007439019,
     "key": "be3e2185d25da9d377df896a942dbc0e8e25acc6ea0fcd83b4672aad573c768d",
     "original": "Height advantage",
-    "translation": "",
+    "translation": "高度优势",
+    "stage": 1,
     "context": "ret[index].text == \"Height advantage\""
   },
   {
+    "ID": 1007439020,
     "key": "31614c7453f3647c1f021a322b14e53776ca42b50bb10f1c88deb17ad4ca247f",
     "original": "Height disadvantage",
-    "translation": "",
+    "translation": "高度劣势",
+    "stage": 1,
     "context": "ret[index].text == \"Height disadvantage\""
   },
   {
+    "ID": 1007439021,
     "key": "e8329e83485ea3297043f54e0e403397a66fb43f79d379d06dbc3722e883b952",
     "original": "Hold %s when selecting to %s",
-    "translation": "",
-    "context": ""
+    "translation": "按住%s来%s",
+    "stage": 1
   },
   {
+    "ID": 1007439022,
     "key": "09d82d3dbc5235f25cf3f2ff7fb6b7f8828389bb2078fb81fe0bc902c2506fc1",
     "original": "Immune to being disarmed",
-    "translation": "",
+    "translation": "免疫缴械",
+    "stage": 1,
     "context": "ret[index].text == \"Immune to being disarmed\""
   },
   {
+    "ID": 1007439023,
     "key": "88bc432d73dad6b27fea2cb0255fcb9ba9fed0dbcf7b8d7be39b79bb667fc415",
     "original": "Immune to being knocked back or hooked",
-    "translation": "",
+    "translation": "免疫击退和钩拽技能",
+    "stage": 1,
     "context": "ret[index].text == \"Immune to being knocked back or hooked\""
   },
   {
+    "ID": 1007439024,
     "key": "9e43ff3abcbbadef5fb5b9a46abdc442289cc3d542fb06f45c4282b502accfe0",
     "original": "Immune to being rooted",
-    "translation": "",
+    "translation": "免疫定身",
+    "stage": 1,
     "context": "ret[index].text == \"Immune to being rooted\""
   },
   {
+    "ID": 1007439025,
     "key": "5071b7099b35d360f57c676a5e09881f6c906959d4c8573511a059ddb9cb226e",
     "original": "Immune to stun",
-    "translation": "",
+    "translation": "免疫昏迷",
+    "stage": 1,
     "context": "ret[index].text == \"Immune to stun\""
   },
   {
+    "ID": 1007439026,
     "key": "8a1c3c535b5f8c27543d6bdd4628a4e9587fadc0899429bf8bef6c3f182c8192",
     "original": "Nighttime",
-    "translation": "",
+    "translation": "黑夜",
+    "stage": 1,
     "context": "ret[index].text == \"Nighttime\""
   },
   {
+    "ID": 1007439027,
     "key": "8be3bc3332d751bdf475321f76d144622891ecf48689f23cc016b188741e16db",
     "original": "No chance to hit head",
-    "translation": "",
-    "context": ""
+    "translation": "无法取得头部命中",
+    "stage": 1
   },
   {
+    "ID": 1007439028,
     "key": "fa4e8c7a85e564e82564e6abb7f7188ac47f9c09fd409d63fa7b6d117f98c329",
     "original": "On bad terrain",
-    "translation": "",
+    "translation": "恶劣地形",
+    "stage": 1,
     "context": "ret[index].text == \"On bad terrain\""
   },
   {
+    "ID": 1007439029,
     "key": "e8dbee3cf4d7677d113bdc3fb99790f04618e60dc895945ea6167c7f85fc595b",
     "original": "Resistance against piercing attacks",
-    "translation": "",
+    "translation": "穿刺抗性",
+    "stage": 1,
     "context": "ret[index].text == \"Resistance against piercing attacks\""
   },
   {
+    "ID": 1007439030,
     "key": "27f25295a8c163c70f02ee507e492fbd372fb5f69c524144fd0f7c5b62fde203",
     "original": "Resistance against ranged weapons",
-    "translation": "",
+    "translation": "远程抗性",
+    "stage": 1,
     "context": "ret[index].text == \"Resistance against ranged weapons\""
   },
   {
+    "ID": 1007439031,
     "key": "6e1bdc294002f23d867897b239a644801a07effca16fc07c31ab55c7f41ff26d",
     "original": "Riposte",
-    "translation": "",
+    "translation": "还击",
+    "stage": 1,
     "context": "ret[index].text == \"Riposte\""
   },
   {
+    "ID": 1007439032,
     "key": "7ddf6341e8dce5a8e3e2996de0f42d450b47dc9c9698d9337480c6b3a02b418e",
     "original": "Surrounded",
-    "translation": "",
+    "translation": "被围攻",
+    "stage": 1,
     "context": "ret[index].text == \"Surrounded\""
   },
   {
+    "ID": 1007439033,
     "key": "20044c737aa2a5a8491131efc7e3bfff7f720892db01efa8cf497f0d9c074cb7",
     "original": "Target on bad terrain",
-    "translation": "",
+    "translation": "目标位于恶劣地形",
+    "stage": 1,
     "context": "ret[index].text == \"Target on bad terrain\""
   },
   {
+    "ID": 1007439034,
     "key": "6690c1bc90a4df2ab95813e59eaed855635f0c840eec3bcc9f372eafe593b925",
     "original": "Too close",
-    "translation": "",
+    "translation": "距离太近",
+    "stage": 1,
     "context": "ret[index].text == \"Too close\""
   },
   {
+    "ID": 1007439035,
     "key": "fa8847b0c33183273f5945508b31c3208a9e4ece58ca47233a05628d8dba3799",
     "original": "create",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007439036,
     "key": "b80e0af617d0f8ff54ab3142c34c76e83eafe75c6b2cbe87a44c56bb8505dd01",
     "original": "hint",
     "translation": "",
     "context": "type = \"hint\""
   },
   {
+    "ID": 1007439037,
     "key": "8490c58b929f7e99834d9231bc92c562e69e8618292e10113c573d64358028bb",
     "original": "preview usage",
-    "translation": "",
-    "context": ""
+    "translation": "预览技能效果",
+    "stage": 1
   },
   {
+    "ID": 1007439038,
     "key": "12d9be1c7b2d1cce0e11bd5116400be7630f6f13ab011ea8dfa2bcff27fe0793",
     "original": "use immediately",
-    "translation": "",
-    "context": ""
+    "translation": "立即使用技能",
+    "stage": 1
   }
 ]

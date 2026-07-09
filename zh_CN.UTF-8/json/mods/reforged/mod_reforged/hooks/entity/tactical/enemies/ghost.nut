@@ -1,32 +1,32 @@
 [
   {
+    "ID": 1007413263,
     "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
     "original": "body",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413264,
     "key": "b04216546057e8659fecdec71043ffe7e3220178fa3df37650d6fdbb631dcda8",
     "original": "fog",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413265,
     "key": "ead6ef03d61ee60c533d6d450c50a1e559a8a37f6b796a4094cd0dac6b744428",
     "original": "ghost",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413266,
     "key": "9f2e6d33a3717ee826353a404ba4618d1aeeb6879ad7936bce8ed5f46814924d",
     "original": "head",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
+    "ID": 1007413267,
     "key": "47dd56c2c7a7f7aac789ff6a0190ecc9f7508548c7e4f5118bef1622b478fbeb",
     "original": "socket",
-    "translation": "",
-    "context": ""
+    "translation": ""
   }
 ]
