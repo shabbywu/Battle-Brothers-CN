@@ -11,7 +11,7 @@
     "ID": 1007437444,
     "key": "a091fb107b7ae57d4ba56c0aa74fb0b30e56e642e3a77967feb13d7fdf3e6399",
     "original": "Applies the [$ $|Skill+rf_dented_armor_effect] effect on hitting an armor piece with at least ",
-    "translation": "",
+    "translation": "当命中最大耐久至少为[$ $|Skill+rf_dented_armor_effect]时",
     "context": "\"Applies the [$ $|Skill+rf_dented_armor_effect] effect on hitting an armor piece with at least \" + this.m.MinArmorToDent + \" maximum durability\""
   },
   {

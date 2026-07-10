@@ -27,7 +27,7 @@
     "ID": 1007422212,
     "key": "ea612740a9ad56bf603a574b728d40e23152819c8305fda645c5d9b93df9c930",
     "original": "When hit in melee while it is not your [turn|Concept.Turn] and having at least ",
-    "translation": "",
+    "translation": "在不是你的[回合|Concept.Turn]时若遭到近战命中，且耐久至少为",
     "context": "\"When hit in melee while it is not your [turn|Concept.Turn] and having at least \" + getroottable().MSU.Text.colorPositive(this.m.SpawnSaplingConditionThreshold) + \" durability, spawns a small \" + getroottable().Const.Strings.EntityName[getroottable().Const.EntityType.Schrat] + \" on an adjacent tile, losing \" + getroottable().MSU.Text.colorNegative(this.m.SpawnSaplingConditionLoss) + \" points of durability\""
   },
   {

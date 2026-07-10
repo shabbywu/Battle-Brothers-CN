@@ -11,14 +11,14 @@
     "ID": 1007440191,
     "key": "482f38d704c47436fa717ea005bee53bdf7bad0d73390b275ca645744a98f634",
     "original": " chance to hit with ",
-    "translation": "",
+    "translation": "命中率，使用",
     "context": "getroottable().MSU.Text.colorNegative(aoo.getHitchance(_entity) + \"%\") + \" chance to hit with \" + getroottable().Reforged.Mod.Tooltips.parseString(getroottable().Reforged.NestedTooltips.getNestedSkillName(aoo, \"entityId:\" + _a.getID()))"
   },
   {
     "ID": 1007440192,
     "key": "c1dccf4c6fe931e3447947ca1d136c826c75ed5c6b4d955a8b01265334f29fbb",
     "original": " levels",
-    "translation": "",
+    "translation": "级才能获得一个特技点数",
     "context": "getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\""
   },
   {
@@ -41,7 +41,7 @@
     "ID": 1007440195,
     "key": "e31b37e69b315b2ea9c5b5db4f7a64373546e7ff8436c7e23bc06594bab5b2f9",
     "original": "%s with %s",
-    "translation": ""
+    "translation": "%s使用%s"
   },
   {
     "ID": 1007440196,
@@ -55,7 +55,7 @@
     "ID": 1007440197,
     "key": "f5796a0abffb50c0f7a286983bee3713136d02c7c6e5418ae6f548875ab2d378",
     "original": "A character's level measures [experience|Concept.Experience] in battle. Characters rise in levels as they gain experience and are able to increase their [attributes|Concept.CharacterAttribute] and gain [perks|Concept.Perk] that make them better at the mercenary profession.\n\nBeyond the ",
-    "translation": "",
+    "translation": "一名角色的等级衡量了他的战斗[经验|Concept.Experience]。随着经验提升，角色的等级也会提高，并能提高[属性|Concept.CharacterAttribute]，获得[特技|Concept.Perk]，更好地从事佣兵事业。\n\n在升到",
     "context": "\"A character's level measures [experience|Concept.Experience] in battle. Characters rise in levels as they gain experience and are able to increase their [attributes|Concept.CharacterAttribute] and gain [perks|Concept.Perk] that make them better at the mercenary profession.\n\nBeyond the \" + getroottable().Const.XP.MaxLevelWithPerkpoints + \"th level, characters are veterans and \" + veteranPerksText + \". They can still improve their attributes but the attribute gain per level is small.\""
   },
   {
@@ -78,7 +78,7 @@
     "ID": 1007440200,
     "key": "c3672e4640a0be8d5d30d65e1e0aecb47ca894320fef0454b7446371d5f46574",
     "original": "Chances %s and %s:",
-    "translation": ""
+    "translation": "%s和%s几率："
   },
   {
     "ID": 1007440201,
@@ -148,7 +148,7 @@
     "ID": 1007440209,
     "key": "9173c1c2e91992c6f1382e88a1e1904c95418c7694e6e08e3af2794f3152efc4",
     "original": "Opponents with hitchance below ",
-    "translation": "",
+    "translation": "命中率低于",
     "context": "\"Opponents with hitchance below \" + getroottable().MSU.Text.colorNegative(collapseThreshold + \"%\")"
   },
   {
@@ -163,41 +163,41 @@
     "ID": 1007440211,
     "key": "a45ea8c856466dd7550a05404673289ea5e57c6a604b18f7bc64403d8506683f",
     "original": "See also: Morale.",
-    "translation": "",
+    "translation": "另见：士气。",
     "context": "getroottable().String.replace(entry.text, \"See also: Morale.\", getroottable().Reforged.Mod.Tooltips.parseString(\"See also: [Morale|Concept.Morale].\"))"
   },
   {
     "ID": 1007440212,
     "key": "202c77b1d1163f88714b142f80e0ff1e79325316abc072028a344cd0a222f024",
     "original": "See also: [Morale|Concept.Morale].",
-    "translation": "",
+    "translation": "另见： [士气|Concept.Morale]。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"See also: [Morale|Concept.Morale].\")"
   },
   {
     "ID": 1007440213,
     "key": "d26330881f3fe477c422c256f6e31d819c6358ec87cc52cbbb456e83feccfdb6",
     "original": "Will be [attacked on movement|Concept.ZoneOfControl] by:",
-    "translation": "",
+    "translation": "移动时会被以下角色[借机攻击|Concept.ZoneOfControl]：",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will be [attacked on movement|Concept.ZoneOfControl] by:\")"
   },
   {
     "ID": 1007440214,
     "key": "ea63a565d17b4089e6cd367e5fd1e25661215ff84cf918a5b3ec545d405bb664",
     "original": "Will be attacked on arrival by:",
-    "translation": ""
+    "translation": "移动到此会被以下角色攻击："
   },
   {
     "ID": 1007440215,
     "key": "ac0bc6a4a2d5b6a3c17aeff1846c78571266cfbf06e190d883565d28ffb7c48b",
     "original": "[Ignore when attacking|Concept.ReachIgnoreOffensive]: ",
-    "translation": "",
+    "translation": "[攻击时无视|Concept.ReachIgnoreOffensive]：",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"[Ignore when attacking|Concept.ReachIgnoreOffensive]: \")"
   },
   {
     "ID": 1007440216,
     "key": "2eab8c17527ddf2da2b9f43fd44f93817c44eaaecf1ef3d8b7d5e1fec4ba73f9",
     "original": "[Ignore when defending|Concept.ReachIgnoreDefensive]: ",
-    "translation": "",
+    "translation": "[防御时无视|Concept.ReachIgnoreDefensive]：",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"[Ignore when defending|Concept.ReachIgnoreDefensive]: \")"
   },
   {
@@ -225,21 +225,21 @@
     "ID": 1007440220,
     "key": "33753333ea39997a0cef442b28525be9097b74e97399acfeed270515af3b1876",
     "original": "gain perk points every %s",
-    "translation": "",
+    "translation": "每升%s",
     "context": "this.format(\"gain perk points every %s\", getroottable().Reforged.Config.VeteranPerksLevelStep == 1 ? \"level\" : getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\")"
   },
   {
     "ID": 1007440221,
     "key": "0081779c287d567d9ca622f4c0cc2ede819b0cc7f286a5f01d8c3c0178191ad6",
     "original": "level",
-    "translation": "",
+    "translation": "级仍能",
     "context": "this.format(\"gain perk points every %s\", getroottable().Reforged.Config.VeteranPerksLevelStep == 1 ? \"level\" : getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\")"
   },
   {
     "ID": 1007440222,
     "key": "81a7001a82d3e75d44cdb8b52f5862491c6dfc1b63628189e7c77c8789d33385",
     "original": "no longer gain perk points",
-    "translation": "",
+    "translation": "不会再获得特技点数",
     "context": "local veteranPerksText = getroottable().Reforged.Config.VeteranPerksLevelStep == 0 ? \"no longer gain perk points\" : this.format(\"gain perk points every %s\", getroottable().Reforged.Config.VeteranPerksLevelStep == 1 ? \"level\" : getroottable().Reforged.Config.VeteranPerksLevelStep + \" levels\")"
   },
   {
@@ -276,19 +276,19 @@
     "ID": 1007440227,
     "key": "0e9b32e4723efbacc360360899ce2b3fdce776390b55297ffa26f693e2c79eba",
     "original": "to be hit",
-    "translation": ""
+    "translation": "被命中"
   },
   {
     "ID": 1007440228,
     "key": "53f03225ce09c219775d1e1d67c24cb3587d4da0a07d7198da6f206b4db2cc1c",
     "original": "to hit",
-    "translation": ""
+    "translation": "命中"
   },
   {
     "ID": 1007668125,
     "key": "d8fa0a6e02b0562e695d2bd1a6fbd0fe83c15ea437eee6f55c612f2b8ec47f02",
     "original": "Will be attacked on arrival by: ",
-    "translation": "",
+    "translation": "移动到此会被以下角色攻击：",
     "context": "getroottable().MSU.Text.colorNegative(\"Will be attacked on arrival by: \")"
   }
 ]

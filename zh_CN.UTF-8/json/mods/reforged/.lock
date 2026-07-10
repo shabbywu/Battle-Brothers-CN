@@ -51,10 +51,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T08:30:53.375Z",
-        "updatedAt": "2026-07-09T08:30:53.375Z",
+        "updatedAt": "2026-07-10T01:50:06.664Z",
         "modifiedAt": "2026-07-09T08:30:53.375Z",
-        "hash": "385f694632979e05ba6550cd0319fc41",
-        "sha256": "b707f54baa9e409289b42096024c158ae319eb5387d03c58c30c8e2f59b832ea"
+        "hash": "69f0e00207c1d507fb0d0c4e13a1db64",
+        "sha256": "eba55d733b288bf163909539650d9f34315921e952232c48d7d4fdaaecabb6d8"
     },
     "mod_reforged/config/math/math.json": {
         "id": 3175365,
@@ -127,10 +127,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:31.613Z",
-        "updatedAt": "2026-07-09T08:30:55.038Z",
+        "updatedAt": "2026-07-10T01:50:06.84Z",
         "modifiedAt": "2026-07-09T08:30:55.08Z",
-        "hash": "e66d35fe152b5a2096538949569a6eec",
-        "sha256": "dd0373f33b770e145bf59c03a10589bdb6f03745fa1512bc8b8756f21b2e75b9"
+        "hash": "d4fbffbaff9e2bfda98cb1a0b547f226",
+        "sha256": "3f122b8dd5ba8a7b6c3d20f24704cc9a7c5f774a770b7565c59bb9287efb3168"
     },
     "mod_reforged/dynamic_spawns/dynamic_spawns.json": {
         "id": 3175369,
@@ -241,10 +241,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:35.153Z",
-        "updatedAt": "2026-07-09T06:30:35.153Z",
+        "updatedAt": "2026-07-10T01:50:06.923Z",
         "modifiedAt": "2026-07-09T06:30:35.153Z",
-        "hash": "36bbbf4d4f7b4de07b7b582d3a128e86",
-        "sha256": "bd07842abbe5b7315724e51b5009f511b319264da35960245c8cb821dfe59a14"
+        "hash": "54dbc3bdc779a3f28512c70f657464ea",
+        "sha256": "76100fc5af2dffba4cf7952435c939d52a8a21197f9a34de9d2162b4f133cee2"
     },
     "mod_reforged/dynamic_spawns/parties/noble_parties.json": {
         "id": 3175374,
@@ -450,10 +450,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:42.791Z",
-        "updatedAt": "2026-07-09T06:30:42.791Z",
+        "updatedAt": "2026-07-10T01:50:07.035Z",
         "modifiedAt": "2026-07-09T06:30:42.791Z",
-        "hash": "28c3060146eab3239b9e711add07accf",
-        "sha256": "83cd4a4f8c17c9b14c9239883041c22ef636d646a07ef52008716c633aae97ab"
+        "hash": "f63f15f67445800e46b1afb87bb6c65d",
+        "sha256": "b8924cb0e8c39bc6df63827d74f0c8bff0361cd39b79fdff61d3c41e1bfc2592"
     },
     "mod_reforged/dynamic_spawns/units/southern_units.json": {
         "id": 3175385,
@@ -621,10 +621,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:47.356Z",
-        "updatedAt": "2026-07-09T08:31:05.53Z",
+        "updatedAt": "2026-07-10T01:50:07.356Z",
         "modifiedAt": "2026-07-09T08:31:05.996Z",
-        "hash": "a560b3c7de0d0a290700f20e81317fbf",
-        "sha256": "00f20caa077d9ebd3defea24b084f830536801fd30948a7c58b7c512fb684296"
+        "hash": "dcda105dde45c704f736aeaab2ed397c",
+        "sha256": "a4c3aed49cb56900defaf65d996013eecaafc01094235ee8e15f21b6f5d1bc3c"
     },
     "mod_reforged/hooks/config/faction_bandits.json": {
         "id": 3175394,
@@ -640,10 +640,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:47.895Z",
-        "updatedAt": "2026-07-09T08:31:06.522Z",
+        "updatedAt": "2026-07-10T01:50:07.499Z",
         "modifiedAt": "2026-07-09T08:31:06.545Z",
-        "hash": "37c06a81de1b6b0149165e8dff85e176",
-        "sha256": "887b732fcbc6249165c792d635628df3667c65e45376b1df031d41fc0b0fc18c"
+        "hash": "f9f1960d1b0bc34be24ca28215a946fa",
+        "sha256": "d40e32b43abcde9b6d9557695d0c683c8e9da6158908f708e140ad6da88fd740"
     },
     "mod_reforged/hooks/config/faction_beasts.json": {
         "id": 3175395,
@@ -697,10 +697,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:49.322Z",
-        "updatedAt": "2026-07-09T08:31:08.173Z",
+        "updatedAt": "2026-07-10T01:50:07.604Z",
         "modifiedAt": "2026-07-09T08:31:08.206Z",
-        "hash": "a131da9df50b6eaf55f9cb0af4bf8ea9",
-        "sha256": "6ebb809d8c14da7921ea2052397b626ad5eb0ad675f75c9aab7a8654e72eba0a"
+        "hash": "a2281c64fe420c3f96a19c8067ab85ee",
+        "sha256": "bc8c9e7a39cfd926037cfca14c6ee187ab0aca5a3a861fb081b4aba4c88dfd73"
     },
     "mod_reforged/hooks/config/faction_southern.json": {
         "id": 3175398,
@@ -716,10 +716,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:50.472Z",
-        "updatedAt": "2026-07-09T08:31:08.687Z",
+        "updatedAt": "2026-07-10T01:50:07.688Z",
         "modifiedAt": "2026-07-09T08:31:08.699Z",
-        "hash": "cfa3378408f6cfc195a04581c807dea0",
-        "sha256": "8cb866e02d07b127076827f5fa4382cebe0ce58fe5df4e4b31cda54f1daf1773"
+        "hash": "4f8864470247f92620c80d1a1e07c9d6",
+        "sha256": "1429aca3516b8d3376f0a9c0bbf11fdebae1b80ac57edf647be0b05e10cdc863"
     },
     "mod_reforged/hooks/config/faction_undead.json": {
         "id": 3175399,
@@ -735,10 +735,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:50.957Z",
-        "updatedAt": "2026-07-09T08:31:09.215Z",
+        "updatedAt": "2026-07-10T01:50:07.784Z",
         "modifiedAt": "2026-07-09T08:31:09.292Z",
-        "hash": "5f1f33bbd674285e6ff0e6936a95a0ef",
-        "sha256": "81ec771d168944330474258e7e3dcdf4e844329a311099e9f7fbe59e00bc0dc3"
+        "hash": "10cf7a28d68784fb32f61ecc455d5f50",
+        "sha256": "6e8a0227f90e2b78516aa19535a12a6e90d1a89afdbf4dd2993f5c298738f29d"
     },
     "mod_reforged/hooks/config/item_names.json": {
         "id": 3175400,
@@ -754,10 +754,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:51.535Z",
-        "updatedAt": "2026-07-09T08:31:09.864Z",
+        "updatedAt": "2026-07-10T01:50:07.889Z",
         "modifiedAt": "2026-07-09T08:31:09.979Z",
-        "hash": "ec616044e05de043cea4393ef5dbe4b0",
-        "sha256": "b27dd0867966d5fe9c9b6242abc60542d15e4e7a7ccd1060e3791bbc1c0611be"
+        "hash": "337602810ee2ea6ed80783f0be8d7e28",
+        "sha256": "8f0aeae2c79625d527321ec981a5177aa23ad068aa94de9ee728eb2d67067131"
     },
     "mod_reforged/hooks/config/items.json": {
         "id": 3175401,
@@ -792,10 +792,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:52.64Z",
-        "updatedAt": "2026-07-09T08:31:10.998Z",
+        "updatedAt": "2026-07-10T01:50:07.992Z",
         "modifiedAt": "2026-07-09T08:31:11.017Z",
-        "hash": "179f8cae76144e3e26322d6c8d22d134",
-        "sha256": "817565bc83b569471ab4ec60ff5a28fd26eb8c4cd3228e795bb4220b5c182194"
+        "hash": "166144bdccf67409e1514161c85c068f",
+        "sha256": "ebe2dc250b8622066e8ae4d8c46f890080df7efea2a78a0647823ff22e7db8c1"
     },
     "mod_reforged/hooks/config/strings.json": {
         "id": 3175403,
@@ -811,10 +811,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:55.789Z",
-        "updatedAt": "2026-07-09T08:31:12.446Z",
+        "updatedAt": "2026-07-10T01:50:08.437Z",
         "modifiedAt": "2026-07-09T08:31:12.781Z",
-        "hash": "1723403b7811f467bd44438e6dc552fa",
-        "sha256": "8af1640b81d917e23e2b22ff0654901a2d01cdc90786b6d87197e920f3df885f"
+        "hash": "10e55558c70dd92eea7500899f208749",
+        "sha256": "482ba3dd0ff8f186d2fcc3e2deb3667882b1897292769d7c384af670b6d8d39d"
     },
     "mod_reforged/hooks/config/tip_of_the_day.json": {
         "id": 3175404,
@@ -830,10 +830,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:57.068Z",
-        "updatedAt": "2026-07-09T08:31:14.158Z",
+        "updatedAt": "2026-07-10T01:50:08.625Z",
         "modifiedAt": "2026-07-09T08:31:14.192Z",
-        "hash": "9e14d9c7719b2de2bc4c8ddc190f2026",
-        "sha256": "b18214ff4efe0bf8f37ccfa95a5c0171a4c4721724787e0a0455376d10f29d32"
+        "hash": "ae1f54d00072aa0bd4307090cab172fd",
+        "sha256": "1b32b10400a3ef73d1fe869afd8f307752b11defc25522d2c9b714d3e1b55ea9"
     },
     "mod_reforged/hooks/config/world_entity_common.json": {
         "id": 3175405,
@@ -868,10 +868,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:30:58.565Z",
-        "updatedAt": "2026-07-09T08:31:16.569Z",
+        "updatedAt": "2026-07-10T01:50:08.881Z",
         "modifiedAt": "2026-07-09T08:31:16.807Z",
-        "hash": "1bb42010b19e9dd7fdde35d9224287d2",
-        "sha256": "65113bed4d2b99e25cc85a79dc7947e194f15e6650d4aa726bbf83463f8be4c7"
+        "hash": "e4e49d8a24bb5652933e9222339a52b7",
+        "sha256": "9787a6bc1ba6e32f0f80c93605c48b06a06435f14d7458f9bf79d44e0fa38a1a"
     },
     "mod_reforged/hooks/contracts/contract.json": {
         "id": 3175407,
@@ -1115,10 +1115,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:31:08.337Z",
-        "updatedAt": "2026-07-09T08:31:21.154Z",
+        "updatedAt": "2026-07-10T01:50:09.014Z",
         "modifiedAt": "2026-07-09T08:31:21.182Z",
-        "hash": "cca1195096b39d1b52194d4a7cd1ec38",
-        "sha256": "4e7f38bd908fd16e09b794bc01e4b9d65d433986f782c4fe31cbee27d40938ce"
+        "hash": "dafc8a54e481dda9c92667928fcff5b5",
+        "sha256": "f33cfaebf684698e4f5c64c045e08dc0e8aee5929618b1898641923adf583054"
     },
     "mod_reforged/hooks/entity/tactical/enemies/alp.json": {
         "id": 3175420,
@@ -3072,10 +3072,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:10.398Z",
-        "updatedAt": "2026-07-09T08:32:19.382Z",
+        "updatedAt": "2026-07-10T01:50:09.12Z",
         "modifiedAt": "2026-07-09T06:32:10.398Z",
-        "hash": "ddc358a44ce5e6094bd423dec1b487ca",
-        "sha256": "1c2d57cb63337e28c2557262f072b07728e7e108f3f9de9ca9c1aea47501c31d"
+        "hash": "b4f082e08ab2d8c864291d1d2cd6f634",
+        "sha256": "724e8bb86f3a2be9ba45bd59f0afd4a909e79f8b02a9047f08773aa5657de892"
     },
     "mod_reforged/hooks/entity/world/settlements/buildings/situations/situation.json": {
         "id": 3175576,
@@ -3338,10 +3338,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:19.486Z",
-        "updatedAt": "2026-07-09T08:32:25.46Z",
-        "modifiedAt": "2026-07-09T08:32:25.471Z",
-        "hash": "4b6728d6a706f7691614c67e600ce59b",
-        "sha256": "3918e1c01725af7b843aed3c3b2b1707e4d66740645ab6990eb79676d5ba9ddf"
+        "updatedAt": "2026-07-10T01:50:09.196Z",
+        "modifiedAt": "2026-07-10T01:50:09.204Z",
+        "hash": "4bd27f0bcc676117d4bda99cff289d27",
+        "sha256": "a4a8b89f7e81b654fa9ff78a4afb6b5b4922586af3bdd0518299df0d6c863d1c"
     },
     "mod_reforged/hooks/items/item_container.json": {
         "id": 3175606,
@@ -3471,10 +3471,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:23.435Z",
-        "updatedAt": "2026-07-09T06:32:23.435Z",
+        "updatedAt": "2026-07-10T01:50:09.275Z",
         "modifiedAt": "2026-07-09T06:32:23.435Z",
-        "hash": "5c72a3eb2190876cf86eccb79f337ba7",
-        "sha256": "4c0f93982a7a96d2ef4c8e94af961daa4e0dacfb8e71e711f2e7b4235477a794"
+        "hash": "3a5b8ac4dc9e1859cf717cb56acc12a9",
+        "sha256": "2129466a147c3d8313452bb3171d74281ca661b05155d0929fef1c8a9f62704d"
     },
     "mod_reforged/hooks/items/shields/special/craftable_lindwurm_shield.json": {
         "id": 3175620,
@@ -3509,10 +3509,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:24.546Z",
-        "updatedAt": "2026-07-09T06:32:24.546Z",
+        "updatedAt": "2026-07-10T01:50:09.346Z",
         "modifiedAt": "2026-07-09T06:32:24.546Z",
-        "hash": "4d66ef9a48131aa477cd1a4bbfe8b998",
-        "sha256": "5a1bc0d2320b98e190fdf6aeeb0d32022eb7f9ad86c7e5c5fc967471063471e0"
+        "hash": "04e432573d9117bbcfa81c4d673e69dd",
+        "sha256": "26b23a3ef5516af00eae2b80e9657fb4fe6464c39b2281b6e06aebe1ce30024b"
     },
     "mod_reforged/hooks/items/weapons/greatsword.json": {
         "id": 3175624,
@@ -3794,10 +3794,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:32.573Z",
-        "updatedAt": "2026-07-09T08:32:32.076Z",
+        "updatedAt": "2026-07-10T01:50:09.425Z",
         "modifiedAt": "2026-07-09T08:32:32.083Z",
-        "hash": "70d8a8d70169939a49e37ea59d505adc",
-        "sha256": "08f65bb13dbf9040ee2e263e642b09310def7dccfbaf96cb0d4bc76605025f2b"
+        "hash": "6ab196823ff7e55b59951b5e965dd3e3",
+        "sha256": "e68e1eda8ce0d1f915e9be8dcba796164e40ebfd8c3193cf119bd6812e34d4e2"
     },
     "mod_reforged/hooks/skills/actives/alp_teleport_skill.json": {
         "id": 3175654,
@@ -3851,10 +3851,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:35.06Z",
-        "updatedAt": "2026-07-09T08:32:33.498Z",
+        "updatedAt": "2026-07-10T01:50:09.494Z",
         "modifiedAt": "2026-07-09T08:32:33.504Z",
-        "hash": "eed10bd5edbf8f594ce3c7b72f7a4f06",
-        "sha256": "407e5b7a345eff04562169ff5dfdee5b1ccbf1aab48fb7dbd8f551d994be8a8c"
+        "hash": "b2ccb831cce096848adda30275050569",
+        "sha256": "eea3a42a97bf504a859584122e053185b4a787ca3290d533f499a1ebcf3993e8"
     },
     "mod_reforged/hooks/skills/actives/charm_skill.json": {
         "id": 3175660,
@@ -3870,10 +3870,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:35.537Z",
-        "updatedAt": "2026-07-09T08:32:34.949Z",
+        "updatedAt": "2026-07-10T01:50:09.561Z",
         "modifiedAt": "2026-07-09T08:32:34.955Z",
-        "hash": "a7e6347f7f3d55bab6822b583ab23de9",
-        "sha256": "b8cc3131c4eb6a11f67ac13cd91edc531648b142b725453c930aff576e1ab511"
+        "hash": "986fd143632ff9edfe9c39cdf359191c",
+        "sha256": "f5e9bf0a8712460c630f903e858c96ef9338efaeee540f74e28d991078adab44"
     },
     "mod_reforged/hooks/skills/actives/cleave.json": {
         "id": 3175662,
@@ -3889,10 +3889,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:36.045Z",
-        "updatedAt": "2026-07-09T08:32:35.434Z",
+        "updatedAt": "2026-07-10T01:50:09.626Z",
         "modifiedAt": "2026-07-09T08:32:35.442Z",
-        "hash": "c34f3a71bef6146bd0f5e1d4e6c9204b",
-        "sha256": "7d9d99c021b84641d2265e2be83de2e5601bad0895cb1aa930033acba32b1419"
+        "hash": "3d01e77dd4078717e269599b2744bf70",
+        "sha256": "b7087b123acc37da6a1939ba12982236bb96e10ba0f7a4821748fb2575d46d93"
     },
     "mod_reforged/hooks/skills/actives/corpse_explosion_skill.json": {
         "id": 3175664,
@@ -4022,10 +4022,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:39.689Z",
-        "updatedAt": "2026-07-09T08:32:39.377Z",
+        "updatedAt": "2026-07-10T01:50:09.701Z",
         "modifiedAt": "2026-07-09T08:32:39.388Z",
-        "hash": "ff5e3f56948a20f3ce604ffbaba8c06f",
-        "sha256": "6602d12603a75292044b5b2c958ddc2d05f4aef2d2f695bb2318c96e2fe2d8f1"
+        "hash": "10b20ded7feddeb2ffeced050a9d93b5",
+        "sha256": "f514ef7e8ef765c8162e8ac89a5eef6bc1a8fbebf574f28ca9e8bb670ffaca84"
     },
     "mod_reforged/hooks/skills/actives/fire_mortar_skill.json": {
         "id": 3175677,
@@ -4041,10 +4041,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:40.209Z",
-        "updatedAt": "2026-07-09T08:32:39.861Z",
+        "updatedAt": "2026-07-10T01:50:09.777Z",
         "modifiedAt": "2026-07-09T08:32:39.865Z",
-        "hash": "c9cbd786418dacbb332679629f0a8f6f",
-        "sha256": "582ff888636ac88862b9af0bea463754d716e47233c788b31e57deadeeeb37ec"
+        "hash": "f567e41e3cf45c63c4ddcebceb5e168c",
+        "sha256": "455d1f3ec66435138e34d1e196c2cfd02ba45579cffd51460a28d5f7db45d353"
     },
     "mod_reforged/hooks/skills/actives/flail_skill.json": {
         "id": 3175679,
@@ -4098,10 +4098,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:41.647Z",
-        "updatedAt": "2026-07-09T08:32:42.842Z",
+        "updatedAt": "2026-07-10T01:50:09.848Z",
         "modifiedAt": "2026-07-09T08:32:42.852Z",
-        "hash": "df5a8e34069506002a76e2604e8d69c8",
-        "sha256": "21872e5b23f71b2a79bb95d7a1aa810e9cefe9fdd9c71e8588ab3ead28aa6865"
+        "hash": "94de8cbf9e8e6481ad99a59f4dd6c4f5",
+        "sha256": "ace9c8c2f5f9ae6a1300a75e92c3d58ebacba6e28f9201dcbc228435a9d7bd75"
     },
     "mod_reforged/hooks/skills/actives/flurry_skill.json": {
         "id": 3175686,
@@ -4136,10 +4136,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:43.071Z",
-        "updatedAt": "2026-07-09T08:32:43.826Z",
+        "updatedAt": "2026-07-10T01:50:09.922Z",
         "modifiedAt": "2026-07-09T08:32:43.831Z",
-        "hash": "dd9100a198f3098d98a543a4e7cfbf42",
-        "sha256": "6219dbb20ea02f8171a680ae1f2d524ae8295c07abcffe8af776acf21ede0908"
+        "hash": "73cae6d11739e81166bd5d95d497cb55",
+        "sha256": "e8f05e155000bf4d88d266152357e9254d63e159c7bc1e61ca0a4f4b2d4a08d8"
     },
     "mod_reforged/hooks/skills/actives/ghastly_touch.json": {
         "id": 3175690,
@@ -4174,10 +4174,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:44.019Z",
-        "updatedAt": "2026-07-09T08:32:44.329Z",
+        "updatedAt": "2026-07-10T01:50:09.988Z",
         "modifiedAt": "2026-07-09T08:32:44.336Z",
-        "hash": "671b970c07810a12fd82de7beb000405",
-        "sha256": "c562cedc64e775313e0970b8d88b8023f9a2ee2c2e985db86a549df830c98573"
+        "hash": "51dc2b6268a33819b0f69abb3aedad05",
+        "sha256": "07e00fbe1039500eaf435e8ab4022cd01afede20ce1a1c5c284aee2a232eb5a4"
     },
     "mod_reforged/hooks/skills/actives/golem_grapple_skill.json": {
         "id": 3175694,
@@ -4307,10 +4307,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:48.93Z",
-        "updatedAt": "2026-07-09T08:32:50.843Z",
+        "updatedAt": "2026-07-10T01:50:10.08Z",
         "modifiedAt": "2026-07-09T08:32:50.848Z",
-        "hash": "1587ef870f7a5fe641922e5b3132e426",
-        "sha256": "b7d84b4e03396a9462fc03b31b03f3f6670363a13d461b05a5a0020d77f69e0e"
+        "hash": "8e2df90e619752fa924ba33af158c7ce",
+        "sha256": "db4334529282ba186bd8002db42e2150f8f88f85f8533a01cfedcb5211bbfaf7"
     },
     "mod_reforged/hooks/skills/actives/headbutt_skill.json": {
         "id": 3175709,
@@ -4383,10 +4383,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:51.333Z",
-        "updatedAt": "2026-07-09T08:32:52.842Z",
+        "updatedAt": "2026-07-10T01:50:10.156Z",
         "modifiedAt": "2026-07-09T06:32:51.333Z",
-        "hash": "5fb94664af6630646f5de79481fa716e",
-        "sha256": "da2b295c19ee638b780d890b69b29b0fdeef3867a26a9841cc6f89e8b24a4a83"
+        "hash": "2f5eb5a750b43f0e2d4594b706193f7e",
+        "sha256": "737e2e326b010597fb0737a8e6cf454d2af78110ed47085bff226f9008939ffe"
     },
     "mod_reforged/hooks/skills/actives/hyena_bite_skill.json": {
         "id": 3175718,
@@ -4402,10 +4402,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:51.81Z",
-        "updatedAt": "2026-07-09T06:32:51.81Z",
+        "updatedAt": "2026-07-10T01:50:10.241Z",
         "modifiedAt": "2026-07-09T06:32:51.81Z",
-        "hash": "cdca63274d71e2380bcaf5425490fe58",
-        "sha256": "590197eca16fdf0da8ee2403e285c13773dff6f7c5a5668f09483b6620e8c117"
+        "hash": "6757fb7bc7dab8d9a87bd7ac37af9242",
+        "sha256": "a074115cba3959ae777f5c732134615942e6959067c2ac3de1717cf018b6d035"
     },
     "mod_reforged/hooks/skills/actives/insects_skill.json": {
         "id": 3175719,
@@ -4440,10 +4440,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:52.857Z",
-        "updatedAt": "2026-07-09T08:32:53.8Z",
+        "updatedAt": "2026-07-10T01:50:10.318Z",
         "modifiedAt": "2026-07-09T06:32:52.857Z",
-        "hash": "566683e8b8a008a4ad2b6bbc78a0843b",
-        "sha256": "0f6f7ad073146d4b98145067b68576a14fa37295863aba1915d0d741524c667e"
+        "hash": "c40850c69fbf7d8f0da9251a7a1f9f07",
+        "sha256": "e17f952ff0f0b6b6cf35c860397f3fe4f0f629d370adee70e1748dfa9babf201"
     },
     "mod_reforged/hooks/skills/actives/kraken_devour_skill.json": {
         "id": 3175723,
@@ -4611,10 +4611,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:32:57.347Z",
-        "updatedAt": "2026-07-09T08:32:58.808Z",
+        "updatedAt": "2026-07-10T01:50:10.39Z",
         "modifiedAt": "2026-07-09T08:32:58.816Z",
-        "hash": "5e6d805e580ac03d19566c32fec84b82",
-        "sha256": "2d3e15019616e816d89bc16d3dbfcef97237fc9d6f6ecf48ad6bc4b67ee9d60f"
+        "hash": "7782d8d10ac2751b989a9f6900853587",
+        "sha256": "e12dfbdfaf10f58896194ca663449d2105a04d921475fa112768d43ecd5666a4"
     },
     "mod_reforged/hooks/skills/actives/merge_golem_skill.json": {
         "id": 3175741,
@@ -4744,10 +4744,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:02.744Z",
-        "updatedAt": "2026-07-09T08:33:03.54Z",
+        "updatedAt": "2026-07-10T01:50:10.474Z",
         "modifiedAt": "2026-07-09T08:33:03.548Z",
-        "hash": "1704fd2f856b771f8853c881e3c2df9b",
-        "sha256": "bc00bb8f9aaf4e785d2216058ebcc6077b032f6fc42634dbd6a616eb53ba499b"
+        "hash": "c0caff0b017332faa84d28c7f64ce157",
+        "sha256": "b21a22bbb4799a8e5bf06cbf880ca9a19180834284e8207440646652c106c8ba"
     },
     "mod_reforged/hooks/skills/actives/raise_undead.json": {
         "id": 3175757,
@@ -4839,10 +4839,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:06.127Z",
-        "updatedAt": "2026-07-09T06:33:06.127Z",
+        "updatedAt": "2026-07-10T01:50:10.549Z",
         "modifiedAt": "2026-07-09T06:33:06.127Z",
-        "hash": "bef2b234560b80ecaeeaf7f15815afc5",
-        "sha256": "c7863f1ca5b96f72f262bbf3fcbf6b503cfb4d95db04dbc92234a468e2b4705c"
+        "hash": "69982a5c757f09aa69c5c15dc58e4266",
+        "sha256": "cf149fbd218421cf2c55a42bf6288ae22347f67f36b4f88da619cbd84edc0480"
     },
     "mod_reforged/hooks/skills/actives/serpent_bite_skill.json": {
         "id": 3175768,
@@ -5086,10 +5086,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:13.155Z",
-        "updatedAt": "2026-07-09T08:33:10.797Z",
+        "updatedAt": "2026-07-10T01:50:10.653Z",
         "modifiedAt": "2026-07-09T08:33:10.806Z",
-        "hash": "b5b6dcd4b653f68d97e3923be2b11323",
-        "sha256": "a47d09f7d54ada67a0bb1a284fac41da9f9f63d174deeea5cc4b466319e7d2e1"
+        "hash": "20d0949f3d09aff5997816076b5d9a58",
+        "sha256": "0da0a0447fb1d8cae148705a22f1e98d3514c64a3ea534ef7ad681b343b5bce9"
     },
     "mod_reforged/hooks/skills/actives/sweep_skill.json": {
         "id": 3175792,
@@ -5200,10 +5200,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:15.966Z",
-        "updatedAt": "2026-07-09T08:33:15.666Z",
+        "updatedAt": "2026-07-10T01:50:10.725Z",
         "modifiedAt": "2026-07-09T08:33:15.671Z",
-        "hash": "652cd90d1291aa96a0c9700330cd4744",
-        "sha256": "53d04586e831a7c7f5c0762cf810bf35328ba276f277d2ed7226632f5fa1ca7e"
+        "hash": "14ee94346e5644a816d7c63d97390bac",
+        "sha256": "ca2d4d0b414b332915f8aa233b9e1dd83314cc2b48862b5acd3bef6f913b433d"
     },
     "mod_reforged/hooks/skills/actives/teleport_skill.json": {
         "id": 3175804,
@@ -5238,10 +5238,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:17.429Z",
-        "updatedAt": "2026-07-09T08:33:17.887Z",
+        "updatedAt": "2026-07-10T01:50:10.82Z",
         "modifiedAt": "2026-07-09T08:33:17.893Z",
-        "hash": "f346ea3032b8b090134d7cef55f7c25c",
-        "sha256": "36503b30f552ee1442292343c6db86d942faf421ec6cbd05a992e218241265d5"
+        "hash": "bcf9b2f280a6a1f0d8e632a48ef57dd3",
+        "sha256": "a5dfc4efa9f4e7e8304e1fa6eb0925f92913a025d066261842532fc65892d39f"
     },
     "mod_reforged/hooks/skills/actives/throw_balls.json": {
         "id": 3175808,
@@ -5257,10 +5257,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:17.902Z",
-        "updatedAt": "2026-07-09T08:33:18.355Z",
+        "updatedAt": "2026-07-10T01:50:10.91Z",
         "modifiedAt": "2026-07-09T08:33:18.362Z",
-        "hash": "c6ac9c4c127a9f789f0c067ae898c139",
-        "sha256": "fb368b4ceae7ea47a879313907ffe667efabad0a778370b62b4fb4420ef15b18"
+        "hash": "c9536a94ae633481983d7c8775d4bb30",
+        "sha256": "76531fee519eb95b05192f07fa696c1ae4ed1f40e32857961824f28b5520f19a"
     },
     "mod_reforged/hooks/skills/actives/throw_dirt_skill.json": {
         "id": 3175810,
@@ -5314,10 +5314,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:19.308Z",
-        "updatedAt": "2026-07-09T08:33:19.817Z",
+        "updatedAt": "2026-07-10T01:50:10.984Z",
         "modifiedAt": "2026-07-09T08:33:19.823Z",
-        "hash": "af1d5d32a3260e6d4bc7ab3824ae7d5c",
-        "sha256": "5d5879d74ed59cf707e3d50b9fceb182a763609ffe8892ee363fc47645032763"
+        "hash": "0e8ac3884b34d0388a50c6590b9392f7",
+        "sha256": "87c1bbc8ab437bd2e08898c6783f48f7c86d40f9ccb4d25d845e78505d7ad1a1"
     },
     "mod_reforged/hooks/skills/actives/throw_net.json": {
         "id": 3175815,
@@ -5409,10 +5409,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:21.82Z",
-        "updatedAt": "2026-07-09T08:33:22.806Z",
+        "updatedAt": "2026-07-10T01:50:11.06Z",
         "modifiedAt": "2026-07-09T08:33:22.812Z",
-        "hash": "321e795c6022c933c0af573f45d66e25",
-        "sha256": "11529fcb86b9ab45036b2975725bbb3659e4485919a97c6a9d7580d38d6395b5"
+        "hash": "2555ad23f305e70708c53e10d4a028ee",
+        "sha256": "22870fa102fe383c22a64d877b7ecee2422490d026cca21f37440735c53897e9"
     },
     "mod_reforged/hooks/skills/actives/uproot_skill.json": {
         "id": 3175824,
@@ -5428,10 +5428,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:22.29Z",
-        "updatedAt": "2026-07-09T08:33:23.307Z",
+        "updatedAt": "2026-07-10T01:50:11.163Z",
         "modifiedAt": "2026-07-09T08:33:23.315Z",
-        "hash": "d7c36cb5b45d3b3438e25d9cd8ee4fa1",
-        "sha256": "ec5112b8db5b97e4f540bd1100d651ba2246fcbe549216b737c92c82c8e3bf69"
+        "hash": "cec2c8ea31d0a900a4be473fc101161e",
+        "sha256": "63bfb11e9dff07bdef6a3930c2b2e131bd888f41a5ac3d17b73bcb6c781ce529"
     },
     "mod_reforged/hooks/skills/actives/uproot_small_skill.json": {
         "id": 3175826,
@@ -5447,10 +5447,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:22.767Z",
-        "updatedAt": "2026-07-09T08:33:23.806Z",
+        "updatedAt": "2026-07-10T01:50:11.255Z",
         "modifiedAt": "2026-07-09T08:33:23.814Z",
-        "hash": "1770aabf059f13f9881a871049bcee68",
-        "sha256": "9e0ba32a3414bfd6c132598194c44557caf590fe08e061e39fb80ef77ce0f604"
+        "hash": "ac40e9a14260d90c933f267e05f19db7",
+        "sha256": "235d0b2138814f9757cefda2b10bcbf5b186d8ba5d84557bd0605c1c6a57311c"
     },
     "mod_reforged/hooks/skills/actives/uproot_small_zoc_skill.json": {
         "id": 3175828,
@@ -5466,10 +5466,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:23.283Z",
-        "updatedAt": "2026-07-09T08:33:24.286Z",
+        "updatedAt": "2026-07-10T01:50:11.315Z",
         "modifiedAt": "2026-07-09T08:33:24.296Z",
-        "hash": "b8ab63127671223db9fc0a29097632e6",
-        "sha256": "b66fbf9c997fea72e1d44af0019f818c1bf4a80bb9ea4c81166bedd13e3b0b0d"
+        "hash": "52ddb20558efdd1f04506a6c4c4217b6",
+        "sha256": "d21cbefa8f0d4e0a4a3ec07d72362b5e5deef132dffec15a8e98970782e75abe"
     },
     "mod_reforged/hooks/skills/actives/uproot_zoc_skill.json": {
         "id": 3175830,
@@ -5485,10 +5485,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:23.753Z",
-        "updatedAt": "2026-07-09T08:33:24.769Z",
+        "updatedAt": "2026-07-10T01:50:11.378Z",
         "modifiedAt": "2026-07-09T08:33:24.78Z",
-        "hash": "a8a2b40331152abf1c7fab3f13a5efba",
-        "sha256": "901aaad10cf73bf0fa25fa7ebb4b31c2966ec5375ec6f1c8aa428c2f88f8dda8"
+        "hash": "85f206a4021dded8214b58282cf365f2",
+        "sha256": "c8a650d02e202d3c7c4b70be43bdc5029da8d93d473b127c3e7b026f6a190d43"
     },
     "mod_reforged/hooks/skills/actives/warcry.json": {
         "id": 3175832,
@@ -5561,10 +5561,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:25.665Z",
-        "updatedAt": "2026-07-09T08:33:26.248Z",
+        "updatedAt": "2026-07-10T01:50:11.45Z",
         "modifiedAt": "2026-07-09T06:33:25.665Z",
-        "hash": "9826f3b3cca8b113dcb6e919bd8ee282",
-        "sha256": "b3cb80eb057f49da7e19988baee0d052a47643f96caaa8f7327a8fe0a72aa308"
+        "hash": "3d8ec93a42fbb3cb21709be109cc8896",
+        "sha256": "f2f80364dfc372d404d6d54a545abaabe29808341e7a4a708dc9696e21f57b15"
     },
     "mod_reforged/hooks/skills/actives/werewolf_bite.json": {
         "id": 3175840,
@@ -5599,10 +5599,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:26.615Z",
-        "updatedAt": "2026-07-09T06:33:26.615Z",
+        "updatedAt": "2026-07-10T01:50:11.526Z",
         "modifiedAt": "2026-07-09T06:33:26.615Z",
-        "hash": "bef2b234560b80ecaeeaf7f15815afc5",
-        "sha256": "3271f76a197c90c34509696235799dff8074d29cc2b823df101a793a96cc958d"
+        "hash": "d886c7bc44a657c52d6572a996f24464",
+        "sha256": "152a91db307cac52b5bf3d894cf18ec71ca7e88dbc9977be6ebdf75374649857"
     },
     "mod_reforged/hooks/skills/actives/wither_skill.json": {
         "id": 3175844,
@@ -5694,10 +5694,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:28.946Z",
-        "updatedAt": "2026-07-09T08:33:28.862Z",
+        "updatedAt": "2026-07-10T01:50:11.599Z",
         "modifiedAt": "2026-07-09T08:33:28.88Z",
-        "hash": "70aef89d572690cc0c3d69d9f2c0ac91",
-        "sha256": "2dbaec98efed5c0d49258fc7f642312f80d447cf8f37ef4cf61bfdcc14e4f800"
+        "hash": "55c7991f079c42c6e6362c936b5df421",
+        "sha256": "295f3e10a9e93d77d57e16b1b0328bdfdc214a3853f822c730050f2148658bf0"
     },
     "mod_reforged/hooks/skills/backgrounds/farmhand_background.json": {
         "id": 3175853,
@@ -5884,10 +5884,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:35.727Z",
-        "updatedAt": "2026-07-09T08:33:31.787Z",
+        "updatedAt": "2026-07-10T01:50:11.681Z",
         "modifiedAt": "2026-07-09T06:33:35.727Z",
-        "hash": "239c4f53753696bca886b4bb5a06c028",
-        "sha256": "4040ec4b3b13d933c9dfff5bad7b831c57611157737b6cd2ac3b58ea18798004"
+        "hash": "e295662f055853e4548f986f809e1f64",
+        "sha256": "3016d28f8d046739c3e7f55536c4a20914fd69042e2274d35e013c5dffabf6b7"
     },
     "mod_reforged/hooks/skills/effects/chilled_effect.json": {
         "id": 3175875,
@@ -5960,10 +5960,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:37.631Z",
-        "updatedAt": "2026-07-09T08:33:35.119Z",
+        "updatedAt": "2026-07-10T01:50:11.755Z",
         "modifiedAt": "2026-07-09T08:33:35.133Z",
-        "hash": "d6d2e293a129cefb482b01f0b56d756a",
-        "sha256": "22d983bf0f8b01c5f6cd484107b9ca58f85c3adf8a5339897ef385fbfe41e5c2"
+        "hash": "d77025f3d9a0ec14ee469aa8283258f9",
+        "sha256": "9017c1770e276723e199b1eb22a168de6aac080f8331fa6326118d21c2d3487f"
     },
     "mod_reforged/hooks/skills/effects/hex_master_effect.json": {
         "id": 3175883,
@@ -6169,10 +6169,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:44.353Z",
-        "updatedAt": "2026-07-09T08:33:39.685Z",
+        "updatedAt": "2026-07-10T01:50:11.831Z",
         "modifiedAt": "2026-07-09T08:33:39.69Z",
-        "hash": "6b7491d5b6b176f99f4f9b7448eb5862",
-        "sha256": "2a619a8e478e60ff2a9214b8b90aa1b5fb80aa3d1af4f1a42b3f1594770a5c61"
+        "hash": "481b19855c65aa42880cc21206acc829",
+        "sha256": "2d9cf59ada4901532962037dbea102e625a25bb02fd1466a83941ca992280232"
     },
     "mod_reforged/hooks/skills/effects/swallowed_whole_effect.json": {
         "id": 3175905,
@@ -6245,10 +6245,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:46.798Z",
-        "updatedAt": "2026-07-09T08:33:40.154Z",
+        "updatedAt": "2026-07-10T01:50:11.935Z",
         "modifiedAt": "2026-07-09T08:33:40.163Z",
-        "hash": "67f88c7cb76237d6d15c6d6e001326fa",
-        "sha256": "b88090edb2f1ed01acf4151e5fab44682574fe2f315a60720dc7daf4e55a4c60"
+        "hash": "b216342608423bf2a52344dfa501df48",
+        "sha256": "5ecf3e6a9391f0a530ceec57d9962ad2bc02df51c79451b5c7d3f57196d0bbe9"
     },
     "mod_reforged/hooks/skills/perks/perk_mastery_cleaver.json": {
         "id": 3175914,
@@ -6264,10 +6264,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:47.263Z",
-        "updatedAt": "2026-07-09T06:33:47.263Z",
+        "updatedAt": "2026-07-10T01:50:12.014Z",
         "modifiedAt": "2026-07-09T06:33:47.263Z",
-        "hash": "922b98984c8a53992d400b74dfb2f56f",
-        "sha256": "d795bc651eab02faef5812988a0d38e70417d4449eb068db0dceefeed5d2b7a7"
+        "hash": "1ee40193ec8e771e421587609fc90e31",
+        "sha256": "32c0fdf92a17598975f321d3fd573ee33c7c2238e67eec733dd11b7336a59a75"
     },
     "mod_reforged/hooks/skills/perks/perk_mastery_hammer.json": {
         "id": 3175916,
@@ -6283,10 +6283,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:47.76Z",
-        "updatedAt": "2026-07-09T08:33:40.675Z",
+        "updatedAt": "2026-07-10T01:50:12.087Z",
         "modifiedAt": "2026-07-09T06:33:47.76Z",
-        "hash": "4dec8798e60066c56a8ca494afa6c664",
-        "sha256": "71f1b7c119c269c4838d4be328c456ea1967e4f6fcdb147c85778a0650947e11"
+        "hash": "a40f2e283a05c25c52140e0b8aee04cf",
+        "sha256": "8e070893c6543dfd44c79b182c913458d9476b232a4df50cbb428c4ca9c6dac8"
     },
     "mod_reforged/hooks/skills/perks/perk_mastery_spear.json": {
         "id": 3175917,
@@ -6340,10 +6340,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:49.265Z",
-        "updatedAt": "2026-07-09T08:33:42.126Z",
+        "updatedAt": "2026-07-10T01:50:12.165Z",
         "modifiedAt": "2026-07-09T08:33:42.132Z",
-        "hash": "0dc6894adcc0a0813774c4c1dc0a7eff",
-        "sha256": "8f5cb3dc4856cbb6e0237a010c57cfd1672a1cf3d3fd9fb3fa2212b48e290e6d"
+        "hash": "0bd36156d8b2062c31dda159a2d9e834",
+        "sha256": "99425a877ad7ae14cecca90096408abbd9df016e9634eee9195408c62b38466f"
     },
     "mod_reforged/hooks/skills/perks/perk_pathfinder.json": {
         "id": 3175923,
@@ -6397,10 +6397,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:51.314Z",
-        "updatedAt": "2026-07-09T08:33:44.024Z",
+        "updatedAt": "2026-07-10T01:50:12.258Z",
         "modifiedAt": "2026-07-09T08:33:44.039Z",
-        "hash": "4b3309b60c141c1c996bc611f78b0fb4",
-        "sha256": "eabbbbf44db7837459176fe124f9966b552fe3529dc4ba3d46d3483775fbf39a"
+        "hash": "7e021f6d2fe75303f81fb56444272ff2",
+        "sha256": "82d0d0d0b1a83022fe7d228481149e690649435ac9f7e3299a322b381fb43a79"
     },
     "mod_reforged/hooks/skills/racial/champion_racial.json": {
         "id": 3175929,
@@ -6454,10 +6454,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:53.29Z",
-        "updatedAt": "2026-07-09T08:33:45.032Z",
+        "updatedAt": "2026-07-10T01:50:12.382Z",
         "modifiedAt": "2026-07-09T08:33:45.045Z",
-        "hash": "cd2c2cfdc2089aae68f3560d3a7f8211",
-        "sha256": "c15ee86248364019e3c31fb356f33edabfac947bf843dc54dc7649fc5085baa6"
+        "hash": "78b4885a8d228da005284d411c1f62e7",
+        "sha256": "b70c001d42a5331c08cd07c86652fa110cdac22aa70e6746dbbc5975cefeebe9"
     },
     "mod_reforged/hooks/skills/racial/golem_racial.json": {
         "id": 3175936,
@@ -6473,10 +6473,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:53.762Z",
-        "updatedAt": "2026-07-09T08:33:45.523Z",
+        "updatedAt": "2026-07-10T01:50:12.482Z",
         "modifiedAt": "2026-07-09T08:33:45.537Z",
-        "hash": "281d3a155887839087208375534618dd",
-        "sha256": "a9035fe7ee3ba62d40ef741124e0ba559c038b737128ac362d0d6f5ae545e687"
+        "hash": "0bba9ca5854680314a58c8d32031bf6e",
+        "sha256": "b44f1fd5ca9eb1aad57a6caf67c6d5d740d005c720b4e66b2324553a68eb168c"
     },
     "mod_reforged/hooks/skills/racial/grand_diviner_racial.json": {
         "id": 3175938,
@@ -6511,10 +6511,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:55.236Z",
-        "updatedAt": "2026-07-09T08:33:46.462Z",
+        "updatedAt": "2026-07-10T01:50:12.557Z",
         "modifiedAt": "2026-07-09T08:33:46.472Z",
-        "hash": "3fa4caaca8977f91263ad4fb45b19b7f",
-        "sha256": "d44fd7b5b9f8bb91a1a57c7b242525a76da51c7dadadef455299075c951e66ab"
+        "hash": "c519a6649b3298c6927de93d9035cdd1",
+        "sha256": "7a4918e5a81364053021d2c399f038664ef8e01472b45f35517d3b8b720946a5"
     },
     "mod_reforged/hooks/skills/racial/schrat_racial.json": {
         "id": 3175942,
@@ -6530,10 +6530,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:55.722Z",
-        "updatedAt": "2026-07-09T08:33:46.994Z",
+        "updatedAt": "2026-07-10T01:50:12.63Z",
         "modifiedAt": "2026-07-09T08:33:47.008Z",
-        "hash": "07c60800d2ca86f69a4abb2d87d4a332",
-        "sha256": "4a606b462c4caba0de35a3f947336c9896fd69332df5f69ebef41178f870cb4b"
+        "hash": "12d4e618258850f9b51fd57b71090a21",
+        "sha256": "509d7608c8dc5e872d16106a0742da2dbfda9a1a46c5e3754f84fa58808fc72e"
     },
     "mod_reforged/hooks/skills/racial/serpent_racial.json": {
         "id": 3175944,
@@ -6568,10 +6568,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:56.658Z",
-        "updatedAt": "2026-07-09T08:33:49.381Z",
+        "updatedAt": "2026-07-10T01:50:12.697Z",
         "modifiedAt": "2026-07-09T08:33:49.392Z",
-        "hash": "8e46273fc811512ad9ae2753c131435f",
-        "sha256": "6bbc94f200ae79a6d7aa686a7dd0ccd58627c3b34d4a28bb38ce9ff66d45950c"
+        "hash": "4e6f54229bbf6df5a1f31405bf6fbc43",
+        "sha256": "3e779c5ff60b24a21f83dd886e0369a25ea5dd28082c422dcfde1f3248a11a4b"
     },
     "mod_reforged/hooks/skills/racial/spider_racial.json": {
         "id": 3175948,
@@ -6606,10 +6606,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:58.257Z",
-        "updatedAt": "2026-07-09T08:33:50.349Z",
+        "updatedAt": "2026-07-10T01:50:12.777Z",
         "modifiedAt": "2026-07-09T08:33:50.354Z",
-        "hash": "6fb913f7b24838fa818bd1b8a577e51d",
-        "sha256": "466f4b86ec73951d7d3d7aed46af75faa02168251775094f887f6c2fbbd75f55"
+        "hash": "113537c816cf787c53e5256ea85a3062",
+        "sha256": "0a83acc19e609ec748cc86702b617a969eb15327e797e0826bb3be93981b472c"
     },
     "mod_reforged/hooks/skills/racial/vampire_racial.json": {
         "id": 3175951,
@@ -6625,10 +6625,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:33:58.738Z",
-        "updatedAt": "2026-07-09T08:33:50.831Z",
+        "updatedAt": "2026-07-10T01:50:12.862Z",
         "modifiedAt": "2026-07-09T08:33:50.84Z",
-        "hash": "38531ff4f495958fe781208e2dea7449",
-        "sha256": "e46c04a26561e62942bfe8f090a97299d27e06e651b738b201997f6bc9603cfb"
+        "hash": "19927ae477e523811b87ae171f3e9dba",
+        "sha256": "7a326e9861209c7f85aac53d5955187e3edfe8f1f29da784632914e6e8eea2aa"
     },
     "mod_reforged/hooks/skills/skill.json": {
         "id": 3175953,
@@ -6682,10 +6682,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:00.722Z",
-        "updatedAt": "2026-07-09T08:33:51.86Z",
+        "updatedAt": "2026-07-10T01:50:12.933Z",
         "modifiedAt": "2026-07-09T08:33:51.88Z",
-        "hash": "519f5231eb00a75fc4aa377973e77314",
-        "sha256": "8e13629f53af30f81aad39e7b53b590e0986a7f30d3dda00cc8234b457097070"
+        "hash": "1fc8cc38f3eac7b986c46e92c894a15c",
+        "sha256": "917559164a619127035c16747680b8e1f361a54b61623b314b3cdecb6aeea3d0"
     },
     "mod_reforged/hooks/skills/special/night_effect.json": {
         "id": 3175958,
@@ -6948,10 +6948,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:08.206Z",
-        "updatedAt": "2026-07-09T08:33:53.96Z",
+        "updatedAt": "2026-07-10T01:50:13.016Z",
         "modifiedAt": "2026-07-09T08:33:53.971Z",
-        "hash": "996f1fc191c1d3c621f95e32ed082ca5",
-        "sha256": "1a6420eae32549514ce15d881246f45f71bb41fa96d823973fe46620b798a9e5"
+        "hash": "af9c425c64401f520184527e025ca584",
+        "sha256": "495b193994a87c23baf3e88ea5bb3edc8eb2bf07937aba4c035d58f848c768ec"
     },
     "mod_reforged/hooks/ui/screens/tooltip/tooltip_events.json": {
         "id": 3175984,
@@ -6967,10 +6967,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:08.798Z",
-        "updatedAt": "2026-07-09T08:33:54.516Z",
+        "updatedAt": "2026-07-10T01:50:13.102Z",
         "modifiedAt": "2026-07-09T08:33:54.548Z",
-        "hash": "c18a5bf002bb30c03189b7c49c7ce401",
-        "sha256": "9c7a96734fffd54f3e1787aa4b4420f59fe0fccd23ff8027c37927d6f4e6f748"
+        "hash": "8ecb8a010eae43bb99a90cd637f46684",
+        "sha256": "de03900e70e6411f615a6ac6193995bf8aea397d80881865c00778868be3d6ea"
     },
     "mod_reforged/hooks/ui/screens/world/modules/world_contract_screen/world_active_contract_panel_module.json": {
         "id": 3175986,
@@ -7043,10 +7043,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:11.222Z",
-        "updatedAt": "2026-07-09T08:33:55.984Z",
+        "updatedAt": "2026-07-10T01:50:13.19Z",
         "modifiedAt": "2026-07-09T08:33:56.001Z",
-        "hash": "71577e2b90178b36f98424d445568cb5",
-        "sha256": "222cde22ebb688dc9b8e633a3707b844efa6fc3f2257e4155ab5d18a0e0a6338"
+        "hash": "b5c7e71742138408986de0b58695b6d9",
+        "sha256": "08531ac5b46d91291eef20678874f2a5e4057244d2a448dd3f3b0f415f17265b"
     },
     "mod_reforged/mod_conflicts.json": {
         "id": 3175992,
@@ -7081,10 +7081,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:12.267Z",
-        "updatedAt": "2026-07-09T08:33:57.071Z",
-        "modifiedAt": "2026-07-09T08:33:57.166Z",
-        "hash": "5f958e20bd6fd57ed0d1de4725d89b4c",
-        "sha256": "3939bc9393f3de2a12c3754a3f949a27fb021b34232e34cf97e15ab330e7421e"
+        "updatedAt": "2026-07-10T01:50:13.274Z",
+        "modifiedAt": "2026-07-10T01:50:13.29Z",
+        "hash": "e35ffc3456a40cc1d7060ece68fcfa7e",
+        "sha256": "afec689a6f50a7c5becc6534f2cef29f74809a6ae6779320e0cd6dbc47f80d0d"
     },
     "mod_reforged/msu_systems/nested_tooltips.json": {
         "id": 3175994,
@@ -7100,10 +7100,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:12.858Z",
-        "updatedAt": "2026-07-09T08:33:57.759Z",
-        "modifiedAt": "2026-07-09T08:33:57.849Z",
-        "hash": "67e65f9736c82da8d4cbbc1fb4f47b20",
-        "sha256": "48985a7a7766c28432ef0e391fcd88c47479d9eb181593c99bfaae52ed7a8fe8"
+        "updatedAt": "2026-07-10T01:50:13.41Z",
+        "modifiedAt": "2026-07-10T01:50:13.443Z",
+        "hash": "5e1b6a853bc510a5ae969170bc4c4fa4",
+        "sha256": "8a45db990000ddb0bcbf0398b07d9003e048d57c8e0e8604cfa9b505c3007940"
     },
     "mod_reforged/msu_systems/tooltips.json": {
         "id": 3175995,
@@ -7119,10 +7119,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:13.324Z",
-        "updatedAt": "2026-07-09T08:33:58.336Z",
+        "updatedAt": "2026-07-10T01:50:13.528Z",
         "modifiedAt": "2026-07-09T08:33:58.351Z",
-        "hash": "8b7fb1a1ccf22bfe29b5ae3cd6a4c1bf",
-        "sha256": "7dd98700e3550d799aab4f4f5f10dac603a01d9874a9aee15f040118cb9e8569"
+        "hash": "c58fc11a4212fb8e9755a4ee3f9c434f",
+        "sha256": "6d872ff342313c58bfa3d147c635962f84e68ef5b24995870ba6b9ef02d1fa34"
     },
     "scripts/!mods_preload/mod_reforged.json": {
         "id": 3175996,
@@ -7138,10 +7138,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:13.796Z",
-        "updatedAt": "2026-07-09T08:33:58.853Z",
+        "updatedAt": "2026-07-10T01:50:13.594Z",
         "modifiedAt": "2026-07-09T08:33:58.867Z",
-        "hash": "24ee7738172467057bafd7e12c37e901",
-        "sha256": "7f7aae1311f1c7a0baefe4c1016defcb0fda3018be463b08ac00bfd295f29d61"
+        "hash": "5cad10b35dddc556a683f131d9bba969",
+        "sha256": "241f9deae8593464795643ad2bc0527bef0db1dba9707173b440a2af6a424e88"
     },
     "scripts/!mods_preload/mod_reforged_assets/mod_reforged_assets_registration.json": {
         "id": 3175997,
@@ -7176,10 +7176,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:14.807Z",
-        "updatedAt": "2026-07-09T08:33:59.816Z",
+        "updatedAt": "2026-07-10T01:50:13.653Z",
         "modifiedAt": "2026-07-09T06:34:14.807Z",
-        "hash": "b5865a5a4621878c641b6fef8c9d50d8",
-        "sha256": "74e10d1d9a705e51113422289d4fe1648d30a7a8308c9910b4daf5ce115c793a"
+        "hash": "39903018e42d23fb1ba026e06b81ffe7",
+        "sha256": "150e22e1fd42674b56ea3b8dc51d3e00b4b037aafba49cd98e169f51a929a323"
     },
     "scripts/ai/tactical/behaviors/ai_rf_bodyguard.json": {
         "id": 3175999,
@@ -7195,10 +7195,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:15.277Z",
-        "updatedAt": "2026-07-09T06:34:15.277Z",
+        "updatedAt": "2026-07-10T01:50:13.762Z",
         "modifiedAt": "2026-07-09T06:34:15.277Z",
-        "hash": "be0fc97648acc31314e7ac9a00e4f29b",
-        "sha256": "105552bd90ff9040654891acc61d8382f91013e62c9ab0d89314bd08a5008650"
+        "hash": "80d878cd77211d625fd6f9f4777439f2",
+        "sha256": "c09cd1798e00d1d3593e00b026967a5520b4eea0767d1693efefebe75e65ec7b"
     },
     "scripts/ai/tactical/behaviors/ai_rf_command.json": {
         "id": 3176000,
@@ -7214,10 +7214,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:15.734Z",
-        "updatedAt": "2026-07-09T08:34:00.292Z",
+        "updatedAt": "2026-07-10T01:50:13.852Z",
         "modifiedAt": "2026-07-09T06:34:15.734Z",
-        "hash": "dffc830328f06f9a2bdc8076a36d4664",
-        "sha256": "b68d639ae69682e47b83d218b5b3aed40c3ec7352494dff6a2746681374b7cc9"
+        "hash": "dcc6b699f1b59d841c5ceefcb7371e85",
+        "sha256": "ea89efe520360e6ae8a83408749cbe8276d8e5d5254316645f91017bab61f60f"
     },
     "scripts/ai/tactical/behaviors/ai_rf_cover_ally.json": {
         "id": 3176001,
@@ -7233,10 +7233,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:16.209Z",
-        "updatedAt": "2026-07-09T08:34:01.647Z",
+        "updatedAt": "2026-07-10T01:50:13.919Z",
         "modifiedAt": "2026-07-09T06:34:16.209Z",
-        "hash": "6e6f8a2ec12e384b92bb85171ec7fa09",
-        "sha256": "f5b0eda8d8363a55da22b44efd278dbdef91395a69620836cd644ae14c22ad4a"
+        "hash": "9fcbfe66b88f538c862b4236ee939e42",
+        "sha256": "e5d66c19af9054140ee660b6579a2b8175e74020eb1e1c91be0c2a9c2bf4ca7a"
     },
     "scripts/ai/tactical/behaviors/ai_rf_follow_up.json": {
         "id": 3176002,
@@ -7271,10 +7271,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:17.162Z",
-        "updatedAt": "2026-07-09T08:34:03.897Z",
+        "updatedAt": "2026-07-10T01:50:14.016Z",
         "modifiedAt": "2026-07-09T08:34:03.941Z",
-        "hash": "a4b7284e5ef6580088a2a2b7ec7e6cce",
-        "sha256": "c9cc87a2834c8c42ff4306db6b1ca6db58dff405b2328096650e2c9f235e11bb"
+        "hash": "a80240a4094f37ad989a1e4ec8cbd340",
+        "sha256": "ad45781f39cde579b424bc60fbfb631793293fa359aa45272cac539809f8ac3e"
     },
     "scripts/crafting/blueprints/rf_grave_chill_bomb_blueprint.json": {
         "id": 3176004,
@@ -7556,10 +7556,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:25.172Z",
-        "updatedAt": "2026-07-09T08:34:09.995Z",
+        "updatedAt": "2026-07-10T01:50:14.104Z",
         "modifiedAt": "2026-07-09T08:34:10.011Z",
-        "hash": "0cf1679850e6a5b4f40203e9ccc0e6ac",
-        "sha256": "bcc023fc8a9de91e5314bfb2b24c0c3fbf1a79953ab475bf09b946970a16764d"
+        "hash": "17d334867f901feb83cf355ede7bdeb5",
+        "sha256": "8cba639d84b471427f16c13220bff8f63855a929cef621351ae9de4accfdfdde"
     },
     "scripts/events/events/rf_oathtakers_take_oaths_in_regular_origins_event.json": {
         "id": 3176019,
@@ -7575,10 +7575,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:25.715Z",
-        "updatedAt": "2026-07-09T08:34:10.984Z",
+        "updatedAt": "2026-07-10T01:50:14.18Z",
         "modifiedAt": "2026-07-09T08:34:10.992Z",
-        "hash": "edb9bafa9f5e4530fa7e11af2fa77a64",
-        "sha256": "8648c0d8a4c4aef31e1f5b4342a0662aeae47a06b2e628ea1ab6a61776fb0b97"
+        "hash": "7bbd998d525e5a82ceb98b17b465229f",
+        "sha256": "4354eeae44bd338ca6ce86e6bef0420b63b00ac311bff2765390b70c93274fb5"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_intro_event.json": {
         "id": 3176020,
@@ -7594,10 +7594,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:26.542Z",
-        "updatedAt": "2026-07-09T08:34:11.719Z",
+        "updatedAt": "2026-07-10T01:50:14.26Z",
         "modifiedAt": "2026-07-09T08:34:11.736Z",
-        "hash": "c6a6f4f59182220759786dd0dbaba738",
-        "sha256": "06f93ff878ef8594a2daeb46d95a52e55237a04b285d9466af430e7024365a57"
+        "hash": "38628d43d03ec9874680b008f106dc70",
+        "sha256": "0ebd0c14710b4d7e88481744473783c49a68b82d94373dcb31efc862ece62701"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_no_recruits_force_end_event.json": {
         "id": 3176021,
@@ -7613,10 +7613,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:27.98Z",
-        "updatedAt": "2026-07-09T08:34:12.214Z",
+        "updatedAt": "2026-07-10T01:50:14.332Z",
         "modifiedAt": "2026-07-09T08:34:12.22Z",
-        "hash": "6b0eef9587485a9b947307d1a104ce05",
-        "sha256": "8ec6fae9a9dde49d98f4263f9f83b27d8dc76b1e56ad24805ecc1ad7c76630f8"
+        "hash": "1a1f4b4a24a3d04c7320bee7a0292f41",
+        "sha256": "8041c72765e8194b68a542bf25f5fd31b8e621144cf9fb597f3f78583e5e0af1"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_old_age_event_1.json": {
         "id": 3176022,
@@ -7632,10 +7632,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:28.518Z",
-        "updatedAt": "2026-07-09T08:34:13.382Z",
+        "updatedAt": "2026-07-10T01:50:14.403Z",
         "modifiedAt": "2026-07-09T08:34:13.387Z",
-        "hash": "cf8ae37f224cac0e5832bc3773a94a6c",
-        "sha256": "cd82d0bf102f76e01cc708044c4649a8cbfa811068bff0707b0c8b831c39a35d"
+        "hash": "cca3794bd33fc16f49e3234990d43f21",
+        "sha256": "c75b79c0c884647287a503e353a15b61fb25039a54912176a19d2ba114e8e3fd"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_old_age_event_2.json": {
         "id": 3176023,
@@ -7651,10 +7651,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:29.077Z",
-        "updatedAt": "2026-07-09T08:34:13.876Z",
+        "updatedAt": "2026-07-10T01:50:14.466Z",
         "modifiedAt": "2026-07-09T08:34:13.881Z",
-        "hash": "7b6182b22615751b809300dc172a0f7c",
-        "sha256": "9f8497e3c17535353b680e5a4a35b8b1f20205b6e9a3452febc675e9b25bdd2f"
+        "hash": "8143232f99f2876c39498fa7ca122596",
+        "sha256": "d892187a2c5f049e3a6559d58648e8f4f92d9133f01a4392d20751f50f03c537"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_old_age_event_3.json": {
         "id": 3176024,
@@ -7670,10 +7670,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:29.629Z",
-        "updatedAt": "2026-07-09T08:34:14.401Z",
+        "updatedAt": "2026-07-10T01:50:14.545Z",
         "modifiedAt": "2026-07-09T08:34:14.411Z",
-        "hash": "bee1454bf1f8ef8a9a2cea1227383a4a",
-        "sha256": "dea41bc76ee393716c177008bd0c5fd0029667cb3d47cfb68db1f8a0f77c5a72"
+        "hash": "665c86ad926146e27859471a1ae60e2f",
+        "sha256": "d2682698390f82d5583a90d04bc730bad51c3bdedf3ed7c13c5e26917fae46ed"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_old_age_event_4.json": {
         "id": 3176025,
@@ -7689,10 +7689,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:30.186Z",
-        "updatedAt": "2026-07-09T08:34:14.957Z",
+        "updatedAt": "2026-07-10T01:50:14.625Z",
         "modifiedAt": "2026-07-09T08:34:14.994Z",
-        "hash": "4c6496ba1fa9cf9cd38b83673bc66e4a",
-        "sha256": "fa88e862a457d673cdeee36145e2eba09956de7607e16eca752cfbdfd0c29ea9"
+        "hash": "097402101b8d93f5882c30e9d009586d",
+        "sha256": "436f368d0338641453f330223369c246ad125e9773346f53e6c90ac12fce7166"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_student_local_duel_event.json": {
         "id": 3176026,
@@ -7708,10 +7708,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:30.781Z",
-        "updatedAt": "2026-07-09T08:34:15.626Z",
+        "updatedAt": "2026-07-10T01:50:14.711Z",
         "modifiedAt": "2026-07-09T08:34:15.645Z",
-        "hash": "a58fde4d2713c451a7e0572d13f058e8",
-        "sha256": "0511c2ed44b78d63b793b281e6155c5159b6b8faddd9b02449f76642469e075c"
+        "hash": "08fb671994e702261d2566d16dcdefa6",
+        "sha256": "a8987c0ca56703927721917998ffc9c38f62835c72bf7aa959dcbbcae547b382"
     },
     "scripts/events/events/scenario/rf_random_solo_scenario_intro_event.json": {
         "id": 3176027,
@@ -7727,10 +7727,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:31.377Z",
-        "updatedAt": "2026-07-09T08:34:17.06Z",
+        "updatedAt": "2026-07-10T01:50:14.778Z",
         "modifiedAt": "2026-07-09T08:34:17.064Z",
-        "hash": "3ce1c668d64d0ea2144590d4b76821fc",
-        "sha256": "66a45cc7a2363a42e8b29952d285c1345cf68867156bf2ef171601e692f082a0"
+        "hash": "19327892d243cc5496be7f6269c71f9f",
+        "sha256": "b04ff68d65570f78f82405266a7360004bed5de15706aa1b10dc10fbdb42ee04"
     },
     "scripts/events/events/scenario/rf_random_trio_scenario_intro_event.json": {
         "id": 3176028,
@@ -7746,10 +7746,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:34:31.932Z",
-        "updatedAt": "2026-07-09T08:34:17.75Z",
+        "updatedAt": "2026-07-10T01:50:14.858Z",
         "modifiedAt": "2026-07-09T08:34:17.759Z",
-        "hash": "80ee88cbe20850d20bfe3b7c0e7f3a7f",
-        "sha256": "010006a01dc4498ca93eed9c6a8d851385b73b7be530b05e12286b95cdd193a9"
+        "hash": "9dd510a218dbb78f3c60837863963b9a",
+        "sha256": "3526076e54c44ce1af8ffb2a6f996bbb3ac6812e79e33753860ba7d810f7a1c9"
     },
     "scripts/items/accessory/rf_dodge_potion_item.json": {
         "id": 3176029,
@@ -10919,10 +10919,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:07.102Z",
-        "updatedAt": "2026-07-09T08:34:59.653Z",
+        "updatedAt": "2026-07-10T01:50:14.973Z",
         "modifiedAt": "2026-07-09T08:34:59.66Z",
-        "hash": "5476696faa8b5f94047f709ccebe9638",
-        "sha256": "6a6897828337e1ebc33a9e239699cd814ac8d865d219db9fd0f48e25d19b2bba"
+        "hash": "c044e99a50453f68385c15e2796b766f",
+        "sha256": "f98d64692c8db4427fc17fb18b0d4ee896370ff234cb21666ebb671ad2fccf79"
     },
     "scripts/skills/actives/rf_bearded_blade_skill.json": {
         "id": 3176195,
@@ -10957,10 +10957,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:08.563Z",
-        "updatedAt": "2026-07-09T08:35:02.22Z",
+        "updatedAt": "2026-07-10T01:50:15.041Z",
         "modifiedAt": "2026-07-09T08:35:02.227Z",
-        "hash": "1525173282f671b3768c15cb6f9a666b",
-        "sha256": "f3dc83877f756b14db86864daebb355f7ac613134ec5b62ee2a165ed60e8eae6"
+        "hash": "427aeb7379dae2421e57cbdb3905819d",
+        "sha256": "0286b3f32fd3e71c647186f58c4c3f541ae9f96a1b50738c550f584348558ec5"
     },
     "scripts/skills/actives/rf_between_the_eyes_skill.json": {
         "id": 3176197,
@@ -10995,10 +10995,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:10.005Z",
-        "updatedAt": "2026-07-09T08:35:02.705Z",
+        "updatedAt": "2026-07-10T01:50:15.115Z",
         "modifiedAt": "2026-07-09T08:35:02.712Z",
-        "hash": "a757d7e8a714abc77a705e303e34f026",
-        "sha256": "cb1d156c58b14f4016576c9e1d3acd54aa34a9a385ddf3fba76cfbfa24de9d66"
+        "hash": "40114c60d710a6472364aa7eefb5fbc4",
+        "sha256": "23b0ef93b362337e598c3c9c1efbb350ea3872548c4fbe4be36cadaa488ee880"
     },
     "scripts/skills/actives/rf_cheap_trick_skill.json": {
         "id": 3176199,
@@ -11033,10 +11033,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:11.447Z",
-        "updatedAt": "2026-07-09T06:36:11.447Z",
+        "updatedAt": "2026-07-10T01:50:15.181Z",
         "modifiedAt": "2026-07-09T06:36:11.447Z",
-        "hash": "d052a9ac4d1d7dc84188758bff5a32ab",
-        "sha256": "4355c0159d5a32d0c9d9f6e6181b92c1194b65bf3798f5788bb6f249e0f6f807"
+        "hash": "c5db5c7768bc47c5d14f7e56031d3460",
+        "sha256": "b4da3470bdefa947c4653b85802cf9ce204957da27ec1f9d952d4172ed874cdc"
     },
     "scripts/skills/actives/rf_cleaving_swing_skill.json": {
         "id": 3176201,
@@ -11052,10 +11052,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:11.903Z",
-        "updatedAt": "2026-07-09T06:36:11.903Z",
+        "updatedAt": "2026-07-10T01:50:15.264Z",
         "modifiedAt": "2026-07-09T06:36:11.903Z",
-        "hash": "e3ef7c6bbb9881cefda9f040f7616361",
-        "sha256": "412bdf7c392f1994e36ef37a09690d55ed0020e276bffeabf8fb2b2f789b1841"
+        "hash": "426ca19b5e6aedaf898e5a5745288d98",
+        "sha256": "f4799a78fd546249747fe644ee4eab28793b4ffa2b93262be4e994b6432fdbde"
     },
     "scripts/skills/actives/rf_command_skill.json": {
         "id": 3176202,
@@ -11090,10 +11090,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:12.827Z",
-        "updatedAt": "2026-07-09T08:35:04.172Z",
+        "updatedAt": "2026-07-10T01:50:15.341Z",
         "modifiedAt": "2026-07-09T08:35:04.182Z",
-        "hash": "7aa3dfae6724be22c728a3215d0be1fb",
-        "sha256": "75e0bd7c63248f1496a4e6c96546846b81acb3a814b33ead7844b6a798c72269"
+        "hash": "fc485e0fdd2acc45b8cafd4f03ad481c",
+        "sha256": "308f869d5846a302f3fe846ab188837b2ebf5d15731e5bc4ba3e521074406605"
     },
     "scripts/skills/actives/rf_deep_impact_skill.json": {
         "id": 3176204,
@@ -11147,10 +11147,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:14.334Z",
-        "updatedAt": "2026-07-09T08:35:05.965Z",
+        "updatedAt": "2026-07-10T01:50:15.425Z",
         "modifiedAt": "2026-07-09T08:35:05.977Z",
-        "hash": "985fe40d19bdf4f278cfde78a24f54a4",
-        "sha256": "a74bcb4908c53727567fd0c9d0ee6c8723ebc044b668c390fff0a479d5b65095"
+        "hash": "5f2d45cf8c70a0c65540d3d350f5ac29",
+        "sha256": "ff8da77e661381d9761048df4b38f954445023b31a885cf060955e8b265bfa9c"
     },
     "scripts/skills/actives/rf_en_garde_toggle_skill.json": {
         "id": 3176207,
@@ -11242,10 +11242,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:16.775Z",
-        "updatedAt": "2026-07-09T08:35:07.904Z",
+        "updatedAt": "2026-07-10T01:50:15.5Z",
         "modifiedAt": "2026-07-09T08:35:07.913Z",
-        "hash": "7b6a9e724910e9bf24294090cadfdf23",
-        "sha256": "09d652b41a267a579bd3f508341d017b1afc9746b1319a5563289f8ac7da06d0"
+        "hash": "95f3a46d3fb45dea3f45efaf9debfe78",
+        "sha256": "6e72bce86f9c9679fe6c06131022c5473186662c3de8bbf044ae2cf0c99fc8d6"
     },
     "scripts/skills/actives/rf_follow_up_skill.json": {
         "id": 3176212,
@@ -11261,10 +11261,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:17.263Z",
-        "updatedAt": "2026-07-09T08:35:08.667Z",
+        "updatedAt": "2026-07-10T01:50:15.565Z",
         "modifiedAt": "2026-07-09T08:35:08.673Z",
-        "hash": "c1230cdfc0bad7be2598adf03724553c",
-        "sha256": "a44db100e7eb33b3cebced3efa3d1b5fa00f0355b237c62fee800339067be201"
+        "hash": "2b284252ca696424d9d76918c32fda07",
+        "sha256": "c1a9cca751343664ace4055937b93eecababeb9367bb92c8fd121f72c7c44425"
     },
     "scripts/skills/actives/rf_gain_ground_skill.json": {
         "id": 3176213,
@@ -11280,10 +11280,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:17.799Z",
-        "updatedAt": "2026-07-09T08:35:09.187Z",
+        "updatedAt": "2026-07-10T01:50:15.624Z",
         "modifiedAt": "2026-07-09T08:35:09.194Z",
-        "hash": "032777a32b1d3a220feb0a417c74d6ee",
-        "sha256": "f5286b845bbfafd8605148332a8f01005c134635afe93945d29421aa0d35b7c4"
+        "hash": "53d23aeb015aa2302d3268df27195e89",
+        "sha256": "f8f23e1e9fc17e8eeb6e6ead730e3d9f52108003fe4fcd620b9e36bebebda381"
     },
     "scripts/skills/actives/rf_gouge_skill.json": {
         "id": 3176214,
@@ -11299,10 +11299,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:18.282Z",
-        "updatedAt": "2026-07-09T08:35:09.693Z",
+        "updatedAt": "2026-07-10T01:50:15.695Z",
         "modifiedAt": "2026-07-09T08:35:09.697Z",
-        "hash": "287a1359c89b6dcb3fc88ae7fdb377a5",
-        "sha256": "b039765bf1dd65c5289cd7d0e386d6cd3ae3de26173e5fa6fa4dba0fef7dcc49"
+        "hash": "374b5e5912e1fa88d3563354c90e6994",
+        "sha256": "42edf53b4e20eadc55895676ea5c211e22a76a7410b6fc72fa97bb79b9aca55a"
     },
     "scripts/skills/actives/rf_great_cleave_skill.json": {
         "id": 3176215,
@@ -11432,10 +11432,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:21.618Z",
-        "updatedAt": "2026-07-09T08:35:12.579Z",
+        "updatedAt": "2026-07-10T01:50:15.763Z",
         "modifiedAt": "2026-07-09T08:35:12.592Z",
-        "hash": "4653bcb46704faad9866bc3784aa4778",
-        "sha256": "31e0bb0c8e564dba5db7ac12a5922a79d8da8c8166286bbf320514872868bcb3"
+        "hash": "a444779f1b2bef00f2ea558bc79f0fa9",
+        "sha256": "514d9a8ffe22e55028254ecbbca8517f3a25b7d6dc20e28046c07cec45e3166b"
     },
     "scripts/skills/actives/rf_lash_pole_skill.json": {
         "id": 3176222,
@@ -11508,10 +11508,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:24.026Z",
-        "updatedAt": "2026-07-09T08:35:13.089Z",
+        "updatedAt": "2026-07-10T01:50:15.826Z",
         "modifiedAt": "2026-07-09T08:35:13.094Z",
-        "hash": "d2e54dd9c9f989aa0ba6b557b83e7bd5",
-        "sha256": "147399b10d8398a49d13f37dd87d9fc7a4eb1cbc672c706596b52453f79a730e"
+        "hash": "81aafcb75643b4737a642a592062e493",
+        "sha256": "a8e1f937dce69a5c03ead3d2523b6b94fafcf38be6c1b3b6cb4e345f02429d6a"
     },
     "scripts/skills/actives/rf_net_pull_skill.json": {
         "id": 3176226,
@@ -11584,10 +11584,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:26.235Z",
-        "updatedAt": "2026-07-09T08:35:15.728Z",
+        "updatedAt": "2026-07-10T01:50:15.906Z",
         "modifiedAt": "2026-07-09T08:35:15.741Z",
-        "hash": "a35c556c8f1e102010d815291c74fffe",
-        "sha256": "6687f3f32afdb1cf4136b7bb2673b494ca2992bf0bd748f42b31cf60430d0c35"
+        "hash": "c7cd63acabdf0a7edaf11a7f833329d8",
+        "sha256": "1224bba1f1e575b329f2dab46a6e9cf69b47c0bf65f6be39c75e674de598cf6f"
     },
     "scripts/skills/actives/rf_pocket_sand_skill.json": {
         "id": 3176230,
@@ -11622,10 +11622,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:27.173Z",
-        "updatedAt": "2026-07-09T08:35:16.955Z",
+        "updatedAt": "2026-07-10T01:50:15.984Z",
         "modifiedAt": "2026-07-09T08:35:16.961Z",
-        "hash": "467a656058e1b44cf6fa47ad2a617f46",
-        "sha256": "fc0bfc339db7a258389913c02c4dad0b555fa4ad6613a8d993d3ca256d70e594"
+        "hash": "ba02e433ec3a4606590fe387c6ea4b66",
+        "sha256": "8dc84a6c90b41cd5d0316cc2b51e5eb54fe204300e41724836fc7cc97dd2da00"
     },
     "scripts/skills/actives/rf_sanguine_curse_skill.json": {
         "id": 3176232,
@@ -11641,10 +11641,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:27.652Z",
-        "updatedAt": "2026-07-09T08:35:17.435Z",
+        "updatedAt": "2026-07-10T01:50:16.06Z",
         "modifiedAt": "2026-07-09T08:35:17.442Z",
-        "hash": "538e217c6e1f9870adef0a67a4a7a648",
-        "sha256": "45749178451512ec7870464b2ad94505a89dfc1366365758f5a3020d00b68a3e"
+        "hash": "c9082399a6957f7b31a8ce731cdad4bd",
+        "sha256": "6f049a23447c6b28bc7b4c776289d354e6d94b62352e3187383bbb1826cdd282"
     },
     "scripts/skills/actives/rf_schrat_small_root_skill.json": {
         "id": 3176233,
@@ -11717,10 +11717,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:30.106Z",
-        "updatedAt": "2026-07-09T08:35:18.858Z",
+        "updatedAt": "2026-07-10T01:50:16.129Z",
         "modifiedAt": "2026-07-09T08:35:18.864Z",
-        "hash": "bbac89e8088b329f54ea1cc444c2fdd5",
-        "sha256": "d01938d6462428743eafc405f32859d9781474883c85b8da1cf67315505bbc7d"
+        "hash": "917f2955f6f43f604200f2926c4bed25",
+        "sha256": "e739f87a828da093f4ed9b2324090a1e924af3971d67840f1d978d4a3b91f32b"
     },
     "scripts/skills/actives/rf_sword_thrust_skill.json": {
         "id": 3176237,
@@ -11774,10 +11774,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:31.707Z",
-        "updatedAt": "2026-07-09T08:35:20.058Z",
+        "updatedAt": "2026-07-10T01:50:16.201Z",
         "modifiedAt": "2026-07-09T08:35:20.068Z",
-        "hash": "ac226540643150a3b81779ed18b93d16",
-        "sha256": "c8dfd6451c270aa6f4e597936ddebdc5e16fcd82500f2bb39954883811c85f66"
+        "hash": "920a7534a7396a98270803bfe3147540",
+        "sha256": "5ae1ccd33185967521b13b88d15854d948e3007001273b046e89203d2636f505"
     },
     "scripts/skills/actives/rf_swordmaster_kick_skill.json": {
         "id": 3176240,
@@ -11812,10 +11812,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:32.836Z",
-        "updatedAt": "2026-07-09T08:35:21.021Z",
+        "updatedAt": "2026-07-10T01:50:16.27Z",
         "modifiedAt": "2026-07-09T08:35:21.029Z",
-        "hash": "b875a3b8747d398f06150828826edfea",
-        "sha256": "a6e24764b5edf6d299734aadf9ddc3d68b675d5b5b8b40be7d783a85f15bed8c"
+        "hash": "89bb2b6c484f56ba0b41bac6d00fbf3a",
+        "sha256": "cb7d285a0aeaff6c23d4e2509b6517e02c830db3e3b3b9f7e7490ec317ecb85c"
     },
     "scripts/skills/actives/rf_swordmaster_stance_abstract_skill.json": {
         "id": 3176242,
@@ -11831,10 +11831,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:33.313Z",
-        "updatedAt": "2026-07-09T08:35:21.514Z",
+        "updatedAt": "2026-07-10T01:50:16.33Z",
         "modifiedAt": "2026-07-09T08:35:21.519Z",
-        "hash": "af2c1ddc5f5bedf6aa75a194fea6c35e",
-        "sha256": "81afc0c2fff16928efc152aff1e95325d2816c45e294d2afeefc0882733b9afc"
+        "hash": "656ea5caaecf596d549c520932030a7c",
+        "sha256": "9a68f002b9c448b89959bc287cfa530269869aa75d67dd3aa29460ccb8e3a3a9"
     },
     "scripts/skills/actives/rf_swordmaster_stance_half_swording_skill.json": {
         "id": 3176243,
@@ -11907,10 +11907,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:36.391Z",
-        "updatedAt": "2026-07-09T08:35:23.76Z",
+        "updatedAt": "2026-07-10T01:50:16.416Z",
         "modifiedAt": "2026-07-09T08:35:23.767Z",
-        "hash": "c306f49f8be4d659e4bf4fa9d0ac63db",
-        "sha256": "3f608f9d8336dd74f0a57240664435a7bf82c58e4106d65244f9902d2fe6e19f"
+        "hash": "d2ac9748940fd0a315966452071767ab",
+        "sha256": "fadde3bb7d5b73b1ee95af3fa61dd44b4587cf3597c07378985dc5f57fe3bb22"
     },
     "scripts/skills/actives/rf_take_aim_skill.json": {
         "id": 3176247,
@@ -11926,10 +11926,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:36.874Z",
-        "updatedAt": "2026-07-09T08:35:24.256Z",
+        "updatedAt": "2026-07-10T01:50:16.489Z",
         "modifiedAt": "2026-07-09T08:35:24.261Z",
-        "hash": "3c6fcf895066d74ba1b1f0e7ef8129a5",
-        "sha256": "015ff509c54404d7a556ad394df12499f951327d70320652b096678e0dff2b7a"
+        "hash": "afaca29cdbe1a23a64bfb5b832f96ef4",
+        "sha256": "1492078a32b38260f3547d530eee82a76878f4cbf6151ff9cda2d6104e71a840"
     },
     "scripts/skills/actives/rf_throw_grave_chill_bomb_skill.json": {
         "id": 3176248,
@@ -12116,10 +12116,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:42.791Z",
-        "updatedAt": "2026-07-09T08:35:26.77Z",
+        "updatedAt": "2026-07-10T01:50:16.561Z",
         "modifiedAt": "2026-07-09T08:35:26.775Z",
-        "hash": "c5e5259e222eee79f8cde4335c5f8e38",
-        "sha256": "1adbe62fb713a8e9f6f3071244a42f8f9dfd78bb988b686f2035b92bd079082c"
+        "hash": "c450dd445e8823dcb5dc5b45ea4aae78",
+        "sha256": "39ac0bbc86832a48acc5fc7429678a301334f148ee3db10af7c3179994961e8c"
     },
     "scripts/skills/effects/rf_barrow_chant_debuff_effect.json": {
         "id": 3176258,
@@ -12135,10 +12135,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:43.262Z",
-        "updatedAt": "2026-07-09T08:35:27.258Z",
+        "updatedAt": "2026-07-10T01:50:16.633Z",
         "modifiedAt": "2026-07-09T08:35:27.264Z",
-        "hash": "bab5189b672a956bd7434725fe98a68b",
-        "sha256": "b6a18614b1d60d6d63c08d3baaf3b4ef96607b82f90f1b7112bbd23cd51ec254"
+        "hash": "bf00af615c1215b6d3bc1e8c5e991df5",
+        "sha256": "60b8968eed01fc40a547580b4823b4392958a7ade2100147bcd2021679f54780"
     },
     "scripts/skills/effects/rf_barrow_chant_effect.json": {
         "id": 3176259,
@@ -12192,10 +12192,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:44.677Z",
-        "updatedAt": "2026-07-09T08:35:29.71Z",
+        "updatedAt": "2026-07-10T01:50:16.692Z",
         "modifiedAt": "2026-07-09T08:35:29.714Z",
-        "hash": "86e545a76d43af637ed44a7d70ccebe9",
-        "sha256": "1b6c89b0c243b25c1edbbc04ddcc18da70d8bbb8642287a6dd2e3d8f3e745cb4"
+        "hash": "5435c3b1e53aad348a054998fdd6a90f",
+        "sha256": "70fd22f024bd25daa94a3ddaeb97b5b6d0a480e2cc8e4d77c7890fd2b6cb89d2"
     },
     "scripts/skills/effects/rf_bone_platings_effect.json": {
         "id": 3176262,
@@ -12553,10 +12553,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:56.412Z",
-        "updatedAt": "2026-07-09T06:36:56.412Z",
+        "updatedAt": "2026-07-10T01:50:16.765Z",
         "modifiedAt": "2026-07-09T06:36:56.412Z",
-        "hash": "05a505e64e58c9f78de1299aba9f2bae",
-        "sha256": "ee16f58865cbf5fcddf7950b02257037f98ae995b3aeff94765bf289a20ca0eb"
+        "hash": "2ab43e388c5b056f53336ba2df88d043",
+        "sha256": "0aef5437c01b639e82b3a839ad558a8c96a35ae4595ae26320f9943d9cf0e6a0"
     },
     "scripts/skills/effects/rf_grave_chill_effect.json": {
         "id": 3176281,
@@ -12629,10 +12629,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:58.308Z",
-        "updatedAt": "2026-07-09T08:35:39.375Z",
+        "updatedAt": "2026-07-10T01:50:16.841Z",
         "modifiedAt": "2026-07-09T08:35:39.38Z",
-        "hash": "331aac5b4a9449fe2ee85793128b7a68",
-        "sha256": "fb205d6a23ace3a4c180aa025fbf51cd858586fa9e7b2e1df2b2e8a2f5ab235e"
+        "hash": "ecba646f563b593292056374356d7f1c",
+        "sha256": "0e631ffbb4db8ea0a1199100d4bbc449ea0d2a3b44821fc2fb5308e9a5b10f3c"
     },
     "scripts/skills/effects/rf_inspired_by_champion_effect.json": {
         "id": 3176285,
@@ -12686,10 +12686,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:36:59.761Z",
-        "updatedAt": "2026-07-09T08:35:44.352Z",
+        "updatedAt": "2026-07-10T01:50:16.911Z",
         "modifiedAt": "2026-07-09T08:35:44.359Z",
-        "hash": "f78970bf35693cdb5f242d900908bf25",
-        "sha256": "c40ab766d9f8512dd4cb31a6fa148029db2f75f0a2d5ce1cf363d959db14f084"
+        "hash": "ccfb39d1893d125429bf579bc7cde94c",
+        "sha256": "de1b46996b4d0a2fbd6d14078e2974b8e3fcf4a3f07fc0e44233ebe5e00d3ac6"
     },
     "scripts/skills/effects/rf_numbness_effect.json": {
         "id": 3176288,
@@ -12762,10 +12762,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:02.195Z",
-        "updatedAt": "2026-07-09T08:35:45.9Z",
+        "updatedAt": "2026-07-10T01:50:16.979Z",
         "modifiedAt": "2026-07-09T08:35:45.907Z",
-        "hash": "c411d32cec225ce3068ebba07dfbab27",
-        "sha256": "4faa155a9739cf93beca0c55973a5fba832aa8a652e0ee8e1e8743ee0c2291cc"
+        "hash": "8dea5d6ee900fc77ffc42cd73df91009",
+        "sha256": "903ff5be1bccd5787026d05a3a7251c5df50636d39564fbe8ca0a5d8d41bb00b"
     },
     "scripts/skills/effects/rf_onslaught_effect.json": {
         "id": 3176292,
@@ -12914,10 +12914,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:06.567Z",
-        "updatedAt": "2026-07-09T08:35:48.707Z",
+        "updatedAt": "2026-07-10T01:50:17.053Z",
         "modifiedAt": "2026-07-09T08:35:48.715Z",
-        "hash": "6bf0919f35d40c45b615fd8b90967a9a",
-        "sha256": "2c722a6c3a8376580e8a8d9c9d88553fb39912e59ef64c2eea1628409bf0a529"
+        "hash": "417af8f5e05a77d9a7afa872d5a55d80",
+        "sha256": "9ac5c265288eb12deeeeb6fea6e5140ea4e990a2fc7224f546659498c8b0c71f"
     },
     "scripts/skills/effects/rf_unnerving_presence_effect.json": {
         "id": 3176300,
@@ -13123,10 +13123,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:12.361Z",
-        "updatedAt": "2026-07-09T08:35:55.62Z",
+        "updatedAt": "2026-07-10T01:50:17.142Z",
         "modifiedAt": "2026-07-09T08:35:55.625Z",
-        "hash": "db969159bc7cb4a6ab286f55b2ffcf6e",
-        "sha256": "a6b9a3672a45c07713b39eea2d337492aa8f8cf1491a6e04a0dcd96dd8493289"
+        "hash": "b28efbcf5d86daa5de404d8ed16b7a6d",
+        "sha256": "2fbb198b7779dea237075fa0a18d8c8ef6d553dd52e4890f92e475dd5fa9d92f"
     },
     "scripts/skills/perks/perk_rf_combo.json": {
         "id": 3176311,
@@ -13218,10 +13218,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:16.202Z",
-        "updatedAt": "2026-07-09T08:35:58.218Z",
+        "updatedAt": "2026-07-10T01:50:17.22Z",
         "modifiedAt": "2026-07-09T08:35:58.237Z",
-        "hash": "55b7ff5b7e48bca9b0a17c4400b153f3",
-        "sha256": "4f8c4feb6255794fd7b329ea2873a72443b57570f7c1dc324126520106c8b6bd"
+        "hash": "f4024a016167a140fb4045cb78d5c6b7",
+        "sha256": "2dc8a8382c783236752bf131e7a9d9c75d074b7bcfa741532d85853f5a81cd0b"
     },
     "scripts/skills/perks/perk_rf_double_strike.json": {
         "id": 3176316,
@@ -13408,10 +13408,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:21.081Z",
-        "updatedAt": "2026-07-09T08:36:02.477Z",
+        "updatedAt": "2026-07-10T01:50:17.289Z",
         "modifiedAt": "2026-07-09T08:36:02.485Z",
-        "hash": "220e8dc6e89c914817a22e72b8352d52",
-        "sha256": "350db32e6a296d936e7b912028d4da916f0f84804d3c71cdd6c7b120a7f521af"
+        "hash": "6cdb6e24efc7e59fb4823417933aa4c7",
+        "sha256": "66050bfd82288d844f8a184f30e5e4dd93bbc0eef0823389839cbe33d192d1d9"
     },
     "scripts/skills/perks/perk_rf_ghostlike.json": {
         "id": 3176326,
@@ -13522,10 +13522,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:24.933Z",
-        "updatedAt": "2026-07-09T08:36:05.795Z",
+        "updatedAt": "2026-07-10T01:50:17.369Z",
         "modifiedAt": "2026-07-09T08:36:05.8Z",
-        "hash": "284d2d66763920cf1a0c2c19f3c7c30b",
-        "sha256": "89e798dbd3e56e87ad33e5cb87e7546cfc5ab9ffac7c4a5a9d83da06bbf3ab28"
+        "hash": "4e25b2456212e3e6235a7066c9b86711",
+        "sha256": "7ffae0cfdce8a067dc22bf2c6a97a3b1dc0cbd044c7cd7a2b4d10a4d0926d126"
     },
     "scripts/skills/perks/perk_rf_mauler.json": {
         "id": 3176332,
@@ -13579,10 +13579,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:26.821Z",
-        "updatedAt": "2026-07-09T06:37:26.821Z",
+        "updatedAt": "2026-07-10T01:50:17.431Z",
         "modifiedAt": "2026-07-09T06:37:26.821Z",
-        "hash": "5344cc0146001a47286639bb1929754e",
-        "sha256": "41ff732435ae681e4217a3e3bed0169d31133ff0a992fd20976c4c33b0c5c930"
+        "hash": "02e02739f47af84da49938ef77dd398b",
+        "sha256": "6adf2c4a12073478f4792fb956c44325b83d37ad0a693f39cd62363790635c9f"
     },
     "scripts/skills/perks/perk_rf_opportunist.json": {
         "id": 3176335,
@@ -13598,10 +13598,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:27.28Z",
-        "updatedAt": "2026-07-09T08:36:07.23Z",
+        "updatedAt": "2026-07-10T01:50:17.524Z",
         "modifiedAt": "2026-07-09T08:36:07.239Z",
-        "hash": "e795e74363199b198dc16efd6e81147a",
-        "sha256": "8098e17bd891266ee691e9fe42223c1af6bb912e512f5bc40e925d973debb080"
+        "hash": "e002507f729d35b74db67b9a64a1d9d4",
+        "sha256": "9ba50285251045dd451f59f551f157c7002d5c0669ac0551f22ed6532c8e981b"
     },
     "scripts/skills/perks/perk_rf_pattern_recognition.json": {
         "id": 3176336,
@@ -13617,10 +13617,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:27.763Z",
-        "updatedAt": "2026-07-09T08:36:07.716Z",
+        "updatedAt": "2026-07-10T01:50:17.59Z",
         "modifiedAt": "2026-07-09T08:36:07.72Z",
-        "hash": "98edc03d812058bec4f1461b1b898d73",
-        "sha256": "1e536c71a1db26f012267a05d34b872860f19a7080ad6191f4df39cbf3104e0f"
+        "hash": "7a614d21d45053d28083dde6902a8c2c",
+        "sha256": "716384d2e67d01d6ec1becec2b01431f26f7974f130dbb2c840e2cd2dbc2820c"
     },
     "scripts/skills/perks/perk_rf_phalanx.json": {
         "id": 3176337,
@@ -13636,10 +13636,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:28.234Z",
-        "updatedAt": "2026-07-09T08:36:08.186Z",
+        "updatedAt": "2026-07-10T01:50:17.661Z",
         "modifiedAt": "2026-07-09T08:36:08.196Z",
-        "hash": "ee25b776a1081c69ad80aee5cde64861",
-        "sha256": "4e864dc813e8f95aac4b3bbd246c37920fc4e49f875d03c5835b3f90741cd7eb"
+        "hash": "31ee076f5c84bd6bb62e3f6cae4b4083",
+        "sha256": "9f4bf179d3493d0a54655467db3f6ad1f3d50863baf5297516b28964b5ffd22d"
     },
     "scripts/skills/perks/perk_rf_poise.json": {
         "id": 3176338,
@@ -13655,10 +13655,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:28.717Z",
-        "updatedAt": "2026-07-09T08:36:08.664Z",
+        "updatedAt": "2026-07-10T01:50:17.829Z",
         "modifiedAt": "2026-07-09T08:36:08.671Z",
-        "hash": "63bae18b33be5698ca2f03976a1bd049",
-        "sha256": "2348a8342e01d66b5263cb7f56c4272ac70fcab2190bd2247307b027ab32ad2f"
+        "hash": "258a41efea0a2f681e1de1269b3b33bb",
+        "sha256": "a495e761b3af262bdc03a28ef268b20b44925308b28a5a2b909355a61f5bbff5"
     },
     "scripts/skills/perks/perk_rf_promised_potential.json": {
         "id": 3176339,
@@ -13750,10 +13750,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:31.612Z",
-        "updatedAt": "2026-07-09T08:36:11.335Z",
+        "updatedAt": "2026-07-10T01:50:17.943Z",
         "modifiedAt": "2026-07-09T08:36:11.339Z",
-        "hash": "5859d1bc36781a92971adeea85647ac1",
-        "sha256": "d22ff94d29d5baa52417900a48d3286f865e76e364a6940ca7ba2fc6f66296c0"
+        "hash": "dcbbe362b5aa18901e6284b0c46073fa",
+        "sha256": "7310da5ce29fcff0b78e2df369c70df3f919ccd922f54b81e8b8fda5ba5e0769"
     },
     "scripts/skills/perks/perk_rf_second_wind.json": {
         "id": 3176344,
@@ -13769,10 +13769,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:32.108Z",
-        "updatedAt": "2026-07-09T06:37:32.108Z",
+        "updatedAt": "2026-07-10T01:50:18.011Z",
         "modifiedAt": "2026-07-09T06:37:32.108Z",
-        "hash": "45bf2c4afdd25c75eb4a3f63ef97de8a",
-        "sha256": "d9b4738fdfe74f3f76e9f9e2176f4816329100afd0bcc16a53fdd05fe502e370"
+        "hash": "22e470d14deaf1a2b73efd7e0790e183",
+        "sha256": "85d36a9e0f018d11e41ad208b814cd3ab366a07daeb17ee7aa40b577d0f5efb3"
     },
     "scripts/skills/perks/perk_rf_shield_sergeant.json": {
         "id": 3176345,
@@ -14054,10 +14054,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:39.979Z",
-        "updatedAt": "2026-07-09T06:37:39.979Z",
+        "updatedAt": "2026-07-10T01:50:18.092Z",
         "modifiedAt": "2026-07-09T06:37:39.979Z",
-        "hash": "8ad88aaa6c504b89e48131d80bd32ade",
-        "sha256": "f9e8ccc058fc7cb665ed7619e095aaf05c56add0d8a369f6c16c3ac051ac9f9d"
+        "hash": "3b17926dd1959a90e043bc4c8934d047",
+        "sha256": "eab4fb2c64f34e44490aaa3854479d9bc33ebde0c088b10df71a7eb09f1a8fbf"
     },
     "scripts/skills/perks/perk_rf_trip_artist.json": {
         "id": 3176360,
@@ -14092,10 +14092,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:40.936Z",
-        "updatedAt": "2026-07-09T08:36:16.221Z",
+        "updatedAt": "2026-07-10T01:50:18.164Z",
         "modifiedAt": "2026-07-09T06:37:40.936Z",
-        "hash": "109943d9ed3c1540e3e8636a09b7c20f",
-        "sha256": "ee0f8226046a2ea8b63f7d7bb3e3734fa61ff82c1a787ec61b16ef892529a22e"
+        "hash": "3b2532a49ff81744e18a6013d60c2e58",
+        "sha256": "81d6ce2617bcb3d72e1760be7b6a96ee3bd1133ad380f2fb4f0f206fde87bd4b"
     },
     "scripts/skills/perks/perk_rf_vanquisher.json": {
         "id": 3176362,
@@ -14149,10 +14149,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:42.375Z",
-        "updatedAt": "2026-07-09T08:36:18.284Z",
+        "updatedAt": "2026-07-10T01:50:18.229Z",
         "modifiedAt": "2026-07-09T08:36:18.288Z",
-        "hash": "17add4592879e658eacd0a54313c4a08",
-        "sha256": "ed29afca5d754bcf9a75650ba1963fb3409c1fd8df3ea6c3ef8cb8199bafa232"
+        "hash": "0cfab82ff0daf0fc8539bfb3d3351e82",
+        "sha256": "70521fbb7c016fe5e0b329617d20e3542fc5e3c9f90ae2c1314693c1354c05ba"
     },
     "scripts/skills/perks/perk_rf_vigorous_assault.json": {
         "id": 3176365,
@@ -14225,10 +14225,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:44.842Z",
-        "updatedAt": "2026-07-09T08:36:20.181Z",
+        "updatedAt": "2026-07-10T01:50:18.3Z",
         "modifiedAt": "2026-07-09T08:36:20.19Z",
-        "hash": "2ea44d68101ae8a76288d83dc1cbbc92",
-        "sha256": "d5620c93211baa10b3120a7cedf8d6b4c925636f218e2ebfc481f4156b02222d"
+        "hash": "8b7b38b246b453ee9998cdeb454de4dc",
+        "sha256": "032951de3805e8acd209b10038c88632e09c2287126d6bd33b5a08308a6fdbfa"
     },
     "scripts/skills/racial/rf_goblin_racial.json": {
         "id": 3176369,
@@ -14301,10 +14301,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:46.75Z",
-        "updatedAt": "2026-07-09T08:36:23.491Z",
+        "updatedAt": "2026-07-10T01:50:18.362Z",
         "modifiedAt": "2026-07-09T08:36:23.501Z",
-        "hash": "623a8aadea775eafe2c2e65fda3fa11b",
-        "sha256": "e14fe7222eb323f442153b13a9aaee9c1f91a0bad906abf0b424334c92c040ba"
+        "hash": "3c8a15455ca1e5202bb79de5ec678cea",
+        "sha256": "74c378a15df44720bc3401e1c18a720652e273e8f5ff45d65aeb5e260f9c455a"
     },
     "scripts/skills/special/rf_direct_damage_limiter.json": {
         "id": 3176373,
@@ -14396,10 +14396,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:50.18Z",
-        "updatedAt": "2026-07-09T08:36:25.718Z",
+        "updatedAt": "2026-07-10T01:50:18.426Z",
         "modifiedAt": "2026-07-09T08:36:25.804Z",
-        "hash": "08184c6400b14fe48b08424734a116bb",
-        "sha256": "55c6c419bc63a58c108ab960ff9a3d7299e39f3fca1c1cf884fc26d60d6d2503"
+        "hash": "fd99a2999a03f452a76c4c1a9c9dc848",
+        "sha256": "aa9df4a8d7618b3383abe1b6a84ca862bee420d44ef7b3c251f2d41cbd1a03d0"
     },
     "scripts/skills/special/rf_reach.json": {
         "id": 3176378,
@@ -14434,9 +14434,9 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2026-07-09T06:37:51.229Z",
-        "updatedAt": "2026-07-09T08:36:27.912Z",
+        "updatedAt": "2026-07-10T01:50:18.494Z",
         "modifiedAt": "2026-07-09T08:36:27.919Z",
-        "hash": "7b49e8cc16a68882178adb47ebbada3c",
-        "sha256": "6377d1a05dfd0962c405a4c681f180ce0d7d7613d517542a16d030a25fb2c0b2"
+        "hash": "f54cbe1eaee4e671d262547039462e1f",
+        "sha256": "8aff6bc55691b7663f3aa9334dea7e99fd4d4009c973593ce54f61780862dd12"
     }
 }

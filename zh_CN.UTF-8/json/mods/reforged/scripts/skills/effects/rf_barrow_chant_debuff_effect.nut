@@ -33,7 +33,7 @@
     "ID": 1007441510,
     "key": "5c7dc19c444ddaaa9ec33739a802187da6b655d2064e937d64ffe9e10482e025",
     "original": "Deal ",
-    "translation": "",
+    "translation": "造成的伤害",
     "context": "\"Deal \" + getroottable().MSU.Text.colorizeMultWithText(damageMult) + \" damage\""
   },
   {

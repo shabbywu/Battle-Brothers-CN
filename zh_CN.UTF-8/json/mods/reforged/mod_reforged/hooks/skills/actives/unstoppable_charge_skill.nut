@@ -27,14 +27,14 @@
     "ID": 1007433820,
     "key": "b37cb467393eb4f14eeed12b034c0dd261e850be44e934db7dda2bcd131a7984",
     "original": "Knocked back targets will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects",
-    "translation": "",
+    "translation": "被击退的目标会失去[$ $|Skill+shieldwall_effect]，[$ $|Skill+spearwall_effect]和[$ $|Skill+riposte_effect]效果",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Knocked back targets will lose the [$ $|Skill+shieldwall_effect], [$ $|Skill+spearwall_effect] and [$ $|Skill+riposte_effect] effects\")"
   },
   {
     "ID": 1007433821,
     "key": "dff39d82cf494a15ecfd404ccffbe862a490ad687588380c4fa3cf65e5b61ac9",
     "original": "Will move you into the target tile and randomly [stun|Skill+stunned_effect], or [stagger|Skill+staggered_effect] and knock back enemies around that tile",
-    "translation": "",
+    "translation": "将你移动到目标格中，随机[击晕|Skill+stunned_effect]，[趔趄|Skill+staggered_effect]或击退该格周围的敌人",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will move you into the target tile and randomly [stun|Skill+stunned_effect], or [stagger|Skill+staggered_effect] and knock back enemies around that tile\")"
   },
   {

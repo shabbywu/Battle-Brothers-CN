@@ -19,14 +19,14 @@
     "ID": 1007428648,
     "key": "de31b0df43759b40d1872bd1099435eca22f68eacce847bf044019aceec44808",
     "original": "The target receives a negative mental [morale check|Concept.Morale] with a ",
-    "translation": "",
+    "translation": "目标会承受一次带有[士气检定|Concept.Morale]的",
     "context": "\"The target receives a negative mental [morale check|Concept.Morale] with a \" + getroottable().MSU.Text.colorNegative(-15) + \" penalty to [Resolve|Concept.Bravery]\""
   },
   {
     "ID": 1007428649,
     "key": "920d1442b6377f9ebf3646d85692857afda767fb958c51a15629d14e010bea86",
     "original": "The target receives an additional mental [morale check|Concept.Morale] with a ",
-    "translation": "",
+    "translation": "目标还会额外承受一次带有[士气检定|Concept.Morale]的",
     "context": "\"The target receives an additional mental [morale check|Concept.Morale] with a \" + getroottable().MSU.Text.colorNegative(-5) + \" penalty to [Resolve|Concept.Bravery]. If this [morale check|Concept.MoraleCheck] succeeds, the target gains the [$ $|Skill+horrified_effect] effect\""
   },
   {

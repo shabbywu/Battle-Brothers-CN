@@ -11,7 +11,7 @@
     "ID": 1007435553,
     "key": "4d0cd8c5be0fc7ddc219f108b0b6857f0d57f015565422838de77529539b9dd1",
     "original": " damage per [turn|Concept.Turn]",
-    "translation": "",
+    "translation": "点伤害/每[回合|Concept.Turn]",
     "context": "\"Receive \" + getroottable().MSU.Text.colorNegative(this.getDamage()) + \" damage per [turn|Concept.Turn]\""
   },
   {
@@ -40,7 +40,7 @@
     "ID": 1007435557,
     "key": "c2d52f3432e1961d26785934824759b037ea436f373f6d5963a8c71a75248775",
     "original": " stacks are received in a single [turn|Concept.Turn], a negative [morale check|Concept.Morale] is immediately triggered",
-    "translation": "",
+    "translation": "层时，若在单个[回合|Concept.Turn]内获得这些层数，则立即触发一次负面[士气检定|Concept.Morale]",
     "context": "\"If at least \" + getroottable().MSU.Text.colorNegative(this.getStacksForMoraleCheck()) + \" stacks are received in a single [turn|Concept.Turn], a negative [morale check|Concept.Morale] is immediately triggered\""
   },
   {

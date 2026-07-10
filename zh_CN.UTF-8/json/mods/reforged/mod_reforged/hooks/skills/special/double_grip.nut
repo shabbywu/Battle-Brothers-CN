@@ -25,7 +25,7 @@
     "ID": 1007439110,
     "key": "2beda807c5b5b9d80ae1fa34873bad73de2ace050ed42d3aaa69f3694dbe0fd0",
     "original": " damage to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect",
-    "translation": "",
+    "translation": "点[生命值|Concept.Hitpoints]伤害时，施加[$ $|Skill+dazed_effect]效果",
     "context": "\"Hits that deal at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect\""
   },
   {
@@ -54,7 +54,7 @@
     "ID": 1007439114,
     "key": "76812215968b701d7b18119058f726a5d4df0a570d41708cf53d80e7a0ee84d6",
     "original": " of your [Initiative|Concept.Initiative] as additional [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] against opponents who act after you in a [round|Concept.Round]",
-    "translation": "",
+    "translation": "的[主动值|Concept.Initiative]作为额外的[近战防御|Concept.MeleeDefense]和[远程防御|Concept.RangeDefense]，用于对抗在本[回合|Concept.Round]中后于你行动的对手",
     "context": "\"Gain \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" of your [Initiative|Concept.Initiative] as additional [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] against opponents who act after you in a [round|Concept.Round]\""
   },
   {
@@ -69,7 +69,7 @@
     "ID": 1007439116,
     "key": "b293a6e20571e019c94135159ef9613ddad88c0ea6bdfa4ba6ca6fe812fec740",
     "original": "Gain ",
-    "translation": "",
+    "translation": "面对当前[轮|Concept.Round]中，行动顺序在你之后的对手时，获得等于[主动值|Concept.Initiative]",
     "context": "\"Gain \" + getroottable().MSU.Text.colorPositive(\"+10%\") + \" of your [Initiative|Concept.Initiative] as additional [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] against opponents who act after you in a [round|Concept.Round]\""
   },
   {
@@ -84,7 +84,7 @@
     "ID": 1007439118,
     "key": "c000552622769110d398668fa42aeaace9d921f57fe66b6f319ff0ee4ecaae7c",
     "original": "Skills build up ",
-    "translation": "",
+    "translation": "技能积累[疲劳|Concept.Fatigue]减少",
     "context": "\"Skills build up \" + getroottable().MSU.Text.colorPositive(\"33%\") + \" less [Fatigue|Concept.Fatigue]\""
   },
   {
@@ -106,7 +106,7 @@
     "ID": 1007668124,
     "key": "f7aa86dd98c2c08ce31334eb384834e796a864d7455b0ba1774f848bd34d188a",
     "original": " to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect",
-    "translation": "",
+    "translation": "点[生命值|Concept.Hitpoints]时施加[$ $|Skill+dazed_effect]效果",
     "context": "\"Hits that deal at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" to [Hitpoints|Concept.Hitpoints] apply the [$ $|Skill+dazed_effect] effect\""
   }
 ]

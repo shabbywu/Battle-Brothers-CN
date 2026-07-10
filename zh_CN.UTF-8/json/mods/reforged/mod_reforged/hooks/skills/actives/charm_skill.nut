@@ -27,7 +27,7 @@
     "ID": 1007424456,
     "key": "4d7c5698a2325f5211e4a29818c92beebc466e1ca284ae13cfea018cb3aa4332",
     "original": "Try to charm a character, forcing him to turn on his allies and obey you instead. The higher a character's [Resolve|Concept.Bravery], the higher the chance to resist being charmed.",
-    "translation": "",
+    "translation": "尝试魅惑一名角色，强迫他背弃盟友，遵从你的命令。角色的[决心|Concept.Bravery]越高，抵抗魅惑的几率就越高。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Try to charm a character, forcing him to turn on his allies and obey you instead. The higher a character's [Resolve|Concept.Bravery], the higher the chance to resist being charmed.\")"
   },
   {

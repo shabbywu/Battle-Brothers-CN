@@ -35,14 +35,14 @@
     "ID": 1007441758,
     "key": "c1ae79ce752ad05034e128ac66518c0960f222e27837b0fbc5dc20ff3d3b7a45",
     "original": "The first melee attack every [turn|Concept.Turn] against an adjacent target will apply the [$ $|Skill+staggered_effect] effect on a hit",
-    "translation": "",
+    "translation": "每[回合|Concept.Turn]首次近战攻击接邻对手时，若攻击命中，对其施加[趔趄|Skill+staggered_effect]效果",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The first melee attack every [turn|Concept.Turn] against an adjacent target will apply the [$ $|Skill+staggered_effect] effect on a hit\")"
   },
   {
     "ID": 1007441759,
     "key": "2161ffc848ccfbf2c42cbbdca1dcab3e0297d6fedc4e5444ee4dabd0689d0450",
     "original": "The next melee attack against an adjacent target will apply the [$ $|Skill+staggered_effect] effect on a hit",
-    "translation": "",
+    "translation": "下次近战攻击接邻对手时，会在命中后对目标施加[趔趄|Skill+staggered_effect]效果",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The next melee attack against an adjacent target will apply the [$ $|Skill+staggered_effect] effect on a hit\")"
   },
   {
@@ -73,7 +73,7 @@
     "ID": 1007441763,
     "key": "66dd231befc8120d323edb448b16f7151ac1cd8d1048b4f89a0b2f00f82ac0a8",
     "original": "gain",
-    "translation": "",
+    "translation": "获得",
     "context": "getroottable().MSU.Text.colorPositive(\"gain\")"
   }
 ]

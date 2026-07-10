@@ -25,7 +25,7 @@
     "ID": 1007441271,
     "key": "a0c4e8f13a794230fb4940669f9115585b1b464d1de2b62a6e72a33714ad75af",
     "original": " stacks of [$ $|Skill+bleeding_effect] when dealing at least ",
-    "translation": "",
+    "translation": "层[$ $|Skill+bleeding_effect]，当造成至少",
     "context": "\"Inflicts \" + getroottable().MSU.Text.colorPositive(this.m.BleedStacks) + \" stacks of [$ $|Skill+bleeding_effect] when dealing at least \" + getroottable().MSU.Text.colorNegative(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage\""
   },
   {

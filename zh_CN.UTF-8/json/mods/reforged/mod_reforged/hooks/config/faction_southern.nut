@@ -19,7 +19,7 @@
     "ID": 1007411958,
     "key": "596ec3a1b24dd938af14a090db2273bfc090ab91d96c9703fcfc88beb22a1a42",
     "original": "Executioner",
-    "translation": "",
+    "translation": "处决者",
     "context": "getroottable().Reforged.Entities.editEntity(\"Executioner\", null, {\n    XP = 450\n    ActionPoints = 9\n    Hitpoints = 170\n    Bravery = 90\n    Stamina = 160\n    MeleeSkill = 85\n    RangedSkill = 50\n    MeleeDefense = 30\n    RangedDefense = 0\n    Initiative = 115\n    FatigueEffectMult = 1.0\n    MoraleEffectMult = 1.0\n    Armor = [0,0]\n    FatigueRecoveryRate = 15\n})"
   },
   {

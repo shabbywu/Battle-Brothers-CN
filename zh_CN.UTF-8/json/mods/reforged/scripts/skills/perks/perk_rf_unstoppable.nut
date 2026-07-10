@@ -50,7 +50,7 @@
     "ID": 1007442030,
     "key": "f4986a2342bbe2b394823a03271d1456a0be12d49343c991951b5994bdc76247",
     "original": "Will expire upon using [Wait|Concept.Wait] or [$ $|Skill+recover_skill] or getting [$ $|Skill+stunned_effect], rooted, or [$ $|Skill+staggered_effect] or ending the [turn|Concept.Turn] with more than ",
-    "translation": "",
+    "translation": "会在使用[等待|Concept.Wait]、[$ $|Skill+recover_skill]、受到[$ $|Skill+stunned_effect]、定身、[$ $|Skill+staggered_effect]，或在本[回合|Concept.Turn]结束时剩余超过",
     "context": "\"Will expire upon using [Wait|Concept.Wait] or [$ $|Skill+recover_skill] or getting [$ $|Skill+stunned_effect], rooted, or [$ $|Skill+staggered_effect] or ending the [turn|Concept.Turn] with more than \" + getroottable().Math.floor(this.getContainer().getActor().getActionPointsMax() \\ 2) + \" [Action Points|Concept.ActionPoints] remaining\""
   }
 ]

@@ -50,7 +50,7 @@
     "ID": 1007441300,
     "key": "23bac0f50d6b3e9d18a0c274d446330f1ef056309aeff57043ecd0fa624b76b1",
     "original": "Cannot be used against a target using [$ $|Skill+shieldwall_effect] adjacent to an ally using [$ $|Skill+shieldwall_effect]",
-    "translation": "",
+    "translation": "无法对正在使用[$ $|Skill+shieldwall_effect]，且其接邻盟友也在使用[$ $|Skill+shieldwall_effect]的目标使用",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot be used against a target using [$ $|Skill+shieldwall_effect] adjacent to an ally using [$ $|Skill+shieldwall_effect]\")"
   },
   {
@@ -81,14 +81,14 @@
     "ID": 1007441304,
     "key": "16e23dbeead7a1e24ff998d37f8590867be6e91650ba37837a2e7971db3fc097",
     "original": "Ignores the bonus to [Melee Defense|Concept.MeleeDefense] granted by shields and [$ $|Skill+shieldwall_effect]",
-    "translation": "",
+    "translation": "无视对方盾牌和[$ $|Skill+shieldwall_effect]的[近战防御|Concept.MeleeDefense]加成",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Ignores the bonus to [Melee Defense|Concept.MeleeDefense] granted by shields and [$ $|Skill+shieldwall_effect]\")"
   },
   {
     "ID": 1007441305,
     "key": "f96dcbfba83a66ade674fd7874794e4da3b933a4c85048a7e93d2c5f7b056386",
     "original": "Once per [turn|Concept.Turn], the second successful use against the same target refunds all of its [Action Point|Concept.ActionPoints] cost",
-    "translation": "",
+    "translation": "每[回合|Concept.Turn]一次，当对同一个目标第二次使用此技能时，退还第二次使用的[行动点数|Concept.ActionPoints]消耗",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Once per [turn|Concept.Turn], the second successful use against the same target refunds all of its [Action Point|Concept.ActionPoints] cost\")"
   },
   {
@@ -103,7 +103,7 @@
     "ID": 1007441307,
     "key": "097b291e84068f21c9b2e12387cd2da691b9362787321fa67f0ebaadbb74ef11",
     "original": "Removes [$ $|Skill+shieldwall_effect] from the target. Otherwise applies the [$ $|Skill+rf_hooked_shield_effect] effect",
-    "translation": "",
+    "translation": "移除目标的[$ $|Skill+shieldwall_effect]。若没有，对目标施加[$ $|Skill+rf_hooked_shield_effect]效果",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Removes [$ $|Skill+shieldwall_effect] from the target. Otherwise applies the [$ $|Skill+rf_hooked_shield_effect] effect\")"
   }
 ]

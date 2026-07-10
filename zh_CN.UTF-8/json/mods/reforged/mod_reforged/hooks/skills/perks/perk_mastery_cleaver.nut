@@ -3,7 +3,7 @@
     "ID": 1007437228,
     "key": "e658749cda835213c6ecb6f3f9b54e6d46c8f53f071a94f3ee6fc6c2c9ce54a1",
     "original": " damage to [Hitpoints|Concept.Hitpoints]",
-    "translation": "",
+    "translation": "点[生命值|Concept.Hitpoints]伤害时，额外施加[$ $|Skill+bleeding_effect]效果",
     "context": "\"Inflicts additional [$ $|Skill+bleeding_effect] due to \" + getroottable().Reforged.NestedTooltips.getNestedPerkName(this) + \" when dealing at least \" + getroottable().MSU.Text.color(getroottable().Const.UI.Color.DamageValue, getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints]\""
   },
   {
@@ -18,7 +18,7 @@
     "ID": 1007437230,
     "key": "ba46c8a8694c71fa2fb389f0efae10ec5e14defbed40b5fc606c93548a970daf",
     "original": "Inflicts additional [$ $|Skill+bleeding_effect] due to ",
-    "translation": "",
+    "translation": "会额外施加[$ $|Skill+bleeding_effect]效果，这归功于",
     "context": "\"Inflicts additional [$ $|Skill+bleeding_effect] due to \" + getroottable().Reforged.NestedTooltips.getNestedPerkName(this) + \" when dealing at least \" + getroottable().MSU.Text.color(getroottable().Const.UI.Color.DamageValue, getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints]\""
   },
   {

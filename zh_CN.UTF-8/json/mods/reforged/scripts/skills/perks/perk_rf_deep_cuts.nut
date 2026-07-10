@@ -18,7 +18,7 @@
     "ID": 1007441843,
     "key": "e658749cda835213c6ecb6f3f9b54e6d46c8f53f071a94f3ee6fc6c2c9ce54a1",
     "original": " damage to [Hitpoints|Concept.Hitpoints]",
-    "translation": "",
+    "translation": "点[生命值|Concept.Hitpoints]伤害时，还会施加[$ $|Skill+bleeding_effect]效果",
     "context": "\"These attacks also inflict [$ $|Skill+bleeding_effect] when dealing at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints]\""
   },
   {
@@ -41,7 +41,7 @@
     "ID": 1007441846,
     "key": "a414ab9880f32c4542595914edd609292898b3830f5e66574286c733097d34b5",
     "original": "These attacks also inflict [$ $|Skill+bleeding_effect] when dealing at least ",
-    "translation": "",
+    "translation": "这些攻击在造成至少[$ $|Skill+bleeding_effect]时",
     "context": "\"These attacks also inflict [$ $|Skill+bleeding_effect] when dealing at least \" + getroottable().MSU.Text.colorDamage(getroottable().Const.Combat.MinDamageToApplyBleeding) + \" damage to [Hitpoints|Concept.Hitpoints]\""
   },
   {
@@ -56,28 +56,28 @@
     "ID": 1007441848,
     "key": "82077fac5910da50c4c980c9591231d56ff3274e9f2056b5283e514c090cc262",
     "original": "Will expire upon attacking another target, moving, swapping an item, [waiting|Concept.Wait] or ending a [turn|Concept.Turn], or using any skill except a cutting attack",
-    "translation": "",
+    "translation": "会在攻击其他目标、移动、切换物品、[等待|Concept.Wait]、结束[回合|Concept.Turn]或使用非挥砍攻击时失效",
     "context": "getroottable().MSU.Text.colorNegative(\"Will expire upon attacking another target, moving, swapping an item, [waiting|Concept.Wait] or ending a [turn|Concept.Turn], or using any skill except a cutting attack\")"
   },
   {
     "ID": 1007441849,
     "key": "77f9dc3ecaa6897d918d1fd6e9274c6cc09f6753a6ef389754702b5469a4ead6",
     "original": "cutting",
-    "translation": "",
+    "translation": "挥砍",
     "context": "getroottable().MSU.Text.colorDamage(\"cutting\")"
   },
   {
     "ID": 1007441850,
     "key": "e5ff8d2b6809d8105d3c75b2f8c4a77d4c73d39e11fddc02605720a13168de48",
     "original": "higher",
-    "translation": "",
+    "translation": "提高",
     "context": "Text = [\"higher\",\"lower\"]"
   },
   {
     "ID": 1007441851,
     "key": "8c6fb1e9e37a1aea1d308c785192e1a17d71cef08c7f50a68d2e0ab292b2e7f4",
     "original": "lower",
-    "translation": "",
+    "translation": "降低",
     "context": "Text = [\"higher\",\"lower\"]"
   }
 ]

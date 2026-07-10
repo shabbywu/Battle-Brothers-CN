@@ -3,7 +3,7 @@
     "ID": 1007424304,
     "key": "d532c8728f012b49d99a20523cde3ceb8b773aba18efd4bb3207808c5fb058a3",
     "original": " chance to stun a random adjacent enemy upon arrival, reduced by the defense granted by target's shield and [$ $|Skill+shieldwall_effect]",
-    "translation": "",
+    "translation": "减去目标盾牌和[盾墙|Skill+shieldwall_effect]技能提供的近战防御",
     "context": "\"Has a \" + getroottable().MSU.Text.colorPositive(\"100%\") + \" chance to stun a random adjacent enemy upon arrival, reduced by the defense granted by target's shield and [$ $|Skill+shieldwall_effect]\""
   },
   {
@@ -18,7 +18,7 @@
     "ID": 1007424306,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": ""
+    "translation": "因已[陷入近战|Concept.ZoneOfControl]，无法使用"
   },
   {
     "ID": 1007424307,
@@ -48,7 +48,7 @@
     "ID": 1007424310,
     "key": "e9621a9fa308784fbc8aa7c4733715bdcee6667f45afe9a64e170c64d945a004",
     "original": "Move to the target tile",
-    "translation": "",
+    "translation": "移动到目标地格",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Move to the target tile\")"
   },
   {
@@ -62,7 +62,7 @@
     "ID": 1007668119,
     "key": "cbf6b2f92809d5f2f95bdd9e487f3f49539163f2b082cf8b10f31f6aead41cf4",
     "original": "Cannot be used when [engaged|Concept.ZoneOfControl] in melee",
-    "translation": "",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Cannot be used when [engaged|Concept.ZoneOfControl] in melee\")"
   }
 ]

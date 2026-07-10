@@ -3,7 +3,7 @@
     "ID": 1007422005,
     "key": "bef47f0e1027c8163dc011180437092c56fce1fb5059c1122a5f1f99a7f30514",
     "original": " during [morale checks|Concept.Morale]",
-    "translation": "",
+    "translation": "点，用于[士气检定|Concept.Morale]",
     "context": "\"Reduces the [Resolve|Concept.Bravery] of any adjacent opponent by \" + getroottable().MSU.Text.colorNegative(10) + \" during [morale checks|Concept.Morale]\""
   },
   {

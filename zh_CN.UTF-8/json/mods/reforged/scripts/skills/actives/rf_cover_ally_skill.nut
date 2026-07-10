@@ -10,7 +10,7 @@
     "ID": 1007441197,
     "key": "90389b11a135a1f64189d8a04f629a3e76789d9c05e7510fd04d6b0dd40dc6c8",
     "original": " tile ignoring [Zone of Control|Concept.ZoneOfControl]",
-    "translation": "",
+    "translation": "格，并无视[控制区|Concept.ZoneOfControl]",
     "context": "\"The target gains the [$ $|Skill+rf_move_under_cover_skill] skill which allows moving \" + getroottable().MSU.Text.colorPositive(1) + \" tile ignoring [Zone of Control|Concept.ZoneOfControl]\""
   },
   {

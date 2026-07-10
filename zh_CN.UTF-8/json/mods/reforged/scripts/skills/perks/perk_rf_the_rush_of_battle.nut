@@ -26,7 +26,7 @@
     "ID": 1007442018,
     "key": "2a76d361876df1ed2c6d0e144f1674d68fd4f945ee43c2d5ef40f42473e726e0",
     "original": " stack(s) at the end of this [turn|Concept.Turn]",
-    "translation": "",
+    "translation": "层，于本[回合|Concept.Turn]结束时失去",
     "context": "\"Will lose \" + getroottable().MSU.Text.colorNegative(stacksToLose) + \" stack(s) at the end of this [turn|Concept.Turn]\""
   },
   {

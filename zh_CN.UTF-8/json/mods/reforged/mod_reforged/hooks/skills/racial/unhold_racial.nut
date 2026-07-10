@@ -10,7 +10,7 @@
     "ID": 1007438945,
     "key": "77e32544951e5a7246fec297bad76dbac2f44f219706b77da4f62aac73bd0300",
     "original": " [rounds|Concept.Round]",
-    "translation": "",
+    "translation": "[回合|Concept.Round]",
     "context": "\"[Turn|Concept.Turn] order is determined with \" + getroottable().MSU.Text.colorPositive(\"+40\") + \" [Initiative|Concept.Initiative] during the first \" + roundsForInitiativeBonus + \" [rounds|Concept.Round]\""
   },
   {
@@ -73,7 +73,7 @@
     "ID": 1007438953,
     "key": "8dc27d6feb22aeae339a99890dc2395e72fcd2f4c14c0521aa531a653bd71b66",
     "original": "[Turn|Concept.Turn] order is determined with ",
-    "translation": "",
+    "translation": "[回合|Concept.Turn]顺序由",
     "context": "\"[Turn|Concept.Turn] order is determined with \" + getroottable().MSU.Text.colorPositive(\"+40\") + \" [Initiative|Concept.Initiative] during the first \" + roundsForInitiativeBonus + \" [rounds|Concept.Round]\""
   },
   {

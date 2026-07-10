@@ -11,28 +11,28 @@
     "ID": 1007438688,
     "key": "c0a06251001413aa8409285eeee8f6619abeee0e3d3540dae5f4c746e9a666fb",
     "original": "Immune to being [$ $|Skill+disarmed_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+disarmed_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+disarmed_effect]\")"
   },
   {
     "ID": 1007438689,
     "key": "c9379899fe73318a81898ad2387327ed49a40125908a7ab74d57827f75f83209",
     "original": "Immune to being [$ $|Skill+stunned_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+stunned_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+stunned_effect]\")"
   },
   {
     "ID": 1007438690,
     "key": "d7b42d42942214980c125596e5d6fca0d1ff886196d32db757f4daa38723bc58",
     "original": "Immune to being [rooted|Concept.Rooted]",
-    "translation": "",
+    "translation": "免疫[定身|Concept.Rooted]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007438691,
     "key": "ab99d1c9b488ce21e4e6374076b5005499aa5bf65142bb8882a9d1bbb602adc3",
     "original": "Immune to being knocked back or grabbed",
-    "translation": "",
+    "translation": "免疫击退和钩拽技能",
     "context": "text = \"Immune to being knocked back or grabbed\""
   },
   {
@@ -47,7 +47,7 @@
     "ID": 1007438693,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": "",
+    "translation": "不受[$ $|Skill+night_effect]惩罚影响",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {

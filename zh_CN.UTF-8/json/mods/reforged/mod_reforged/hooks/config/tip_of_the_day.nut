@@ -3,168 +3,168 @@
     "ID": 1007412919,
     "key": "d680eea17a00609ce365362e7925cf23551450e23cfe97d3f2baafdcd326dd68",
     "original": "A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.",
-    "translation": "",
+    "translation": "在体格上，地精无法与成年人类相匹敌，他们仰赖于小聪明和卑鄙手段。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.\""
   },
   {
     "ID": 1007412920,
     "key": "214fede0de07104c9f327c444002a65aeb843f087e07809e60b8c33f2691b0c2",
     "original": "A human is no match for an adult orc physically.",
-    "translation": "",
+    "translation": "在体格上，人类无法与成年兽人匹敌。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"A human is no match for an adult orc physically.\""
   },
   {
     "ID": 1007412921,
     "key": "cbfc6869274d0a60994c75f915e9f83dc80d516636166e70d8ed64d6da1850d3",
     "original": "A life can be worth little in this world.",
-    "translation": "",
+    "translation": "一条命在这个世界上轻如鸿毛。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"A life can be worth little in this world.\""
   },
   {
     "ID": 1007412922,
     "key": "4d481ed08d586cdb3563034167c7eb98d2034c019e82db1b0d6f349b85e9c282",
     "original": "Always keep a good stock of provisions - lest your men starve and desert you!",
-    "translation": "",
+    "translation": "储备好粮食，免得你的人因挨饿弃你而去！",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Always keep a good stock of provisions - lest your men starve and desert you!\""
   },
   {
     "ID": 1007412923,
     "key": "9dab66810280ebade31e587aeab1419fec2ff2806e56b3e8bbef34bd41db0b3d",
     "original": "As brothers we fight, as brothers we die!",
-    "translation": "",
+    "translation": "浴血同袍，同生共死！",
     "context": "getroottable().Const.TipOfTheDay[index] == \"As brothers we fight, as brothers we die!\""
   },
   {
     "ID": 1007412924,
     "key": "72756c89fb46c293949bd00581cdf362fea999a4d717c7fa0eb87b5dde64219d",
     "original": "Cleavers can inflict bleeding wounds.",
-    "translation": "",
+    "translation": "砍刀会造成流血伤口。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Cleavers can inflict bleeding wounds.\""
   },
   {
     "ID": 1007412925,
     "key": "faeedb956fa429cd151333664f28a4497415c69f9fbecc6158ee6e40813c7f91",
     "original": "Clubs and maces can stun or incapacitate targets.",
-    "translation": "",
+    "translation": "棍和棒可以使目标昏迷或失能。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Clubs and maces can stun or incapacitate targets.\""
   },
   {
     "ID": 1007412926,
     "key": "4a9369a006fe0eb68cb9592fd54c75679b94003438a42dc12fea8fca6e282b40",
     "original": "Conserve your stamina when in prolonged engagements.",
-    "translation": "",
+    "translation": "在持久战中要保存体力。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Conserve your stamina when in prolonged engagements.\""
   },
   {
     "ID": 1007412927,
     "key": "a80f4a9f9cc282d214364c7d37cf4230ed92e15e11698c307d55cc9f0391485f",
     "original": "Consider building up a reserve roster and rotating your men, so you can more easily deal with losses down the road.",
-    "translation": "",
+    "translation": "把建立预备队纳入日程，轮换队员，减轻战损带来的压力。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Consider building up a reserve roster and rotating your men, so you can more easily deal with losses down the road.\""
   },
   {
     "ID": 1007412928,
     "key": "9b3db48fbaee7327a296cfe0d716695d2a4dcb4c12d16f482ede5914880ccc46",
     "original": "Consider forming a shieldwall when surrounded.",
-    "translation": "",
+    "translation": "若被敌人包围，考虑组成盾墙。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Consider forming a shieldwall when surrounded.\""
   },
   {
     "ID": 1007412929,
     "key": "1e36596543100b294da820c5d61c25ff1f1b9daa3151f68303c1fb913e8c77c7",
     "original": "Consider putting injured characters in reserve until their wounds have healed.",
-    "translation": "",
+    "translation": "考虑将受伤的角色放到预备队，伤口愈合后再加入战斗序列。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Consider putting injured characters in reserve until their wounds have healed.\""
   },
   {
     "ID": 1007412930,
     "key": "4906566bf7560b240d2c76b5851d18b5fa5c71b0946572e9e48f6288f1e0a37e",
     "original": "Crossbows require less skill to fire accurately than bows, but are slower to use.",
-    "translation": "",
+    "translation": "比起弓，弩对技巧的要求更低，但射速也更慢。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Crossbows require less skill to fire accurately than bows, but are slower to use.\""
   },
   {
     "ID": 1007412931,
     "key": "17e7bb6b14eb88bdbdeb6a4ce92fdba187cf9271fe11ad132b2022135806285b",
     "original": "Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.",
-    "translation": "",
+    "translation": "在世界地图上，诸如高山沼泽等复杂地形，会提高你的人的食物消耗。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.\""
   },
   {
     "ID": 1007412932,
     "key": "278b89e0024faa93cf6e0379d559be6e7d5d87f65f6a25c671213bf4dcd60e07",
     "original": "Do the job. Survive. Get paid.",
-    "translation": "",
+    "translation": "做好工作。保住性命。领取报酬。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Do the job. Survive. Get paid.\""
   },
   {
     "ID": 1007412933,
     "key": "ad6266ff22ff02ffb45f19c9411ae8ea30b93fb264536bbc71b7297cc7d8956b",
     "original": "Drag and drop your men in the inventory screen to where you want them to be in your formation.",
-    "translation": "",
+    "translation": "在物品界面，拖放人物可以改变他们在战斗队形中的位置。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Drag and drop your men in the inventory screen to where you want them to be in your formation.\""
   },
   {
     "ID": 1007412934,
     "key": "fd937c58f884fcc1340840def5548f7f1e2639c8f1071abd7fb0feff0cd4791f",
     "original": "Dying is part of a mercenary's job description.",
-    "translation": "",
+    "translation": "死亡是佣兵工作画像的一部分。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Dying is part of a mercenary's job description.\""
   },
   {
     "ID": 1007412935,
     "key": "676e1e1392690c8add6a0a7b48007ce81927a17788576b6d477944be199d7dab",
     "original": "Each type of weapon has advantages and disadvantages.",
-    "translation": "",
+    "translation": "每种武器各有优劣。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Each type of weapon has advantages and disadvantages.\""
   },
   {
     "ID": 1007412936,
     "key": "75db4b24b40db26a8b70323ff2f606fef115c09ac109cedbab8da1cc9c5dfc66",
     "original": "Flails ignore the defense bonus of shields.",
-    "translation": "",
+    "translation": "链枷忽视盾牌的防御加成。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Flails ignore the defense bonus of shields.\""
   },
   {
     "ID": 1007412937,
     "key": "5e0324829879f9780934a7343eee8749c61d08f61d99e6febea5a6b42969d99a",
     "original": "Forests can hide many dangers within.",
-    "translation": "",
+    "translation": "森林里危机四伏。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Forests can hide many dangers within.\""
   },
   {
     "ID": 1007412938,
     "key": "b6cd43dd07d1668d959fc4217ad671e81468022060d8e5d9cc3840f296690705",
     "original": "Geists are lost between the physical world and the world beyond, constantly shifting between the two.",
-    "translation": "",
+    "translation": "幽灵迷失在物质世界和冥界之间，在两者之间不断闪烁。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Geists are lost between the physical world and the world beyond, constantly shifting between the two.\""
   },
   {
     "ID": 1007412939,
     "key": "f3e61a184972377a233f7c6b9e390e2691f0908d8c8c6afa8cee48cdddd94240",
     "original": "Having men of different backgrounds in your company may enable you to perform different actions in events.",
-    "translation": "",
+    "translation": "为战团雇佣不同背景的人能让你在事件中有更多选择。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Having men of different backgrounds in your company may enable you to perform different actions in events.\""
   },
   {
     "ID": 1007412940,
     "key": "9c84023f3d2a54123f1ea5a554b25d254a46eda5723738bcfa43b7e9a9d89af5",
     "original": "Heavy armor offers great protection, but also slows down the wearer and makes him tire more quickly.",
-    "translation": "",
+    "translation": "重型盔甲提供了很好的保护，但也降低了佩戴者的速度，使他更容易疲劳。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Heavy armor offers great protection, but also slows down the wearer and makes him tire more quickly.\""
   },
   {
     "ID": 1007412941,
     "key": "1c8e084b7db5359acb5fd7e2a2a78fe6ca82e15b6f1db27151ca08a8933dfa44",
     "original": "Heavy helmets can be hard to breathe in and limit the field of vision.",
-    "translation": "",
+    "translation": "重型头盔会让人呼吸困难，视野受限。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Heavy helmets can be hard to breathe in and limit the field of vision.\""
   },
   {
     "ID": 1007412942,
     "key": "8cc04af626f67a98277c25b7c9d87654bbfdc7965cce46c8e46c1724f702dde8",
     "original": "If you can not win, retreat to fight another day.",
-    "translation": "",
+    "translation": "如果不能取胜，不如改日再战。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"If you can not win, retreat to fight another day.\""
   },
   {
@@ -179,21 +179,21 @@
     "ID": 1007412944,
     "key": "da3526227cf4373b5c83a6be46199b18805685d34a60e5c8702da6be7e6e80a1",
     "original": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
-    "translation": "",
+    "translation": "学习“换位”或“步法”特技，提高战斗中的机动性。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.\""
   },
   {
     "ID": 1007412945,
     "key": "b991694c9a066b17803fac26e2c835afcd2ed0babdc491f11313ffb98e385c25",
     "original": "Longswords and Greatswords can hit multiple targets with one strike.",
-    "translation": "",
+    "translation": "长剑和大剑可以一次命中多个目标。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Longswords and Greatswords can hit multiple targets with one strike.\""
   },
   {
     "ID": 1007412946,
     "key": "2525afd57578a2c1a97946fae24971894ebf285afd1c1af4de1ace4275fa9707",
     "original": "Losing is fun.",
-    "translation": "",
+    "translation": "失败也是有趣的。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Losing is fun.\""
   },
   {
@@ -216,7 +216,7 @@
     "ID": 1007412949,
     "key": "90d4f1b3ca7b8f51ae21127667fe1da1094b433efa7d2de10d6c0932bce4b415",
     "original": "Orcs rely on raw power and physical prowess.",
-    "translation": "",
+    "translation": "兽人依靠纯粹的力量和天生的体格。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Orcs rely on raw power and physical prowess.\""
   },
   {
@@ -231,7 +231,7 @@
     "ID": 1007412951,
     "key": "9962b19204202eefb03cce0200d2843fd51e02e29b9f29232610dc59096963af",
     "original": "Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.",
-    "translation": "",
+    "translation": "重铸：只有你的阵营造成的伤害达一半以上时，才能获得敌人掉落的战利品。",
     "context": "getroottable().Const.TipOfTheDay.extend([\"Non-player controlled characters will never run out of ammunition for bows, crossbows, and guns.\",\"Reforged: While on a caravan mission, you can enter towns up to 2 tiles away instead of only on the same tile.\",\"The Mod Options have a lot of customizations regarding quality of life.\",\"Morale Checks are harder for every adjacent enemy and easier for every adjacent ally.\",\"Reforged: Click on an active contract to focus on its target on the world map, if it is known to you.\",\"Reforged: Tavern rumors will never be about legendary locations you have already discovered.\",\"Reforged: Enemies will drop loot only if your faction has dealt at least 50% of the total damage received by that enemy, regardless of the killer.\",\"Reforged: Experience from slain enemies is awarded depending on how much damage was dealt to them by your brothers.\",\"Reforged: You can customize the tactical tooltips of your characters and enemies in the Mod Options.\",\"Reforged: Undead can receive specific injuries, although it takes more damage than usual to inflict one.\",\"Reforged: Oathtaker brothers will regularly take a new random oath when playing regular origins.\",\"If you see colorful squares, do NOT save the game or you might end up with a corrupted save file.\",\"Reforged: Weapons worn by your characters will always drop and be recovered after the battle, even if they break.\"])"
   },
   {
@@ -302,63 +302,63 @@
     "ID": 1007412960,
     "key": "eb64b81a443efbe659b1a175b8c22d7edf972c25d25419d56e63a3619ca5d738",
     "original": "Roads are the fastest way to travel over land, but not always the safest.",
-    "translation": "",
+    "translation": "道路是最快的陆路移动方式，但并不总是最安全的。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Roads are the fastest way to travel over land, but not always the safest.\""
   },
   {
     "ID": 1007412961,
     "key": "b0a85f87f23dcffc49a044a72c68e90834118fe7f6031c5ae946081cc50bde8f",
     "original": "Skeletons are highly resistant to ranged attacks and fire.",
-    "translation": "",
+    "translation": "骷髅对远程攻击和火焰有很高的抵抗力。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Skeletons are highly resistant to ranged attacks and fire.\""
   },
   {
     "ID": 1007412962,
     "key": "f7dd52bcb2fb5680e99384504decd7724853b7f668fe1d72ed4d2f2ed6821860",
     "original": "Some people will use you and throw you away.",
-    "translation": "",
+    "translation": "有些人会卸磨杀驴、兔死狗烹。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Some people will use you and throw you away.\""
   },
   {
     "ID": 1007412963,
     "key": "47404b39254e2e4a2bf81281939d1f31233fef368ad68fc7a7e7f71146b24fee",
     "original": "Spears are good defensive weapons due to their Spearwall ability.",
-    "translation": "",
+    "translation": "长矛具有“矛墙”能力，是很好的防御武器。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Spears are good defensive weapons due to their Spearwall ability.\""
   },
   {
     "ID": 1007412964,
     "key": "f4696e9153ac2f98178d4adb56d3f84e3723220c96e8e524792e1e92dc69e8d5",
     "original": "Stunned characters get no attack of opportunity when someone moves inside their zone of control.",
-    "translation": "",
+    "translation": "昏迷的角色不会借机攻击在其控制区域移动的目标。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Stunned characters get no attack of opportunity when someone moves inside their zone of control.\""
   },
   {
     "ID": 1007412965,
     "key": "661c09113e62f56e911ddf88c01c5bbfe72c0724d9b7fbe9460cf7d76aedf5df",
     "original": "Success in Battle Brothers is also about picking the right fights.",
-    "translation": "",
+    "translation": "要在战场兄弟中取得成功，选择正确的战斗也是一环。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Success in Battle Brothers is also about picking the right fights.\""
   },
   {
     "ID": 1007412966,
     "key": "eebcd41115699c8366dfb72edcd7e3d26107504c25291f7ee8607ddf40df7b51",
     "original": "The 'Fast Adaptation' perk reduces variance of randomness.",
-    "translation": "",
+    "translation": "“快速适应”特技可以减少随机性的影响。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The 'Fast Adaptation' perk reduces variance of randomness.\""
   },
   {
     "ID": 1007412967,
     "key": "4277536eac1501caa27c87991cda011de4b3d1937e6ed63f687417e908208c5c",
     "original": "The 'Lone Wolf' perk is not affected by nearby dogs or allies that are not part of your company.",
-    "translation": "",
+    "translation": "“独狼”特技不会受到附近的狗或不属于你战团的盟友的影响。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The 'Lone Wolf' perk is not affected by nearby dogs or allies that are not part of your company.\""
   },
   {
     "ID": 1007412968,
     "key": "377eadfaf62d265f8f7290f5ec5e8100d6bbe5ab2f4271d6ff02de3329b5ae99",
     "original": "The Billhook, Pike and Longaxe can attack over 2 tiles, unlike most other melee weapons.",
-    "translation": "",
+    "translation": "与大多数其他近战武器不同，钩镰枪、长枪和长斧可以攻击2格距离。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The Billhook, Pike and Longaxe can attack over 2 tiles, unlike most other melee weapons.\""
   },
   {
@@ -373,189 +373,189 @@
     "ID": 1007412970,
     "key": "2bfa4e746b0285c4c2384131112348e6abb2d701b562118f1cab4267da42cf5a",
     "original": "The higher their level, the more your men will demand in wages.",
-    "translation": "",
+    "translation": "人物级别越高，要求的工资就越高。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The higher their level, the more your men will demand in wages.\""
   },
   {
     "ID": 1007412971,
     "key": "b4fe05ab2fc55974c9339b525bdd471ca9fe7c5ee97db904622099a5dbe4b792",
     "original": "The minimum hit chance for any attack is 5%, and the maximum hit chance for any attack is 95%.",
-    "translation": "",
+    "translation": "所有攻击均有5%的保底命中率和95%的极限命中率。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The minimum hit chance for any attack is 5%, and the maximum hit chance for any attack is 95%.\""
   },
   {
     "ID": 1007412972,
     "key": "a6937c42ff16cc636c5211e49a8184ca77a55443dfe86e3607a370871a4623fe",
     "original": "The natural habitat of direwolves is the forest.",
-    "translation": "",
+    "translation": "森林是恐狼的自然栖息地。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"The natural habitat of direwolves is the forest.\""
   },
   {
     "ID": 1007412973,
     "key": "fcc5ee11359cb55f27db1544db05122289e07e30f4a702e592985cae34615fc3",
     "original": "Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.",
-    "translation": "",
+    "translation": "在近距离上，投掷武器极为凶狠，但随目标距离变远，其精度会快速下降。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.\""
   },
   {
     "ID": 1007412974,
     "key": "1e84adca20686930f1d8a926cc0e92f7fa307130c9cea10d0431e802c4d182d1",
     "original": "Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.",
-    "translation": "",
+    "translation": "积累了一些经验后，试着开一局老兵难度游戏（战役），这是推荐的难度。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.\""
   },
   {
     "ID": 1007412975,
     "key": "3d50825845a23988c3c4852f8a39a2d8059afdcb84414b4fb74a2367b247e6b9",
     "original": "Try the Ironman mode to experience Battle Brothers the way it's meant to be played.",
-    "translation": "",
+    "translation": "尝试铁人模式，体验战场兄弟的真正玩法。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Try the Ironman mode to experience Battle Brothers the way it's meant to be played.\""
   },
   {
     "ID": 1007412976,
     "key": "f88bd2a140a7831f420ba5031717fd8f09b67373da8041ad7fb85c489a3140d9",
     "original": "Try to negotiate better payment for your contracts.",
-    "translation": "",
+    "translation": "试着通过协商争得更佳的合同报酬。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Try to negotiate better payment for your contracts.\""
   },
   {
     "ID": 1007412977,
     "key": "76748e5936001f87e037213c2c19ebdafbc9df248bcf2eee06c9e2f670207397",
     "original": "Try to negotiate payment modalities that guarantee you the most money for contracts.",
-    "translation": "",
+    "translation": "试着协商报酬形式，最大化合同收益。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Try to negotiate payment modalities that guarantee you the most money for contracts.\""
   },
   {
     "ID": 1007412978,
     "key": "985bac49ebe2a3236c3624ded054b992e08a29b5c38dd14804ffa088786d5fce",
     "original": "Try to save some crowns for when things turn sour.",
-    "translation": "",
+    "translation": "适当存钱，以防不测。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Try to save some crowns for when things turn sour.\""
   },
   {
     "ID": 1007412979,
     "key": "fe5dbab88636c77344aca3ca0eb2092909005e58c9218337cb51348d72acd281",
     "original": "Two-handed axes can hit up to 6 targets with a single round swing.",
-    "translation": "",
+    "translation": "双手斧在一次“回旋斩”中可以击中最多6个目标。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Two-handed axes can hit up to 6 targets with a single round swing.\""
   },
   {
     "ID": 1007412980,
     "key": "2d37019147e8837727aaf5ec556dbec3a33c1d9e02f96b10cdf3804a7eb9d8c7",
     "original": "Undead are unaffected by fatigue and morale.",
-    "translation": "",
+    "translation": "亡灵不受疲劳值和士气的影响。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Undead are unaffected by fatigue and morale.\""
   },
   {
     "ID": 1007412981,
     "key": "202efa92ad5fa6ddb499665b121f0814151a4c54be6a0a5b192b8ae923d883c0",
     "original": "Use terrain and chokepoints to your advantage.",
-    "translation": "",
+    "translation": "利用地势和咽喉要道来抢占先机。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Use terrain and chokepoints to your advantage.\""
   },
   {
     "ID": 1007412982,
     "key": "c45a330b32129041cb0935f673cad8bd32ae97ddb2fba56119f3ea8adeb9b9f1",
     "original": "Warhammers and Military Picks can make short work of heavy armor.",
-    "translation": "",
+    "translation": "战锤和军用镐能迅速破坏重型盔甲。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Warhammers and Military Picks can make short work of heavy armor.\""
   },
   {
     "ID": 1007412983,
     "key": "ecf6fcc62ebdb957ff20c989ad4a52c960581014f762eb91a7232f06b0191f86",
     "original": "Wiedergangers are the dead walking again.",
-    "translation": "",
+    "translation": "僵尸是复活了的死者。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"Wiedergangers are the dead walking again.\""
   },
   {
     "ID": 1007412984,
     "key": "4b7715c2eabc6531f11f6042d2a4ffd11b691816dd0d4a2e3f1bc103cd69dfdf",
     "original": "With the 'Anatomists' origin, defeating new enemies grants potions that mutate your men and grant them special abilities.",
-    "translation": "",
+    "translation": "游玩“解剖学家”起源时，初次击败某种敌人将获得药剂，可使队员发生变异，获得特殊能力。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Anatomists' origin, defeating new enemies grants potions that mutate your men and grant them special abilities.\""
   },
   {
     "ID": 1007412985,
     "key": "176e37026b46f9ba42a18a7c55dcbb028e0832fb55ac8756d471d277cb646e89",
     "original": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
-    "translation": "",
+    "translation": "游玩“偷猎团”起源时，你的队伍能更快地在世界地图上移动。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Band of Poachers' origin you'll move faster on the worldmap.\""
   },
   {
     "ID": 1007412986,
     "key": "2e6313750b9763694279ce448ee472a89dd719a48f05981badd8da801d62a052",
     "original": "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.",
-    "translation": "",
+    "translation": "游玩“野兽杀手”起源时，你能更轻松地追踪野兽，从猎杀的野兽身上获得更多的战利品。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.\""
   },
   {
     "ID": 1007412987,
     "key": "a3ffc323a661dd2704409784b43508ab07d934983b0be13c8184054f94909ced",
     "original": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
-    "translation": "",
+    "translation": "游玩“邪教徒”起源时，你的神会向你索要贡品，但也会赐予忠于祂的人恩惠。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.\""
   },
   {
     "ID": 1007412988,
     "key": "f0cacd198d162780ce7e64838332b61e21057a3635715ac404a3fd045c41fb72",
     "original": "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.",
-    "translation": "",
+    "translation": "游玩“角斗士”起源时，你将拥有3个强大的初始角色，失去全部3人将使战役结束。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.\""
   },
   {
     "ID": 1007412989,
     "key": "827ab99474fc1c8c3b1ac19be4fc70f2a5490afc90a4f9b73318285b8d023b49",
     "original": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
-    "translation": "",
+    "translation": "在“独狼”起源游戏中，你将拥有一个玩家角色参与战斗。如果你死了，战役就结束了。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.\""
   },
   {
     "ID": 1007412990,
     "key": "08a3e33f56d065f20c77fe8f6042cf4570b4a6a4a476ba5c77fa3a0251ba57f5",
     "original": "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.",
-    "translation": "",
+    "translation": "游玩“猎奴者”起源时，在每场与人类的战斗之后，你都可以俘获敌人，强迫他们为你而战。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.\""
   },
   {
     "ID": 1007412991,
     "key": "d55014c8cc470b16ebb1b3425df50cd77df58f1b395ef2e065c9941112c75738",
     "original": "With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens.",
-    "translation": "",
+    "translation": "游玩“宣誓者”起源时，你将选择誓言而非野心，获得特殊的恩惠和负担。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens.\""
   },
   {
     "ID": 1007412992,
     "key": "ecad4c7a38c1d6b34db854710c59c14ab384793ddf627e243a2d7a57d8433cfa",
     "original": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
-    "translation": "",
+    "translation": "在“农民民兵”起源游戏中，你可以将至多16人投入同一场战斗。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Peasant Militia' origin you can take up to 16 men into battle at once.\""
   },
   {
     "ID": 1007412993,
     "key": "022e9a8d511db884ff276c933303cb058aaf1941d5f3ea1101c63706abf8fecf",
     "original": "With the 'Trading Caravan' origin you'll get better prices for both buying and selling.",
-    "translation": "",
+    "translation": "游玩“贸易商队”起源时，你能获得更好的买入和卖出价格。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"With the 'Trading Caravan' origin you'll get better prices for both buying and selling.\""
   },
   {
     "ID": 1007412994,
     "key": "0c7e47c6b1ea049e115ddcc3d2e5c0cfe59c09ee288cc4da9b5df3f6ef0df88e",
     "original": "You can enable faster AI turns in the options menu.",
-    "translation": "",
+    "translation": "您可以在选项中启用“更快的AI移动”。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"You can enable faster AI turns in the options menu.\""
   },
   {
     "ID": 1007412995,
     "key": "05b6f996e02a4dbc46ddd8f6912d45ce8dd28b0e2c5b1eebd31dd53754c19e2f",
     "original": "You can find contract offers in the top left of settlement screens.",
-    "translation": "",
+    "translation": "你可以在定居点界面的左上找到合同提议。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"You can find contract offers in the top left of settlement screens.\""
   },
   {
     "ID": 1007412996,
     "key": "6adaa50d862d6af2fa51cc4d63f6c3ba96b8828468c3fb4f8e39f9726b604778",
     "original": "You don't have to be a hero, you're running a business.",
-    "translation": "",
+    "translation": "何必逞英雄，你在讨生计。",
     "context": "getroottable().Const.TipOfTheDay[index] == \"You don't have to be a hero, you're running a business.\""
   }
 ]

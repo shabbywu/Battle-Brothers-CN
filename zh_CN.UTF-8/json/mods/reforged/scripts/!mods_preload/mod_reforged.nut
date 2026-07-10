@@ -3,7 +3,7 @@
     "ID": 1007440683,
     "key": "f1b8aaa48a036af6916fb9ff416955f72ebff165761889e0e32f2d0213e81039",
     "original": "%s (%s) requires the MSU setting '%s' to be '%s'",
-    "translation": "",
+    "translation": "%s(%s)需要将MSU选项'%s'设置为'%s'",
     "context": "this.format(\"%s (%s) requires the MSU setting '%s' to be '%s'\", getroottable().Reforged.Name, getroottable().Reforged.ID, _setting.getID(), _value + \"\")"
   },
   {
@@ -18,7 +18,7 @@
     "ID": 1007440685,
     "key": "02eb54d8246c74098658ec435009cbdd2bad80aec2f990ede834c2866aaa26a2",
     "original": "Required by %s (%s)",
-    "translation": "",
+    "translation": "%s(%s)的运行前提",
     "context": "this.format(\"Required by %s (%s)\", getroottable().Reforged.Name, getroottable().Reforged.ID)"
   },
   {

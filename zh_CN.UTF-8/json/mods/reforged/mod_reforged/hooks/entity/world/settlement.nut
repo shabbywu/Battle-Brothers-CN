@@ -18,7 +18,7 @@
     "ID": 1007419375,
     "key": "f7d975164c97e18a577b054f3afa49c14a3dd376685abbd7094c7cf93a65da5b",
     "original": "contentType:settlement-status-effect",
-    "translation": ""
+    "translation": "你%s来过这里"
   },
   {
     "ID": 1007419376,

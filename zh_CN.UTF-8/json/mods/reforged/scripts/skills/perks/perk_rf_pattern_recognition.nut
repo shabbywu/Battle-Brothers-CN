@@ -3,7 +3,7 @@
     "ID": 1007441921,
     "key": "17976f0fa963833aad82c9253e162645f8d906f67cf92575faaddba1458918ff",
     "original": " against ",
-    "translation": "",
+    "translation": "，对抗",
     "context": "getroottable().MSU.Text.colorPositive(\"+\" + this.getBonus(opponentID)) + \" against \" + getroottable().Reforged.Mod.Tooltips.parseString(getroottable().Reforged.NestedTooltips.getNestedEntityName(opponent))"
   },
   {

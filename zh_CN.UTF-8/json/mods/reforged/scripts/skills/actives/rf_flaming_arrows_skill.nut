@@ -27,7 +27,7 @@
     "ID": 1007441248,
     "key": "36f647bb309fcba99f6a226703220e3c927f68ff858bc535dbc8578a76e91ffd",
     "original": "Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee",
-    "translation": "",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
     "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged|Concept.ZoneOfControl] in melee\")"
   },
   {
@@ -58,14 +58,14 @@
     "ID": 1007441252,
     "key": "185622d3b3f471b592cf454c498f13bdec4ef55c99f5367e53615bce7970d3c9",
     "original": "Needs a non-empty quiver of arrows equipped",
-    "translation": "",
+    "translation": "需要装备非空箭袋",
     "context": "getroottable().MSU.Text.colorNegative(\"Needs a non-empty quiver of arrows equipped\")"
   },
   {
     "ID": 1007441253,
     "key": "270320f05ef7681cb0f3975e89d68007915f8f68231bb3b484e9ab010e25b7ab",
     "original": "Will trigger a negative [morale check|Concept.MoraleCheck] for the character hit and all adjacent enemies",
-    "translation": "",
+    "translation": "会触发一次目标和接邻敌人的负面[士气检定|Concept.MoraleCheck]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will trigger a negative [morale check|Concept.MoraleCheck] for the character hit and all adjacent enemies\")"
   },
   {

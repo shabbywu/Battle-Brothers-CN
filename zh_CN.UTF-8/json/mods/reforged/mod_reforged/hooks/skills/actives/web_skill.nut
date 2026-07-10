@@ -27,7 +27,7 @@
     "ID": 1007434382,
     "key": "c7a4dd97cf4448d68eaa3dec0c8adff742391c9e8d4b3fc93cc6055f8cbb8a09",
     "original": "The target becomes [$ $|Skill+web_effect]",
-    "translation": ""
+    "translation": "目标变为[$ $|Skill+web_effect]"
   },
   {
     "ID": 1007434383,

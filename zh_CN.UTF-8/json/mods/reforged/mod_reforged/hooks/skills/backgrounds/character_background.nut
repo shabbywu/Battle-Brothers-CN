@@ -26,7 +26,7 @@
     "ID": 1007434798,
     "key": "791fa7b9232ac1db3c327d35ac92d3a0b0ea32ab7ab27a5849396b1faa430aa8",
     "original": "<div class='attributePredictionHeader'>Projection of this character's [base|Concept.BaseAttribute] [attributes|Concept.CharacterAttribute] at [level|Concept.Level] ",
-    "translation": "",
+    "translation": "<div class='attributePredictionHeader'>该角色[基础|Concept.BaseAttribute][属性|Concept.CharacterAttribute]在[等级|Concept.Level] ",
     "context": "\"<div>Projection of this character's [base|Concept.BaseAttribute] [attributes|Concept.CharacterAttribute] at [level|Concept.Level] \" + getroottable().Const.XP.MaxLevelWithPerkpoints + \" including the effects of traits and [permanent injuries|Concept.InjuryPermanent].</div>\""
   },
   {
