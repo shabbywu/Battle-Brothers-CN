@@ -18,70 +18,70 @@
     "ID": 1007438561,
     "key": "eea0f8b2b01cfaaa5f3860f2281e7485f5b37aeb3d394a52862f29c452913ad7",
     "original": "Immune to Poison",
-    "translation": "",
+    "translation": "免疫毒素",
     "context": "text = \"Immune to Poison\""
   },
   {
     "ID": 1007438562,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+bleeding_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007438563,
     "key": "c0a06251001413aa8409285eeee8f6619abeee0e3d3540dae5f4c746e9a666fb",
     "original": "Immune to being [$ $|Skill+disarmed_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+disarmed_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+disarmed_effect]\")"
   },
   {
     "ID": 1007438564,
     "key": "c9379899fe73318a81898ad2387327ed49a40125908a7ab74d57827f75f83209",
     "original": "Immune to being [$ $|Skill+stunned_effect]",
-    "translation": "",
+    "translation": "免疫[昏迷|Skill+stunned_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+stunned_effect]\")"
   },
   {
     "ID": 1007438565,
     "key": "d7b42d42942214980c125596e5d6fca0d1ff886196d32db757f4daa38723bc58",
     "original": "Immune to being [rooted|Concept.Rooted]",
-    "translation": "",
+    "translation": "免疫[定身|Concept.Rooted]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [rooted|Concept.Rooted]\")"
   },
   {
     "ID": 1007438566,
     "key": "ab99d1c9b488ce21e4e6374076b5005499aa5bf65142bb8882a9d1bbb602adc3",
     "original": "Immune to being knocked back or grabbed",
-    "translation": "",
+    "translation": "免疫击退和钩拽技能",
     "context": "text = \"Immune to being knocked back or grabbed\""
   },
   {
     "ID": 1007438567,
     "key": "cbcbed89f4217a2d1011e8ba54b348edda393c0156c3b76eb45a36bab99a687f",
     "original": "Immune to fire",
-    "translation": "",
+    "translation": "免疫火焰",
     "context": "text = \"Immune to fire\""
   },
   {
     "ID": 1007438568,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": "",
+    "translation": "不受[$ $|Skill+night_effect]惩罚影响",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007438569,
     "key": "0df3d85b2006390ef692d1eb6c54a675ce510f2fa6177cedc1647379126cef29",
     "original": "Not affected by [Morale|Concept.Morale]",
-    "translation": "",
+    "translation": "不受[士气|Concept.Morale]影响",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [Morale|Concept.Morale]\")"
   },
   {
     "ID": 1007438570,
     "key": "3a96ffef3fb8756c270cc18ee051dfa52f1f7433312a6b07d1af42ff27c807c2",
     "original": "Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]",
-    "translation": "",
+    "translation": "不会受到[临时创伤|Concept.InjuryTemporary]，也不会被其影响。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {

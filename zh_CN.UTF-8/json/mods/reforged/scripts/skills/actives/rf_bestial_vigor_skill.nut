@@ -3,7 +3,7 @@
     "ID": 1007441146,
     "key": "67b7e352578ba0e76216d73653919634d17fada74df014862a6b461e92b2c0db",
     "original": " [Action Points|Concept.ActionPoints] for this [turn|Concept.Turn]",
-    "translation": "",
+    "translation": "点[行动点数|Concept.ActionPoints]，持续至本[回合|Concept.Turn]结束",
     "context": "\"Gain \" + getroottable().MSU.Text.colorizeValue(this.m.ActionPointsGained, {\n    AddSign = True\n}) + \" [Action Points|Concept.ActionPoints] for this [turn|Concept.Turn]\""
   },
   {

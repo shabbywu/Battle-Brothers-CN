@@ -3,7 +3,7 @@
     "ID": 1007441353,
     "key": "157c3b8abd1904b83f03877f67b2ac5e2600b80e6b718bde2c3f9ee82acc99c8",
     "original": "Cannot be used while Rooted",
-    "translation": "",
+    "translation": "被定身时无法使用",
     "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while Rooted\")"
   },
   {
@@ -34,7 +34,7 @@
     "ID": 1007441357,
     "key": "0f10f1f863a411c4a07a5f3ee8439dab749d57beaa1a62814fe101d857bc31bf",
     "original": "[Staggers|Skill+staggered_effect] the target on a hit",
-    "translation": "",
+    "translation": "若攻击成功，使目标[趔趄|Skill+staggered_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"[Staggers|Skill+staggered_effect] the target on a hit\")"
   }
 ]

@@ -10,7 +10,7 @@
     "ID": 1007441817,
     "key": "35a727c5b5afc385a4aa09d21c03904334f3942a2050735f255a2d96b937a4d1",
     "original": " [Resolve|Concept.Bravery] at negative [morale checks|Concept.Morale]",
-    "translation": "",
+    "translation": "点[决心|Concept.Bravery]，用于负面[士气检定|Concept.Morale]",
     "context": "\"Additional \" + getroottable().MSU.Text.colorPositive(\"+\" + bonus) + \" [Resolve|Concept.Bravery] at negative [morale checks|Concept.Morale]\""
   },
   {

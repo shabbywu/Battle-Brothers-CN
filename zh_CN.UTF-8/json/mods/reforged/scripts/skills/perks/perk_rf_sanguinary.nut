@@ -18,7 +18,7 @@
     "ID": 1007441954,
     "key": "ee62b368a91a78d9b5c924fcb768b73fdcdcd185c0c19d51ab0a68a1380e9d47",
     "original": "The next %i%s attack(s) during your [turn|Concept.Turn]%s will recover %s [Action Points|Concept.ActionPoints] if they cause a fatality",
-    "translation": "",
+    "translation": "你的[回合|Concept.Turn]期间，接下来的%i%s次攻击%s若造成[残杀|Concept.Fatality]，将恢复%s点[行动点数|Concept.ActionPoints]",
     "context": "this.format(\"The next %i%s attack(s) during your [turn|Concept.Turn]%s will recover %s [Action Points|Concept.ActionPoints] if they cause a fatality\", this.m.UsesRemaining, attackString, weaponString, getroottable().MSU.Text.colorPositive(this.m.RestoredActionPoints))"
   }
 ]

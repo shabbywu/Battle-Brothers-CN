@@ -3,14 +3,14 @@
     "ID": 1007437219,
     "key": "1075193e478a28f84a85f7275ba179456c73ad874a734ad1a4e9605fd5543fe7",
     "original": "Allies who start their [turn|Concept.Turn] adjacent to this character when they are [engaged|Concept.ZoneOfControl] in melee or are adjacent to an ally [engaged|Concept.ZoneOfControl] in melee will gain the [$ $|Skill+rf_inspiring_presence_buff_effect] effect",
-    "translation": "",
+    "translation": "若某个友军角色在其[回合|Concept.Turn]开始时接邻该角色，在其[陷入近战|Concept.ZoneOfControl]或是接邻[陷入近战|Concept.ZoneOfControl]的角色时，获得[$ $|Skill+rf_inspiring_presence_buff_effect]效果。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Allies who start their [turn|Concept.Turn] adjacent to this character when they are [engaged|Concept.ZoneOfControl] in melee or are adjacent to an ally [engaged|Concept.ZoneOfControl] in melee will gain the [$ $|Skill+rf_inspiring_presence_buff_effect] effect\")"
   },
   {
     "ID": 1007437220,
     "key": "79d5f9647007b00632eebb192954c69b25dc7f5e690014bfeb11c2c71fabd50a",
     "original": "Only same faction members are considered allies for this [perk|Concept.Perk]",
-    "translation": "",
+    "translation": "本[特技|Concept.Perk]只对同阵营的友军生效",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Only same faction members are considered allies for this [perk|Concept.Perk]\")"
   },
   {

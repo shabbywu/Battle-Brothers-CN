@@ -3,7 +3,7 @@
     "ID": 1007441457,
     "key": "1b6f639ae2410d435657b1825bff835418183e1b77e54ad69edc8eccd769b6c3",
     "original": "Gain the [$ $|Skill+rf_take_aim_effect] effect",
-    "translation": "",
+    "translation": "获得[瞄准中|Skill+rf_take_aim_effect]效果",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Gain the [$ $|Skill+rf_take_aim_effect] effect\")"
   },
   {
@@ -18,7 +18,7 @@
     "ID": 1007441459,
     "key": "8af5f1f52ee891b508b592b7859e949a69012f9cd68e50c7f27371f771f56115",
     "original": "Requires a loaded weapon",
-    "translation": "",
+    "translation": "需要完成装填的武器",
     "context": "getroottable().MSU.Text.colorNegative(\"Requires a loaded weapon\")"
   },
   {

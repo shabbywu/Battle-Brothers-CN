@@ -3,21 +3,21 @@
     "ID": 1007435743,
     "key": "503e7a3a7a1750221ece3a66152b9eae2df960a9635367f126ff1bb3bcb7129d",
     "original": " Maximum Damage",
-    "translation": "",
+    "translation": "最大伤害",
     "context": "getroottable().MSU.Text.colorPositive(\"+20\") + \" Maximum Damage\""
   },
   {
     "ID": 1007435744,
     "key": "3a7e582908557a57bb978b8aa5df9443381154bb468cc19e2a3a8a48f3775bce",
     "original": " Minimum Damage",
-    "translation": "",
+    "translation": "最小伤害",
     "context": "getroottable().MSU.Text.colorPositive(\"+30\") + \" Minimum Damage\""
   },
   {
     "ID": 1007435745,
     "key": "425834234537e2495d39d0932bacadb3b96ee23a636e64096490aa003b399385",
     "original": " [Hitpoints|Concept.Hitpoints]",
-    "translation": "",
+    "translation": "[生命值|Concept.Hitpoints]",
     "context": "getroottable().MSU.Text.colorPositive(\"+300\") + \" [Hitpoints|Concept.Hitpoints]\""
   },
   {
@@ -32,14 +32,14 @@
     "ID": 1007435747,
     "key": "451ee5458d9c9b11ad9b6919467ee4e332a8759cfd596edb301d92eb2cb6546c",
     "original": " [Melee Defense|Concept.MeleeDefense]",
-    "translation": "",
+    "translation": "[近战防御|Concept.MeleeDefense]",
     "context": "getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Defense|Concept.MeleeDefense]\""
   },
   {
     "ID": 1007435748,
     "key": "ff823c3ab8a078a6e983e474c07f0f1b315d450c88d570dd8b2538d783f72de0",
     "original": " [Melee Skill|Concept.MeleeSkill]",
-    "translation": "",
+    "translation": "[近战技能|Concept.MeleeSkill]",
     "context": "getroottable().MSU.Text.colorPositive(\"+10\") + \" [Melee Skill|Concept.MeleeSkill]\""
   },
   {
@@ -54,7 +54,7 @@
     "ID": 1007435750,
     "key": "eb87384ed62571b50d040294470f3f8ddaab0f874b92fc5e777881d97ef4c286",
     "original": " [Resolve|Concept.Bravery]",
-    "translation": "",
+    "translation": "[决心|Concept.Bravery]",
     "context": "getroottable().MSU.Text.colorPositive(\"+60\") + \" [Resolve|Concept.Bravery]\""
   },
   {

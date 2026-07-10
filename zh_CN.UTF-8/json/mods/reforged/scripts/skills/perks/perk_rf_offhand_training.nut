@@ -3,7 +3,7 @@
     "ID": 1007441913,
     "key": "a7449845ca7dcb9e1dc55a517ce5237b1349f4938edef94988fd61a6f63f2705",
     "original": " this [turn|Concept.Turn] costs no [Action Points|Concept.ActionPoints]",
-    "translation": "",
+    "translation": "的副手物品在本[回合|Concept.Turn]内首次使用时不消耗[行动点数|Concept.ActionPoints]",
     "context": "\"The first use of any offhand item weighing less than \" + getroottable().MSU.Text.colorNegative(~this.m.StaminaModifierThreshold) + \" this [turn|Concept.Turn] costs no [Action Points|Concept.ActionPoints]\""
   },
   {

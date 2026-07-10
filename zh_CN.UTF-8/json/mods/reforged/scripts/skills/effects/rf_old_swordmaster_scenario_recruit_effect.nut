@@ -43,7 +43,7 @@
     "ID": 1007441714,
     "key": "64923822756da12da47f641d4795963146b5414fae75df3a317e7a434db63678",
     "original": "Requires a Sword to be equipped",
-    "translation": "",
+    "translation": "需要装备剑",
     "context": "getroottable().MSU.Text.colorRed(\"Requires a Sword to be equipped\")"
   },
   {
@@ -66,7 +66,7 @@
     "ID": 1007441717,
     "key": "56023f1d4efa6b32de95ffef888623ac993bceaeb09eb8a250949a9c2e153169",
     "original": "Upon gaining a [level|Concept.Level], has a %s chance to learn a random [perk|Concept.Perk] from the Sword perk group. Will refund the [perk|Concept.Perk] points spent on already picked [perks|Concept.Perk].",
-    "translation": "",
+    "translation": "[升级|Concept.Level]时，有%s概率习得一个随机的剑特技组[特技|Concept.Perk]。如果是已经学习的[特技|Concept.Perk]，则会返还消耗的[特技|Concept.Perk]点数。",
     "context": "this.format(\"Upon gaining a [level|Concept.Level], has a %s chance to learn a random [perk|Concept.Perk] from the Sword perk group. Will refund the [perk|Concept.Perk] points spent on already picked [perks|Concept.Perk].\", getroottable().MSU.Text.colorizeValue(this.getFreePerkChance(), {\n    AddPercent = True\n}))"
   }
 ]

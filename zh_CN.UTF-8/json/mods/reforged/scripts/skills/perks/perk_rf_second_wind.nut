@@ -19,7 +19,7 @@
     "ID": 1007441957,
     "key": "f486af72a3c886771ae999f98b2eb93d1c90d19e02f43de21b179ba087d87f86",
     "original": " total [Action Points|Concept.ActionPoints]",
-    "translation": "",
+    "translation": "点总[行动点数|Concept.ActionPoints]",
     "context": "\"Will recover [Action Points|Concept.ActionPoints] upon [waiting|Concept.Wait] to end up with \" + getroottable().MSU.Text.colorPositive(this.m.ActionPointsTarget) + \" total [Action Points|Concept.ActionPoints]\""
   },
   {

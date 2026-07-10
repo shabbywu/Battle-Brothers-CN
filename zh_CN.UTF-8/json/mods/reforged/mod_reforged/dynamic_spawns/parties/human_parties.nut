@@ -35,7 +35,7 @@
     "ID": 1007411516,
     "key": "3f0e26c3281004f9e50993ea57d3ead3c84885fb64bd27abb2ec3b2b31011e44",
     "original": "Peasants",
-    "translation": "",
+    "translation": "农民",
     "context": "ID = \"Peasants\""
   }
 ]

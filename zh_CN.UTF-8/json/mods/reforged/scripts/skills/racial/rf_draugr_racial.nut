@@ -25,28 +25,28 @@
     "ID": 1007442058,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+bleeding_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007442059,
     "key": "4c8289185c90b4acaf8ac1a03b0defa85981eac545a242523acd080314b7df9d",
     "original": "Immune to poison",
-    "translation": "",
+    "translation": "免疫毒素",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to poison\")"
   },
   {
     "ID": 1007442060,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": "",
+    "translation": "不受[$ $|Skill+night_effect]惩罚影响",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007442061,
     "key": "5120e1dcd27d0673b13722a58294127e4e0b432b9bb944739230c715c15b025b",
     "original": "Not affected by [Fatigue|Concept.Fatigue]",
-    "translation": "",
+    "translation": "不会累积[疲劳值|Concept.Fatigue]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [Fatigue|Concept.Fatigue]\")"
   },
   {

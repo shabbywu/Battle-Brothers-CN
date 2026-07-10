@@ -11,7 +11,7 @@
     "ID": 1007441649,
     "key": "192431e1b2d3db6d5f702472e63a970cf9777f86f80bef277c06704d33eb1187",
     "original": " [Ranged Defense|Concept.RangeDefense] from equipped shield",
-    "translation": "",
+    "translation": "来自所装备盾牌的[远程防御|Concept.RangeDefense]",
     "context": "getroottable().MSU.Text.colorizeValue(~getroottable().Math.floor(shield.getRangedDefenseBonus() * 0.75), {\n    AddSign = True\n}) + \" [Ranged Defense|Concept.RangeDefense] from equipped shield\""
   },
   {
@@ -58,7 +58,7 @@
     "ID": 1007441655,
     "key": "1c0bc5d337a1ae5d2f6c0dcdff2dac7a019a9f6f5e8643cc1538be3acff2203d",
     "original": "Will expire upon using any skill or starting a new [turn|Concept.Turn]",
-    "translation": "",
+    "translation": "会在使用技能或下[回合|Concept.Turn]开始时失效",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Will expire upon using any skill or starting a new [turn|Concept.Turn]\")"
   },
   {

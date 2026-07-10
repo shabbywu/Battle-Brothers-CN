@@ -26,7 +26,7 @@
     "ID": 1007429961,
     "key": "8ac358cff34d1ba81ba431123c2d15d2013045de60b7112618dba9d4d1a87b9a",
     "original": "Inflicts additional damage, the higher the user's current [Initiative|Concept.Initiative]",
-    "translation": "",
+    "translation": "造成额外伤害，使用者[主动值|Concept.Initiative]越高，伤害越高",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Inflicts additional damage, the higher the user's current [Initiative|Concept.Initiative]\")"
   },
   {

@@ -64,7 +64,7 @@
     "ID": 1007413218,
     "key": "64c393506db87e3ffa5f93fa9577b98540275aac3d9118181e70d50972c4f44f",
     "original": "ghoul",
-    "translation": "",
+    "translation": "ghoul",
     "context": "flags.has(\"ghoul\")"
   },
   {
@@ -93,7 +93,7 @@
     "ID": 1007413222,
     "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
     "original": "undead",
-    "translation": "",
+    "translation": "亡灵",
     "context": "this.getFlags().has(\"undead\")"
   },
   {

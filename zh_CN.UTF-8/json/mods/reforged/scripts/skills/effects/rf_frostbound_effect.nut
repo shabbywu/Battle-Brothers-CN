@@ -19,7 +19,7 @@
     "ID": 1007441618,
     "key": "d2882f9d3f5e09c39a177a0e6673d29cf027bbc2854c8548bc194d003e1ffe1f",
     "original": " of their maximum [Hitpoints|Concept.Hitpoints] and you heal for double the amount",
-    "translation": "",
+    "translation": "的最大[生命值|Concept.Hitpoints]，并为你恢复其两倍数值的生命",
     "context": "\"Characters ending their [turn|Concept.Turn] adjacent to you lose \" + getroottable().MSU.Text.colorizePct(this.m.HitpointsTransferPct, {\n    InvertColor = True\n}) + \" of their maximum [Hitpoints|Concept.Hitpoints] and you heal for double the amount\""
   },
   {

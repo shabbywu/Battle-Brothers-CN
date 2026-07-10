@@ -18,7 +18,7 @@
     "ID": 1007441885,
     "key": "9f3821386979f077e6af4531ea02ac2eaf43dee9ed8fc9141409c3a7ff4c624f",
     "original": " or more [Fatigue|Concept.Fatigue] built",
-    "translation": "",
+    "translation": "点或更多[疲劳|Concept.Fatigue]时失效",
     "context": "\"Becomes disabled when starting a turn with \" + getroottable().MSU.Text.colorizePct(this.m.FatigueThreshold, {\n    InvertColor = True\n}) + \" or more [Fatigue|Concept.Fatigue] built\""
   },
   {
@@ -33,21 +33,21 @@
     "ID": 1007441887,
     "key": "3a20dad5a283d63095ac7110447579550a78b1e472965a7bc6a8dd9d5cc01d0c",
     "original": "Becomes disabled when starting a turn with %s (%s) or more [Fatigue|Concept.Fatigue] built",
-    "translation": "",
+    "translation": "回合开始时，若积累的[疲劳值|Concept.Fatigue]不低于%s(%s)点，特技失效",
     "context": "this.format(\"Becomes disabled when starting a turn with %s (%s) or more [Fatigue|Concept.Fatigue] built\", getroottable().MSU.Text.colorizePct(this.m.FatigueThreshold, {\n    InvertColor = True\n}), getroottable().MSU.Text.colorNegative(getroottable().Math.round(this.m.FatigueThreshold * this.getContainer().getActor().getFatigueMax())))"
   },
   {
     "ID": 1007441888,
     "key": "9a951d2c5200365293525cb92481a7f276fc3d3ff06806e47d68900b779286b2",
     "original": "Disabled until this character uses [$ $|Skill+recover_skill]",
-    "translation": "",
+    "translation": "在使用[$ $|Skill+recover_skill]技能前失效",
     "context": "getroottable().MSU.Text.colorNegative(\"Disabled until this character uses [$ $|Skill+recover_skill]\")"
   },
   {
     "ID": 1007441889,
     "key": "6997e91029071cffc36ab26784413c7df339bbd6ce34ebdb84bc04e36c5a27e8",
     "original": "Does not expire when using skills that cost no [Action Points|Concept.ActionPoints] but will expire upon [waiting|Concept.Wait]",
-    "translation": ""
+    "translation": "使用不消耗[行动点数|Concept.ActionPoints]的技能不会使其失效，但在[等待|Concept.Wait]后会失效"
   },
   {
     "ID": 1007441890,

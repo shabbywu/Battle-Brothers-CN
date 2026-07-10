@@ -18,7 +18,7 @@
     "ID": 1007441529,
     "key": "dd52a75b8cd4522625308ac4bd0b218ebae4572f860a655d904dbf254e8bea17",
     "original": " of [Melee Skill|Concept.MeleeSkill]",
-    "translation": "",
+    "translation": "的[近战技能|Concept.MeleeSkill]值，作为爆头概率",
     "context": "\"chance equal to \" + getroottable().MSU.Text.colorizePct(this.m.MeleeSkillToHeadshotChancePct) + \" of [Melee Skill|Concept.MeleeSkill]\""
   },
   {

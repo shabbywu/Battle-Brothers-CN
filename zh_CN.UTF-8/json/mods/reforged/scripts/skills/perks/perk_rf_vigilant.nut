@@ -11,7 +11,7 @@
     "ID": 1007442040,
     "key": "a1ccf54c3fa9130be1109c1054f9f7a1db224b854af846acd97c6e8597d0e901",
     "original": "This character's eye is keen, his movements keener. Gain a portion of unspent [Action Points|Concept.ActionPoints] from the previous [turn|Concept.Turn].",
-    "translation": "",
+    "translation": "该角色眼力敏锐而动作更甚。获得部分上[回合|Concept.Turn]未花费的[行动点数|Concept.ActionPoints]。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"This character's eye is keen, his movements keener. Gain a portion of unspent [Action Points|Concept.ActionPoints] from the previous [turn|Concept.Turn].\")"
   }
 ]

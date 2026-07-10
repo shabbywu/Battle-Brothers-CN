@@ -11,7 +11,7 @@
     "ID": 1007441314,
     "key": "e522b5e836e40a3a5d774d1868d0062361ff6de3bba84e505222b8f5ef830f0c",
     "original": " [Fatigue|Concept.Fatigue] compared to the movement costs of the starting tile",
-    "translation": "",
+    "translation": "点[疲劳|Concept.Fatigue]，相较于起始地格的移动消耗计算",
     "context": "ret + this.m.FatigueCost == 0 ? \"+0\" : getroottable().MSU.Text.colorizeValue(this.m.FatigueCost, {\n    AddSign = True\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue] compared to the movement costs of the starting tile\""
   },
   {

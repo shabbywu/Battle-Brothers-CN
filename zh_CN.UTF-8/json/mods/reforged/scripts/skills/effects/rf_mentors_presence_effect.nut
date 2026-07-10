@@ -27,7 +27,7 @@
     "ID": 1007441668,
     "key": "d6b31890fd1c0a2129018b5b904ad5ca647ceb270ec4f58380bd789095970035",
     "original": " levels of [morale|Concept.Morale] upon the mentor's death",
-    "translation": "",
+    "translation": "级[士气|Concept.Morale]，若导师死亡",
     "context": "\"Will lose \" + getroottable().MSU.Text.colorizeValue(this.m.MoraleStateOnMentorDeathAdd) + \" levels of [morale|Concept.Morale] upon the mentor's death\""
   },
   {

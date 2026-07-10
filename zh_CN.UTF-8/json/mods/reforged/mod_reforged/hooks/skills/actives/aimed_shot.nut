@@ -11,7 +11,7 @@
     "ID": 1007423861,
     "key": "bab455d8f1f31382fa5ba9f176217bf4d1291e0eb68f93b9989adfe9b0042adf",
     "original": "Cannot be used because this character is [engaged in melee|Concept.ZoneOfControl]",
-    "translation": "",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
     "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used because this character is [engaged in melee|Concept.ZoneOfControl]\")"
   },
   {
@@ -26,7 +26,7 @@
     "ID": 1007423863,
     "key": "185622d3b3f471b592cf454c498f13bdec4ef55c99f5367e53615bce7970d3c9",
     "original": "Needs a non-empty quiver of arrows equipped",
-    "translation": "",
+    "translation": "需要装备非空箭袋",
     "context": "getroottable().MSU.Text.colorNegative(\"Needs a non-empty quiver of arrows equipped\")"
   },
   {

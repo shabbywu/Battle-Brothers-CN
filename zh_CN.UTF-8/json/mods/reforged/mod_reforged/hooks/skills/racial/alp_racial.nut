@@ -40,14 +40,14 @@
     "ID": 1007438283,
     "key": "6451d02c1972d6adc2516e88335b24f7e1e996b7f57d5ec48776ab2573f95978",
     "original": "Immune to [$ $|Skill+bleeding_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+bleeding_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to [$ $|Skill+bleeding_effect]\")"
   },
   {
     "ID": 1007438284,
     "key": "c0a06251001413aa8409285eeee8f6619abeee0e3d3540dae5f4c746e9a666fb",
     "original": "Immune to being [$ $|Skill+disarmed_effect]",
-    "translation": "",
+    "translation": "免疫[$ $|Skill+disarmed_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Immune to being [$ $|Skill+disarmed_effect]\")"
   },
   {
@@ -62,21 +62,21 @@
     "ID": 1007438286,
     "key": "3a06da24cac7678221fb5c8134c8b2ec6f2d5c95857811575b8ddb63035c4e1a",
     "original": "Not affected by [$ $|Skill+night_effect]",
-    "translation": "",
+    "translation": "不受[$ $|Skill+night_effect]惩罚影响",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by [$ $|Skill+night_effect]\")"
   },
   {
     "ID": 1007438287,
     "key": "3a96ffef3fb8756c270cc18ee051dfa52f1f7433312a6b07d1af42ff27c807c2",
     "original": "Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]",
-    "translation": "",
+    "translation": "不会受到[临时创伤|Concept.InjuryTemporary]，也不会被其影响。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Not affected by, and cannot receive, [temporary injuries|Concept.InjuryTemporary]\")"
   },
   {
     "ID": 1007438288,
     "key": "6762a43b7daf1483672779bfcd43b64062393cab016ebd70140c26ded62334ab",
     "original": "Whenever this character receives damage to [Hitpoints|Concept.Hitpoints], teleport all Alps to new random locations close to enemies",
-    "translation": "",
+    "translation": "该角色受到[生命值|Concept.Hitpoints]伤害时，将所有梦魇传送到接近敌人的随机新位置",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Whenever this character receives damage to [Hitpoints|Concept.Hitpoints], teleport all Alps to new random locations close to enemies\")"
   },
   {

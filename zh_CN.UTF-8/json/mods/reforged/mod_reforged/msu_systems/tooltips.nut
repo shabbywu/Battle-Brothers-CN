@@ -40,7 +40,7 @@
     "ID": 1007440670,
     "key": "b6e523d2758bc8608718ca71da8e8175a85ec902783d3421f28b57c30450a0f1",
     "original": "Have all your characters use [Wait|Concept.Wait] on their [turn|Concept.Turn].",
-    "translation": "",
+    "translation": "让你的所有角色在[回合|Concept.Turn]中进行[等待|Concept.Wait]。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Have all your characters use [Wait|Concept.Wait] on their [turn|Concept.Turn].\")"
   },
   {
@@ -54,28 +54,28 @@
     "ID": 1007440672,
     "key": "56aba9adccad283815ce616c54bb0d616001191a80bda50bc9536744e4e710d3",
     "original": "Switch to Description",
-    "translation": "",
+    "translation": "切换显示人物描述",
     "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440673,
     "key": "0cfa07a57efbc4b43bedc5809b4f657abd03f44c8141dcc2ed3db0d50f3de2dd",
     "original": "Switch to Perk Groups",
-    "translation": "",
+    "translation": "切换显示特技组",
     "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440674,
     "key": "66de2c37cfcee34f33de246e367268c706d0d8feda2b25917ef5bcb118f678ca",
     "original": "Switch to Perk Tree",
-    "translation": "",
+    "translation": "切换显示特技树",
     "context": "local states = [\"Switch to Perk Groups\",\"Switch to Perk Tree\",\"Switch to Description\"]"
   },
   {
     "ID": 1007440675,
     "key": "aa61274809bf0645eea2381eac10ff20d9f849a1e28e5ead3bc3683f9e2d8804",
     "original": "Wait Round (%s)",
-    "translation": "",
+    "translation": "等待回合(%s)",
     "context": "this.format(\"Wait Round (%s)\", getroottable().MSU.System.Keybinds.KeybindsByMod.mod_reforged.Tactical_WaitRound.getKeyCombinations())"
   },
   {

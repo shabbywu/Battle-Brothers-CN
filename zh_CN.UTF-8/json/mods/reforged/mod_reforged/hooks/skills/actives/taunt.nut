@@ -3,7 +3,7 @@
     "ID": 1007433220,
     "key": "ffde87855331cca47ad9f06bb22acd59043d85584c2998303e00cd802ca963a3",
     "original": " of your current [Resolve|Concept.Bravery]",
-    "translation": "",
+    "translation": "x你当前的[决心|Concept.Bravery]",
     "context": "\"When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by \" + getroottable().MSU.Text.colorizePct(this.m.DefenseModifierFraction) + \" of your current [Resolve|Concept.Bravery]\""
   },
   {
@@ -34,7 +34,7 @@
     "ID": 1007433224,
     "key": "be34a36f6b5920a14d1306fd09e80961a68ff285e2be1a9f6221b1d9ceaa0834",
     "original": "When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by ",
-    "translation": "",
+    "translation": "对相邻目标使用时，降低其[近战防御|Concept.MeleeDefense]和[远程防御|Concept.RangeDefense]，降低值为",
     "context": "\"When used on an adjacent target, reduces its [Melee Defense|Concept.MeleeDefense] and [Ranged Defense|Concept.RangeDefense] by \" + getroottable().MSU.Text.colorizePct(this.m.DefenseModifierFraction) + \" of your current [Resolve|Concept.Bravery]\""
   },
   {

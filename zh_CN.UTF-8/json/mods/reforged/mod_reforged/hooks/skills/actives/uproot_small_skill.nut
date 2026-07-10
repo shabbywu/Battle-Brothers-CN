@@ -3,7 +3,7 @@
     "ID": 1007433960,
     "key": "37187a71148ac1b7894301170f3293036929b6d1e0d64235bee54421f2e77336",
     "original": "Does not damage or affect other Schrats",
-    "translation": "",
+    "translation": "不会伤害或影响其他树人",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Does not damage or affect other Schrats\")"
   },
   {
@@ -18,7 +18,7 @@
     "ID": 1007433962,
     "key": "bc38c0cfdbbb9fc4e3216a45de92bef21f0ae102755aa828dca2d1a7fb17c3cc",
     "original": "The target becomes [$ $|Skill+staggered_effect] on a hit",
-    "translation": "",
+    "translation": "命中时，使目标陷入[[|Skill+staggered_effect]",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"The target becomes [$ $|Skill+staggered_effect] on a hit\")"
   },
   {

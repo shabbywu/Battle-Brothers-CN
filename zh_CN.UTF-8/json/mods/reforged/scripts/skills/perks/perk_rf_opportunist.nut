@@ -18,7 +18,7 @@
     "ID": 1007441918,
     "key": "de24946373e3cd4f79f51650a5d5b688abb88156e0f9b995631bd0b9173644f6",
     "original": "The next %s attack before [waiting|Concept.Wait] or ending the [turn|Concept.Turn] costs %s [Action Points|Concept.ActionPoints] and builds %s [Fatigue|Concept.Fatigue]",
-    "translation": "",
+    "translation": "只要不进行[等待|Concept.Wait]或结束[回合|Concept.Turn]，下次%s攻击便%s消耗[行动点数|Concept.ActionPoints]且仅积累%s的[疲劳值|Concept.Fatigue]",
     "context": "this.format(\"The next %s attack before [waiting|Concept.Wait] or ending the [turn|Concept.Turn] costs %s [Action Points|Concept.ActionPoints] and builds %s [Fatigue|Concept.Fatigue]\", weaponTypeName, getroottable().MSU.Text.colorPositive(\"no\"), getroottable().MSU.Text.colorizeMultWithText(this.m.FatigueCostMult, {\n    InvertColor = True\n}))"
   },
   {

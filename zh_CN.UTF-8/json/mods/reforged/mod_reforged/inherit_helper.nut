@@ -11,7 +11,7 @@
     "ID": 1007440488,
     "key": "4fd336f38763118286af00379387d5f1a1f6185f01a9880151226fc2a1c6dacd",
     "original": "Can not be used because this character is [engaged in melee|Concept.ZoneOfControl]",
-    "translation": "",
+    "translation": "角色[陷入近战|Concept.ZoneOfControl]，无法使用",
     "context": "getroottable().MSU.Text.colorNegative(\"Can not be used because this character is [engaged in melee|Concept.ZoneOfControl]\")"
   },
   {
@@ -42,7 +42,7 @@
     "ID": 1007440492,
     "key": "c4b9e8ad35170faec914b49de60127796e266b300d81a7ce88736fa3cff4e813",
     "original": "sling",
-    "translation": "",
+    "translation": "抛投",
     "context": "getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\")"
   },
   {
@@ -56,7 +56,7 @@
     "ID": 1007440494,
     "key": "7b0456581bef4cb1f0e2c9c52ab9a3d80989f8aabe74e609d3cc183c365363de",
     "original": "throw",
-    "translation": "",
+    "translation": "投掷",
     "context": "getroottable().MSU.String.replace(this.m.Description, \"throw\", \"sling\")"
   }
 ]

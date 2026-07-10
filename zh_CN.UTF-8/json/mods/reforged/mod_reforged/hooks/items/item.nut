@@ -25,7 +25,7 @@
     "ID": 1007421140,
     "key": "c83bec1f02849a09edc642f2d4226774435f1233abc8b85f7d559ba9d022f570",
     "original": "Fatigue",
-    "translation": "",
+    "translation": "疲劳",
     "context": "getroottable().MSU.Text.colorNegative(\"Fatigue\")"
   },
   {
@@ -46,7 +46,7 @@
     "ID": 1007421143,
     "key": "864e4d4b004cd5cd3581347f21e35d9b20f252b979b68fafab46822ad9d60886",
     "original": "Skills: (%s, %s)\n%s",
-    "translation": "",
+    "translation": "技能： (%s, %s)\n%s",
     "context": "this.format(\"Skills: (%s, %s)\n%s\", getroottable().MSU.Text.colorPositive(\"AP\"), getroottable().MSU.Text.colorNegative(\"Fatigue\"), skillsString)"
   },
   {

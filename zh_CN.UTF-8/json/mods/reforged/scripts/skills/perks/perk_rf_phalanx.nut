@@ -26,7 +26,7 @@
     "ID": 1007441927,
     "key": "79b117fc75156bb7a48b6f98176cb8e280910a1296954c87db145dd3aa814615",
     "original": "Ignore the defense malus from being [surrounded|Concept.Surrounding] by up to ",
-    "translation": "",
+    "translation": "无视被[围攻|Concept.Surrounding]时前",
     "context": "\"Ignore the defense malus from being [surrounded|Concept.Surrounding] by up to \" + getroottable().MSU.Text.colorizeValue(surroundModifier) + \" opponents\""
   },
   {

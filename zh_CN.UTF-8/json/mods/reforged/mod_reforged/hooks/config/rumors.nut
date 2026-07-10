@@ -3,77 +3,77 @@
     "ID": 1007412087,
     "key": "1e03413529d8ab3b040055804b7a146d8e01a22c7c067f8ba0f2ab339e4a82d3",
     "original": "Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}",
-    "translation": "",
+    "translation": "就在{前天 | 昨天 | 今天早上}一个醉醺醺的家伙{找我来吹牛 | 找到了我}，说他在一次冒险当中，{发现了 | 找到了 | 撞见了}{一个 | 某个}叫%location%的{地方 | 地儿}。一开始他说在{%direction%边，后来他又说不对不对，是在%wrongDirection%边 | %wrongDirection%边，后来他又说不对不对，是在%direction%边}。最后他{打定了主意 | 直接赌起了咒}，说那地方肯定是在{%direction% | %wrongDirection%}方。",
     "context": "getroottable().Const.Strings.RumorsUniqueLocation = [[\"{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }\"],[\"{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...\",\"{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.\",\"There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.\",\"Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}\",\"{Some | %randomname%s} kid told me {this | a} story {the other day | yesterday | this morning}. It was about {a | some} {place | location} {he calls | called} %location%. He told me it's supposed to be {%distance% | %wrongDistance%} to the {%direction% | %wrongDirection%} from here, {%terrain% | %wrongTerrain%}. You {know, I think that story is | believe any of this? Me neither, it's} a load of {horse | horse | horse | horse | unhold} shit.\"]]"
   },
   {
     "ID": 1007412088,
     "key": "81b87a24ddc80252ea1925a5a44b7537605b27642e97c86e7e651ea869dc3de4",
     "original": "There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.",
-    "translation": "",
+    "translation": "有这么一个{坊间 | 古老的}{寓言 | 传说 | 故事}，说的是一处叫%location%{的地方 | 的地儿}。{有人 | 某些人}{说 | 坚称}它就在{离这儿%distance%的%terrain%，另一些人却说是在%wrongDistance%的%wrongTerrain% | 离这儿%wrongDistance%的%wrongTerrain%， 另一些却说是在%distance%的%terrain%}。",
     "context": "getroottable().Const.Strings.RumorsUniqueLocation = [[\"{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }\"],[\"{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...\",\"{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.\",\"There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.\",\"Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}\",\"{Some | %randomname%s} kid told me {this | a} story {the other day | yesterday | this morning}. It was about {a | some} {place | location} {he calls | called} %location%. He told me it's supposed to be {%distance% | %wrongDistance%} to the {%direction% | %wrongDirection%} from here, {%terrain% | %wrongTerrain%}. You {know, I think that story is | believe any of this? Me neither, it's} a load of {horse | horse | horse | horse | unhold} shit.\"]]"
   },
   {
     "ID": 1007412089,
     "key": "e4a36c96dc4084d48a077941aa12d5b485d9831174beb93acc7fd04263309e95",
     "original": "mindblowing",
-    "translation": "",
+    "translation": "震撼人心",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412090,
     "key": "8f82fdb7d71487030a44a0e60b138b3942bdf80898a3736cabbb4efd58585ea6",
     "original": "mystical",
-    "translation": "",
+    "translation": "神秘至极",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412091,
     "key": "bfb7280bc44bafc916703ddd79f25223f22b4f8104b4bf513dded3d1409bc498",
     "original": "never before seen",
-    "translation": "",
+    "translation": "闻所未闻",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412092,
     "key": "4943e60532825f98c4c80c00b345b29f6cd168b9e01bc7b4404e9419c5fc8701",
     "original": "overwhelming",
-    "translation": "",
+    "translation": "叹为观止",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412093,
     "key": "52f7e22d230c8ec9162db9baad5e5de36b684da1e3b176814c1fda5a396c949c",
     "original": "spectacular",
-    "translation": "",
+    "translation": "引人入胜",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412094,
     "key": "351ee63908e7bb0ccac847a5c5af8fc29efc230c9418e3bb07b28eb863078487",
     "original": "surreal",
-    "translation": "",
+    "translation": "如梦似幻",
     "context": "getroottable().Const.Strings.LegendaryLocationAdjective = [\"overwhelming\",\"mystical\",\"mindblowing\",\"never before seen\",\"spectacular\",\"surreal\"]"
   },
   {
     "ID": 1007412095,
     "key": "bedf1ec3fe82ea1b9251b0526122580bf77d29e920d73245e1bbfc1b02b3b22c",
     "original": "{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...",
-    "translation": "",
+    "translation": "{一名探险者 | 一名制图师}最近来过这儿，说他找到了{一个 | 某个}%legendaryLocationAdjective%{的地方 | 的地儿}，离这儿%distance%，{他把那儿 | } {叫做 | 称为}%location%。他要是愿意多透露点什么就好了……",
     "context": "getroottable().Const.Strings.RumorsUniqueLocation = [[\"{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }\"],[\"{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...\",\"{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.\",\"There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.\",\"Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}\",\"{Some | %randomname%s} kid told me {this | a} story {the other day | yesterday | this morning}. It was about {a | some} {place | location} {he calls | called} %location%. He told me it's supposed to be {%distance% | %wrongDistance%} to the {%direction% | %wrongDirection%} from here, {%terrain% | %wrongTerrain%}. You {know, I think that story is | believe any of this? Me neither, it's} a load of {horse | horse | horse | horse | unhold} shit.\"]]"
   },
   {
     "ID": 1007412096,
     "key": "6d5bcee84755521d661dd979683ce719c107cdd832d7378be1591eb3622a2ec8",
     "original": "{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }",
-    "translation": "",
+    "translation": "{我总是听说 | 一些旅行者提到过 | 一些朝圣者提到过}一个%legendaryLocationAdjective%的{地方 | 地界}，{就在这儿的%direction% | 在这儿%distance%的%terrain% }。",
     "context": "getroottable().Const.Strings.RumorsUniqueLocation = [[\"{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }\"],[\"{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...\",\"{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.\",\"There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.\",\"Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}\",\"{Some | %randomname%s} kid told me {this | a} story {the other day | yesterday | this morning}. It was about {a | some} {place | location} {he calls | called} %location%. He told me it's supposed to be {%distance% | %wrongDistance%} to the {%direction% | %wrongDirection%} from here, {%terrain% | %wrongTerrain%}. You {know, I think that story is | believe any of this? Me neither, it's} a load of {horse | horse | horse | horse | unhold} shit.\"]]"
   },
   {
     "ID": 1007412097,
     "key": "058953af7e073d5ed616811a830dfe5e3f9ed387c9e55e199bfc2dc3cd2d4efb",
     "original": "{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.",
-    "translation": "",
+    "translation": "有一天，{有个从%randomtown%来的人 | %randomname%}跟我说起了%location%的事。他说那就在这儿{%direction% | %wrongDirection% | %wrongDirection%}边。{但他喝得醉醺醺的，我可不信他的话 | 但我记错了也说不定}。",
     "context": "getroottable().Const.Strings.RumorsUniqueLocation = [[\"{I keep hearing talk | Some traveller mentioned something | Some pilgrim mentioned something} about a %legendaryLocationAdjective% {place | location} {%direction% from here | %distance% from here %terrain% }\"],[\"{An explorer | A cartographer} just recently came by, said he found {a | some} %legendaryLocationAdjective% {place | location} %distance% from here {that he | } {called | named} %location%. If only some more details slipped out of his mouth...\",\"{Some guy from %randomtown% | %randomname%} told me 'bout %location% the other day. He said it was {%direction% | %wrongDirection% | %wrongDirection%} from here. {But he was drunk so I wouldn't trust his word | I'm probably remembering it wrong}.\",\"There is an {urban | old} {tale | legend | story} about a {place | location} called %location%. {Some | Some folk} {say | insist} it's {%distance% from here %terrain% while others estimate it %wrongDistance% from here %wrongTerrain% | %wrongDistance% from here %wrongTerrain% while others estimate it %distance% from here %terrain%}.\",\"Just {the other day | yesterday | this morning} a drunk guy {was talking | came up} to me, said he {discovered | found | stumbled upon} {a | some} {place | location} called %location% on one of his adventures. First he claimed it was {%direction%, then he corrected himself saying it was %wrongDirection% | %wrongDirection%, then he corrected himself saying it was %direction%}. In the end he {insisted | swore} on it being {%direction% | %wrongDirection%}\",\"{Some | %randomname%s} kid told me {this | a} story {the other day | yesterday | this morning}. It was about {a | some} {place | location} {he calls | called} %location%. He told me it's supposed to be {%distance% | %wrongDistance%} to the {%direction% | %wrongDirection%} from here, {%terrain% | %wrongTerrain%}. You {know, I think that story is | believe any of this? Me neither, it's} a load of {horse | horse | horse | horse | unhold} shit.\"]]"
   },
   {

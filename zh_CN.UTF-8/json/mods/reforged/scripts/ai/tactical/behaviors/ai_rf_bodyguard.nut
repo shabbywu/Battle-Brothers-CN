@@ -11,7 +11,7 @@
     "ID": 1007440700,
     "key": "16c5629bae5671dd60e099903c218117b4c623b97f629c444e2adabb55698a8f",
     "original": ": In fact, I would prefer to remain where I am",
-    "translation": "",
+    "translation": "：事实上，我宁愿留在原地",
     "context": "\"* \" + _entity.getName() + \": In fact, I would prefer to remain where I am\""
   },
   {

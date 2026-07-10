@@ -3,28 +3,28 @@
     "ID": 1007441215,
     "key": "2600b7afa19a408a9e7d3c2166027bf7181ada40f0b783f9f8cd4372761c9f7d",
     "original": " [Action Point(s)|Concept.ActionPoints] and builds ",
-    "translation": "",
+    "translation": "点[行动点数|Concept.ActionPoints]，并积累",
     "context": "\"Costs \" + this.m.ActionPointCost == 0 ? \"+0\" : getroottable().MSU.Text.colorizeValue(this.m.ActionPointCost, {\n    AddSign = True\n    InvertColor = True\n}) + \" [Action Point(s)|Concept.ActionPoints] and builds \""
   },
   {
     "ID": 1007441216,
     "key": "e522b5e836e40a3a5d774d1868d0062361ff6de3bba84e505222b8f5ef830f0c",
     "original": " [Fatigue|Concept.Fatigue] compared to the movement costs of the starting tile",
-    "translation": "",
+    "translation": "点[疲劳|Concept.Fatigue]，相较于起始地格的移动消耗计算",
     "context": "ret + this.m.FatigueCost == 0 ? \"+0\" : getroottable().MSU.Text.colorizeValue(this.m.FatigueCost, {\n    AddSign = True\n    InvertColor = True\n}) + \" [Fatigue|Concept.Fatigue] compared to the movement costs of the starting tile\""
   },
   {
     "ID": 1007441217,
     "key": "528bcdf5ed05441c621ef3cc6fcea7e8bd6ddce34843242784e9e73512bd30a1",
     "original": "Cannot be used more than once per [turn|Concept.Turn]",
-    "translation": "",
+    "translation": "每[回合|Concept.Turn]限一次",
     "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used more than once per [turn|Concept.Turn]\")"
   },
   {
     "ID": 1007441218,
     "key": "28c8f20c752d46d15906853fedc4a08e13c847f78ca5f911cf9129ab078bee27",
     "original": "Cannot be used while rooted",
-    "translation": "",
+    "translation": "被定身时无法使用",
     "context": "getroottable().MSU.Text.colorNegative(\"Cannot be used while rooted\")"
   },
   {
@@ -39,7 +39,7 @@
     "ID": 1007441220,
     "key": "d2a5a91d2935d637ffbfbc2ce7428dfb5a3ee8db8ebf9d8f708e6655cab45f8b",
     "original": "Once per turn, switch places with your partner, provided neither you nor your partner is [$ $|Skill+stunned_effect] or rooted.",
-    "translation": "",
+    "translation": "每回合一次，和搭档免费换位，任一方被[$ $|Skill+stunned_effect]或定身时无法使用。",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Once per turn, switch places with your partner, provided neither you nor your partner is [$ $|Skill+stunned_effect] or rooted.\")"
   },
   {
@@ -54,21 +54,21 @@
     "ID": 1007441222,
     "key": "4c6a9d60156f11cc9dad4adcde17165ea0b97b35f3fc41b848971c42e7f7b779",
     "original": "Requires a partner",
-    "translation": "",
+    "translation": "需要一名搭档",
     "context": "getroottable().MSU.Text.colorNegative(\"Requires a partner\")"
   },
   {
     "ID": 1007441223,
     "key": "0bc8b784effa78ff0423fe32796f064459d9894296bdaa1484a7844ac561b3a1",
     "original": "Requires your partner to be next to you",
-    "translation": "",
+    "translation": "需要搭档在你旁边",
     "context": "getroottable().MSU.Text.colorNegative(\"Requires your partner to be next to you\")"
   },
   {
     "ID": 1007441224,
     "key": "03b048779cf4876d9f1cb4566139951acff8149bf83585603c204bcad4860dd1",
     "original": "Requires your partner to be present on the battlefield",
-    "translation": "",
+    "translation": "需要搭档出现在战场上",
     "context": "getroottable().MSU.Text.colorNegative(\"Requires your partner to be present on the battlefield\")"
   },
   {
@@ -83,7 +83,7 @@
     "ID": 1007441226,
     "key": "dfb800aee0cca05af75e984c80d96410fd157dc02772c615a19bbc9a018a80ee",
     "original": "Swap places with your partner and put them next in the [turn|Concept.Turn] order",
-    "translation": "",
+    "translation": "和你的搭档交换位置，将对方置于[回合|Concept.Turn]顺序的下一位",
     "context": "getroottable().Reforged.Mod.Tooltips.parseString(\"Swap places with your partner and put them next in the [turn|Concept.Turn] order\")"
   }
 ]
