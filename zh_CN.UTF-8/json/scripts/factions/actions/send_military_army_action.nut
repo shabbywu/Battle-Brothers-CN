@@ -4,7 +4,7 @@
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
     "translation": "听命于当地领主的职业军人。",
-    "stage": 1,
+    "stage": 5,
     "context": "party.setDescription('Professional soldiers in service to local lords.')"
   },
   {
