@@ -7036,7 +7036,7 @@
         "filename": "",
         "format": "json",
         "total": 8,
-        "translated": 4,
+        "translated": 5,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -7044,9 +7044,9 @@
         "locked": 0,
         "createdAt": "2026-07-09T06:34:11.222Z",
         "updatedAt": "2026-07-10T01:50:13.19Z",
-        "modifiedAt": "2026-07-09T08:33:56.001Z",
+        "modifiedAt": "2026-07-13T02:39:03.851Z",
         "hash": "b5c7e71742138408986de0b58695b6d9",
-        "sha256": "08531ac5b46d91291eef20678874f2a5e4057244d2a448dd3f3b0f415f17265b"
+        "sha256": "793d7f0361d1ea44f05630162a47cb1078b1237fdf64833e055bb3c5762319d5"
     },
     "mod_reforged/mod_conflicts.json": {
         "id": 3175992,
@@ -7511,17 +7511,17 @@
         "filename": "",
         "format": "json",
         "total": 1,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2026-07-09T06:34:24.051Z",
         "updatedAt": "2026-07-09T08:34:08.778Z",
-        "modifiedAt": "2026-07-09T08:34:08.783Z",
+        "modifiedAt": "2026-07-13T01:20:39.377Z",
         "hash": "7a4851aeb565c21186d39c98350bd91c",
-        "sha256": "a681e373a0f7b56208aea4774aab969777bce9cb8bbc5c6eaaaca2b1984d0283"
+        "sha256": "83ba52a80b027a9d1cc86b38a94110331eae33cab2f73a930889391d4a95edc5"
     },
     "scripts/entity/world/locations/rf_draugr_fane_location.json": {
         "id": 3176017,
@@ -7530,17 +7530,17 @@
         "filename": "",
         "format": "json",
         "total": 1,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2026-07-09T06:34:24.651Z",
         "updatedAt": "2026-07-09T08:34:09.292Z",
-        "modifiedAt": "2026-07-09T08:34:09.296Z",
+        "modifiedAt": "2026-07-13T01:20:51.909Z",
         "hash": "bd20aabfcdd9f8b7e243f759080c43c1",
-        "sha256": "87e55ad6d42b6e4fe109f0ccadb8e13440c319edaf6fe54deaab0ade4f0355bf"
+        "sha256": "2cfe0109ebd6d691d7fd5957d8185c0a6abc1bc3339b881b9044e171a6aa6076"
     },
     "scripts/events/events/location/rf_draugr_location_enter_event.json": {
         "id": 3176018,
@@ -7549,7 +7549,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 3,
+        "translated": 9,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -7557,9 +7557,9 @@
         "locked": 0,
         "createdAt": "2026-07-09T06:34:25.172Z",
         "updatedAt": "2026-07-10T01:50:14.104Z",
-        "modifiedAt": "2026-07-09T08:34:10.011Z",
+        "modifiedAt": "2026-07-13T02:05:03.36Z",
         "hash": "17d334867f901feb83cf355ede7bdeb5",
-        "sha256": "8cba639d84b471427f16c13220bff8f63855a929cef621351ae9de4accfdfdde"
+        "sha256": "42b566052b3fc7ad4ad1a9ba900824260ae8e4c14dcbb8d2baaec02252566e54"
     },
     "scripts/events/events/rf_oathtakers_take_oaths_in_regular_origins_event.json": {
         "id": 3176019,
@@ -7568,7 +7568,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 5,
+        "translated": 9,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -7576,9 +7576,9 @@
         "locked": 0,
         "createdAt": "2026-07-09T06:34:25.715Z",
         "updatedAt": "2026-07-10T01:50:14.18Z",
-        "modifiedAt": "2026-07-09T08:34:10.992Z",
+        "modifiedAt": "2026-07-13T01:35:35.924Z",
         "hash": "7bbd998d525e5a82ceb98b17b465229f",
-        "sha256": "4354eeae44bd338ca6ce86e6bef0420b63b00ac311bff2765390b70c93274fb5"
+        "sha256": "0f2463c9ae5388c1e6a65033348aae3c8696b5f23e4c895bc337b29efc4fb6cc"
     },
     "scripts/events/events/scenario/rf_old_swordmaster_scenario_intro_event.json": {
         "id": 3176020,
@@ -14332,17 +14332,17 @@
         "filename": "",
         "format": "json",
         "total": 1,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2026-07-09T06:37:48.21Z",
         "updatedAt": "2026-07-09T08:36:24.76Z",
-        "modifiedAt": "2026-07-09T06:37:48.21Z",
+        "modifiedAt": "2026-07-13T01:13:19.238Z",
         "hash": "7a6ddaf340cff58850ed340c4c3adee0",
-        "sha256": "ff7b447d502749b75d2548b24cdcd26bcd7cbff3745226335620317d3bb6886a"
+        "sha256": "5747535ac07449c2ffb67a22611e207a6a65e931d2479d28f3d0bb5ec2976b8d"
     },
     "scripts/skills/special/rf_inspiring_presence_buff_effect.json": {
         "id": 3176375,

@@ -7636,7 +7636,7 @@
     "key": "Professional",
     "original": "Professional",
     "translation": "行家里手",
-    "stage": 1,
+    "stage": 5,
     "context": "'Professional'"
   },
   {

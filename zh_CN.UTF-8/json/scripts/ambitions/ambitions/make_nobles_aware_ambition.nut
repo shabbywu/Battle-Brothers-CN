@@ -52,7 +52,7 @@
     "key": "Reach 'Professional' renown",
     "original": "Reach 'Professional' renown",
     "translation": "达到“行家里手”名望",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = \"Reach 'Professional' renown\""
   },
   {
