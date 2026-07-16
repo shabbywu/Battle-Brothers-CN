@@ -45,6 +45,19 @@ func MarshalIndent(v any, prefix, indent string) ([]byte, error) {
 	return buf.Bytes(), nil
 }
 
+func hasMissingRemoteIDs(content []byte) (bool, error) {
+	entities := []models.Entity{}
+	if err := json.Unmarshal(content, &entities); err != nil {
+		return false, err
+	}
+	for _, entity := range entities {
+		if entity.ID == 0 {
+			return true, nil
+		}
+	}
+	return false, nil
+}
+
 func main() {
 	flag.Parse()
 	defer func() {
@@ -189,6 +202,16 @@ func syncProject(logger *log.Logger, projectID int, jsonBaseDir string) error {
 				digest := fmt.Sprintf("%x", sha256.Sum256(content))
 				if digest == localInfo.Sha256Sum {
 					if localInfo.ModifiedAt.Before(remoteInfo.ModifiedAt) || localInfo.Hash != remoteInfo.Hash {
+						if err := update(); err != nil {
+							return err
+						}
+						continue
+					}
+					missingIDs, err := hasMissingRemoteIDs(content)
+					if err != nil {
+						return errors.Wrapf(err, "检查文件 %s 词条 ID 失败", destFilename)
+					}
+					if missingIDs {
 						if err := update(); err != nil {
 							return err
 						}
