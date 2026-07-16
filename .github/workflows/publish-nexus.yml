@@ -229,7 +229,7 @@ jobs:
           file_id: ${{ vars.NEXUSMODS_FILE_ID }}
           filename: ${{ runner.temp }}/nexus-upload/${{ needs.package.outputs.archive_name }}
           version: ${{ needs.package.outputs.version }}
-          display_name: Battle-Brothers-CN 词条数据 ${{ needs.package.outputs.version }}
+          display_name: Battle-Brothers-CN data ${{ needs.package.outputs.version }}
           description: |
             供 bb-translator 离线初始化使用的 Battle-Brothers-CN 词条仓库。
             Source commit: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}
