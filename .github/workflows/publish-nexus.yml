@@ -1,0 +1,254 @@
+name: 发布词条数据到 Nexus Mods
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - localization.manifest.json
+      - "zh_CN.UTF-8/json/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    name: 打包并上传待审核构件
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      archive_name: ${{ steps.metadata.outputs.archive_name }}
+      archive_sha256: ${{ steps.verify.outputs.archive_sha256 }}
+      version: ${{ steps.metadata.outputs.version }}
+      short_sha: ${{ steps.metadata.outputs.short_sha }}
+    steps:
+      - name: Checkout translation data
+        # actions/checkout v7.0.0
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Validate manifest and prepare metadata
+        id: metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          jq -e '
+            .version >= 1 and
+            (.language | type == "string" and length > 0) and
+            (.components | type == "array" and length > 0) and
+            (.components | any(.id == "base" and .required == true)) and
+            (.components | all(.json_path | type == "string" and length > 0))
+          ' localization.manifest.json >/dev/null
+
+          repo_root="$(pwd -P)"
+          while IFS= read -r json_path; do
+            resolved_path="$(realpath -m -- "$json_path")"
+            case "$resolved_path" in
+              "$repo_root"/*) ;;
+              *)
+                echo "Manifest json_path escapes the repository: $json_path" >&2
+                exit 1
+                ;;
+            esac
+            if [[ ! -d "$json_path" ]]; then
+              echo "Manifest json_path does not exist: $json_path" >&2
+              exit 1
+            fi
+          done < <(jq -r '.components[].json_path' localization.manifest.json | sort -u)
+
+          short_sha="$(git rev-parse --short=12 "$GITHUB_SHA")"
+          version="$(date -u +%Y.%m.%d).${GITHUB_RUN_NUMBER}.${GITHUB_RUN_ATTEMPT}"
+          archive_name="Battle-Brothers-CN-${version}-${short_sha}.zip"
+          archive_path="${RUNNER_TEMP}/${archive_name}"
+
+          {
+            echo "short_sha=$short_sha"
+            echo "version=$version"
+            echo "archive_name=$archive_name"
+            echo "archive_path=$archive_path"
+          } >>"$GITHUB_OUTPUT"
+
+      - name: Build minimal bb-translator package
+        shell: bash
+        env:
+          ARCHIVE_PATH: ${{ steps.metadata.outputs.archive_path }}
+        run: |
+          set -euo pipefail
+
+          git remote set-url origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          if git config --local --get-regexp '^(http\..*\.extraheader|credential\.)' >/dev/null; then
+            echo "Refusing to package Git credentials" >&2
+            exit 1
+          fi
+
+          staging_root="${RUNNER_TEMP}/nexus-package"
+          package_root="${staging_root}/Battle-Brothers-CN"
+          mkdir -p "$package_root"
+          cp -a .git "$package_root/.git"
+          cp localization.manifest.json "$package_root/localization.manifest.json"
+
+          while IFS= read -r json_path; do
+            destination="$package_root/$json_path"
+            mkdir -p "$destination"
+            cp -a "$json_path/." "$destination/"
+          done < <(jq -r '.components[].json_path' localization.manifest.json | sort -u)
+
+          (
+            cd "$staging_root"
+            zip -qr "$ARCHIVE_PATH" Battle-Brothers-CN
+          )
+
+      - name: Verify package contents and Git metadata
+        id: verify
+        shell: bash
+        env:
+          ARCHIVE_PATH: ${{ steps.metadata.outputs.archive_path }}
+        run: |
+          set -euo pipefail
+
+          unzip -tq "$ARCHIVE_PATH"
+          extract_root="${RUNNER_TEMP}/nexus-package-smoke-test"
+          unzip -q "$ARCHIVE_PATH" -d "$extract_root"
+          package_root="${extract_root}/Battle-Brothers-CN"
+
+          mapfile -t top_level_entries < <(
+            find "$package_root" -mindepth 1 -maxdepth 1 -printf '%f\n' | sort
+          )
+          expected_entries=(.git localization.manifest.json zh_CN.UTF-8)
+          if [[ "${top_level_entries[*]}" != "${expected_entries[*]}" ]]; then
+            echo "Unexpected top-level package contents: ${top_level_entries[*]}" >&2
+            exit 1
+          fi
+
+          if [[ "$(git -C "$package_root" rev-parse HEAD)" != "$GITHUB_SHA" ]]; then
+            echo "Packaged Git HEAD does not match the workflow commit" >&2
+            exit 1
+          fi
+          if [[ "$(git -C "$package_root" remote get-url origin)" != "https://github.com/${GITHUB_REPOSITORY}.git" ]]; then
+            echo "Packaged Git remote is not the public repository URL" >&2
+            exit 1
+          fi
+          git -C "$package_root" fsck --no-progress
+
+          while IFS= read -r json_path; do
+            if [[ ! -d "$package_root/$json_path" ]]; then
+              echo "Packaged component path is missing: $json_path" >&2
+              exit 1
+            fi
+          done < <(jq -r '.components[].json_path' "$package_root/localization.manifest.json" | sort -u)
+
+          archive_sha256="$(sha256sum "$ARCHIVE_PATH" | awk '{print $1}')"
+          archive_size="$(stat -c '%s' "$ARCHIVE_PATH")"
+          {
+            echo "archive_sha256=$archive_sha256"
+            echo "archive_size=$archive_size"
+          } >>"$GITHUB_OUTPUT"
+
+      - name: Upload review artifact
+        id: artifact
+        # actions/upload-artifact v7
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
+        with:
+          path: ${{ steps.metadata.outputs.archive_path }}
+          archive: false
+          if-no-files-found: error
+          retention-days: 45
+
+      - name: Write package summary
+        shell: bash
+        env:
+          ARCHIVE_NAME: ${{ steps.metadata.outputs.archive_name }}
+          ARCHIVE_SHA256: ${{ steps.verify.outputs.archive_sha256 }}
+          ARCHIVE_SIZE: ${{ steps.verify.outputs.archive_size }}
+          ARTIFACT_URL: ${{ steps.artifact.outputs.artifact-url }}
+        run: |
+          {
+            echo "### Nexus Mods 待审核词条构件"
+            echo
+            echo "| 项目 | 值 |"
+            echo "| --- | --- |"
+            echo "| 源提交 | \`${GITHUB_SHA}\` |"
+            echo "| 文件 | \`${ARCHIVE_NAME}\` |"
+            echo "| 大小 | \`${ARCHIVE_SIZE}\` bytes |"
+            echo "| SHA-256 | \`${ARCHIVE_SHA256}\` |"
+            echo "| 下载 | [检查构件](${ARTIFACT_URL}) |"
+            echo
+            echo "构件仅包含 \`.git/\`、\`localization.manifest.json\` 和 manifest 声明的词条目录。"
+          } >>"$GITHUB_STEP_SUMMARY"
+
+  publish:
+    name: 审批后上传 Nexus Mods
+    needs: package
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: nexus
+      url: https://www.nexusmods.com/battlebrothers/mods/647?tab=files
+    concurrency:
+      group: nexus-battle-brothers-cn-data
+      cancel-in-progress: false
+    steps:
+      - name: Download approved artifact
+        # actions/download-artifact v8.0.1
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c
+        with:
+          name: ${{ needs.package.outputs.archive_name }}
+          path: ${{ runner.temp }}/nexus-upload
+          skip-decompress: true
+          digest-mismatch: error
+
+      - name: Verify approved artifact
+        shell: bash
+        env:
+          ARCHIVE_PATH: ${{ runner.temp }}/nexus-upload/${{ needs.package.outputs.archive_name }}
+          EXPECTED_SHA256: ${{ needs.package.outputs.archive_sha256 }}
+        run: |
+          set -euo pipefail
+
+          if [[ ! -f "$ARCHIVE_PATH" ]]; then
+            echo "Approved artifact is missing: $ARCHIVE_PATH" >&2
+            exit 1
+          fi
+          actual_sha256="$(sha256sum "$ARCHIVE_PATH" | awk '{print $1}')"
+          if [[ "$actual_sha256" != "$EXPECTED_SHA256" ]]; then
+            echo "Approved artifact checksum mismatch" >&2
+            exit 1
+          fi
+          unzip -tq "$ARCHIVE_PATH"
+
+      - name: Upload translation data to Nexus Mods
+        id: nexus_upload
+        # Nexus-Mods/upload-action v1.0.0-beta.8
+        uses: Nexus-Mods/upload-action@f6e1e2ea683dfe8f88cccf642c6e0e69ab66825e
+        with:
+          api_key: ${{ secrets.NEXUSMODS_API_KEY }}
+          file_id: ${{ vars.NEXUSMODS_FILE_ID }}
+          filename: ${{ runner.temp }}/nexus-upload/${{ needs.package.outputs.archive_name }}
+          version: ${{ needs.package.outputs.version }}
+          display_name: Battle-Brothers-CN 词条数据 ${{ needs.package.outputs.version }}
+          description: |
+            供 bb-translator 离线初始化使用的 Battle-Brothers-CN 词条仓库。
+            Source commit: ${{ github.server_url }}/${{ github.repository }}/commit/${{ github.sha }}
+            SHA-256: ${{ needs.package.outputs.archive_sha256 }}
+          category: optional
+          archive_existing_version: true
+          primary_mod_manager_download: false
+          allow_mod_manager_download: false
+          show_requirements_pop_up: false
+
+      - name: Write Nexus Mods summary
+        shell: bash
+        env:
+          VERSION_ID: ${{ steps.nexus_upload.outputs.version_id }}
+        run: |
+          {
+            echo "### Nexus Mods 上传完成"
+            echo
+            echo "- Version: \`${{ needs.package.outputs.version }}\`"
+            echo "- Version ID: \`${VERSION_ID}\`"
+            echo "- Source commit: [\`${GITHUB_SHA}\`](${{ github.server_url }}/${{ github.repository }}/commit/${GITHUB_SHA})"
+          } >>"$GITHUB_STEP_SUMMARY"
