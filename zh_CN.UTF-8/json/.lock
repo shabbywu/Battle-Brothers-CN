@@ -22522,15 +22522,15 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:37.318Z",
         "updatedAt": "2023-06-26T05:47:16.073Z",
-        "modifiedAt": "2023-06-26T05:47:16Z",
+        "modifiedAt": "2026-10-01T08:21:06.048Z",
         "hash": "92c56611558028de9d2b37387a7e935c",
-        "sha256": "d28d436939791445a923c25b48b715b4183b2144654e1164c287c755c04bf0f7"
+        "sha256": "9d33d204c027d37afe263a89e5bd80269ebc799ef6c123065f6427ab01023a36"
     },
     "scripts/entity/world/settlements/buildings/armorsmith_building.json": {
         "id": 918686,
@@ -22541,15 +22541,15 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:37.685Z",
         "updatedAt": "2023-06-26T05:47:16.129Z",
-        "modifiedAt": "2023-06-26T05:47:16Z",
+        "modifiedAt": "2026-10-01T08:26:10.567Z",
         "hash": "8af81805ddd40635de6b80800e278dc5",
-        "sha256": "726cc04c604ce7985272f850a223f728e71de4f53c4a32e526f00479c5cd68af"
+        "sha256": "f9a3f5578ebb7f38f9e97f839bb92f1f4ff04e2c1adc0e4e3781182ad748510b"
     },
     "scripts/entity/world/settlements/buildings/barber_building.json": {
         "id": 918687,
@@ -22560,15 +22560,15 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:38.028Z",
         "updatedAt": "2023-06-26T05:47:16.186Z",
-        "modifiedAt": "2023-06-26T05:47:16Z",
+        "modifiedAt": "2026-10-01T08:28:07.475Z",
         "hash": "d0a14f8e4e03d38832f2baf74181569a",
-        "sha256": "b226d85c633b5096760b899d6d8d900af7cc81384e5f4a33bd30d6d688814512"
+        "sha256": "636a18a2572c1bbd5500eecb96584245509dca8bd641d427809d9ac76f06299b"
     },
     "scripts/entity/world/settlements/buildings/crowd_building.json": {
         "id": 918688,
@@ -22598,15 +22598,15 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:38.731Z",
         "updatedAt": "2023-06-26T05:47:16.295Z",
-        "modifiedAt": "2023-06-26T05:47:16Z",
+        "modifiedAt": "2026-10-01T08:28:42.436Z",
         "hash": "cbce993b7fe76303d81b3677c9388a3a",
-        "sha256": "9f11a5f1665cd9cea3b0ad2e878c735f8e937f325fa4cc8427a0483bdd1034d6"
+        "sha256": "c45e920d0854cd988378fc160f5d1542abacd0cc6987ad3abfe766c3c733077f"
     },
     "scripts/entity/world/settlements/buildings/kennel_building.json": {
         "id": 918690,
@@ -51877,15 +51877,15 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:19.428Z",
         "updatedAt": "2023-06-26T05:49:24.699Z",
-        "modifiedAt": "2026-06-29T05:08:10.723Z",
+        "modifiedAt": "2026-10-01T08:35:51.242Z",
         "hash": "ae56306cad991560141cc4cd2ba66362",
-        "sha256": "28f28712c75d9381935281e623a760bbcf5e17d12d5c7549f100cfd8b8c46dd8"
+        "sha256": "e058ce549839850ede7fc41696f7833fcc5bba966edb3c610cf89cdaca4facd2"
     },
     "scripts/skills/backgrounds/brawler_background.json": {
         "id": 920163,
@@ -59027,9 +59027,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2026-06-25T17:01:04.537Z",
-        "modifiedAt": "2026-07-08T07:26:56.607Z",
+        "modifiedAt": "2026-10-01T08:27:34.06Z",
         "hash": "1b214a483b2f2f453bb56785ea2d4591",
-        "sha256": "d9f962c398e579ab2f065a30a119fb2e588dd3406de471c6a90945e49059a9fc"
+        "sha256": "545c3bdbde01b386bea15bf8450a21e182eada953bf0be1b4446d310a5da403b"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
@@ -59103,9 +59103,9 @@
         "locked": 2,
         "createdAt": "2023-05-13T14:33:08.994Z",
         "updatedAt": "2023-07-05T12:36:11.252Z",
-        "modifiedAt": "2025-11-10T03:05:35Z",
+        "modifiedAt": "2026-10-01T08:28:15.289Z",
         "hash": "5024b8fbfc924de91f925e067bd02ac6",
-        "sha256": "4e205c3399d2612fdc25ac17484c9448e4680eccc364a50081af709f56a6c6d4"
+        "sha256": "d86d6397a1d24a6be95577725162912b75d9d2b8c7d1792414267c79201b4875"
     },
     "scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.json": {
         "id": 920536,

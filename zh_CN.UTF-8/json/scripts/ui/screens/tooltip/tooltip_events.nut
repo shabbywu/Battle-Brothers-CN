@@ -2379,7 +2379,7 @@
     "ID": 293423250,
     "key": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
     "original": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
-    "translation": "这间盔甲店是寻找制作精良、经久耐用的防护用品的理想场所。损坏的装备也可以在这里修好，给钱就行。",
+    "translation": "盔甲店出售做工精良、结实耐用的护具。受损装备也可在此付费修理。",
     "stage": 5,
     "context": "text = \"This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.\""
   },
