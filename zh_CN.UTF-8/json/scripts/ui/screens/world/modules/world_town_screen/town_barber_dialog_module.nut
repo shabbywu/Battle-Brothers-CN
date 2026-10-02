@@ -11,7 +11,7 @@
     "ID": 293423404,
     "key": "Customize the appearance of your men at the barber",
     "original": "Customize the appearance of your men at the barber",
-    "translation": "理发店用于自定义队员外观",
+    "translation": "理发店可自定义队员外观",
     "stage": 5,
     "context": "SubTitle = 'Customize the appearance of your men at the barber'"
   },
